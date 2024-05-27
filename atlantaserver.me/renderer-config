@@ -1,7 +1,7 @@
 ﻿{
-    "asset.url": "https://assets.atlantaserver.me/nitro",
-    "image.library.url": "https://assets.atlantaserver.me/c_images/",
-    "hof.furni.url": "https://assets.atlantaserver.me/dcr/hof_furni",
+    "asset.url": "https://cdn.atlantaserver.me/nitro",
+    "image.library.url": "https://cdn.atlantaserver.me/c_images/",
+    "hof.furni.url": "https://cdn.atlantaserver.me/dcr/hof_furni",
     "images.url": "${asset.url}/images",
     "gamedata.url": "${asset.url}/gamedata",
     "sounds.url": "${asset.url}/sounds/%sample%.mp3",
