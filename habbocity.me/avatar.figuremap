@@ -1,6 +1,66 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_F_megaoversizedtshirt",
+      "revision": 180258,
+      "parts": [
+        {
+          "id": 180258,
+          "type": "cc"
+        },
+        {
+          "id": 180258,
+          "type": "lc"
+        },
+        {
+          "id": 180258,
+          "type": "rc"
+        },
+        {
+          "id": 180259,
+          "type": "cc"
+        },
+        {
+          "id": 180259,
+          "type": "lc"
+        },
+        {
+          "id": 180259,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_megaoversizedtshirt",
+      "revision": 180256,
+      "parts": [
+        {
+          "id": 180256,
+          "type": "cc"
+        },
+        {
+          "id": 180256,
+          "type": "lc"
+        },
+        {
+          "id": 180256,
+          "type": "rc"
+        },
+        {
+          "id": 180257,
+          "type": "cc"
+        },
+        {
+          "id": 180257,
+          "type": "lc"
+        },
+        {
+          "id": 180257,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "hair_U_axeiedolowtaper",
       "revision": 180252,
       "parts": [
