@@ -12133,24 +12133,6 @@
       ]
     },
     {
-      "id": "trousers_U_adidaspants",
-      "revision": 561282,
-      "parts": [
-        {
-          "id": 7975,
-          "type": "lg"
-        },
-        {
-          "id": 7976,
-          "type": "lg"
-        },
-        {
-          "id": 7977,
-          "type": "lg"
-        }
-      ]
-    },
-    {
       "id": "jacket_U_waistcoatsuit",
       "revision": 4856282,
       "parts": [
@@ -15947,16 +15929,6 @@
         {
           "id": 2482,
           "type": "hr"
-        }
-      ]
-    },
-    {
-      "id": "acc_face_U_blush",
-      "revision": 220214,
-      "parts": [
-        {
-          "id": 2473,
-          "type": "fa"
         }
       ]
     },
@@ -22645,34 +22617,6 @@
       ]
     },
     {
-      "id": "shoes_U_meowtfitter",
-      "revision": 990002146,
-      "parts": [
-        {
-          "id": 257562,
-          "type": "sh"
-        },
-        {
-          "id": 257663,
-          "type": "sh"
-        }
-      ]
-    },
-    {
-      "id": "hat_M_miterglous",
-      "revision": 990002147,
-      "parts": [
-        {
-          "id": 19900002,
-          "type": "ha"
-        },
-        {
-          "id": 19900003,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "trousers_M_baiana",
       "revision": 990002148,
       "parts": [
@@ -24469,20 +24413,6 @@
       ]
     },
     {
-      "id": "hair_U_axeiedosukunahair",
-      "revision": 990002280,
-      "parts": [
-        {
-          "id": 174193,
-          "type": "hr"
-        },
-        {
-          "id": 174194,
-          "type": "hr"
-        }
-      ]
-    },
-    {
       "id": "acc_eye_U_MLrouge1",
       "revision": 990002281,
       "parts": [
@@ -24677,50 +24607,6 @@
         {
           "id": 174126,
           "type": "hrb"
-        }
-      ]
-    },
-    {
-      "id": "jacket_U_ciborgarm1",
-      "revision": 990002296,
-      "parts": [
-        {
-          "id": 109274,
-          "type": "cc"
-        },
-        {
-          "id": 109274,
-          "type": "lc"
-        },
-        {
-          "id": 109274,
-          "type": "rc"
-        }
-      ]
-    },
-    {
-      "id": "jacket_U_cyborgarm2",
-      "revision": 990002297,
-      "parts": [
-        {
-          "id": 109275,
-          "type": "cc"
-        },
-        {
-          "id": 109275,
-          "type": "lc"
-        },
-        {
-          "id": 109275,
-          "type": "rc"
-        },
-        {
-          "id": 209275,
-          "type": "lc"
-        },
-        {
-          "id": 209275,
-          "type": "rc"
         }
       ]
     },
@@ -26987,16 +26873,6 @@
       ]
     },
     {
-      "id": "hat_U_hoodedmask",
-      "revision": 990002453,
-      "parts": [
-        {
-          "id": 174276,
-          "type": "hr"
-        }
-      ]
-    },
-    {
       "id": "shirt_M_portugaltime",
       "revision": 990002454,
       "parts": [
@@ -28453,20 +28329,6 @@
       ]
     },
     {
-      "id": "hair_U_axeiedodicapriohair",
-      "revision": 990002542,
-      "parts": [
-        {
-          "id": 180081,
-          "type": "hr"
-        },
-        {
-          "id": 180082,
-          "type": "hr"
-        }
-      ]
-    },
-    {
       "id": "acc_eye_U_axeiedovisionpro",
       "revision": 990002543,
       "parts": [
@@ -28709,13 +28571,9 @@
       ]
     },
     {
-      "id": "shirt_U_nftspacesuit",
+      "id": "shirt_U_nftspacesuitFIX",
       "revision": 990002558,
       "parts": [
-        {
-          "id": 180115,
-          "type": "ch"
-        },
         {
           "id": 180116,
           "type": "ch"
@@ -28730,7 +28588,23 @@
         },
         {
           "id": 180117,
+          "type": "ls"
+        },
+        {
+          "id": 180117,
+          "type": "rs"
+        },
+        {
+          "id": 180119,
           "type": "ch"
+        },
+        {
+          "id": 180119,
+          "type": "ls"
+        },
+        {
+          "id": 180119,
+          "type": "rs"
         }
       ]
     },
@@ -28923,20 +28797,6 @@
         {
           "id": 5603,
           "type": "lg"
-        }
-      ]
-    },
-    {
-      "id": "acc_head_U_axeiedomecheskishibe",
-      "revision": 990002569,
-      "parts": [
-        {
-          "id": 180033,
-          "type": "he"
-        },
-        {
-          "id": 180034,
-          "type": "he"
         }
       ]
     },
@@ -29189,16 +29049,6 @@
         {
           "id": 6239,
           "type": "ea"
-        }
-      ]
-    },
-    {
-      "id": "shirt_U_blusinhay2k",
-      "revision": 990002584,
-      "parts": [
-        {
-          "id": 85868183,
-          "type": "ch"
         }
       ]
     },
@@ -29649,20 +29499,6 @@
         {
           "id": 180154,
           "type": "rs"
-        }
-      ]
-    },
-    {
-      "id": "hair_U_FairySakurahair",
-      "revision": 990002620,
-      "parts": [
-        {
-          "id": 203895,
-          "type": "hr"
-        },
-        {
-          "id": 203896,
-          "type": "hr"
         }
       ]
     },
@@ -34287,20 +34123,6 @@
         {
           "id": 9992,
           "type": "cp"
-        }
-      ]
-    },
-    {
-      "id": "acc_waist_U_katana",
-      "revision": 907504,
-      "parts": [
-        {
-          "id": 9004,
-          "type": "wa"
-        },
-        {
-          "id": 9005,
-          "type": "wa"
         }
       ]
     },
@@ -44591,16 +44413,6 @@
       ]
     },
     {
-      "id": "acc_face_U_squidmask1",
-      "revision": 990000847,
-      "parts": [
-        {
-          "id": 5223565,
-          "type": "fa"
-        }
-      ]
-    },
-    {
       "id": "hair_F_lbuns",
       "revision": 990000848,
       "parts": [
@@ -53823,16 +53635,6 @@
       ]
     },
     {
-      "id": "hat_U_stpatricks",
-      "revision": 990001427,
-      "parts": [
-        {
-          "id": 19992,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "shoes_U_nftxmasshoes",
       "revision": 990001428,
       "parts": [
@@ -58319,16 +58121,6 @@
         {
           "id": 85868191,
           "type": "ch"
-        }
-      ]
-    },
-    {
-      "id": "trousers_M_jeansba",
-      "revision": 990001723,
-      "parts": [
-        {
-          "id": 85868189,
-          "type": "lg"
         }
       ]
     },
