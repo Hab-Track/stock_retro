@@ -1,6 +1,346 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_toninomattclan",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6543212,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_toninomattcolsangue",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 43525666,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_toninomattgaara",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 55322111,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_toninomattnarutoball",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5521117,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_toninomattspadanaru",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6631111,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_toninomattspadenaru",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5564322,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_toninomattbigmomhat",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 432222111,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_toninomattpallaneve",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 7654099,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_toninomattchopper",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5433366,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_toninomattyugioh",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 543211158,
+          "type": "ha"
+        },
+        {
+          "id": 543211159,
+          "type": "ha"
+        },
+        {
+          "id": 543211160,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tvcabezadeagua",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000540,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tvcabezadeaire",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000544,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tvcabezadetierra",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000548,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_osopeluche",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000535,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_toninomattbabysleep",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6544456,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tvcuerpodeagua",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000541,
+          "type": "cc"
+        },
+        {
+          "id": 10000542,
+          "type": "lc"
+        },
+        {
+          "id": 10000542,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tvcuerpodeaire",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000545,
+          "type": "cc"
+        },
+        {
+          "id": 10000546,
+          "type": "lc"
+        },
+        {
+          "id": 10000546,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tvcuerpodetierra",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000549,
+          "type": "cc"
+        },
+        {
+          "id": 10000550,
+          "type": "lc"
+        },
+        {
+          "id": 10000550,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_toninomattcolcuore",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 4918194,
+          "type": "ch"
+        },
+        {
+          "id": 4918194,
+          "type": "ls"
+        },
+        {
+          "id": 4918194,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_toninomattdoppia",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 4456666,
+          "type": "ch"
+        },
+        {
+          "id": 4456666,
+          "type": "ls"
+        },
+        {
+          "id": 4456666,
+          "type": "rs"
+        },
+        {
+          "id": 4456667,
+          "type": "ch"
+        },
+        {
+          "id": 4456667,
+          "type": "ls"
+        },
+        {
+          "id": 4456667,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_toninomattmagliocco",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 66777799,
+          "type": "ch"
+        },
+        {
+          "id": 66777799,
+          "type": "ls"
+        },
+        {
+          "id": 66777799,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_nftunicornslippers1",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5150,
+          "type": "sh"
+        },
+        {
+          "id": 5151,
+          "type": "sh"
+        },
+        {
+          "id": 5152,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_trousersoprova",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 30000177,
+          "type": "lg"
+        },
+        {
+          "id": 30000178,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tvpiernasdeagua",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000543,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tvpiernasdeaire",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000547,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tvpiesdetierra",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000551,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_digipetbackpack",
       "revision": 7,
       "parts": [
