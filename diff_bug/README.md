@@ -1,6 +1,6 @@
 # What happen
 
-Using the [differ in python](https://docs.python.org/3/library/difflib.html) the result in is different than using others differ
+Using the [differ in python](https://docs.python.org/3/library/difflib.html) the result is different than using others differ
 
 Like the one from github: https://github.com/Hab-Track/stock_retro/commit/261ef9002c5966f4e7a0ee86a530ab81f7ecdbb7, you can try using other differ, personnally i get the same result as github
 
