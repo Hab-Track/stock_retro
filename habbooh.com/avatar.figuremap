@@ -1,6 +1,340 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_tvcangurera2k",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000560,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tvmochilatoad",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000566,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tvzorro9colas",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000571,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_LadyDiNeckless1",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 1730052024,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_LadyDiNecklace2",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 1830052024,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_axeiedoshirtcollar",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 180215,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_axeiedoSeongMeches",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 180213,
+          "type": "he"
+        },
+        {
+          "id": 180214,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tvbufanda2k",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000555,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tvcuellotortuga",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000564,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tvmaldicionsasuke",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000565,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_axeiedolowtaper",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 180252,
+          "type": "hr"
+        },
+        {
+          "id": 180252,
+          "type": "hrb"
+        },
+        {
+          "id": 180253,
+          "type": "hr"
+        },
+        {
+          "id": 180253,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bxvii",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 100000002,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tvbandanakakashi",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000552,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tvbandananaruto",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000553,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tvbandanasakura",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000554,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tvchaquetacuero2k",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000562,
+          "type": "cc"
+        },
+        {
+          "id": 10000563,
+          "type": "lc"
+        },
+        {
+          "id": 10000563,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tvpetojardinero",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000567,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tvcamisetaoversize",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000556,
+          "type": "ch"
+        },
+        {
+          "id": 10000557,
+          "type": "ls"
+        },
+        {
+          "id": 10000557,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tvcamisetaremangada",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000558,
+          "type": "ch"
+        },
+        {
+          "id": 10000559,
+          "type": "ls"
+        },
+        {
+          "id": 10000559,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_axeionetshirt",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 180250,
+          "type": "ch"
+        },
+        {
+          "id": 180250,
+          "type": "ls"
+        },
+        {
+          "id": 180250,
+          "type": "rs"
+        },
+        {
+          "id": 180251,
+          "type": "ch"
+        },
+        {
+          "id": 180251,
+          "type": "ls"
+        },
+        {
+          "id": 180251,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_axeionetshirt",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 180248,
+          "type": "ch"
+        },
+        {
+          "id": 180248,
+          "type": "ls"
+        },
+        {
+          "id": 180248,
+          "type": "rs"
+        },
+        {
+          "id": 180249,
+          "type": "ch"
+        },
+        {
+          "id": 180249,
+          "type": "ls"
+        },
+        {
+          "id": 180249,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_rk1tetas1",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 70007,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tvcargoaltos",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000561,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tvpetojardinero2",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000568,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tvshortsnike",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000569,
+          "type": "lg"
+        },
+        {
+          "id": 10000570,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_toninomattclan",
       "revision": 7,
       "parts": [
