@@ -38,6 +38,7 @@
   "system.pong.manually": true,
   "system.pong.interval.ms": 20000,
   "room.landscapes.enabled": true,
+  "guides.enabled": true,
   "room.color.skip.transition": true,
   "avatar.mandatory.libraries": [
     "bd:1",
