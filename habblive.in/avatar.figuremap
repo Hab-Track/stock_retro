@@ -30801,20 +30801,6 @@
       ]
     },
     {
-      "id": "acc_eye_U_theoneshades",
-      "revision": 990002715,
-      "parts": [
-        {
-          "id": 5659,
-          "type": "ea"
-        },
-        {
-          "id": 5660,
-          "type": "ea"
-        }
-      ]
-    },
-    {
       "id": "acc_chest_U_digipetnecklace",
       "revision": 990002716,
       "parts": [
@@ -32589,6 +32575,254 @@
         {
           "id": 180180,
           "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tvbandanakakashi",
+      "revision": 990002755,
+      "parts": [
+        {
+          "id": 10000552,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tvbandananaruto",
+      "revision": 990002756,
+      "parts": [
+        {
+          "id": 10000553,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tvbandanasakura",
+      "revision": 990002757,
+      "parts": [
+        {
+          "id": 10000554,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tvbufanda2k",
+      "revision": 990002758,
+      "parts": [
+        {
+          "id": 10000555,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tvcamisetaoversize",
+      "revision": 990002759,
+      "parts": [
+        {
+          "id": 10000556,
+          "type": "ch"
+        },
+        {
+          "id": 10000557,
+          "type": "ls"
+        },
+        {
+          "id": 10000557,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tvcamisetaremangada",
+      "revision": 990002760,
+      "parts": [
+        {
+          "id": 10000558,
+          "type": "ch"
+        },
+        {
+          "id": 10000559,
+          "type": "ls"
+        },
+        {
+          "id": 10000559,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tvcangurera2k",
+      "revision": 990002761,
+      "parts": [
+        {
+          "id": 10000560,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tvcargoaltos",
+      "revision": 990002762,
+      "parts": [
+        {
+          "id": 10000561,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tvchaquetacuero2k",
+      "revision": 990002763,
+      "parts": [
+        {
+          "id": 10000562,
+          "type": "cc"
+        },
+        {
+          "id": 10000563,
+          "type": "lc"
+        },
+        {
+          "id": 10000563,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tvcuellotortuga",
+      "revision": 990002764,
+      "parts": [
+        {
+          "id": 10000564,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tvmaldicionsasuke",
+      "revision": 990002765,
+      "parts": [
+        {
+          "id": 10000565,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tvmochilatoad",
+      "revision": 990002766,
+      "parts": [
+        {
+          "id": 10000566,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tvpetojardinero",
+      "revision": 990002767,
+      "parts": [
+        {
+          "id": 10000567,
+          "type": "cc"
+        },
+        {
+          "id": 10000567,
+          "type": "lc"
+        },
+        {
+          "id": 10000567,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tvpetojardinero2",
+      "revision": 990002768,
+      "parts": [
+        {
+          "id": 10000568,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tvshortsnike",
+      "revision": 990002769,
+      "parts": [
+        {
+          "id": 10000569,
+          "type": "lg"
+        },
+        {
+          "id": 10000570,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tvzorro9colas",
+      "revision": 990002770,
+      "parts": [
+        {
+          "id": 10000571,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_cinderellashoes",
+      "revision": 990002771,
+      "parts": [
+        {
+          "id": 5796,
+          "type": "sh"
+        },
+        {
+          "id": 5797,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_axeiedokuroro",
+      "revision": 990002772,
+      "parts": [
+        {
+          "id": 173899,
+          "type": "fa"
+        },
+        {
+          "id": 173900,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_Chucky",
+      "revision": 990002774,
+      "parts": [
+        {
+          "id": 173947,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_Ghost",
+      "revision": 990002776,
+      "parts": [
+        {
+          "id": 173945,
+          "type": "hr"
+        },
+        {
+          "id": 173946,
+          "type": "hr"
         }
       ]
     },
