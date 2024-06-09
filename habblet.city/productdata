@@ -2,23 +2,83 @@
   "productdata": {
     "product": [
       {
+        "code": "Habblet_BBJ_12",
+        "name": "Habblet_BBJ_12",
+        "description": ""
+      },
+      {
+        "code": "Habblet_BBJ_11",
+        "name": "Habblet_BBJ_11",
+        "description": ""
+      },
+      {
+        "code": "Habblet_BBJ_10",
+        "name": "Habblet_BBJ_10",
+        "description": ""
+      },
+      {
+        "code": "Habblet_BBJ_09",
+        "name": "Habblet_BBJ_09",
+        "description": ""
+      },
+      {
+        "code": "Habblet_BBJ_08",
+        "name": "Habblet_BBJ_08",
+        "description": ""
+      },
+      {
+        "code": "Habblet_BBJ_07",
+        "name": "Habblet_BBJ_07",
+        "description": ""
+      },
+      {
+        "code": "Habblet_BBJ_06",
+        "name": "Habblet_BBJ_06",
+        "description": ""
+      },
+      {
+        "code": "Habblet_BBJ_05",
+        "name": "Habblet_BBJ_05",
+        "description": ""
+      },
+      {
+        "code": "Habblet_BBJ_04",
+        "name": "Habblet_BBJ_04",
+        "description": ""
+      },
+      {
+        "code": "Habblet_BBJ_03",
+        "name": "Habblet_BBJ_03",
+        "description": ""
+      },
+      {
+        "code": "Habblet_BBJ_02",
+        "name": "Habblet_BBJ_02",
+        "description": ""
+      },
+      {
+        "code": "Habblet_BBJ_01",
+        "name": "Habblet_BBJ_01",
+        "description": ""
+      },
+      {
         "code": "prideflagnonbinary",
-        "name": "prideflagnonbinary",
+        "name": "Bandeira N\u00e3o-Bin\u00e1rie",
         "description": ""
       },
       {
         "code": "prideflagaromantic",
-        "name": "prideflagaromantic",
+        "name": "Bandeira Arromanticidade",
         "description": ""
       },
       {
         "code": "prideflaglesbian",
-        "name": "prideflaglesbian",
+        "name": "Bandeira L\u00e9sbica",
         "description": ""
       },
       {
         "code": "prideflaggay",
-        "name": "prideflaggay",
+        "name": "Bandeira Gay",
         "description": ""
       },
       {
@@ -28,27 +88,27 @@
       },
       {
         "code": "prideflagtrans",
-        "name": "prideflagtrans",
+        "name": "Bandeira Transexual",
         "description": ""
       },
       {
         "code": "prideflaginclusive",
-        "name": "prideflaginclusive",
+        "name": "Bandeira do Orgulho LGBTQIAP+",
         "description": ""
       },
       {
         "code": "prideflagasexual",
-        "name": "prideflagasexual",
+        "name": "Bandeira Assexual",
         "description": ""
       },
       {
         "code": "prideflagrainbow",
-        "name": "prideflagrainbow",
+        "name": "Bandeira Arco-\u00edris",
         "description": ""
       },
       {
         "code": "prideflagbisexual",
-        "name": "prideflagbisexual",
+        "name": "Bandeira Bissexual",
         "description": ""
       },
       {
@@ -118993,12 +119053,12 @@
       },
       {
         "code": "wf_act_bot_give_handitem",
-        "name": "EFEITO WIRED: Bot Dar Bebida",
+        "name": "EFEITO WIRED: Bot d\u00e1 item de m\u00e3o",
         "description": "Faz com que o Bot entregue uma bebida que voc\u00ea escolher."
       },
       {
         "code": "wf_cnd_has_handitem",
-        "name": "CONDI\u00c7\u00c3O WIRED: Tem a Bebida",
+        "name": "CONDI\u00c7\u00c3O WIRED: Habblet tem item de m\u00e3o",
         "description": "Verifica se o usu\u00e1rio est\u00e1 segurando a bebida da Condi\u00e7\u00e3o."
       },
       {
