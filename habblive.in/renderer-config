@@ -11,8 +11,8 @@
     "${gamedata.url}/UITexts_V3.json"
   ],
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
-  "furnidata.url": "${gamedata.url}/FurnitureData_6_4_2024.json",
-  "productdata.url": "${gamedata.url}/ProductData_6_4_2024.json",
+  "furnidata.url": "${gamedata.url}/FurnitureData.json?54",
+  "productdata.url": "${gamedata.url}/ProductData_6_17_2024.json?54",
   "avatar.actions.url": "${gamedata.url}/HabboAvatarActions.json",
   "avatar.figuredata.url": "${gamedata.url}/FigureData.json?46434",
   "avatar.figuremap.url": "${gamedata.url}/FigureMap.json?4344",
