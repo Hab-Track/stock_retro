@@ -7,7 +7,7 @@
   "gamedata.url": "${asset.url}/gamedata_live_V2",
   "sounds.url": "${asset.url}/sounds/%sample%.mp3",
   "external.texts.url": [
-    "${gamedata.url}/textos/ExternalTexts.json?5533",
+    "${gamedata.url}/textos/ExternalTexts_6_18_2024.json?5533",
     "${gamedata.url}/UITexts_V3.json"
   ],
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
