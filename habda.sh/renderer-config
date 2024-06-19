@@ -11,11 +11,11 @@
     "${gamedata.url}/UITexts.json?10"
   ],
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
-  "furnidata.url": "${gamedata.url}/FurnitureData.json?408",
+  "furnidata.url": "${gamedata.url}/FurnitureData.json?409",
   "productdata.url": "${gamedata.url}/ProductData.json",
   "avatar.actions.url": "${gamedata.url}/HabboAvatarActions.json",
-  "avatar.figuredata.url": "${gamedata.url}/FigureData.json?2",
-  "avatar.figuremap.url": "${gamedata.url}/FigureMap.json?2",
+  "avatar.figuredata.url": "${gamedata.url}/FigureData.json?3",
+  "avatar.figuremap.url": "${gamedata.url}/FigureMap.json?3",
   "avatar.effectmap.url": "${gamedata.url}/EffectMap.json",
   "avatar.asset.url": "${asset.url}/bundled/figure/%libname%.nitro",
   "avatar.asset.effect.url": "${asset.url}/bundled/effect/%libname%.nitro",
@@ -128307,5 +128307,5 @@
     "${images.url}/clear_icon.png",
     "${images.url}/big_arrow.png"
   ],
-  "version": 408
+  "version": 409
 }
