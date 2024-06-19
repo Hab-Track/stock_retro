@@ -1,6 +1,82 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_nftshiba1",
+      "revision": 71609,
+      "parts": [
+        {
+          "id": 5727,
+          "type": "cc"
+        },
+        {
+          "id": 5727,
+          "type": "lc"
+        },
+        {
+          "id": 5727,
+          "type": "rc"
+        },
+        {
+          "id": 5728,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftshiba2",
+      "revision": 71608,
+      "parts": [
+        {
+          "id": 5729,
+          "type": "cc"
+        },
+        {
+          "id": 5729,
+          "type": "lc"
+        },
+        {
+          "id": 5729,
+          "type": "rc"
+        },
+        {
+          "id": 5730,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftshiba3",
+      "revision": 71609,
+      "parts": [
+        {
+          "id": 5731,
+          "type": "cc"
+        },
+        {
+          "id": 5731,
+          "type": "lc"
+        },
+        {
+          "id": 5731,
+          "type": "rc"
+        },
+        {
+          "id": 5732,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftpurse",
+      "revision": 71645,
+      "parts": [
+        {
+          "id": 5737,
+          "type": "ca"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_nftconsole",
       "revision": 71646,
       "parts": [
