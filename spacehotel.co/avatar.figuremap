@@ -1,6 +1,104 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_nftbeebackpack",
+      "revision": 71506,
+      "parts": [
+        {
+          "id": 5658,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_nftgraffititanktop",
+      "revision": 71519,
+      "parts": [
+        {
+          "id": 5679,
+          "type": "ch"
+        },
+        {
+          "id": 5679,
+          "type": "ls"
+        },
+        {
+          "id": 5679,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_nftgraffititanktop",
+      "revision": 71519,
+      "parts": [
+        {
+          "id": 5678,
+          "type": "ch"
+        },
+        {
+          "id": 5678,
+          "type": "ls"
+        },
+        {
+          "id": 5678,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftstreetboy",
+      "revision": 71542,
+      "parts": [
+        {
+          "id": 5685,
+          "type": "hr"
+        },
+        {
+          "id": 5685,
+          "type": "hrb"
+        },
+        {
+          "id": 5686,
+          "type": "hr"
+        },
+        {
+          "id": 5687,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_nftberryshades1",
+      "revision": 71608,
+      "parts": [
+        {
+          "id": 5733,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_nftberryshades2",
+      "revision": 71608,
+      "parts": [
+        {
+          "id": 5734,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_nftberryshades3",
+      "revision": 71608,
+      "parts": [
+        {
+          "id": 5735,
+          "type": "ea"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_nftshiba1",
       "revision": 71609,
       "parts": [
