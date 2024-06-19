@@ -1,6 +1,78 @@
 ﻿{
   "libraries": [
     {
+      "id": "trousers_U_pantalonesbaggy",
+      "revision": 180269,
+      "parts": [
+        {
+          "id": 10000404,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_pantalonduende",
+      "revision": 180268,
+      "parts": [
+        {
+          "id": 10000372,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_topcadenas",
+      "revision": 180267,
+      "parts": [
+        {
+          "id": 10000227,
+          "type": "ch"
+        },
+        {
+          "id": 10000228,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_miubodychain",
+      "revision": 180266,
+      "parts": [
+        {
+          "id": 2147483647,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_crosstype2",
+      "revision": 180265,
+      "parts": [
+        {
+          "id": 111111111,
+          "type": "ca"
+        },
+        {
+          "id": 222222222,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_punkhat",
+      "revision": 180264,
+      "parts": [
+        {
+          "id": 3351,
+          "type": "ha"
+        },
+        {
+          "id": 3352,
+          "type": "ha"
+        }
+      ]
+    },
+    {
       "id": "hair_U_axeiedowolfcut",
       "revision": 180261,
       "parts": [
