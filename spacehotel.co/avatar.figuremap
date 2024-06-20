@@ -1,6 +1,132 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_eye_U_sb_visor",
+      "revision": 71442,
+      "parts": [
+        {
+          "id": 5647,
+          "type": "ea"
+        },
+        {
+          "id": 5648,
+          "type": "ea"
+        },
+        {
+          "id": 5649,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_sb_raygun",
+      "revision": 11243,
+      "parts": [
+        {
+          "id": 5644,
+          "type": "rc"
+        },
+        {
+          "id": 5644,
+          "type": "lc"
+        },
+        {
+          "id": 5645,
+          "type": "rc"
+        },
+        {
+          "id": 5646,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_sb_rangerjacket",
+      "revision": 11242,
+      "parts": [
+        {
+          "id": 5654,
+          "type": "cc"
+        },
+        {
+          "id": 5654,
+          "type": "lc"
+        },
+        {
+          "id": 5654,
+          "type": "rc"
+        },
+        {
+          "id": 5655,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_sb_rangerjacket",
+      "revision": 11241,
+      "parts": [
+        {
+          "id": 5652,
+          "type": "cc"
+        },
+        {
+          "id": 5652,
+          "type": "lc"
+        },
+        {
+          "id": 5652,
+          "type": "rc"
+        },
+        {
+          "id": 5653,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_sb_rocketpack",
+      "revision": 71442,
+      "parts": [
+        {
+          "id": 5650,
+          "type": "ca"
+        },
+        {
+          "id": 5651,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_sb_boosters",
+      "revision": 71442,
+      "parts": [
+        {
+          "id": 5642,
+          "type": "sh"
+        },
+        {
+          "id": 5643,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftsnowboard",
+      "revision": 11268,
+      "parts": [
+        {
+          "id": 5656,
+          "type": "ca"
+        },
+        {
+          "id": 5657,
+          "type": "ca"
+        }
+      ]
+    },
+    {
       "id": "hat_U_nftqueenbee",
       "revision": 71517,
       "parts": [
@@ -11551,20 +11677,6 @@
       ]
     },
     {
-      "id": "acc_chest_U_nftsnowboard",
-      "revision": 11268,
-      "parts": [
-        {
-          "id": 5656,
-          "type": "ca"
-        },
-        {
-          "id": 5657,
-          "type": "ca"
-        }
-      ]
-    },
-    {
       "id": "hair_U_habkokohair15",
       "revision": 11267,
       "parts": [
@@ -11769,105 +11881,11 @@
       ]
     },
     {
-      "id": "acc_chest_U_sb_rocketpack",
-      "revision": 11244,
-      "parts": [
-        {
-          "id": 5650,
-          "type": "ca"
-        },
-        {
-          "id": 5651,
-          "type": "ca"
-        }
-      ]
-    },
-    {
-      "id": "jacket_U_sb_raygun",
-      "revision": 11243,
-      "parts": [
-        {
-          "id": 5644,
-          "type": "rc"
-        },
-        {
-          "id": 5644,
-          "type": "lc"
-        },
-        {
-          "id": 5645,
-          "type": "rc"
-        },
-        {
-          "id": 5646,
-          "type": "rc"
-        }
-      ]
-    },
-    {
-      "id": "jacket_F_sb_rangerjacket",
-      "revision": 11242,
-      "parts": [
-        {
-          "id": 5654,
-          "type": "cc"
-        },
-        {
-          "id": 5654,
-          "type": "lc"
-        },
-        {
-          "id": 5654,
-          "type": "rc"
-        },
-        {
-          "id": 5655,
-          "type": "cc"
-        }
-      ]
-    },
-    {
-      "id": "jacket_M_sb_rangerjacket",
-      "revision": 11241,
-      "parts": [
-        {
-          "id": 5652,
-          "type": "cc"
-        },
-        {
-          "id": 5652,
-          "type": "lc"
-        },
-        {
-          "id": 5652,
-          "type": "rc"
-        },
-        {
-          "id": 5653,
-          "type": "cc"
-        }
-      ]
-    },
-    {
       "id": "shoes_U_NFLsocks",
       "revision": 11249,
       "parts": [
         {
           "id": 1624,
-          "type": "sh"
-        }
-      ]
-    },
-    {
-      "id": "shoes_U_sb_boosters",
-      "revision": 11245,
-      "parts": [
-        {
-          "id": 5642,
-          "type": "sh"
-        },
-        {
-          "id": 5643,
           "type": "sh"
         }
       ]
