@@ -1,6 +1,238 @@
 ﻿{
   "libraries": [
     {
+      "id": "hat_U_nftstrawberrycap",
+      "revision": 34234618,
+      "parts": [
+        {
+          "id": 5591,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftraspberrycap",
+      "revision": 34234616,
+      "parts": [
+        {
+          "id": 5589,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_nftstrawberryshoes",
+      "revision": 34234624,
+      "parts": [
+        {
+          "id": 5597,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_nftraspberryshirt",
+      "revision": 34234608,
+      "parts": [
+        {
+          "id": 5581,
+          "type": "ch"
+        },
+        {
+          "id": 5581,
+          "type": "ls"
+        },
+        {
+          "id": 5581,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_nftstrawberryshirt",
+      "revision": 34234609,
+      "parts": [
+        {
+          "id": 55800,
+          "type": "ch"
+        },
+        {
+          "id": 55800,
+          "type": "ls"
+        },
+        {
+          "id": 55800,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftblueberrybag",
+      "revision": 34234620,
+      "parts": [
+        {
+          "id": 9493,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftstrawberrybag",
+      "revision": 34234621,
+      "parts": [
+        {
+          "id": 5594,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftblueberrycap",
+      "revision": 34234617,
+      "parts": [
+        {
+          "id": 5590,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftraspberrybag",
+      "revision": 34234619,
+      "parts": [
+        {
+          "id": 5592,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_nftraspberryshoes",
+      "revision": 34234622,
+      "parts": [
+        {
+          "id": 9595,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_nftraspberryshirt",
+      "revision": 34234601,
+      "parts": [
+        {
+          "id": 5578,
+          "type": "ch"
+        },
+        {
+          "id": 5578,
+          "type": "ls"
+        },
+        {
+          "id": 5578,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_nftstrawberryshirt",
+      "revision": 34234602,
+      "parts": [
+        {
+          "id": 5583,
+          "type": "ch"
+        },
+        {
+          "id": 5583,
+          "type": "ls"
+        },
+        {
+          "id": 5583,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_nftblueberryshoes",
+      "revision": 34234623,
+      "parts": [
+        {
+          "id": 5596,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftfloraradiance",
+      "revision": 34234655,
+      "parts": [
+        {
+          "id": 5569,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftmarshmallowhair",
+      "revision": 34234661,
+      "parts": [
+        {
+          "id": 56388,
+          "type": "hr"
+        },
+        {
+          "id": 56388,
+          "type": "hrb"
+        },
+        {
+          "id": 56399,
+          "type": "hr"
+        },
+        {
+          "id": 56399,
+          "type": "hrb"
+        },
+        {
+          "id": 56400,
+          "type": "hr"
+        },
+        {
+          "id": 56400,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftunicornhorn",
+      "revision": 34234659,
+      "parts": [
+        {
+          "id": 5614,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_nftmarshmallowsocks",
+      "revision": 34234667,
+      "parts": [
+        {
+          "id": 5611,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftmarshmallowbag",
+      "revision": 34234656,
+      "parts": [
+        {
+          "id": 5610,
+          "type": "ca"
+        }
+      ]
+    },
+    {
       "id": "acc_eye_U_sb_visor",
       "revision": 71442,
       "parts": [
@@ -9679,42 +9911,6 @@
       ]
     },
     {
-      "id": "shirt_M_nftraspberryshirt",
-      "revision": 34234601,
-      "parts": [
-        {
-          "id": 5578,
-          "type": "ch"
-        },
-        {
-          "id": 5578,
-          "type": "ls"
-        },
-        {
-          "id": 5578,
-          "type": "rs"
-        }
-      ]
-    },
-    {
-      "id": "shirt_F_nftstrawberryshirt",
-      "revision": 34234602,
-      "parts": [
-        {
-          "id": 5583,
-          "type": "ch"
-        },
-        {
-          "id": 5583,
-          "type": "ls"
-        },
-        {
-          "id": 5583,
-          "type": "rs"
-        }
-      ]
-    },
-    {
       "id": "shirt_F_bunnyoveralls",
       "revision": 34234603,
       "parts": [
@@ -9799,42 +9995,6 @@
       ]
     },
     {
-      "id": "shirt_F_nftraspberryshirt",
-      "revision": 34234608,
-      "parts": [
-        {
-          "id": 5581,
-          "type": "ch"
-        },
-        {
-          "id": 5581,
-          "type": "ls"
-        },
-        {
-          "id": 5581,
-          "type": "rs"
-        }
-      ]
-    },
-    {
-      "id": "shirt_M_nftstrawberryshirt",
-      "revision": 34234609,
-      "parts": [
-        {
-          "id": 55800,
-          "type": "ch"
-        },
-        {
-          "id": 55800,
-          "type": "ls"
-        },
-        {
-          "id": 55800,
-          "type": "rs"
-        }
-      ]
-    },
-    {
       "id": "shirt_M_nftblueberryshirt",
       "revision": 34234610,
       "parts": [
@@ -9901,96 +10061,6 @@
         {
           "id": 5533,
           "type": "hrb"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_nftraspberrycap",
-      "revision": 34234616,
-      "parts": [
-        {
-          "id": 5589,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_nftblueberrycap",
-      "revision": 34234617,
-      "parts": [
-        {
-          "id": 5590,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_nftstrawberrycap",
-      "revision": 34234618,
-      "parts": [
-        {
-          "id": 5591,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "acc_chest_U_nftraspberrybag",
-      "revision": 34234619,
-      "parts": [
-        {
-          "id": 5592,
-          "type": "ca"
-        }
-      ]
-    },
-    {
-      "id": "acc_chest_U_nftblueberrybag",
-      "revision": 34234620,
-      "parts": [
-        {
-          "id": 9493,
-          "type": "ca"
-        }
-      ]
-    },
-    {
-      "id": "acc_chest_U_nftstrawberrybag",
-      "revision": 34234621,
-      "parts": [
-        {
-          "id": 5594,
-          "type": "ca"
-        }
-      ]
-    },
-    {
-      "id": "shoes_U_nftraspberryshoes",
-      "revision": 34234622,
-      "parts": [
-        {
-          "id": 9595,
-          "type": "sh"
-        }
-      ]
-    },
-    {
-      "id": "shoes_U_nftblueberryshoes",
-      "revision": 34234623,
-      "parts": [
-        {
-          "id": 5596,
-          "type": "sh"
-        }
-      ]
-    },
-    {
-      "id": "shoes_U_nftstrawberryshoes",
-      "revision": 34234624,
-      "parts": [
-        {
-          "id": 5597,
-          "type": "sh"
         }
       ]
     },
@@ -10635,26 +10705,6 @@
       ]
     },
     {
-      "id": "acc_chest_U_nftfloraradiance",
-      "revision": 34234655,
-      "parts": [
-        {
-          "id": 5569,
-          "type": "ca"
-        }
-      ]
-    },
-    {
-      "id": "acc_chest_U_nftmarshmallowbag",
-      "revision": 34234656,
-      "parts": [
-        {
-          "id": 5610,
-          "type": "ca"
-        }
-      ]
-    },
-    {
       "id": "acc_chest_U_windupkey",
       "revision": 34234657,
       "parts": [
@@ -10675,16 +10725,6 @@
       ]
     },
     {
-      "id": "acc_head_U_nftunicornhorn",
-      "revision": 34234659,
-      "parts": [
-        {
-          "id": 5614,
-          "type": "he"
-        }
-      ]
-    },
-    {
       "id": "acc_waist_U_quill",
       "revision": 34234660,
       "parts": [
@@ -10695,36 +10735,6 @@
         {
           "id": 5492,
           "type": "wa"
-        }
-      ]
-    },
-    {
-      "id": "hair_U_nftmarshmallowhair",
-      "revision": 34234661,
-      "parts": [
-        {
-          "id": 56388,
-          "type": "hr"
-        },
-        {
-          "id": 56388,
-          "type": "hrb"
-        },
-        {
-          "id": 56399,
-          "type": "hr"
-        },
-        {
-          "id": 56399,
-          "type": "hrb"
-        },
-        {
-          "id": 56400,
-          "type": "hr"
-        },
-        {
-          "id": 56400,
-          "type": "hrb"
         }
       ]
     },
@@ -10819,16 +10829,6 @@
         {
           "id": 5523,
           "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "shoes_U_nftmarshmallowsocks",
-      "revision": 34234667,
-      "parts": [
-        {
-          "id": 5611,
-          "type": "sh"
         }
       ]
     },
