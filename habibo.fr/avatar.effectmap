@@ -2745,8 +2745,20 @@
       "revision": 59200
     },
     {
-      "id": "749",
-      "lib": "Bibo_Tager",
+      "id": "750",
+      "lib": "Bibo_Cook",
+      "type": "fx",
+      "revision": 59200
+    },
+    {
+      "id": "751",
+      "lib": "Bibo_SPK",
+      "type": "fx",
+      "revision": 59200
+    },
+    {
+      "id": "753",
+      "lib": "Bibo_Couture",
       "type": "fx",
       "revision": 59200
     },
