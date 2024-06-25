@@ -1,6 +1,216 @@
 ﻿{
   "libraries": [
     {
+      "id": "trousers_U_toninomattpantatend",
+      "revision": 180284,
+      "parts": [
+        {
+          "id": 30222277,
+          "type": "lg"
+        },
+        {
+          "id": 30222278,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_collarlapela",
+      "revision": 180283,
+      "parts": [
+        {
+          "id": 180283,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_toninomattbigswrd",
+      "revision": 180282,
+      "parts": [
+        {
+          "id": 763112,
+          "type": "ca"
+        },
+        {
+          "id": 763113,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_toninomattdrgnswrd",
+      "revision": 180281,
+      "parts": [
+        {
+          "id": 874357,
+          "type": "ca"
+        },
+        {
+          "id": 874358,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_toninomattflmswrd",
+      "revision": 180280,
+      "parts": [
+        {
+          "id": 664332,
+          "type": "ca"
+        },
+        {
+          "id": 664333,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_streetfighterhair",
+      "revision": 180279,
+      "parts": [
+        {
+          "id": 6223,
+          "type": "hr"
+        },
+        {
+          "id": 6223,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_sombreromagolapela",
+      "revision": 180278,
+      "parts": [
+        {
+          "id": 80005,
+          "type": "ha"
+        },
+        {
+          "id": 80006,
+          "type": "ha"
+        },
+        {
+          "id": 80007,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_handbaghlive",
+      "revision": 180277,
+      "parts": [
+        {
+          "id": 8111111,
+          "type": "lc"
+        },
+        {
+          "id": 8111111,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_toninomattfelpafiga",
+      "revision": 180276,
+      "parts": [
+        {
+          "id": 4709962,
+          "type": "cc"
+        },
+        {
+          "id": 4709962,
+          "type": "lc"
+        },
+        {
+          "id": 4709962,
+          "type": "rc"
+        },
+        {
+          "id": 4709963,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_toninomattshuriken",
+      "revision": 180275,
+      "parts": [
+        {
+          "id": 2749001,
+          "type": "cc"
+        },
+        {
+          "id": 2749001,
+          "type": "lc"
+        },
+        {
+          "id": 2749001,
+          "type": "rc"
+        },
+        {
+          "id": 2749002,
+          "type": "cc"
+        },
+        {
+          "id": 2749002,
+          "type": "lc"
+        },
+        {
+          "id": 2749002,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_corpete",
+      "revision": 180274,
+      "parts": [
+        {
+          "id": 132620,
+          "type": "ch"
+        },
+        {
+          "id": 132621,
+          "type": "ch"
+        },
+        {
+          "id": 132622,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_toninomattclassictop",
+      "revision": 180273,
+      "parts": [
+        {
+          "id": 664444,
+          "type": "ch"
+        },
+        {
+          "id": 664445,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_toninomatttendtop",
+      "revision": 180272,
+      "parts": [
+        {
+          "id": 764332,
+          "type": "ch"
+        },
+        {
+          "id": 764333,
+          "type": "ch"
+        }
+      ]
+    },
+    {
       "id": "trousers_U_axeiedosummershort",
       "revision": 180270,
       "parts": [
