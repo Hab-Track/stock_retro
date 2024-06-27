@@ -1,6 +1,6 @@
 ﻿{
   "socket.url": "wss://sun.habblive.net:2053/",
-  "asset.url": "//images.habblive.net/BETA/V2/assets",
+  "asset.url": "//assets.habblive.network/Beta/V2/assets",
   "image.library.url": "//images.habblive.com/c_imagenes/",
   "hof.furni.url": "//images.habblive.net/Habblive/images/dcr/hof_furni_a/",
   "images.url": "${asset.url}/images",
@@ -8,10 +8,10 @@
   "sounds.url": "${asset.url}/sounds/%sample%.mp3",
   "external.texts.url": [
     "${gamedata.url}/textos/ExternalTexts_6_18_2024.json?5533",
-    "${gamedata.url}/UITexts_V3.json"
+    "${gamedata.url}/UITexts_V3.json?5854"
   ],
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
-  "furnidata.url": "${gamedata.url}/FurnitureData.json?54",
+  "furnidata.url": "${gamedata.url}/FurnitureData.json?534",
   "productdata.url": "${gamedata.url}/ProductData_6_17_2024.json?54",
   "avatar.actions.url": "${gamedata.url}/HabboAvatarActions.json",
   "avatar.figuredata.url": "${gamedata.url}/FigureData.json?46434",
