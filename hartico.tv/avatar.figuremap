@@ -1,6 +1,492 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_sb_rocketpack",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5650,
+          "type": "ca"
+        },
+        {
+          "id": 5651,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_sb_visor",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5647,
+          "type": "ea"
+        },
+        {
+          "id": 5648,
+          "type": "ea"
+        },
+        {
+          "id": 5649,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftspacesuit",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5634,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_sb_rangerjacket",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5654,
+          "type": "cc"
+        },
+        {
+          "id": 5654,
+          "type": "lc"
+        },
+        {
+          "id": 5654,
+          "type": "rc"
+        },
+        {
+          "id": 5655,
+          "type": "cc"
+        },
+        {
+          "id": 5655,
+          "type": "lc"
+        },
+        {
+          "id": 5655,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_sb_rangerjacket",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5652,
+          "type": "cc"
+        },
+        {
+          "id": 5652,
+          "type": "lc"
+        },
+        {
+          "id": 5652,
+          "type": "rc"
+        },
+        {
+          "id": 5653,
+          "type": "cc"
+        },
+        {
+          "id": 5653,
+          "type": "lc"
+        },
+        {
+          "id": 5653,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_sb_raygun",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5644,
+          "type": "cc"
+        },
+        {
+          "id": 5644,
+          "type": "lc"
+        },
+        {
+          "id": 5644,
+          "type": "rc"
+        },
+        {
+          "id": 5645,
+          "type": "cc"
+        },
+        {
+          "id": 5645,
+          "type": "lc"
+        },
+        {
+          "id": 5645,
+          "type": "rc"
+        },
+        {
+          "id": 5646,
+          "type": "cc"
+        },
+        {
+          "id": 5646,
+          "type": "lc"
+        },
+        {
+          "id": 5646,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_nftspacesuit",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5633,
+          "type": "ch"
+        },
+        {
+          "id": 5633,
+          "type": "ls"
+        },
+        {
+          "id": 5633,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_sb_boosters",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5642,
+          "type": "sh"
+        },
+        {
+          "id": 5643,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_angelwings",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 4682,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_bigbutton",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5493,
+          "type": "ca"
+        },
+        {
+          "id": 5494,
+          "type": "ca"
+        },
+        {
+          "id": 5495,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_bigzipper",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5481,
+          "type": "ca"
+        },
+        {
+          "id": 5482,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_inkbackpack",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5488,
+          "type": "ca"
+        },
+        {
+          "id": 5489,
+          "type": "ca"
+        },
+        {
+          "id": 5490,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftfloraradiance",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5569,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftmarshmallowbag",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5610,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_windupkey",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5496,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_keychain",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5500,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftunicornhorn",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5614,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_quill",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5491,
+          "type": "wa"
+        },
+        {
+          "id": 5492,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_herohair",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5118,
+          "type": "hr"
+        },
+        {
+          "id": 5118,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftmarshmallowhair",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5638,
+          "type": "hr"
+        },
+        {
+          "id": 5638,
+          "type": "hrb"
+        },
+        {
+          "id": 5639,
+          "type": "hr"
+        },
+        {
+          "id": 5639,
+          "type": "hrb"
+        },
+        {
+          "id": 5640,
+          "type": "hr"
+        },
+        {
+          "id": 5640,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_pencilhair",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5497,
+          "type": "hr"
+        },
+        {
+          "id": 5497,
+          "type": "hrb"
+        },
+        {
+          "id": 5498,
+          "type": "hr"
+        },
+        {
+          "id": 5498,
+          "type": "hrb"
+        },
+        {
+          "id": 5499,
+          "type": "hr"
+        },
+        {
+          "id": 5499,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_yarnhair",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5641,
+          "type": "hr"
+        },
+        {
+          "id": 5641,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_habbozillahead",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5514,
+          "type": "ha"
+        },
+        {
+          "id": 5515,
+          "type": "ha"
+        },
+        {
+          "id": 5516,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_rosehat",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5478,
+          "type": "ha"
+        },
+        {
+          "id": 5479,
+          "type": "ha"
+        },
+        {
+          "id": 5480,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tinyhat",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5522,
+          "type": "ha"
+        },
+        {
+          "id": 5523,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_nftmarshmallowsocks",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5611,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_nftbluebikinibottom",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5093,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_nftpinkbikinibottom",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5096,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_openshirt",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 4068,
+          "type": "ch"
+        },
+        {
+          "id": 4068,
+          "type": "ls"
+        },
+        {
+          "id": 4068,
+          "type": "rs"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_chunkyknitscarf",
       "revision": 7,
       "parts": [
@@ -27,6 +513,16 @@
         {
           "id": 5274,
           "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftchocolatepin",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5397,
+          "type": "he"
         }
       ]
     },
