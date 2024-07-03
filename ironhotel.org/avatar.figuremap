@@ -54035,6 +54035,90 @@
           "type": "cp"
         }
       ]
+    },
+    {
+      "id": "shirt_F_nobledress",
+      "revision": 998787884,
+      "parts": [
+        {
+          "id": 4330,
+          "type": "ch"
+        },
+        {
+          "id": 4330,
+          "type": "ls"
+        },
+        {
+          "id": 4330,
+          "type": "rs"
+        },
+        {
+          "id": 4340,
+          "type": "ch"
+        },
+        {
+          "id": 4340,
+          "type": "ls"
+        },
+        {
+          "id": 4340,
+          "type": "rs"
+        },
+        {
+          "id": 4396,
+          "type": "ch"
+        },
+        {
+          "id": 4396,
+          "type": "ls"
+        },
+        {
+          "id": 4396,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_nobledress",
+      "revision": 998787885,
+      "parts": [
+        {
+          "id": 4341,
+          "type": "ch"
+        },
+        {
+          "id": 4341,
+          "type": "ls"
+        },
+        {
+          "id": 4341,
+          "type": "rs"
+        },
+        {
+          "id": 4342,
+          "type": "ch"
+        },
+        {
+          "id": 4342,
+          "type": "ls"
+        },
+        {
+          "id": 4342,
+          "type": "rs"
+        },
+        {
+          "id": 4397,
+          "type": "ch"
+        },
+        {
+          "id": 4397,
+          "type": "ls"
+        },
+        {
+          "id": 4397,
+          "type": "rs"
+        }
+      ]
     }
   ]
 }
