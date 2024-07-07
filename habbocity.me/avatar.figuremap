@@ -1,6 +1,566 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_F_nftpompomcardigan",
+      "revision": 180312,
+      "parts": [
+        {
+          "id": 5744,
+          "type": "cc"
+        },
+        {
+          "id": 5744,
+          "type": "lc"
+        },
+        {
+          "id": 5744,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_mercuryjacket",
+      "revision": 180311,
+      "parts": [
+        {
+          "id": 5759,
+          "type": "cc"
+        },
+        {
+          "id": 5759,
+          "type": "lc"
+        },
+        {
+          "id": 5759,
+          "type": "rc"
+        },
+        {
+          "id": 5760,
+          "type": "cc"
+        },
+        {
+          "id": 5760,
+          "type": "lc"
+        },
+        {
+          "id": 5760,
+          "type": "rc"
+        },
+        {
+          "id": 5761,
+          "type": "cc"
+        },
+        {
+          "id": 5761,
+          "type": "lc"
+        },
+        {
+          "id": 5761,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_mercuryjacket",
+      "revision": 180310,
+      "parts": [
+        {
+          "id": 5756,
+          "type": "cc"
+        },
+        {
+          "id": 5756,
+          "type": "lc"
+        },
+        {
+          "id": 5756,
+          "type": "rc"
+        },
+        {
+          "id": 5757,
+          "type": "cc"
+        },
+        {
+          "id": 5757,
+          "type": "lc"
+        },
+        {
+          "id": 5757,
+          "type": "rc"
+        },
+        {
+          "id": 5758,
+          "type": "cc"
+        },
+        {
+          "id": 5758,
+          "type": "lc"
+        },
+        {
+          "id": 5758,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_nftsummeranklet4",
+      "revision": 180309,
+      "parts": [
+        {
+          "id": 5814,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_nftsummeranklet3",
+      "revision": 180308,
+      "parts": [
+        {
+          "id": 5813,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_nftsummeranklet2",
+      "revision": 180307,
+      "parts": [
+        {
+          "id": 5812,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_nftsummeranklet1",
+      "revision": 180306,
+      "parts": [
+        {
+          "id": 5811,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_nftgardenshoes2",
+      "revision": 180305,
+      "parts": [
+        {
+          "id": 5783,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_nftgardenshoes1",
+      "revision": 180304,
+      "parts": [
+        {
+          "id": 5782,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_featherbodice",
+      "revision": 180303,
+      "parts": [
+        {
+          "id": 5551,
+          "type": "ch"
+        },
+        {
+          "id": 5551,
+          "type": "ls"
+        },
+        {
+          "id": 5551,
+          "type": "rs"
+        },
+        {
+          "id": 5552,
+          "type": "ch"
+        },
+        {
+          "id": 5552,
+          "type": "ls"
+        },
+        {
+          "id": 5552,
+          "type": "rs"
+        },
+        {
+          "id": 5553,
+          "type": "ch"
+        },
+        {
+          "id": 5553,
+          "type": "ls"
+        },
+        {
+          "id": 5553,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_nftsummertop4",
+      "revision": 180302,
+      "parts": [
+        {
+          "id": 5806,
+          "type": "ch"
+        },
+        {
+          "id": 5806,
+          "type": "ls"
+        },
+        {
+          "id": 5806,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_nftsummertop3",
+      "revision": 180301,
+      "parts": [
+        {
+          "id": 5805,
+          "type": "ch"
+        },
+        {
+          "id": 5805,
+          "type": "ls"
+        },
+        {
+          "id": 5805,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_nftsummertop2",
+      "revision": 180300,
+      "parts": [
+        {
+          "id": 5804,
+          "type": "ch"
+        },
+        {
+          "id": 5804,
+          "type": "ls"
+        },
+        {
+          "id": 5804,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_nftsummertop1",
+      "revision": 180299,
+      "parts": [
+        {
+          "id": 5803,
+          "type": "ch"
+        },
+        {
+          "id": 5803,
+          "type": "ls"
+        },
+        {
+          "id": 5803,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_nftsummershirt4",
+      "revision": 180298,
+      "parts": [
+        {
+          "id": 5798,
+          "type": "ch"
+        },
+        {
+          "id": 5798,
+          "type": "ls"
+        },
+        {
+          "id": 5798,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_nftsummershirt3",
+      "revision": 180297,
+      "parts": [
+        {
+          "id": 5797,
+          "type": "ch"
+        },
+        {
+          "id": 5797,
+          "type": "ls"
+        },
+        {
+          "id": 5797,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_nftsummershirt2",
+      "revision": 180296,
+      "parts": [
+        {
+          "id": 5796,
+          "type": "ch"
+        },
+        {
+          "id": 5796,
+          "type": "ls"
+        },
+        {
+          "id": 5796,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_nftsummershirt1",
+      "revision": 180295,
+      "parts": [
+        {
+          "id": 5795,
+          "type": "ch"
+        },
+        {
+          "id": 5795,
+          "type": "ls"
+        },
+        {
+          "id": 5795,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_mercurychest",
+      "revision": 180294,
+      "parts": [
+        {
+          "id": 5764,
+          "type": "ch"
+        },
+        {
+          "id": 5764,
+          "type": "ls"
+        },
+        {
+          "id": 5764,
+          "type": "rs"
+        },
+        {
+          "id": 5765,
+          "type": "ch"
+        },
+        {
+          "id": 5765,
+          "type": "ls"
+        },
+        {
+          "id": 5765,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_clown",
+      "revision": 180293,
+      "parts": [
+        {
+          "id": 6002,
+          "type": "ch"
+        },
+        {
+          "id": 6003,
+          "type": "ch"
+        },
+        {
+          "id": 6004,
+          "type": "ch"
+        },
+        {
+          "id": 6004,
+          "type": "ls"
+        },
+        {
+          "id": 6004,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_cagedpetticoat",
+      "revision": 180292,
+      "parts": [
+        {
+          "id": 5548,
+          "type": "ch"
+        },
+        {
+          "id": 5548,
+          "type": "ls"
+        },
+        {
+          "id": 5548,
+          "type": "rs"
+        },
+        {
+          "id": 5549,
+          "type": "ch"
+        },
+        {
+          "id": 5549,
+          "type": "ls"
+        },
+        {
+          "id": 5549,
+          "type": "rs"
+        },
+        {
+          "id": 5550,
+          "type": "ch"
+        },
+        {
+          "id": 5550,
+          "type": "ls"
+        },
+        {
+          "id": 5550,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_nftsummertop4",
+      "revision": 180291,
+      "parts": [
+        {
+          "id": 5810,
+          "type": "ch"
+        },
+        {
+          "id": 5810,
+          "type": "ls"
+        },
+        {
+          "id": 5810,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_nftsummertop3",
+      "revision": 180290,
+      "parts": [
+        {
+          "id": 5809,
+          "type": "ch"
+        },
+        {
+          "id": 5809,
+          "type": "ls"
+        },
+        {
+          "id": 5809,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_nftsummertop2",
+      "revision": 180289,
+      "parts": [
+        {
+          "id": 5808,
+          "type": "ch"
+        },
+        {
+          "id": 5808,
+          "type": "ls"
+        },
+        {
+          "id": 5808,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_nftsummertop1",
+      "revision": 180288,
+      "parts": [
+        {
+          "id": 5807,
+          "type": "ch"
+        },
+        {
+          "id": 5807,
+          "type": "ls"
+        },
+        {
+          "id": 5807,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_nftsummershirt4",
+      "revision": 180287,
+      "parts": [
+        {
+          "id": 5802,
+          "type": "ch"
+        },
+        {
+          "id": 5802,
+          "type": "ls"
+        },
+        {
+          "id": 5802,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_nftstripedtrousers",
+      "revision": 180286,
+      "parts": [
+        {
+          "id": 5746,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_mercurytrousers",
+      "revision": 180285,
+      "parts": [
+        {
+          "id": 5766,
+          "type": "lg"
+        },
+        {
+          "id": 5767,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "trousers_U_toninomattpantatend",
       "revision": 180284,
       "parts": [
