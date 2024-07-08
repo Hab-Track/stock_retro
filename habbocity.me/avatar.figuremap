@@ -1,6 +1,42 @@
 ﻿{
   "libraries": [
     {
+      "id": "face_U_heartmakeup",
+      "revision": 180343,
+      "parts": [
+        {
+          "id": 5567,
+          "type": "fc"
+        },
+        {
+          "id": 5567,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "face_U_circusmakeup",
+      "revision": 180342,
+      "parts": [
+        {
+          "id": 5567,
+          "type": "hd"
+        },
+        {
+          "id": 5567,
+          "type": "fc"
+        },
+        {
+          "id": 5567,
+          "type": "ey"
+        },
+        {
+          "id": 5568,
+          "type": "fc"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_popcornbox",
       "revision": 180341,
       "parts": [
