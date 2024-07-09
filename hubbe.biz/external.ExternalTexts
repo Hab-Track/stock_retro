@@ -1,4 +1,13 @@
 ﻿{
+  "wiredfurni.params.sources.global": "Vari\u00e1veis globais",
+  "wiredfurni.params.sources.context": "Vari\u00e1veis de contexto",
+  "wiredfurni.params.quantifier.variables.0": "Todas as vari\u00e1veis correspondem",
+  "wiredfurni.params.quantifier.variables.1": "Qualquer uma das vari\u00e1veis corresponde",
+  "wiredfurni.params.quantifier.variables.neg.0": "Qualquer uma das vari\u00e1veis N\u00c3O corresponde",
+  "wiredfurni.params.quantifier.variables.neg.1": "Nenhuma das vari\u00e1veis corresponde",
+  "wiredfurni.params.sources.merged.title.variables": "Origem da vari\u00e1vel:",
+  "wiredfurni.params.sources.merged.title.variables_destination": "Vari\u00e1vel de destino:",
+  "wiredfurni.params.sources.merged.title.variables_reference": "Vari\u00e1vel refer\u00eancia:",
   "wiredfurni.params.apply_effect": "Aplicar efeito",
   "wiredfurni.params.invisibles_see_invisibles": "Usu\u00e1rios invis\u00edveis podem ver um ao outro:",
   "wiredfurni.params.visible": "Vis\u00edvel",
@@ -25395,8 +25404,8 @@
   "badge_desc_ES15N": "S\u00e3o Fertilius e seus guias buscam seus fi\u00e9is em troca de fartura e abund\u00e2ncia em suas ceias, por meio do Rito Sagrado. O mais conhecido se encontra em Hubbuaru!",
   "badge_name_HUBRI1": "Pistola de Prata",
   "badge_desc_HUBRI1": "Com esta pistola, estou preparado para enfrentar a fera maldita, ou melhor dizendo: o filho do prefeito!",
-  "badge_name_PTD70": "Uso do Diel",
-  "badge_desc_PTD70": "pode usar Diel",
+  "badge_name_PTD70": "Ca\u00e7a ao milho",
+  "badge_desc_PTD70": "Yep, ca\u00e7ar milho nunca foi t\u00e3o divertido!",
   "badge_name_HUB59": "Ca\u00e7a ao Milho",
   "badge_desc_HUB59": "Yep, ca\u00e7ar milho nunca foi t\u00e3o divertido!",
   "badge_name_HUBM24H10": "Ma\u00e7\u00e3 do Amor",
@@ -25404,5 +25413,9 @@
   "badge_name_HUB60": "Fogo Enigm\u00e1tico",
   "badge_desc_HUB60": "Sempre sendo a p\u00f3lvora essencial para o S\u00e3o Jo\u00e3o.",
   "badge_name_HUB61": "Enigma Junino #1",
-  "badge_desc_HUB61": "Cumpri uma miss\u00e3o! Venci a primeira edi\u00e7\u00e3o da coluna \"Enigma Junino\"."
+  "badge_desc_HUB61": "Cumpri uma miss\u00e3o! Venci a primeira edi\u00e7\u00e3o da coluna \"Enigma Junino\".",
+  "badge_name_PT887": "Ma\u00e7\u00e3 do Amor",
+  "badge_desc_PT887": "Alterar ao distribuir",
+  "badge_name_1000003859": "S\u00e3o Jo\u00e3o do HubbeMix ",
+  "badge_desc_1000003859": "Participei uma atividade de S\u00e3o Jo\u00e3o."
 }
