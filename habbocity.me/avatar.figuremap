@@ -1,6 +1,268 @@
 ﻿{
   "libraries": [
     {
+      "id": "face_U_bratzyasminface",
+      "revision": 180375,
+      "parts": [
+        {
+          "id": 5839,
+          "type": "fc"
+        },
+        {
+          "id": 5840,
+          "type": "fc"
+        },
+        {
+          "id": 5841,
+          "type": "fc"
+        },
+        {
+          "id": 5841,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "face_U_bratzsashaface",
+      "revision": 180374,
+      "parts": [
+        {
+          "id": 5836,
+          "type": "fc"
+        },
+        {
+          "id": 5837,
+          "type": "fc"
+        },
+        {
+          "id": 5838,
+          "type": "fc"
+        },
+        {
+          "id": 5838,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "face_U_bratzjadeface",
+      "revision": 180373,
+      "parts": [
+        {
+          "id": 5833,
+          "type": "fc"
+        },
+        {
+          "id": 5834,
+          "type": "fc"
+        },
+        {
+          "id": 5835,
+          "type": "fc"
+        },
+        {
+          "id": 5835,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "face_U_bratzchloeface",
+      "revision": 180372,
+      "parts": [
+        {
+          "id": 5830,
+          "type": "fc"
+        },
+        {
+          "id": 5831,
+          "type": "fc"
+        },
+        {
+          "id": 5832,
+          "type": "fc"
+        },
+        {
+          "id": 5832,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_bratzheels",
+      "revision": 180371,
+      "parts": [
+        {
+          "id": 5853,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_bratzboots",
+      "revision": 180370,
+      "parts": [
+        {
+          "id": 5852,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_bratzyasminscarf",
+      "revision": 180369,
+      "parts": [
+        {
+          "id": 5867,
+          "type": "ha"
+        },
+        {
+          "id": 5868,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_bratzsashabeanie",
+      "revision": 180368,
+      "parts": [
+        {
+          "id": 5820,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_bratzjadebeanie",
+      "revision": 180367,
+      "parts": [
+        {
+          "id": 5865,
+          "type": "ha"
+        },
+        {
+          "id": 5866,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_bratzchloeheadband",
+      "revision": 180366,
+      "parts": [
+        {
+          "id": 5743,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bratzyasminhair",
+      "revision": 180365,
+      "parts": [
+        {
+          "id": 5827,
+          "type": "hr"
+        },
+        {
+          "id": 5827,
+          "type": "hrb"
+        },
+        {
+          "id": 5828,
+          "type": "hr"
+        },
+        {
+          "id": 5828,
+          "type": "hrb"
+        },
+        {
+          "id": 5829,
+          "type": "hr"
+        },
+        {
+          "id": 5829,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bratzsashahair",
+      "revision": 180364,
+      "parts": [
+        {
+          "id": 5825,
+          "type": "hr"
+        },
+        {
+          "id": 5825,
+          "type": "hrb"
+        },
+        {
+          "id": 5826,
+          "type": "hr"
+        },
+        {
+          "id": 5826,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bratzjadehair",
+      "revision": 180363,
+      "parts": [
+        {
+          "id": 5822,
+          "type": "hr"
+        },
+        {
+          "id": 5822,
+          "type": "hrb"
+        },
+        {
+          "id": 5823,
+          "type": "hr"
+        },
+        {
+          "id": 5823,
+          "type": "hrb"
+        },
+        {
+          "id": 5824,
+          "type": "hr"
+        },
+        {
+          "id": 5824,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bratzchloehair",
+      "revision": 180362,
+      "parts": [
+        {
+          "id": 5742,
+          "type": "hr"
+        },
+        {
+          "id": 5742,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_axeigreenpopup",
+      "revision": 180361,
+      "parts": [
+        {
+          "id": 180361,
+          "type": "ea"
+        }
+      ]
+    },
+    {
       "id": "shoes_U_tv24sambanegras",
       "revision": 180360,
       "parts": [
@@ -9448,7 +9710,7 @@
     },
     {
       "id": "shirt_M_SupaHiroVarianteF",
-      "revision": 174044,
+      "revision": null,
       "parts": [
         {
           "id": 174044,
