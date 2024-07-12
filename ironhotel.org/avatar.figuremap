@@ -54467,6 +54467,376 @@
           "type": "rs"
         }
       ]
+    },
+    {
+      "id": "acc_chest_U_axeirylaicoloredbag",
+      "revision": 998787898,
+      "parts": [
+        {
+          "id": 180127,
+          "type": "ca"
+        },
+        {
+          "id": 180128,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_chemiseacarreaux",
+      "revision": 998787899,
+      "parts": [
+        {
+          "id": 173836,
+          "type": "ch"
+        },
+        {
+          "id": 173836,
+          "type": "ls"
+        },
+        {
+          "id": 173836,
+          "type": "rs"
+        },
+        {
+          "id": 173837,
+          "type": "ch"
+        },
+        {
+          "id": 173837,
+          "type": "ls"
+        },
+        {
+          "id": 173837,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tvcardigancaido",
+      "revision": 998787900,
+      "parts": [
+        {
+          "id": 10000513,
+          "type": "cc"
+        },
+        {
+          "id": 10000514,
+          "type": "rc"
+        },
+        {
+          "id": 10000514,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_axeiwinterjacket",
+      "revision": 998787901,
+      "parts": [
+        {
+          "id": 174368,
+          "type": "cc"
+        },
+        {
+          "id": 174368,
+          "type": "rc"
+        },
+        {
+          "id": 174368,
+          "type": "lc"
+        },
+        {
+          "id": 174369,
+          "type": "cc"
+        },
+        {
+          "id": 174369,
+          "type": "lc"
+        },
+        {
+          "id": 174369,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tvguantesbox",
+      "revision": 998787902,
+      "parts": [
+        {
+          "id": 10000506,
+          "type": "lc"
+        },
+        {
+          "id": 10000506,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_NFLshirt",
+      "revision": 998787903,
+      "parts": [
+        {
+          "id": 1630,
+          "type": "ch"
+        },
+        {
+          "id": 1630,
+          "type": "ls"
+        },
+        {
+          "id": 1630,
+          "type": "rs"
+        },
+        {
+          "id": 1631,
+          "type": "ch"
+        },
+        {
+          "id": 1631,
+          "type": "ls"
+        },
+        {
+          "id": 1631,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_arco",
+      "revision": 998787904,
+      "parts": [
+        {
+          "id": 56434444,
+          "type": "rc"
+        },
+        {
+          "id": 56434444,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_axeiedoscytheV2",
+      "revision": 998787905,
+      "parts": [
+        {
+          "id": 180039,
+          "type": "cc"
+        },
+        {
+          "id": 180039,
+          "type": "rc"
+        },
+        {
+          "id": 180039,
+          "type": "lc"
+        },
+        {
+          "id": 180040,
+          "type": "cc"
+        },
+        {
+          "id": 180040,
+          "type": "rc"
+        },
+        {
+          "id": 180040,
+          "type": "lc"
+        },
+        {
+          "id": 180041,
+          "type": "cc"
+        },
+        {
+          "id": 180041,
+          "type": "rc"
+        },
+        {
+          "id": 180041,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_bratzboots",
+      "revision": 998787906,
+      "parts": [
+        {
+          "id": 5852,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_bratzjadebeanie",
+      "revision": 998787907,
+      "parts": [
+        {
+          "id": 5865,
+          "type": "ha"
+        },
+        {
+          "id": 5866,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bratzjadehair",
+      "revision": 998787908,
+      "parts": [
+        {
+          "id": 5822,
+          "type": "hr"
+        },
+        {
+          "id": 5822,
+          "type": "hrb"
+        },
+        {
+          "id": 5823,
+          "type": "hr"
+        },
+        {
+          "id": 5823,
+          "type": "hrb"
+        },
+        {
+          "id": 5824,
+          "type": "hr"
+        },
+        {
+          "id": 5824,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_bratzchloeheadband",
+      "revision": 998787909,
+      "parts": [
+        {
+          "id": 5743,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bratzyasminhair",
+      "revision": 998787910,
+      "parts": [
+        {
+          "id": 5827,
+          "type": "hr"
+        },
+        {
+          "id": 5827,
+          "type": "hrb"
+        },
+        {
+          "id": 5828,
+          "type": "hr"
+        },
+        {
+          "id": 5828,
+          "type": "hrb"
+        },
+        {
+          "id": 5829,
+          "type": "hr"
+        },
+        {
+          "id": 5829,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_bratzyasminscarf",
+      "revision": 998787911,
+      "parts": [
+        {
+          "id": 5867,
+          "type": "ha"
+        },
+        {
+          "id": 5868,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bratzsashahair",
+      "revision": 998787912,
+      "parts": [
+        {
+          "id": 5825,
+          "type": "hr"
+        },
+        {
+          "id": 5825,
+          "type": "hrb"
+        },
+        {
+          "id": 5826,
+          "type": "hr"
+        },
+        {
+          "id": 5826,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_bratzsashabeanie",
+      "revision": 998787913,
+      "parts": [
+        {
+          "id": 5820,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bratzchloehair",
+      "revision": 998787914,
+      "parts": [
+        {
+          "id": 5742,
+          "type": "hr"
+        },
+        {
+          "id": 5742,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_bratzheels",
+      "revision": 998787915,
+      "parts": [
+        {
+          "id": 5853,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_winterboots",
+      "revision": 998787916,
+      "parts": [
+        {
+          "id": 82652,
+          "type": "sh"
+        },
+        {
+          "id": 82653,
+          "type": "sh"
+        }
+      ]
     }
   ]
 }
