@@ -1,6 +1,222 @@
 ﻿{
   "libraries": [
     {
+      "id": "face_U_bratzsashaface",
+      "revision": 11397,
+      "parts": [
+        {
+          "id": 5836,
+          "type": "fc"
+        },
+        {
+          "id": 5837,
+          "type": "fc"
+        },
+        {
+          "id": 5838,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "face_U_bratzyasminface",
+      "revision": 11396,
+      "parts": [
+        {
+          "id": 5839,
+          "type": "fc"
+        },
+        {
+          "id": 5840,
+          "type": "fc"
+        },
+        {
+          "id": 5841,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "face_U_bratzchloeface",
+      "revision": 11395,
+      "parts": [
+        {
+          "id": 5830,
+          "type": "fc"
+        },
+        {
+          "id": 5831,
+          "type": "fc"
+        },
+        {
+          "id": 5832,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "face_U_bratzjadeface",
+      "revision": 11394,
+      "parts": [
+        {
+          "id": 5833,
+          "type": "fc"
+        },
+        {
+          "id": 5834,
+          "type": "fc"
+        },
+        {
+          "id": 5835,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_bratzheels",
+      "revision": 11393,
+      "parts": [
+        {
+          "id": 5853,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_bratzboots",
+      "revision": 11392,
+      "parts": [
+        {
+          "id": 5852,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_bratzsashabeanie",
+      "revision": 11391,
+      "parts": [
+        {
+          "id": 5820,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_bratzyasminscarf",
+      "revision": 11390,
+      "parts": [
+        {
+          "id": 5867,
+          "type": "ha"
+        },
+        {
+          "id": 5868,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_bratzchloeheadband",
+      "revision": 11389,
+      "parts": [
+        {
+          "id": 5743,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_bratzjadebeanie",
+      "revision": 11388,
+      "parts": [
+        {
+          "id": 5865,
+          "type": "ha"
+        },
+        {
+          "id": 5866,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bratzsashahair",
+      "revision": 11387,
+      "parts": [
+        {
+          "id": 5825,
+          "type": "hr"
+        },
+        {
+          "id": 5825,
+          "type": "hrb"
+        },
+        {
+          "id": 5826,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bratzyasminhair",
+      "revision": 11386,
+      "parts": [
+        {
+          "id": 5827,
+          "type": "hr"
+        },
+        {
+          "id": 5827,
+          "type": "hrb"
+        },
+        {
+          "id": 5828,
+          "type": "hr"
+        },
+        {
+          "id": 5829,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bratzchloehair",
+      "revision": 11385,
+      "parts": [
+        {
+          "id": 5742,
+          "type": "hr"
+        },
+        {
+          "id": 5742,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bratzjadehair",
+      "revision": 11384,
+      "parts": [
+        {
+          "id": 5822,
+          "type": "hr"
+        },
+        {
+          "id": 5822,
+          "type": "hrb"
+        },
+        {
+          "id": 5823,
+          "type": "hr"
+        },
+        {
+          "id": 5824,
+          "type": "hr"
+        }
+      ]
+    },
+    {
       "id": "shirt_M_mercurychest",
       "revision": 11383,
       "parts": [
