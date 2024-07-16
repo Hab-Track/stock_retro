@@ -1,6 +1,138 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_F_nfttoga",
+      "revision": 180381,
+      "parts": [
+        {
+          "id": 6037,
+          "type": "ch"
+        },
+        {
+          "id": 6037,
+          "type": "ls"
+        },
+        {
+          "id": 6037,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_nfttoga",
+      "revision": 180380,
+      "parts": [
+        {
+          "id": 6036,
+          "type": "ch"
+        },
+        {
+          "id": 6036,
+          "type": "ls"
+        },
+        {
+          "id": 6036,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_nftchiton",
+      "revision": 180379,
+      "parts": [
+        {
+          "id": 6032,
+          "type": "ch"
+        },
+        {
+          "id": 6032,
+          "type": "ls"
+        },
+        {
+          "id": 6033,
+          "type": "ch"
+        },
+        {
+          "id": 6033,
+          "type": "ls"
+        },
+        {
+          "id": 6033,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_nftchiton",
+      "revision": 180378,
+      "parts": [
+        {
+          "id": 6034,
+          "type": "ch"
+        },
+        {
+          "id": 6034,
+          "type": "ls"
+        },
+        {
+          "id": 6035,
+          "type": "ch"
+        },
+        {
+          "id": 6035,
+          "type": "ls"
+        },
+        {
+          "id": 6035,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftgreek2",
+      "revision": 180377,
+      "parts": [
+        {
+          "id": 6030,
+          "type": "hr"
+        },
+        {
+          "id": 6030,
+          "type": "hrb"
+        },
+        {
+          "id": 6031,
+          "type": "hr"
+        },
+        {
+          "id": 6031,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftgreek1",
+      "revision": 180376,
+      "parts": [
+        {
+          "id": 6028,
+          "type": "hr"
+        },
+        {
+          "id": 6028,
+          "type": "hrb"
+        },
+        {
+          "id": 6029,
+          "type": "hr"
+        },
+        {
+          "id": 6029,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
       "id": "face_U_bratzyasminface",
       "revision": 180375,
       "parts": [
