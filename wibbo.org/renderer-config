@@ -17,8 +17,8 @@
     "${gamedata.url}/BadgeTexts.json?${cache.time}"
   ],
   "external.samples.url": "${asset.url}/mp3/sound_machine_sample_%sample%.mp3",
-  "furnidata.url": "${gamedata.url}/FurnitureData.json?290624",
-  "productdata.url": "${gamedata.url}/ProductData.json?290624",
+  "furnidata.url": "${gamedata.url}/FurnitureData.json?1607241",
+  "productdata.url": "${gamedata.url}/ProductData.json?1607241",
   "avatar.actions.url": "${gamedata.url}/HabboAvatarActions.json?200624",
   "avatar.figuredata.url": "${gamedata.url}/FigureData.json?080724",
   "avatar.figuremap.url": "${gamedata.url}/FigureMap.json?080724",
