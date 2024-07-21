@@ -55217,6 +55217,42 @@
           "type": "lg"
         }
       ]
+    },
+    {
+      "id": "acc_chest_U_doggiebag",
+      "revision": 998787941,
+      "parts": [
+        {
+          "id": 5716,
+          "type": "ca"
+        },
+        {
+          "id": 5717,
+          "type": "ca"
+        },
+        {
+          "id": 5718,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_magicianshat",
+      "revision": 998787942,
+      "parts": [
+        {
+          "id": 5563,
+          "type": "ha"
+        },
+        {
+          "id": 5564,
+          "type": "ha"
+        },
+        {
+          "id": 5565,
+          "type": "ha"
+        }
+      ]
     }
   ]
 }
