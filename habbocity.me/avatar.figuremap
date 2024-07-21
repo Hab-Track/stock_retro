@@ -1,6 +1,256 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_pala1",
+      "revision": 180401,
+      "parts": [
+        {
+          "id": 10000339,
+          "type": "lc"
+        },
+        {
+          "id": 10000339,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_toninomattboozaino",
+      "revision": 180400,
+      "parts": [
+        {
+          "id": 44232111,
+          "type": "ca"
+        },
+        {
+          "id": 44232112,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tvshortsnike",
+      "revision": 180399,
+      "parts": [
+        {
+          "id": 10000569,
+          "type": "lg"
+        },
+        {
+          "id": 10000570,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tvcargoaltos",
+      "revision": 180398,
+      "parts": [
+        {
+          "id": 10000561,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_toninomattpantaocchi",
+      "revision": 180397,
+      "parts": [
+        {
+          "id": 30222177,
+          "type": "lg"
+        },
+        {
+          "id": 30222178,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tvcamisetaremangada",
+      "revision": 180396,
+      "parts": [
+        {
+          "id": 10000558,
+          "type": "ch"
+        },
+        {
+          "id": 10000559,
+          "type": "ls"
+        },
+        {
+          "id": 10000559,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tvcamisetaoversize",
+      "revision": 180395,
+      "parts": [
+        {
+          "id": 10000556,
+          "type": "ch"
+        },
+        {
+          "id": 10000557,
+          "type": "ls"
+        },
+        {
+          "id": 10000557,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tvchaquetacuero2k",
+      "revision": 180394,
+      "parts": [
+        {
+          "id": 10000562,
+          "type": "cc"
+        },
+        {
+          "id": 10000563,
+          "type": "lc"
+        },
+        {
+          "id": 10000563,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_toninomattocchio",
+      "revision": 180393,
+      "parts": [
+        {
+          "id": 56400044,
+          "type": "lc"
+        },
+        {
+          "id": 56400044,
+          "type": "rc"
+        },
+        {
+          "id": 56400045,
+          "type": "lc"
+        },
+        {
+          "id": 56400045,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tvbandanakakashi",
+      "revision": 180392,
+      "parts": [
+        {
+          "id": 10000552,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_toninomattdraghetto",
+      "revision": 180391,
+      "parts": [
+        {
+          "id": 7664212,
+          "type": "ha"
+        },
+        {
+          "id": 7664213,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_toninomattscheletri",
+      "revision": 180390,
+      "parts": [
+        {
+          "id": 675332,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_toninomattfantasmino",
+      "revision": 180389,
+      "parts": [
+        {
+          "id": 7531111,
+          "type": "he"
+        },
+        {
+          "id": 7531112,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tvmaldicionsasuke",
+      "revision": 180388,
+      "parts": [
+        {
+          "id": 10000565,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tvbufanda2k",
+      "revision": 180387,
+      "parts": [
+        {
+          "id": 10000555,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tvzorro9colas",
+      "revision": 180386,
+      "parts": [
+        {
+          "id": 10000571,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tvmochilatoad",
+      "revision": 180385,
+      "parts": [
+        {
+          "id": 10000566,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tvcangurera2k",
+      "revision": 180384,
+      "parts": [
+        {
+          "id": 10000560,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_toninomattforchetta",
+      "revision": 180383,
+      "parts": [
+        {
+          "id": 653212,
+          "type": "ca"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_axeiuruwnsoajacket",
       "revision": 180382,
       "parts": [
@@ -39025,6 +39275,20 @@
       ]
     },
     {
+      "id": "hair_U_bobhairX",
+      "revision": 28227727,
+      "parts": [
+        {
+          "id": 32,
+          "type": "hr"
+        },
+        {
+          "id": 32,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
       "id": "hh_human_hair",
       "revision": 50491,
       "parts": [
@@ -39123,14 +39387,6 @@
         {
           "id": 31,
           "type": "hr"
-        },
-        {
-          "id": 32,
-          "type": "hr"
-        },
-        {
-          "id": 32,
-          "type": "hrb"
         },
         {
           "id": 33,
