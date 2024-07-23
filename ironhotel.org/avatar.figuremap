@@ -55253,6 +55253,36 @@
           "type": "ha"
         }
       ]
+    },
+    {
+      "id": "acc_print_U_casschbprint",
+      "revision": 998787943,
+      "parts": [
+        {
+          "id": 6280,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_casschbprintv2",
+      "revision": 998787944,
+      "parts": [
+        {
+          "id": 6281,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_cassbikinibotttom",
+      "revision": 998787945,
+      "parts": [
+        {
+          "id": 6284,
+          "type": "lg"
+        }
+      ]
     }
   ]
 }
