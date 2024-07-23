@@ -1,4 +1,6 @@
 ﻿{
+  "navigator.flatctrls.userswithoutrights": "Sem direitos (%displayed%/%total%)",
+  "navigator.flatctrls.filterplaceholder": "Filtrar",
   "notification.reset.title": "Aviso",
   "notification.reset.message": "Placares resetados com sucesso!",
   "wiredfurni.params.texts.placeholder_preview": "Use-o digitando <font color='#FF0000'>%placeholder%</font> no texto wired.",
@@ -25541,5 +25543,7 @@
   "badge_name_SOFAPOLAR": "Raro Sofá Polar",
   "badge_desc_SOFAPOLAR": "Dole uma.. dole duas, dole três! O Sofá Polar é meu!",
   "badge_name_PT625": "Star de Ouro",
-  "badge_desc_PT625": "Tenho motivos para me autodeclarar a Estrela do Ano do Hubbe Hotel. "
+  "badge_desc_PT625": "Tenho motivos para me autodeclarar a Estrela do Ano do Hubbe Hotel. ",
+  "badge_name_SST04": "Meu Barquinho",
+  "badge_desc_SST04": "Com ele minhas aventuras marítimas se tornam melhores."
 }
