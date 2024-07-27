@@ -1,4 +1,22 @@
 ﻿{
+  "wiredfurni.params.freeze.cancel_on_teleport": "Descongelar ao teletransportar",
+  "wiredfurni.params.give_effect": "Escolha um efeito:",
+  "wiredfurni.params.removeeffect": "Remover efeito",
+  "wiredfurni.params.freeze.effect.0": "Nenhum",
+  "wiredfurni.params.freeze.effect.1": "Congelado",
+  "wiredfurni.params.freeze.effect.2": "Raio-X",
+  "wiredfurni.params.freeze.effect.3": "Passarinhos",
+  "wiredfurni.params.freeze.effect.4": "Armadilha",
+  "generic.deselectall": "Desselecionar todos",
+  "generic.selectall": "Selecionar todos",
+  "wiredfurni.params.team.usage": "Usar Time",
+  "wiredfurni.params.setscore.user": "Usuário alcança:",
+  "wiredfurni.params.setscore.team": "Time alcança:",
+  "wiredfurni.params.setpoints.custom": "Defina os pontos",
+  "wiredfurni.params.use_specific_name": "Especificar por nome(s)",
+  "widget.random_teleport.button.sync": "Vincular",
+  "wiredfurni.params.move.user": "Mover usuário",
+  "wiredfurni.params.rotate.user": "Girar usuário",
   "navigator.flatctrls.userswithoutrights": "Sem direitos (%displayed%/%total%)",
   "navigator.flatctrls.filterplaceholder": "Filtrar",
   "notification.reset.title": "Aviso",
@@ -25569,5 +25587,7 @@
   "badge_name_FRC46": "Mestre no colorindo",
   "badge_desc_FRC46": "Eu fui o TOP 1 no colorindo da Rádio Hubbe Mix.",
   "badge_name_ES893": "Participei do Colorindo",
-  "badge_desc_ES893": "Eu estive na abertura do Colorindo da Rádio Hubbe Mix."
+  "badge_desc_ES893": "Eu estive na abertura do Colorindo da Rádio Hubbe Mix.",
+  "badge_name_MELFEGON": "Gon e Melf",
+  "badge_desc_MELFEGON": "Já não existe palavras para descrever o nosso amor."
 }
