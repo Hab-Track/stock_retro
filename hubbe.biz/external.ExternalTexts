@@ -1,4 +1,8 @@
 ﻿{
+  "wiredfurni.params.collision.receive_all_users": "Receber todos usuários",
+  "wiredfurni.params.collision.random_user": "Escolher aleatoriamente",
+  "wiredfurni.params.copy_visual": "Copiar visual determinado",
+  "wiredfurni.params.copy_executor_visual": "Copiar visual do usuário ativador",
   "wiredfurni.params.freeze.cancel_on_teleport": "Descongelar ao teletransportar",
   "wiredfurni.params.give_effect": "Escolha um efeito:",
   "wiredfurni.params.removeeffect": "Remover efeito",
@@ -25613,5 +25617,19 @@
   "badge_name_US558": "Mariposa Preta",
   "badge_desc_US558": "Para alguns, causa espanto, mas é uma verdadeira obra da natureza!",
   "badge_name_PT770": "A bela Maleficentia",
-  "badge_desc_PT770": "Com minhas habilidades pude encontrar essa linda gata!"
+  "badge_desc_PT770": "Com minhas habilidades pude encontrar essa linda gata!",
+  "badge_name_ONERIVALSI": "Campeão Rivals I",
+  "badge_desc_ONERIVALSI": "Alcancei o título de campeão na primeira edição da Rivals, organizada pela federação ONE.",
+  "badge_name_ONERIVALSITOP1": "TOP #1 Rivals I",
+  "badge_desc_ONERIVALSITOP1": "Eleito o melhor jogador da posição na Rivals I, organizada pela federação ONE.",
+  "badge_name_ONERIVALSITOP2": "TOP #2 Rivals I",
+  "badge_desc_ONERIVALSITOP2": "Eleito o segundo melhor jogador da posição na Rivals I, organizada pela federação ONE.",
+  "badge_name_ONERIVALSITOP3": "TOP #3 Rivals I",
+  "badge_desc_ONERIVALSITOP3": "Eleito o terceiro melhor jogador da posição na Rivals I, organizada pela federação ONE.",
+  "badge_name_ES60I": "Constância Elemental",
+  "badge_desc_ES60I": "Se o mundo não para de girar, os elementos não param de trabalhar.",
+  "badge_name_VENTAMA": "Ventilador Amarelo",
+  "badge_desc_VENTAMA": "Nesse calor só um ventilador!",
+  "badge_name_PT02A": "Câmera Fotográfica",
+  "badge_desc_PT02A": "Capturando as mais belas paisagens."
 }
