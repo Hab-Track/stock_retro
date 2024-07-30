@@ -1,6 +1,64 @@
 ﻿{
   "libraries": [
     {
+      "id": "face_U_nftdummy2",
+      "revision": 180404,
+      "parts": [
+        {
+          "id": 6044,
+          "type": "fc"
+        },
+        {
+          "id": 6045,
+          "type": "fc"
+        },
+        {
+          "id": 6046,
+          "type": "fc"
+        },
+        {
+          "id": 6046,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftdummy1",
+      "revision": 180403,
+      "parts": [
+        {
+          "id": 6041,
+          "type": "fc"
+        },
+        {
+          "id": 6042,
+          "type": "fc"
+        },
+        {
+          "id": 6043,
+          "type": "fc"
+        },
+        {
+          "id": 6043,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftsummer24cap",
+      "revision": 180402,
+      "parts": [
+        {
+          "id": 5859,
+          "type": "ha"
+        },
+        {
+          "id": 5860,
+          "type": "ha"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_pala1",
       "revision": 180401,
       "parts": [
