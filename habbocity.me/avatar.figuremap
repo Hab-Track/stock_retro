@@ -1,6 +1,56 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_watermelonbag",
+      "revision": 180410,
+      "parts": [
+        {
+          "id": 10001,
+          "type": "ca"
+        },
+        {
+          "id": 10002,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "bsstonino_U_tavolabagnino",
+      "revision": 180409,
+      "parts": [
+        {
+          "id": 11111117,
+          "type": "cc"
+        },
+        {
+          "id": 11111117,
+          "type": "lc"
+        },
+        {
+          "id": 11111117,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_springbrimhat",
+      "revision": 180408,
+      "parts": [
+        {
+          "id": 180411,
+          "type": "ha"
+        },
+        {
+          "id": 180412,
+          "type": "ha"
+        },
+        {
+          "id": 180413,
+          "type": "ha"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_axeiuruwnbeachbucket",
       "revision": 180405,
       "parts": [
