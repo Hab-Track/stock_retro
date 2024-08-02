@@ -1,5 +1,5 @@
 ﻿{
-  "socket.url": "wss://server.hartico.tv:8443",
+  "socket.url": "wss://server.hartico.net:8443",
   "asset.url": "https://static.hartico.tv/nitrov2-assets",
   "image.library.url": "https://static.hartico.tv/c_images/",
   "hof.furni.url": "https://static.hartico.tv/dcr/hof_furni",
@@ -8,10 +8,10 @@
   "sounds.url": "${asset.url}/sounds/%sample%.mp3",
   "external.texts.url": [
     "https://housekeeping.hartico.tv/Settings/TextsNitro",
-    "${gamedata.url}/UITexts.json?2"
+    "${gamedata.url}/UITexts.json"
   ],
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
-  "furnidata.url": "${gamedata.url}/FurnitureData.json?1",
+  "furnidata.url": "${gamedata.url}/FurnitureData.json",
   "productdata.url": "${gamedata.url}/ProductData.json",
   "avatar.actions.url": "${gamedata.url}/HabboAvatarActions.json",
   "avatar.figuredata.url": "${gamedata.url}/FigureData.json",
