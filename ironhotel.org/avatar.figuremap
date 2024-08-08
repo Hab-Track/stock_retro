@@ -55325,6 +55325,172 @@
           "type": "rc"
         }
       ]
+    },
+    {
+      "id": "acc_head_U_eyepatch1",
+      "revision": 998787947,
+      "parts": [
+        {
+          "id": 510016,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_eyepatch2",
+      "revision": 998787948,
+      "parts": [
+        {
+          "id": 510020,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_rareselenadjusted",
+      "revision": 998787949,
+      "parts": [
+        {
+          "id": 85868191,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_OneeyeFace",
+      "revision": 998787950,
+      "parts": [
+        {
+          "id": 511711,
+          "type": "ea"
+        },
+        {
+          "id": 511712,
+          "type": "ea"
+        },
+        {
+          "id": 511713,
+          "type": "ea"
+        },
+        {
+          "id": 511714,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_featherbody",
+      "revision": 998787951,
+      "parts": [
+        {
+          "id": 5551,
+          "type": "ch"
+        },
+        {
+          "id": 5551,
+          "type": "ls"
+        },
+        {
+          "id": 5551,
+          "type": "rs"
+        },
+        {
+          "id": 5552,
+          "type": "ch"
+        },
+        {
+          "id": 5552,
+          "type": "ls"
+        },
+        {
+          "id": 5552,
+          "type": "rs"
+        },
+        {
+          "id": 5553,
+          "type": "ch"
+        },
+        {
+          "id": 5553,
+          "type": "ls"
+        },
+        {
+          "id": 5553,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_glowdress",
+      "revision": 998787952,
+      "parts": [
+        {
+          "id": 87454548,
+          "type": "ch"
+        },
+        {
+          "id": 87454549,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_axeiedowolfcut",
+      "revision": 998787953,
+      "parts": [
+        {
+          "id": 180261,
+          "type": "hr"
+        },
+        {
+          "id": 180262,
+          "type": "hr"
+        },
+        {
+          "id": 180263,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_pelofuckboy",
+      "revision": 998787954,
+      "parts": [
+        {
+          "id": 1000062,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_summercut",
+      "revision": 998787955,
+      "parts": [
+        {
+          "id": 577689,
+          "type": "hr"
+        },
+        {
+          "id": 577689,
+          "type": "hrb"
+        },
+        {
+          "id": 577690,
+          "type": "hr"
+        },
+        {
+          "id": 577690,
+          "type": "hrb"
+        },
+        {
+          "id": 577691,
+          "type": "hr"
+        },
+        {
+          "id": 577691,
+          "type": "hrb"
+        }
+      ]
     }
   ]
 }
