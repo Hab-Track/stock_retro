@@ -1,6 +1,128 @@
 ﻿{
   "libraries": [
     {
+      "id": "bsstonino_U_borsadellospedale",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 8800,
+          "type": "cc"
+        },
+        {
+          "id": 8800,
+          "type": "lc"
+        },
+        {
+          "id": 8800,
+          "type": "rc"
+        },
+        {
+          "id": 8801,
+          "type": "cc"
+        },
+        {
+          "id": 8801,
+          "type": "lc"
+        },
+        {
+          "id": 8801,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "bsstonino_U_borsafendi",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 7782,
+          "type": "lc"
+        },
+        {
+          "id": 7782,
+          "type": "rc"
+        },
+        {
+          "id": 7783,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "bsstonino_U_borsafendidilusso",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 8884,
+          "type": "lc"
+        },
+        {
+          "id": 8884,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "bsstonino_U_borsafendinspalla",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 98423423,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "bsstonino_U_borsettafendi",
+      "revision": 61156437,
+      "parts": [
+        {
+          "id": 39483578,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "bsstonino_U_cinturaoscura",
+      "revision": 61156484,
+      "parts": [
+        {
+          "id": 39483615,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "bsstonino_U_cinturacuore",
+      "revision": 61156491,
+      "parts": [
+        {
+          "id": 39483623,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "bsstonino_U_cinturavalentino",
+      "revision": 61156452,
+      "parts": [
+        {
+          "id": 39483592,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "bsstonino_U_cinturazucca",
+      "revision": 61156469,
+      "parts": [
+        {
+          "id": 39483602,
+          "type": "wa"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_tv24bolsoescolar",
       "revision": 7,
       "parts": [
