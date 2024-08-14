@@ -1,6 +1,214 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_toninodrinkshobba",
+      "revision": 180434,
+      "parts": [
+        {
+          "id": 28555664,
+          "type": "ca"
+        },
+        {
+          "id": 28555665,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_mattzainofarf",
+      "revision": 180433,
+      "parts": [
+        {
+          "id": 198312,
+          "type": "ca"
+        },
+        {
+          "id": 198313,
+          "type": "ca"
+        },
+        {
+          "id": 198314,
+          "type": "ca"
+        },
+        {
+          "id": 198315,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_mattghiaccio",
+      "revision": 180432,
+      "parts": [
+        {
+          "id": 665643,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_toninogiaccahobba2",
+      "revision": 180431,
+      "parts": [
+        {
+          "id": 4901062,
+          "type": "cc"
+        },
+        {
+          "id": 4901062,
+          "type": "lc"
+        },
+        {
+          "id": 4901062,
+          "type": "rc"
+        },
+        {
+          "id": 4901063,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_toninogiaccahobba1",
+      "revision": 180430,
+      "parts": [
+        {
+          "id": 66161762,
+          "type": "cc"
+        },
+        {
+          "id": 66161762,
+          "type": "lc"
+        },
+        {
+          "id": 66161762,
+          "type": "rc"
+        },
+        {
+          "id": 66161763,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_mattvolanti",
+      "revision": 180429,
+      "parts": [
+        {
+          "id": 189219,
+          "type": "rc"
+        },
+        {
+          "id": 189220,
+          "type": "rc"
+        },
+        {
+          "id": 189221,
+          "type": "rc"
+        },
+        {
+          "id": 189219,
+          "type": "lc"
+        },
+        {
+          "id": 189220,
+          "type": "lc"
+        },
+        {
+          "id": 189221,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_mattshurik",
+      "revision": 180428,
+      "parts": [
+        {
+          "id": 4537211,
+          "type": "rc"
+        },
+        {
+          "id": 4537212,
+          "type": "rc"
+        },
+        {
+          "id": 4537211,
+          "type": "lc"
+        },
+        {
+          "id": 4537212,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_mattcyborg",
+      "revision": 180427,
+      "parts": [
+        {
+          "id": 233592,
+          "type": "ha"
+        },
+        {
+          "id": 233593,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_mattgllswrd",
+      "revision": 180426,
+      "parts": [
+        {
+          "id": 897231,
+          "type": "wa"
+        },
+        {
+          "id": 897232,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_mattragnetto",
+      "revision": 180425,
+      "parts": [
+        {
+          "id": 989632,
+          "type": "he"
+        },
+        {
+          "id": 989633,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_toninocchialienhobba",
+      "revision": 180424,
+      "parts": [
+        {
+          "id": 49979318,
+          "type": "ea"
+        },
+        {
+          "id": 49979319,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_mattocchialonitunz",
+      "revision": 180423,
+      "parts": [
+        {
+          "id": 987531,
+          "type": "ea"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_tv24katana",
       "revision": 180422,
       "parts": [
