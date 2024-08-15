@@ -55897,6 +55897,52 @@
           "type": "fa"
         }
       ]
+    },
+    {
+      "id": "hair_U_lowtaper",
+      "revision": 998787979,
+      "parts": [
+        {
+          "id": 18025212,
+          "type": "hr"
+        },
+        {
+          "id": 18025212,
+          "type": "hrb"
+        },
+        {
+          "id": 18025313,
+          "type": "hr"
+        },
+        {
+          "id": 18025313,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_maiofeminino",
+      "revision": 998787980,
+      "parts": [
+        {
+          "id": 100000310,
+          "type": "ch"
+        },
+        {
+          "id": 100000311,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_axiedoshirtcollar",
+      "revision": 998787981,
+      "parts": [
+        {
+          "id": 1802151,
+          "type": "ca"
+        }
+      ]
     }
   ]
 }
