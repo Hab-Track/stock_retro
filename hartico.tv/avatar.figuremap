@@ -1,6 +1,626 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_toninocarotahobba",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 34336654,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_toninodrinkshobba",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 28555664,
+          "type": "ca"
+        },
+        {
+          "id": 28555665,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_toninohobbadragonite",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 44666111,
+          "type": "ca"
+        },
+        {
+          "id": 44666112,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_toninohobbaguantibox",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 24000384,
+          "type": "ca"
+        },
+        {
+          "id": 24000385,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_toninohobbampharos",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 44595111,
+          "type": "ca"
+        },
+        {
+          "id": 44595112,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_toninocchialienhobba",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 49979318,
+          "type": "ea"
+        },
+        {
+          "id": 49979319,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_idolmicrophone",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 913841,
+          "type": "he"
+        },
+        {
+          "id": 913842,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_RavenHobba",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 69420,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_F_WigGaga",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 395242,
+          "type": "hr"
+        },
+        {
+          "id": 395243,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_toninohobbablissey",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 3448334,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_toninohobbapolitoed",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 58312034,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_toninohobbaraichu",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 8922362,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_toninohobbarcanine",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 565514,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_toninopokangaskhan",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 11558462,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_espadagigante",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000651,
+          "type": "cc"
+        },
+        {
+          "id": 10000651,
+          "type": "lc"
+        },
+        {
+          "id": 10000651,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_GagaAccesory",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 382771,
+          "type": "cc"
+        },
+        {
+          "id": 382772,
+          "type": "lc"
+        },
+        {
+          "id": 382772,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_vestidomediaval",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000649,
+          "type": "lg"
+        },
+        {
+          "id": 10000650,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_acousticguitar",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6038,
+          "type": "ca"
+        },
+        {
+          "id": 6039,
+          "type": "ca"
+        },
+        {
+          "id": 6040,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_charmnecklace",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5772,
+          "type": "ca"
+        },
+        {
+          "id": 5773,
+          "type": "ca"
+        },
+        {
+          "id": 5774,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_floralguitar",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6024,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_prizedguitar",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6027,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_skullguitar",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6025,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_vibrantguitar",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6026,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_nftbonusshades",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6049,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_mexmoustache",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5775,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_beardday",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5869,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_roseinmouth",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5747,
+          "type": "fa"
+        },
+        {
+          "id": 5748,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_beautifulflowercrown",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5846,
+          "type": "he"
+        },
+        {
+          "id": 5847,
+          "type": "he"
+        },
+        {
+          "id": 5848,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_fluffyearrings",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5741,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_beautifulbraid",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5843,
+          "type": "hr"
+        },
+        {
+          "id": 5843,
+          "type": "hrb"
+        },
+        {
+          "id": 5844,
+          "type": "hr"
+        },
+        {
+          "id": 5844,
+          "type": "hrb"
+        },
+        {
+          "id": 5845,
+          "type": "hr"
+        },
+        {
+          "id": 5845,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_classicsombrero",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6050,
+          "type": "ha"
+        },
+        {
+          "id": 6051,
+          "type": "ha"
+        },
+        {
+          "id": 6052,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_sombrerose",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5849,
+          "type": "ha"
+        },
+        {
+          "id": 5850,
+          "type": "ha"
+        },
+        {
+          "id": 5851,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_mariachijacket",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6058,
+          "type": "cc"
+        },
+        {
+          "id": 6058,
+          "type": "lc"
+        },
+        {
+          "id": 6058,
+          "type": "rc"
+        },
+        {
+          "id": 6059,
+          "type": "cc"
+        },
+        {
+          "id": 6059,
+          "type": "lc"
+        },
+        {
+          "id": 6059,
+          "type": "rc"
+        },
+        {
+          "id": 6060,
+          "type": "cc"
+        },
+        {
+          "id": 6060,
+          "type": "lc"
+        },
+        {
+          "id": 6060,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_mariachijacket",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6055,
+          "type": "cc"
+        },
+        {
+          "id": 6055,
+          "type": "lc"
+        },
+        {
+          "id": 6055,
+          "type": "rc"
+        },
+        {
+          "id": 6056,
+          "type": "cc"
+        },
+        {
+          "id": 6056,
+          "type": "lc"
+        },
+        {
+          "id": 6056,
+          "type": "rc"
+        },
+        {
+          "id": 6057,
+          "type": "cc"
+        },
+        {
+          "id": 6057,
+          "type": "lc"
+        },
+        {
+          "id": 6057,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftsummerbird",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6047,
+          "type": "cc"
+        },
+        {
+          "id": 6047,
+          "type": "lc"
+        },
+        {
+          "id": 6047,
+          "type": "rc"
+        },
+        {
+          "id": 6048,
+          "type": "cc"
+        },
+        {
+          "id": 6048,
+          "type": "lc"
+        },
+        {
+          "id": 6048,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_traditionaldress",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5768,
+          "type": "ch"
+        },
+        {
+          "id": 5768,
+          "type": "ls"
+        },
+        {
+          "id": 5768,
+          "type": "rs"
+        },
+        {
+          "id": 5769,
+          "type": "ch"
+        },
+        {
+          "id": 5769,
+          "type": "ls"
+        },
+        {
+          "id": 5769,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_traditionaldress",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5770,
+          "type": "ch"
+        },
+        {
+          "id": 5770,
+          "type": "ls"
+        },
+        {
+          "id": 5770,
+          "type": "rs"
+        },
+        {
+          "id": 5771,
+          "type": "ch"
+        },
+        {
+          "id": 5771,
+          "type": "ls"
+        },
+        {
+          "id": 5771,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_mariachipants",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6053,
+          "type": "lg"
+        },
+        {
+          "id": 6054,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "bsstonino_U_capelliallamoda",
       "revision": 7,
       "parts": [
@@ -7766,6 +8386,48 @@
         },
         {
           "id": 5745,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_mercuryjacket",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5759,
+          "type": "cc"
+        },
+        {
+          "id": 5759,
+          "type": "lc"
+        },
+        {
+          "id": 5759,
+          "type": "rc"
+        },
+        {
+          "id": 5760,
+          "type": "cc"
+        },
+        {
+          "id": 5760,
+          "type": "lc"
+        },
+        {
+          "id": 5760,
+          "type": "rc"
+        },
+        {
+          "id": 5761,
+          "type": "cc"
+        },
+        {
+          "id": 5761,
+          "type": "lc"
+        },
+        {
+          "id": 5761,
           "type": "rc"
         }
       ]
