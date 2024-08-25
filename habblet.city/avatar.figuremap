@@ -1,6 +1,132 @@
 ﻿{
   "libraries": [
     {
+      "id": "shoes_U_Rodarteshoes",
+      "revision": 11466,
+      "parts": [
+        {
+          "id": 1337718,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_miuribbon",
+      "revision": 11465,
+      "parts": [
+        {
+          "id": 19192224,
+          "type": "ch"
+        },
+        {
+          "id": 19192224,
+          "type": "lc"
+        },
+        {
+          "id": 19192224,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_axeiflyingmew",
+      "revision": 11464,
+      "parts": [
+        {
+          "id": 180203,
+          "type": "lc"
+        },
+        {
+          "id": 180203,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_piggytailhair",
+      "revision": 11463,
+      "parts": [
+        {
+          "id": 4245245,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_axeiedolowtaper",
+      "revision": 11462,
+      "parts": [
+        {
+          "id": 180252,
+          "type": "hr"
+        },
+        {
+          "id": 180252,
+          "type": "hrb"
+        },
+        {
+          "id": 180253,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_axeiedowolfcut",
+      "revision": 11461,
+      "parts": [
+        {
+          "id": 180261,
+          "type": "hr"
+        },
+        {
+          "id": 180262,
+          "type": "hr"
+        },
+        {
+          "id": 180263,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_axeiedoSeongMeches",
+      "revision": 11460,
+      "parts": [
+        {
+          "id": 180213,
+          "type": "ha"
+        },
+        {
+          "id": 180214,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_colorbangs",
+      "revision": 11459,
+      "parts": [
+        {
+          "id": 1143413,
+          "type": "ha"
+        },
+        {
+          "id": 1143414,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_WolverineMask",
+      "revision": 11458,
+      "parts": [
+        {
+          "id": 645923456,
+          "type": "ha"
+        }
+      ]
+    },
+    {
       "id": "acc_face_U_beardday",
       "revision": 11457,
       "parts": [
