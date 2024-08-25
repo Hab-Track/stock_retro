@@ -1,6 +1,344 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_face_U_beardday",
+      "revision": 11457,
+      "parts": [
+        {
+          "id": 5869,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_mariachijacket",
+      "revision": 11456,
+      "parts": [
+        {
+          "id": 6058,
+          "type": "cc"
+        },
+        {
+          "id": 6058,
+          "type": "lc"
+        },
+        {
+          "id": 6058,
+          "type": "rc"
+        },
+        {
+          "id": 6059,
+          "type": "cc"
+        },
+        {
+          "id": 6060,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_mariachijacket",
+      "revision": 11455,
+      "parts": [
+        {
+          "id": 6055,
+          "type": "cc"
+        },
+        {
+          "id": 6055,
+          "type": "lc"
+        },
+        {
+          "id": 6055,
+          "type": "rc"
+        },
+        {
+          "id": 6056,
+          "type": "cc"
+        },
+        {
+          "id": 6057,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftsummerbird",
+      "revision": 11454,
+      "parts": [
+        {
+          "id": 6047,
+          "type": "cc"
+        },
+        {
+          "id": 6047,
+          "type": "lc"
+        },
+        {
+          "id": 6047,
+          "type": "rc"
+        },
+        {
+          "id": 6048,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_nftbonusshades",
+      "revision": 11453,
+      "parts": [
+        {
+          "id": 6049,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_charmnecklace",
+      "revision": 11452,
+      "parts": [
+        {
+          "id": 5772,
+          "type": "ca"
+        },
+        {
+          "id": 5773,
+          "type": "ca"
+        },
+        {
+          "id": 5774,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_mexmoustache",
+      "revision": 11451,
+      "parts": [
+        {
+          "id": 5775,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_roseinmouth",
+      "revision": 11450,
+      "parts": [
+        {
+          "id": 5747,
+          "type": "fa"
+        },
+        {
+          "id": 5748,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_fluffyearrings",
+      "revision": 11449,
+      "parts": [
+        {
+          "id": 5741,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_beautifulflowercrown",
+      "revision": 11448,
+      "parts": [
+        {
+          "id": 5846,
+          "type": "he"
+        },
+        {
+          "id": 5847,
+          "type": "he"
+        },
+        {
+          "id": 5848,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_beautifulbraid",
+      "revision": 11447,
+      "parts": [
+        {
+          "id": 5843,
+          "type": "hr"
+        },
+        {
+          "id": 5843,
+          "type": "hrb"
+        },
+        {
+          "id": 5844,
+          "type": "hr"
+        },
+        {
+          "id": 5845,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_mariachipants",
+      "revision": 11446,
+      "parts": [
+        {
+          "id": 6053,
+          "type": "lg"
+        },
+        {
+          "id": 6054,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_traditionaldress",
+      "revision": 11444,
+      "parts": [
+        {
+          "id": 5768,
+          "type": "ch"
+        },
+        {
+          "id": 5768,
+          "type": "ls"
+        },
+        {
+          "id": 5768,
+          "type": "rs"
+        },
+        {
+          "id": 5769,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_traditionaldress",
+      "revision": 11443,
+      "parts": [
+        {
+          "id": 5770,
+          "type": "ch"
+        },
+        {
+          "id": 5770,
+          "type": "ls"
+        },
+        {
+          "id": 5770,
+          "type": "rs"
+        },
+        {
+          "id": 5771,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_sombrerose",
+      "revision": 11442,
+      "parts": [
+        {
+          "id": 5849,
+          "type": "ha"
+        },
+        {
+          "id": 5850,
+          "type": "ha"
+        },
+        {
+          "id": 5851,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_classicsombrero",
+      "revision": 11441,
+      "parts": [
+        {
+          "id": 6050,
+          "type": "ha"
+        },
+        {
+          "id": 6051,
+          "type": "ha"
+        },
+        {
+          "id": 6052,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_prizedguitar",
+      "revision": 11440,
+      "parts": [
+        {
+          "id": 6027,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_vibrantguitar",
+      "revision": 11439,
+      "parts": [
+        {
+          "id": 6026,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_skullguitar",
+      "revision": 11438,
+      "parts": [
+        {
+          "id": 6025,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_floralguitar",
+      "revision": 11437,
+      "parts": [
+        {
+          "id": 6024,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_acousticguitar",
+      "revision": 11436,
+      "parts": [
+        {
+          "id": 6038,
+          "type": "ca"
+        },
+        {
+          "id": 6039,
+          "type": "ca"
+        },
+        {
+          "id": 6040,
+          "type": "ca"
+        }
+      ]
+    },
+    {
       "id": "trousers_U_tvpiernasdeaire",
       "revision": 11435,
       "parts": [
