@@ -2395,6 +2395,10 @@
         {
           "id": 50090,
           "type": "ca"
+        },
+        {
+          "id": 50091,
+          "type": "ca"
         }
       ]
     },
@@ -7749,48 +7753,6 @@
       ]
     },
     {
-      "id": "jacket_M_mercuryjacket",
-      "revision": 7,
-      "parts": [
-        {
-          "id": 5759,
-          "type": "cc"
-        },
-        {
-          "id": 5759,
-          "type": "lc"
-        },
-        {
-          "id": 5759,
-          "type": "rc"
-        },
-        {
-          "id": 5760,
-          "type": "cc"
-        },
-        {
-          "id": 5760,
-          "type": "lc"
-        },
-        {
-          "id": 5760,
-          "type": "rc"
-        },
-        {
-          "id": 5761,
-          "type": "cc"
-        },
-        {
-          "id": 5761,
-          "type": "lc"
-        },
-        {
-          "id": 5761,
-          "type": "rc"
-        }
-      ]
-    },
-    {
       "id": "jacket_M_nftpompomcardigan",
       "revision": 7,
       "parts": [
@@ -7879,39 +7841,39 @@
       "revision": 7,
       "parts": [
         {
-          "id": 5757,
+          "id": 5557,
           "type": "cc"
         },
         {
-          "id": 5757,
+          "id": 5557,
           "type": "lc"
         },
         {
-          "id": 5757,
+          "id": 5557,
           "type": "rc"
         },
         {
-          "id": 5758,
+          "id": 5558,
           "type": "cc"
         },
         {
-          "id": 5758,
+          "id": 5558,
           "type": "lc"
         },
         {
-          "id": 5758,
+          "id": 5558,
           "type": "rc"
         },
         {
-          "id": 5759,
+          "id": 5559,
           "type": "cc"
         },
         {
-          "id": 5759,
+          "id": 5559,
           "type": "lc"
         },
         {
-          "id": 5759,
+          "id": 5559,
           "type": "rc"
         }
       ]
@@ -34290,16 +34252,6 @@
         },
         {
           "id": 4987,
-          "type": "ca"
-        }
-      ]
-    },
-    {
-      "id": "acc_chest_U_sepr",
-      "revision": 987462886,
-      "parts": [
-        {
-          "id": 3949,
           "type": "ca"
         }
       ]
