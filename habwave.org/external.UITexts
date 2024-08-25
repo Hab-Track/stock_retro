@@ -55,7 +55,7 @@
   "notification.hotel.event.alert": "Event",
   "notification.hotel.event.linkTitle": "Go to: %ROOMNAME%",
   "notification.hotel.event.linkUrl": "event:navigator/goto/%ROOMID%",
-  "notification.hotel.event.message": "<div style='padding: 10px;border-radius: 5px;max-height: 100px;max-width: 260px;'><div style='width: 238px;'>%MESSAGE%</div><br>- <b>%USERNAME%</b><div style='background: url(https://imager.habda.sh/?figure=%LOOK%&amp;direction=4&amp;head_direction=3&amp;gesture=spk&amp;img_format=gif), #fff; background-repeat: no-repeat; height: 63px; width: 63px; margin-top: -5px; border: 1px solid #000; background-position: -4px -22px; border-radius: 6px; float: right;'></div>",
+  "notification.hotel.event.message": "<div style='padding: 10px;border-radius: 5px;max-height: 100px;max-width: 260px;'><div style='width: 238px;'>%MESSAGE%</div><br>- <b>%USERNAME%</b><div style='background: url(https://imager.habwave.org/?figure=%LOOK%&amp;direction=4&amp;head_direction=3&amp;gesture=spk&amp;img_format=gif), #fff; background-repeat: no-repeat; height: 63px; width: 63px; margin-top: -5px; border: 1px solid #000; background-position: -4px -22px; border-radius: 6px; float: right;'></div>",
   "extendedprofile.created": "Created:",
   "extendedprofile.last.login": "Last Login:",
   "extendedprofile.achievementscore": "Achievement Score:",
