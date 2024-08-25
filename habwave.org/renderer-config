@@ -1,8 +1,8 @@
 ﻿{
-  "zipto.wsock.url": "wss://proxy.habda.sh:6969",
-  "asset.url": "https://assets.habda.sh/n-assets",
-  "image.library.url": "https://assets.habda.sh/swf/c_images/",
-  "hof.furni.url": "https://assets.habda.sh/swf/dcr/hof_furni",
+  "zipto.wsock.url": "wss://proxy.habwave.org:6969",
+  "asset.url": "https://assets.habwave.org/n-assets",
+  "image.library.url": "https://assets.habwave.org/swf/c_images/",
+  "hof.furni.url": "https://assets.habwave.org/swf/dcr/hof_furni",
   "images.url": "${asset.url}/images",
   "gamedata.url": "${asset.url}/gamedata",
   "sounds.url": "${asset.url}/sounds/%sample%.mp3",
@@ -58,43 +58,43 @@
   "bar.users.list.commands": [
     {
       "command": "snog",
-      "icon": "https://image.habda.sh/baricons/kiss.png",
+      "icon": "https://image.habwave.org/baricons/kiss.png",
       "info": "Kiss",
       "VIP": false
     },
     {
       "command": "hug",
-      "icon": "https://image.habda.sh/baricons/hug.png",
+      "icon": "https://image.habwave.org/baricons/hug.png",
       "info": "Hug",
       "VIP": false
     },
     {
       "command": "slime",
-      "icon": "https://image.habda.sh/baricons/slime.png",
+      "icon": "https://image.habwave.org/baricons/slime.png",
       "info": "Slime",
       "VIP": false
     },
     {
       "command": "nuke",
-      "icon": "https://image.habda.sh/baricons/nuke.png",
+      "icon": "https://image.habwave.org/baricons/nuke.png",
       "info": "Nuke",
       "VIP": false
     },
     {
       "command": "spull",
-      "icon": "https://image.habda.sh/baricons/VIP/SPULL.png",
+      "icon": "https://image.habwave.org/baricons/VIP/SPULL.png",
       "info": "Spull",
       "VIP": true
     },
     {
       "command": "rko",
-      "icon": "https://image.habda.sh/baricons/VIP/RKO.png",
+      "icon": "https://image.habwave.org/baricons/VIP/RKO.png",
       "info": "Rko",
       "VIP": true
     },
     {
       "command": "chokeslam",
-      "icon": "https://image.habda.sh/baricons/VIP/CHOKESLAM.png",
+      "icon": "https://image.habwave.org/baricons/VIP/CHOKESLAM.png",
       "info": "Chokeslam",
       "VIP": true
     }
@@ -104,25 +104,25 @@
   "bar.staff.list.commands": [
     {
       "command": "userinfo",
-      "icon": "https://image.habda.sh/baricons/staff/USERINFO.png",
+      "icon": "https://image.habwave.org/baricons/staff/USERINFO.png",
       "textbox": false,
       "info": "UserInfo"
     },
     {
       "command": "alert",
-      "icon": "https://image.habda.sh/baricons/staff/ALERT.png",
+      "icon": "https://image.habwave.org/baricons/staff/ALERT.png",
       "textbox": true,
       "info": "Alert"
     },
     {
       "command": "mip",
-      "icon": "https://image.habda.sh/baricons/staff/MIP.png",
+      "icon": "https://image.habwave.org/baricons/staff/MIP.png",
       "textbox": true,
       "info": "IP Ban with reason "
     },
     {
       "command": "paygame",
-      "icon": "https://image.habda.sh/baricons/staff/PAYGAME.png",
+      "icon": "https://image.habwave.org/baricons/staff/PAYGAME.png",
       "textbox": false,
       "info": "PayGame"
     }
