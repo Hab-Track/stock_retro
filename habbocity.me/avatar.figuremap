@@ -1,6 +1,208 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_tv24pesas",
+      "revision": 180476,
+      "parts": [
+        {
+          "id": 10000692,
+          "type": "rc"
+        },
+        {
+          "id": 10000692,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv24camisaenllamas",
+      "revision": 180475,
+      "parts": [
+        {
+          "id": 10000677,
+          "type": "ch"
+        },
+        {
+          "id": 10000678,
+          "type": "ch"
+        },
+        {
+          "id": 10000679,
+          "type": "ls"
+        },
+        {
+          "id": 10000679,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv24mangasdeluxe",
+      "revision": 180474,
+      "parts": [
+        {
+          "id": 10000687,
+          "type": "ls"
+        },
+        {
+          "id": 10000687,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv24sweaterdeluxe",
+      "revision": 180473,
+      "parts": [
+        {
+          "id": 10000688,
+          "type": "ch"
+        },
+        {
+          "id": 10000689,
+          "type": "ls"
+        },
+        {
+          "id": 10000689,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv24faldaabrochada",
+      "revision": 180472,
+      "parts": [
+        {
+          "id": 10000685,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv24shortscargo",
+      "revision": 180471,
+      "parts": [
+        {
+          "id": 10000693,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv24collargoldgucci",
+      "revision": 180470,
+      "parts": [
+        {
+          "id": 10000683,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv24espadacelestial",
+      "revision": 180469,
+      "parts": [
+        {
+          "id": 10000684,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv24mochilacuete",
+      "revision": 180468,
+      "parts": [
+        {
+          "id": 10000703,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv24bandanadeportiva",
+      "revision": 180467,
+      "parts": [
+        {
+          "id": 10000673,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv24listonderegalo",
+      "revision": 180466,
+      "parts": [
+        {
+          "id": 10000704,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv24pendientesgucci",
+      "revision": 180465,
+      "parts": [
+        {
+          "id": 10000690,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv24viserabicolor",
+      "revision": 180464,
+      "parts": [
+        {
+          "id": 10000697,
+          "type": "ha"
+        },
+        {
+          "id": 10000698,
+          "type": "ha"
+        },
+        {
+          "id": 10000699,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftgiftbox",
+      "revision": 180461,
+      "parts": [
+        {
+          "id": 180461,
+          "type": "cc"
+        },
+        {
+          "id": 180462,
+          "type": "cc"
+        },
+        {
+          "id": 180463,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftgiftbox",
+      "revision": 180458,
+      "parts": [
+        {
+          "id": 180458,
+          "type": "ha"
+        },
+        {
+          "id": 180459,
+          "type": "ha"
+        },
+        {
+          "id": 180460,
+          "type": "ha"
+        }
+      ]
+    },
+    {
       "id": "shirt_M_traditionaldress",
       "revision": 180457,
       "parts": [
