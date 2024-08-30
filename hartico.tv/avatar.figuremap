@@ -1,6 +1,138 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_face_U_nftnacho",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6068,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftchili1",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6069,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftchili2",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6070,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftchili3",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6071,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftcurlybun",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6072,
+          "type": "hr"
+        },
+        {
+          "id": 6072,
+          "type": "hrb"
+        },
+        {
+          "id": 6073,
+          "type": "hr"
+        },
+        {
+          "id": 6073,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftbroccolicut",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6074,
+          "type": "hr"
+        },
+        {
+          "id": 6074,
+          "type": "hrb"
+        },
+        {
+          "id": 6075,
+          "type": "hr"
+        },
+        {
+          "id": 6075,
+          "type": "hrb"
+        },
+        {
+          "id": 6076,
+          "type": "hr"
+        },
+        {
+          "id": 6076,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftgiftbox",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5529,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftgiftbox2",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5531,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftgiftbox",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5528,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftgiftbox2",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5530,
+          "type": "cc"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_axeisaccasablanca",
       "revision": 7,
       "parts": [
