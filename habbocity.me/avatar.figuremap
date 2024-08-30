@@ -1,6 +1,82 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_face_U_nftchili",
+      "revision": 180481,
+      "parts": [
+        {
+          "id": 180481,
+          "type": "fa"
+        },
+        {
+          "id": 180482,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftnacho",
+      "revision": 180480,
+      "parts": [
+        {
+          "id": 6068,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftbroccolicut",
+      "revision": 180479,
+      "parts": [
+        {
+          "id": 6074,
+          "type": "hr"
+        },
+        {
+          "id": 6074,
+          "type": "hrb"
+        },
+        {
+          "id": 6075,
+          "type": "hr"
+        },
+        {
+          "id": 6075,
+          "type": "hrb"
+        },
+        {
+          "id": 6076,
+          "type": "hr"
+        },
+        {
+          "id": 6076,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftcurlybun",
+      "revision": 180478,
+      "parts": [
+        {
+          "id": 6072,
+          "type": "hr"
+        },
+        {
+          "id": 6072,
+          "type": "hrb"
+        },
+        {
+          "id": 6073,
+          "type": "hr"
+        },
+        {
+          "id": 6073,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_axeiseanmymelody",
       "revision": 180477,
       "parts": [
@@ -70,15 +146,15 @@
       "parts": [
         {
           "id": 10000688,
-          "type": "ch"
+          "type": "cc"
         },
         {
           "id": 10000689,
-          "type": "ls"
+          "type": "lc"
         },
         {
           "id": 10000689,
-          "type": "rs"
+          "type": "rc"
         }
       ]
     },
