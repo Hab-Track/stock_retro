@@ -1,6 +1,486 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_ghostbackpack",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5886,
+          "type": "ca"
+        },
+        {
+          "id": 5887,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_jamtoastbackpack",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6103,
+          "type": "ca"
+        },
+        {
+          "id": 6104,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_leatherbackpack",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5884,
+          "type": "ca"
+        },
+        {
+          "id": 5885,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_neonpartyacc",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6061,
+          "type": "ca"
+        },
+        {
+          "id": 6062,
+          "type": "ca"
+        },
+        {
+          "id": 6063,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftdragonwings",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6105,
+          "type": "ca"
+        },
+        {
+          "id": 6106,
+          "type": "ca"
+        },
+        {
+          "id": 6107,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_spiderbackpack",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6018,
+          "type": "ca"
+        },
+        {
+          "id": 6019,
+          "type": "ca"
+        },
+        {
+          "id": 6020,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_neonpartyacc",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6064,
+          "type": "ea"
+        },
+        {
+          "id": 6065,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_neondevilmaskgreen",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6021,
+          "type": "fa"
+        },
+        {
+          "id": 6022,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_catwoman",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6009,
+          "type": "he"
+        },
+        {
+          "id": 6010,
+          "type": "he"
+        },
+        {
+          "id": 6011,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_neonpartyacc",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6066,
+          "type": "he"
+        },
+        {
+          "id": 6067,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nfteyebow",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6079,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_bloodycrown",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6023,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_neonpartyhat",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5863,
+          "type": "ha"
+        },
+        {
+          "id": 5864,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_bloodypromtux",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5875,
+          "type": "cc"
+        },
+        {
+          "id": 5875,
+          "type": "lc"
+        },
+        {
+          "id": 5875,
+          "type": "rc"
+        },
+        {
+          "id": 5876,
+          "type": "cc"
+        },
+        {
+          "id": 5876,
+          "type": "lc"
+        },
+        {
+          "id": 5876,
+          "type": "rc"
+        },
+        {
+          "id": 5877,
+          "type": "cc"
+        },
+        {
+          "id": 5877,
+          "type": "lc"
+        },
+        {
+          "id": 5877,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_bloodypromtux",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5872,
+          "type": "cc"
+        },
+        {
+          "id": 5872,
+          "type": "lc"
+        },
+        {
+          "id": 5872,
+          "type": "rc"
+        },
+        {
+          "id": 5873,
+          "type": "cc"
+        },
+        {
+          "id": 5873,
+          "type": "lc"
+        },
+        {
+          "id": 5873,
+          "type": "rc"
+        },
+        {
+          "id": 5874,
+          "type": "cc"
+        },
+        {
+          "id": 5874,
+          "type": "lc"
+        },
+        {
+          "id": 5874,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_ghostfriend",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5888,
+          "type": "cc"
+        },
+        {
+          "id": 5888,
+          "type": "lc"
+        },
+        {
+          "id": 5888,
+          "type": "rc"
+        },
+        {
+          "id": 5889,
+          "type": "cc"
+        },
+        {
+          "id": 5889,
+          "type": "lc"
+        },
+        {
+          "id": 5889,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_bloodypromdress",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5878,
+          "type": "ch"
+        },
+        {
+          "id": 5878,
+          "type": "ls"
+        },
+        {
+          "id": 5878,
+          "type": "rs"
+        },
+        {
+          "id": 5879,
+          "type": "ch"
+        },
+        {
+          "id": 5879,
+          "type": "ls"
+        },
+        {
+          "id": 5879,
+          "type": "rs"
+        },
+        {
+          "id": 5880,
+          "type": "ch"
+        },
+        {
+          "id": 5880,
+          "type": "ls"
+        },
+        {
+          "id": 5880,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_catwoman",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6012,
+          "type": "ch"
+        },
+        {
+          "id": 6012,
+          "type": "ls"
+        },
+        {
+          "id": 6012,
+          "type": "rs"
+        },
+        {
+          "id": 6013,
+          "type": "ch"
+        },
+        {
+          "id": 6013,
+          "type": "ls"
+        },
+        {
+          "id": 6013,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_bloodypromdress",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5881,
+          "type": "ch"
+        },
+        {
+          "id": 5881,
+          "type": "ls"
+        },
+        {
+          "id": 5881,
+          "type": "rs"
+        },
+        {
+          "id": 5882,
+          "type": "ch"
+        },
+        {
+          "id": 5882,
+          "type": "ls"
+        },
+        {
+          "id": 5882,
+          "type": "rs"
+        },
+        {
+          "id": 5883,
+          "type": "ch"
+        },
+        {
+          "id": 5883,
+          "type": "ls"
+        },
+        {
+          "id": 5883,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_catwoman",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6014,
+          "type": "ch"
+        },
+        {
+          "id": 6014,
+          "type": "ls"
+        },
+        {
+          "id": 6014,
+          "type": "rs"
+        },
+        {
+          "id": 6015,
+          "type": "ch"
+        },
+        {
+          "id": 6015,
+          "type": "ls"
+        },
+        {
+          "id": 6015,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_batboots",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5860,
+          "type": "sh"
+        },
+        {
+          "id": 5861,
+          "type": "sh"
+        },
+        {
+          "id": 5862,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_bloodypromtrousers",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5870,
+          "type": "lg"
+        },
+        {
+          "id": 5871,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_tv24bolsopanda",
       "revision": 7,
       "parts": [
