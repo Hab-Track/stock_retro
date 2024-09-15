@@ -56573,6 +56573,324 @@
           "type": "ha"
         }
       ]
+    },
+    {
+      "id": "acc_waist_U_axeiedowaistskirt",
+      "revision": 998788017,
+      "parts": [
+        {
+          "id": 180013,
+          "type": "wa"
+        },
+        {
+          "id": 180014,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_bandanadeportiva",
+      "revision": 998788018,
+      "parts": [
+        {
+          "id": 10000673,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_axeiedoscar4",
+      "revision": 998788019,
+      "parts": [
+        {
+          "id": 180035,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_axeiedoobitoscar",
+      "revision": 998788020,
+      "parts": [
+        {
+          "id": 180037,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_axeiedoscar5",
+      "revision": 998788021,
+      "parts": [
+        {
+          "id": 180036,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_CeCeHandbag",
+      "revision": 998788022,
+      "parts": [
+        {
+          "id": 1223424243,
+          "type": "ca"
+        },
+        {
+          "id": 2147483647,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv24bolsoescolar",
+      "revision": 998788023,
+      "parts": [
+        {
+          "id": 10000594,
+          "type": "ca"
+        },
+        {
+          "id": 10000595,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_techbag",
+      "revision": 998788024,
+      "parts": [
+        {
+          "id": 5607,
+          "type": "ca"
+        },
+        {
+          "id": 5608,
+          "type": "ca"
+        },
+        {
+          "id": 5609,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_F_decotao",
+      "revision": 998788025,
+      "parts": [
+        {
+          "id": 173943,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_tvbotasnakedwolfe",
+      "revision": 998788026,
+      "parts": [
+        {
+          "id": 180105,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_whitesweater",
+      "revision": 998788027,
+      "parts": [
+        {
+          "id": 5023234,
+          "type": "ls"
+        },
+        {
+          "id": 5023234,
+          "type": "rs"
+        },
+        {
+          "id": 5023235,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tvcamisetaremangada",
+      "revision": 998788028,
+      "parts": [
+        {
+          "id": 10000558,
+          "type": "ch"
+        },
+        {
+          "id": 10000559,
+          "type": "ls"
+        },
+        {
+          "id": 10000559,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv24studentsweater",
+      "revision": 998788029,
+      "parts": [
+        {
+          "id": 10000616,
+          "type": "ch"
+        },
+        {
+          "id": 10000617,
+          "type": "ls"
+        },
+        {
+          "id": 10000617,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv24starsweater",
+      "revision": 998788030,
+      "parts": [
+        {
+          "id": 10000610,
+          "type": "ch"
+        },
+        {
+          "id": 10000611,
+          "type": "ch"
+        },
+        {
+          "id": 10000612,
+          "type": "ls"
+        },
+        {
+          "id": 10000612,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv24heavysweater",
+      "revision": 998788031,
+      "parts": [
+        {
+          "id": 10000601,
+          "type": "ch"
+        },
+        {
+          "id": 10000602,
+          "type": "ls"
+        },
+        {
+          "id": 10000602,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tvcrop4men",
+      "revision": 998788032,
+      "parts": [
+        {
+          "id": 10000597,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_fntop",
+      "revision": 998788033,
+      "parts": [
+        {
+          "id": 6102,
+          "type": "ch"
+        },
+        {
+          "id": 6103,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_camisaenllamas",
+      "revision": 998788034,
+      "parts": [
+        {
+          "id": 10000677,
+          "type": "ch"
+        },
+        {
+          "id": 10000678,
+          "type": "ch"
+        },
+        {
+          "id": 10000679,
+          "type": "ls"
+        },
+        {
+          "id": 10000679,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_cobija",
+      "revision": 998788035,
+      "parts": [
+        {
+          "id": 10000247,
+          "type": "cc"
+        },
+        {
+          "id": 10000248,
+          "type": "lc"
+        },
+        {
+          "id": 10000248,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_Parca",
+      "revision": 998788036,
+      "parts": [
+        {
+          "id": 69450,
+          "type": "cc"
+        },
+        {
+          "id": 69450,
+          "type": "lc"
+        },
+        {
+          "id": 69450,
+          "type": "rc"
+        },
+        {
+          "id": 69451,
+          "type": "cc"
+        },
+        {
+          "id": 69451,
+          "type": "lc"
+        },
+        {
+          "id": 69451,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_AkumaZoanAwaken",
+      "revision": 998788037,
+      "parts": [
+        {
+          "id": 10001269,
+          "type": "he"
+        }
+      ]
     }
   ]
 }
