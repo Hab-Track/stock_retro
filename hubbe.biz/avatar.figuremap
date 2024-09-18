@@ -86584,20 +86584,6 @@
       ]
     },
     {
-      "id": "trousers_U_tvshortsnike",
-      "revision": 990002769,
-      "parts": [
-        {
-          "id": 10000569,
-          "type": "lg"
-        },
-        {
-          "id": 10000570,
-          "type": "lg"
-        }
-      ]
-    },
-    {
       "id": "acc_chest_U_tvzorro9colas",
       "revision": 990002770,
       "parts": [
@@ -89382,6 +89368,20 @@
         {
           "id": 180413,
           "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tvshortsnike",
+      "revision": 65678,
+      "parts": [
+        {
+          "id": 10000569,
+          "type": "lg"
+        },
+        {
+          "id": 10000570,
+          "type": "lg"
         }
       ]
     }
