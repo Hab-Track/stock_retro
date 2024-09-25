@@ -1,6 +1,1528 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_M_tshirt_pnlhb",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 3075,
+          "type": "ch"
+        },
+        {
+          "id": 3075,
+          "type": "ls"
+        },
+        {
+          "id": 3075,
+          "type": "rs"
+        },
+        {
+          "id": 3076,
+          "type": "ch"
+        },
+        {
+          "id": 3076,
+          "type": "ls"
+        },
+        {
+          "id": 3076,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_tshirt_sum2",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5968,
+          "type": "ch"
+        },
+        {
+          "id": 5968,
+          "type": "ls"
+        },
+        {
+          "id": 5968,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_tshirt_unicorn",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6770,
+          "type": "ch"
+        },
+        {
+          "id": 6770,
+          "type": "ls"
+        },
+        {
+          "id": 6770,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_tunis",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 4039,
+          "type": "ch"
+        },
+        {
+          "id": 4039,
+          "type": "ls"
+        },
+        {
+          "id": 4039,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_barsa",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 4015,
+          "type": "ch"
+        },
+        {
+          "id": 4015,
+          "type": "ls"
+        },
+        {
+          "id": 4015,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_congo",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 4037,
+          "type": "ch"
+        },
+        {
+          "id": 4037,
+          "type": "ls"
+        },
+        {
+          "id": 4037,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_egypt",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 4036,
+          "type": "ch"
+        },
+        {
+          "id": 4036,
+          "type": "ls"
+        },
+        {
+          "id": 4036,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_juven",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 4044,
+          "type": "ch"
+        },
+        {
+          "id": 4044,
+          "type": "ls"
+        },
+        {
+          "id": 4044,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_ofhxcruz",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 77321,
+          "type": "ch"
+        },
+        {
+          "id": 77322,
+          "type": "ls"
+        },
+        {
+          "id": 77322,
+          "type": "rs"
+        },
+        {
+          "id": 77323,
+          "type": "ls"
+        },
+        {
+          "id": 77323,
+          "type": "rs"
+        },
+        {
+          "id": 77324,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_ofhxrastros",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 74321,
+          "type": "ch"
+        },
+        {
+          "id": 74322,
+          "type": "ls"
+        },
+        {
+          "id": 74322,
+          "type": "rs"
+        },
+        {
+          "id": 74323,
+          "type": "ch"
+        },
+        {
+          "id": 74323,
+          "type": "ls"
+        },
+        {
+          "id": 74323,
+          "type": "rs"
+        },
+        {
+          "id": 74324,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_ofhxfaixa",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 13170,
+          "type": "ch"
+        },
+        {
+          "id": 13170,
+          "type": "ls"
+        },
+        {
+          "id": 13170,
+          "type": "rs"
+        },
+        {
+          "id": 13171,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_ofhxpolo",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 76325,
+          "type": "ch"
+        },
+        {
+          "id": 76326,
+          "type": "ls"
+        },
+        {
+          "id": 76326,
+          "type": "rs"
+        },
+        {
+          "id": 76327,
+          "type": "ls"
+        },
+        {
+          "id": 76327,
+          "type": "rs"
+        },
+        {
+          "id": 76328,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_ofhxredondo",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 99971,
+          "type": "ch"
+        },
+        {
+          "id": 99972,
+          "type": "ls"
+        },
+        {
+          "id": 99972,
+          "type": "rs"
+        },
+        {
+          "id": 99973,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_ofhxtopper",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 555881,
+          "type": "ch"
+        },
+        {
+          "id": 555882,
+          "type": "ls"
+        },
+        {
+          "id": 555882,
+          "type": "rs"
+        },
+        {
+          "id": 555884,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_ferrarishirt",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 491194,
+          "type": "ch"
+        },
+        {
+          "id": 491194,
+          "type": "ls"
+        },
+        {
+          "id": 491194,
+          "type": "rs"
+        },
+        {
+          "id": 491195,
+          "type": "ch"
+        },
+        {
+          "id": 491195,
+          "type": "ls"
+        },
+        {
+          "id": 491195,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_lyon1",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 4120,
+          "type": "ch"
+        },
+        {
+          "id": 4120,
+          "type": "ls"
+        },
+        {
+          "id": 4120,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_manch",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 4122,
+          "type": "ch"
+        },
+        {
+          "id": 4122,
+          "type": "ls"
+        },
+        {
+          "id": 4122,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_manud",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 4123,
+          "type": "ch"
+        },
+        {
+          "id": 4123,
+          "type": "ls"
+        },
+        {
+          "id": 4123,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_manud",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 4023,
+          "type": "ch"
+        },
+        {
+          "id": 4023,
+          "type": "ls"
+        },
+        {
+          "id": 4023,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_Laker",
+      "revision": 987463003,
+      "parts": [
+        {
+          "id": 5054,
+          "type": "ch"
+        },
+        {
+          "id": 5054,
+          "type": "ls"
+        },
+        {
+          "id": 5054,
+          "type": "rs"
+        },
+        {
+          "id": 5055,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_Laker",
+      "revision": 987463004,
+      "parts": [
+        {
+          "id": 5056,
+          "type": "ch"
+        },
+        {
+          "id": 5056,
+          "type": "ls"
+        },
+        {
+          "id": 5056,
+          "type": "rs"
+        },
+        {
+          "id": 5057,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_Rapto",
+      "revision": 987463007,
+      "parts": [
+        {
+          "id": 5062,
+          "type": "ch"
+        },
+        {
+          "id": 5062,
+          "type": "ls"
+        },
+        {
+          "id": 5062,
+          "type": "rs"
+        },
+        {
+          "id": 5063,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_Rapto",
+      "revision": 987463008,
+      "parts": [
+        {
+          "id": 5064,
+          "type": "ch"
+        },
+        {
+          "id": 5064,
+          "type": "ls"
+        },
+        {
+          "id": 5064,
+          "type": "rs"
+        },
+        {
+          "id": 5065,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_athle",
+      "revision": 987462953,
+      "parts": [
+        {
+          "id": 4014,
+          "type": "ch"
+        },
+        {
+          "id": 4014,
+          "type": "ls"
+        },
+        {
+          "id": 4014,
+          "type": "rs"
+        },
+        {
+          "id": 4014,
+          "type": "ch"
+        },
+        {
+          "id": 4014,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_chels",
+      "revision": 987462954,
+      "parts": [
+        {
+          "id": 4016,
+          "type": "ch"
+        },
+        {
+          "id": 4016,
+          "type": "ls"
+        },
+        {
+          "id": 4016,
+          "type": "rs"
+        },
+        {
+          "id": 4016,
+          "type": "ch"
+        },
+        {
+          "id": 4016,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_inter",
+      "revision": 987462956,
+      "parts": [
+        {
+          "id": 4018,
+          "type": "ch"
+        },
+        {
+          "id": 4018,
+          "type": "ls"
+        },
+        {
+          "id": 4018,
+          "type": "rs"
+        },
+        {
+          "id": 4018,
+          "type": "ch"
+        },
+        {
+          "id": 4018,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_lyon1",
+      "revision": 987462958,
+      "parts": [
+        {
+          "id": 4020,
+          "type": "ch"
+        },
+        {
+          "id": 4020,
+          "type": "ls"
+        },
+        {
+          "id": 4020,
+          "type": "rs"
+        },
+        {
+          "id": 4020,
+          "type": "ch"
+        },
+        {
+          "id": 4020,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_manch",
+      "revision": 987462959,
+      "parts": [
+        {
+          "id": 4022,
+          "type": "ch"
+        },
+        {
+          "id": 4022,
+          "type": "ls"
+        },
+        {
+          "id": 4022,
+          "type": "rs"
+        },
+        {
+          "id": 4022,
+          "type": "ch"
+        },
+        {
+          "id": 4022,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_marse",
+      "revision": 987462961,
+      "parts": [
+        {
+          "id": 4024,
+          "type": "ch"
+        },
+        {
+          "id": 4024,
+          "type": "ls"
+        },
+        {
+          "id": 4024,
+          "type": "rs"
+        },
+        {
+          "id": 4024,
+          "type": "ch"
+        },
+        {
+          "id": 4024,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_milan",
+      "revision": 987462963,
+      "parts": [
+        {
+          "id": 4026,
+          "type": "ch"
+        },
+        {
+          "id": 4026,
+          "type": "ls"
+        },
+        {
+          "id": 4026,
+          "type": "rs"
+        },
+        {
+          "id": 4026,
+          "type": "ch"
+        },
+        {
+          "id": 4026,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_monac",
+      "revision": 987462964,
+      "parts": [
+        {
+          "id": 4027,
+          "type": "ch"
+        },
+        {
+          "id": 4027,
+          "type": "ls"
+        },
+        {
+          "id": 4027,
+          "type": "rs"
+        },
+        {
+          "id": 4027,
+          "type": "ch"
+        },
+        {
+          "id": 4027,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_psg16",
+      "revision": 987462965,
+      "parts": [
+        {
+          "id": 4028,
+          "type": "ch"
+        },
+        {
+          "id": 4028,
+          "type": "ls"
+        },
+        {
+          "id": 4028,
+          "type": "rs"
+        },
+        {
+          "id": 4028,
+          "type": "ch"
+        },
+        {
+          "id": 4028,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_roma1",
+      "revision": 987462966,
+      "parts": [
+        {
+          "id": 4029,
+          "type": "ch"
+        },
+        {
+          "id": 4029,
+          "type": "ls"
+        },
+        {
+          "id": 4029,
+          "type": "rs"
+        },
+        {
+          "id": 4029,
+          "type": "ch"
+        },
+        {
+          "id": 4029,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_liver",
+      "revision": 987462967,
+      "parts": [
+        {
+          "id": 4031,
+          "type": "ch"
+        },
+        {
+          "id": 4031,
+          "type": "ls"
+        },
+        {
+          "id": 4031,
+          "type": "rs"
+        },
+        {
+          "id": 4031,
+          "type": "ch"
+        },
+        {
+          "id": 4031,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_bayer",
+      "revision": 987462968,
+      "parts": [
+        {
+          "id": 4032,
+          "type": "ch"
+        },
+        {
+          "id": 4032,
+          "type": "ls"
+        },
+        {
+          "id": 4032,
+          "type": "rs"
+        },
+        {
+          "id": 4032,
+          "type": "ch"
+        },
+        {
+          "id": 4032,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_madr1",
+      "revision": 987462975,
+      "parts": [
+        {
+          "id": 4050,
+          "type": "ch"
+        },
+        {
+          "id": 4050,
+          "type": "ls"
+        },
+        {
+          "id": 4050,
+          "type": "rs"
+        },
+        {
+          "id": 4050,
+          "type": "ch"
+        },
+        {
+          "id": 4050,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_arsen",
+      "revision": 987462976,
+      "parts": [
+        {
+          "id": 4051,
+          "type": "ch"
+        },
+        {
+          "id": 4051,
+          "type": "ls"
+        },
+        {
+          "id": 4051,
+          "type": "rs"
+        },
+        {
+          "id": 4051,
+          "type": "ch"
+        },
+        {
+          "id": 4051,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_athle",
+      "revision": 987462977,
+      "parts": [
+        {
+          "id": 4114,
+          "type": "ch"
+        },
+        {
+          "id": 4114,
+          "type": "ls"
+        },
+        {
+          "id": 4114,
+          "type": "rs"
+        },
+        {
+          "id": 4114,
+          "type": "ch"
+        },
+        {
+          "id": 4114,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_chels",
+      "revision": 987462978,
+      "parts": [
+        {
+          "id": 4116,
+          "type": "ch"
+        },
+        {
+          "id": 4116,
+          "type": "ls"
+        },
+        {
+          "id": 4116,
+          "type": "rs"
+        },
+        {
+          "id": 4116,
+          "type": "ch"
+        },
+        {
+          "id": 4116,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_inter",
+      "revision": 987462980,
+      "parts": [
+        {
+          "id": 4118,
+          "type": "ch"
+        },
+        {
+          "id": 4118,
+          "type": "ls"
+        },
+        {
+          "id": 4118,
+          "type": "rs"
+        },
+        {
+          "id": 4118,
+          "type": "ch"
+        },
+        {
+          "id": 4118,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_marse",
+      "revision": 987462985,
+      "parts": [
+        {
+          "id": 4124,
+          "type": "ch"
+        },
+        {
+          "id": 4124,
+          "type": "ls"
+        },
+        {
+          "id": 4124,
+          "type": "rs"
+        },
+        {
+          "id": 4124,
+          "type": "ch"
+        },
+        {
+          "id": 4124,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_milan",
+      "revision": 987462987,
+      "parts": [
+        {
+          "id": 4126,
+          "type": "ch"
+        },
+        {
+          "id": 4126,
+          "type": "ls"
+        },
+        {
+          "id": 4126,
+          "type": "rs"
+        },
+        {
+          "id": 4126,
+          "type": "ch"
+        },
+        {
+          "id": 4126,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_monac",
+      "revision": 987462988,
+      "parts": [
+        {
+          "id": 4127,
+          "type": "ch"
+        },
+        {
+          "id": 4127,
+          "type": "ls"
+        },
+        {
+          "id": 4127,
+          "type": "rs"
+        },
+        {
+          "id": 4127,
+          "type": "ch"
+        },
+        {
+          "id": 4127,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_psg16",
+      "revision": 987462989,
+      "parts": [
+        {
+          "id": 4128,
+          "type": "ch"
+        },
+        {
+          "id": 4128,
+          "type": "ls"
+        },
+        {
+          "id": 4128,
+          "type": "rs"
+        },
+        {
+          "id": 4128,
+          "type": "ch"
+        },
+        {
+          "id": 4128,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_roma1",
+      "revision": 987462990,
+      "parts": [
+        {
+          "id": 4129,
+          "type": "ch"
+        },
+        {
+          "id": 4129,
+          "type": "ls"
+        },
+        {
+          "id": 4129,
+          "type": "rs"
+        },
+        {
+          "id": 4129,
+          "type": "ch"
+        },
+        {
+          "id": 4129,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_liver",
+      "revision": 987462991,
+      "parts": [
+        {
+          "id": 4131,
+          "type": "ch"
+        },
+        {
+          "id": 4131,
+          "type": "ls"
+        },
+        {
+          "id": 4131,
+          "type": "rs"
+        },
+        {
+          "id": 4131,
+          "type": "ch"
+        },
+        {
+          "id": 4131,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_bayer",
+      "revision": 987462992,
+      "parts": [
+        {
+          "id": 4132,
+          "type": "ch"
+        },
+        {
+          "id": 4132,
+          "type": "ls"
+        },
+        {
+          "id": 4132,
+          "type": "rs"
+        },
+        {
+          "id": 4132,
+          "type": "ch"
+        },
+        {
+          "id": 4132,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_juven",
+      "revision": 987462993,
+      "parts": [
+        {
+          "id": 4144,
+          "type": "ch"
+        },
+        {
+          "id": 4144,
+          "type": "ls"
+        },
+        {
+          "id": 4144,
+          "type": "rs"
+        },
+        {
+          "id": 4144,
+          "type": "ch"
+        },
+        {
+          "id": 4144,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_porto",
+      "revision": 987462994,
+      "parts": [
+        {
+          "id": 4145,
+          "type": "ch"
+        },
+        {
+          "id": 4145,
+          "type": "ls"
+        },
+        {
+          "id": 4145,
+          "type": "rs"
+        },
+        {
+          "id": 4145,
+          "type": "ch"
+        },
+        {
+          "id": 4145,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_madr1",
+      "revision": 987462999,
+      "parts": [
+        {
+          "id": 4150,
+          "type": "ch"
+        },
+        {
+          "id": 4150,
+          "type": "ls"
+        },
+        {
+          "id": 4150,
+          "type": "rs"
+        },
+        {
+          "id": 4150,
+          "type": "ch"
+        },
+        {
+          "id": 4150,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_arsen",
+      "revision": 987463000,
+      "parts": [
+        {
+          "id": 4151,
+          "type": "ch"
+        },
+        {
+          "id": 4151,
+          "type": "ls"
+        },
+        {
+          "id": 4151,
+          "type": "rs"
+        },
+        {
+          "id": 4151,
+          "type": "ch"
+        },
+        {
+          "id": 4151,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_allem",
+      "revision": 39483433,
+      "parts": [
+        {
+          "id": 1300,
+          "type": "cp"
+        },
+        {
+          "id": 1300,
+          "type": "ls"
+        },
+        {
+          "id": 1300,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_angle",
+      "revision": 39483434,
+      "parts": [
+        {
+          "id": 1301,
+          "type": "cp"
+        },
+        {
+          "id": 1301,
+          "type": "ls"
+        },
+        {
+          "id": 1301,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_belge",
+      "revision": 39483435,
+      "parts": [
+        {
+          "id": 1302,
+          "type": "cp"
+        },
+        {
+          "id": 1302,
+          "type": "ls"
+        },
+        {
+          "id": 1302,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_espag",
+      "revision": 39483436,
+      "parts": [
+        {
+          "id": 1303,
+          "type": "cp"
+        },
+        {
+          "id": 1303,
+          "type": "ls"
+        },
+        {
+          "id": 1303,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_franc",
+      "revision": 39483437,
+      "parts": [
+        {
+          "id": 1304,
+          "type": "cp"
+        },
+        {
+          "id": 1304,
+          "type": "ls"
+        },
+        {
+          "id": 1304,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_itali",
+      "revision": 39483438,
+      "parts": [
+        {
+          "id": 1305,
+          "type": "cp"
+        },
+        {
+          "id": 1305,
+          "type": "ls"
+        },
+        {
+          "id": 1305,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_portu",
+      "revision": 39483439,
+      "parts": [
+        {
+          "id": 1306,
+          "type": "cp"
+        },
+        {
+          "id": 1306,
+          "type": "ls"
+        },
+        {
+          "id": 1306,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_turqu",
+      "revision": 39483440,
+      "parts": [
+        {
+          "id": 1307,
+          "type": "cp"
+        },
+        {
+          "id": 1307,
+          "type": "ls"
+        },
+        {
+          "id": 1307,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_allem",
+      "revision": 39483441,
+      "parts": [
+        {
+          "id": 1400,
+          "type": "cp"
+        },
+        {
+          "id": 1400,
+          "type": "ls"
+        },
+        {
+          "id": 1400,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_angle",
+      "revision": 39483442,
+      "parts": [
+        {
+          "id": 1401,
+          "type": "cp"
+        },
+        {
+          "id": 1401,
+          "type": "ls"
+        },
+        {
+          "id": 1401,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_belge",
+      "revision": 39483443,
+      "parts": [
+        {
+          "id": 1402,
+          "type": "cp"
+        },
+        {
+          "id": 1402,
+          "type": "ls"
+        },
+        {
+          "id": 1402,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_espag",
+      "revision": 39483444,
+      "parts": [
+        {
+          "id": 1403,
+          "type": "cp"
+        },
+        {
+          "id": 1403,
+          "type": "ls"
+        },
+        {
+          "id": 1403,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_franc",
+      "revision": 39483445,
+      "parts": [
+        {
+          "id": 1404,
+          "type": "cp"
+        },
+        {
+          "id": 1404,
+          "type": "ls"
+        },
+        {
+          "id": 1404,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_itali",
+      "revision": 39483446,
+      "parts": [
+        {
+          "id": 1405,
+          "type": "cp"
+        },
+        {
+          "id": 1405,
+          "type": "ls"
+        },
+        {
+          "id": 1405,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_portu",
+      "revision": 39483447,
+      "parts": [
+        {
+          "id": 1406,
+          "type": "cp"
+        },
+        {
+          "id": 1406,
+          "type": "ls"
+        },
+        {
+          "id": 1406,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_turqu",
+      "revision": 39483448,
+      "parts": [
+        {
+          "id": 1407,
+          "type": "cp"
+        },
+        {
+          "id": 1407,
+          "type": "ls"
+        },
+        {
+          "id": 1407,
+          "type": "rs"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_nftmininoob",
       "revision": 7,
       "parts": [
