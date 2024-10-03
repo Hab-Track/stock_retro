@@ -1,8 +1,8 @@
 ﻿{
   "quests.plus.name": "Iron Plus",
   "quests.economy.name": "Economia",
-  "purse.seasonal.currency": "Denairons",
-  "purse.seasonal.currency.101": "Denairons",
+  "purse.seasonal.currency": "Energias",
+  "purse.seasonal.currency.101": "Energias",
   "campaign.calendar.natalcomum22.title": "Calendário de Natal 2022",
   "campaign.calendar.natalvip22.title": "Calendário de Natal VIP 2022",
   "campaign.calendar.heading.day": "Dia %number%",
@@ -21033,6 +21033,12 @@
   "badge_desc_ACH_Room19": "Por ficar 210 dias online no hotel em um quarto aberto.",
   "badge_name_ACH_Room20": "Iron Conectado XX",
   "badge_desc_ACH_Room20": "Por ficar 245 dias online no hotel em um quarto aberto.",
+  "badge_name_ACH_HuntSlime": "Caçador de Slimes %roman%",
+  "badge_desc_ACH_HuntSlime": "Por capturar %limit% slimes no Caça-Slimes!",
+  "badge_name_ACH_HuntGhost": "Capturador de Monstros %roman%",
+  "badge_desc_ACH_HuntGhost": "Por ter capturado e depositado o ectoplasma de %limit% monstros!",
+  "badge_name_ACH_CompeteHween": "Competidor Plasmático %roman%",
+  "badge_desc_ACH_CompeteHween": "Por ter triunfado em %limit% competições no Ironween 2024!",
   "navigator.searchcode.title.eventcategory__19": "Parties & Music",
   "navigator.searchcode.title.eventcategory__20": "Role Play",
   "navigator.searchcode.title.eventcategory__21": "Trading",
@@ -48263,5 +48269,9 @@
   "badge_name_PLU2SETEMBRO2024": "Segundo Lugar: Iron Plus\t\t ",
   "badge_desc_PLU2SETEMBRO2024": "Parabéns, VLOCE  - por conquistar o segundo lugar no Hall da Fama do Iron Plus. SETEMBRO/2024\t\t",
   "badge_name_PLU3SETEMBRO2024": "Terceiro Lugar: Iron Plus\t\t ",
-  "badge_desc_PLU3SETEMBRO2024": "Parabéns, Heartless - por conquistar o terceiro lugar no Hall da Fama do Iron Plus. SETEMBRO/2024\t\t"
+  "badge_desc_PLU3SETEMBRO2024": "Parabéns, Heartless - por conquistar o terceiro lugar no Hall da Fama do Iron Plus. SETEMBRO/2024\t\t",
+  "badge_name_LOUI02": "Outubro Rosa ",
+  "badge_desc_LOUI02": "O câncer de mama não significa o fim da vida, é só uma nova jornada começando!",
+  "badge_name_NATTCOSMUS": "Natt ",
+  "badge_desc_NATTCOSMUS": "Do nordeste, pro Iron e, aí sim, pro mundo."
 }
