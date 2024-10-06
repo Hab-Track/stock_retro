@@ -1,6 +1,34 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_nftsuitcase",
+      "revision": 11497,
+      "parts": [
+        {
+          "id": 6139,
+          "type": "cc"
+        },
+        {
+          "id": 6139,
+          "type": "lc"
+        },
+        {
+          "id": 6139,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftrobotikcrown",
+      "revision": 11496,
+      "parts": [
+        {
+          "id": 6140,
+          "type": "ha"
+        }
+      ]
+    },
+    {
       "id": "trousers_U_bloodypromtrousers",
       "revision": 11495,
       "parts": [
