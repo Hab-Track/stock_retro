@@ -11,6 +11,20 @@
       ]
     },
     {
+      "id": "jacket_U_HCSEANuruwnkuromi",
+      "revision": 1805081,
+      "parts": [
+        {
+          "id": 180508,
+          "type": "lc"
+        },
+        {
+          "id": 180508,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "shirt_F_catwomanV2",
       "revision": 180506,
       "parts": [
@@ -5325,34 +5339,6 @@
         {
           "id": 5680,
           "type": "rs"
-        }
-      ]
-    },
-    {
-      "id": "acc_head_U_HCURUWNaraignee",
-      "revision": 1582101,
-      "parts": [
-        {
-          "id": 158210,
-          "type": "he"
-        }
-      ]
-    },
-    {
-      "id": "jacket_U_HCSEANuruwnkuromi",
-      "revision": 1805081,
-      "parts": [
-        {
-          "id": 180508,
-          "type": "cc"
-        },
-        {
-          "id": 180508,
-          "type": "lc"
-        },
-        {
-          "id": 180508,
-          "type": "rc"
         }
       ]
     },
