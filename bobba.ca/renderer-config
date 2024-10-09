@@ -21,8 +21,8 @@
   "avatar.asset.effect.url": "${gamedata.url}/bundled/effect/%libname%.nitro",
   "furni.asset.url": "${gamedata.url}/bundled/furniture/%libname%.nitro",
   "furni.asset.icon.url": "${hof.furni.url}/icons/%libname%%param%_icon.png",
-  "pet.asset.url": "${gamedata.url}/bundled/pet/%libname%/%libname%.nitro",
-  "generic.asset.url": "${gamedata.url}/bundled/generic/%libname%.nitro?3",
+  "pet.asset.url": "${gamedata.url}/bundled/pet/%libname%.nitro",
+  "generic.asset.url": "${gamedata.url}/bundled/generic/%libname%.nitro",
   "badge.asset.url": "${image.library.url}/album1584/%badgename%.gif",
   "furni.rotation.bounce.steps": 20,
   "furni.rotation.bounce.height": 0.0625,
@@ -576,9 +576,9 @@
     "elephants"
   ],
   "preload.assets.urls": [
-    "${gamedata.url}/bundled/generic/avatar_additions.nitro?1",
-    "${gamedata.url}/bundled/generic/group_badge.nitro?1",
-    "${gamedata.url}/bundled/generic/floor_editor.nitro?1",
+    "${gamedata.url}/bundled/generic/avatar_additions.nitro",
+    "${gamedata.url}/bundled/generic/group_badge.nitro",
+    "${gamedata.url}/bundled/generic/floor_editor.nitro",
     "${images.url}/loading_icon.png",
     "${images.url}/clear_icon.png",
     "${images.url}/big_arrow.png"
