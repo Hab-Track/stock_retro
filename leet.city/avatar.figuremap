@@ -1,126 +1,6 @@
 ﻿{
   "libraries": [
     {
-      "id": "hair_U_casspigtails",
-      "revision": 11516,
-      "parts": [
-        {
-          "id": 6258,
-          "type": "hr"
-        },
-        {
-          "id": 6258,
-          "type": "hrb"
-        },
-        {
-          "id": 6259,
-          "type": "hr"
-        },
-        {
-          "id": 6259,
-          "type": "hrb"
-        }
-      ]
-    },
-    {
-      "id": "jacket_U_miultdbagc",
-      "revision": 11515,
-      "parts": [
-        {
-          "id": 1337725,
-          "type": "lc"
-        },
-        {
-          "id": 1337725,
-          "type": "rc"
-        },
-        {
-          "id": 1337726,
-          "type": "lc"
-        },
-        {
-          "id": 1337726,
-          "type": "rc"
-        }
-      ]
-    },
-    {
-      "id": "jacket_U_miultdbag",
-      "revision": 11514,
-      "parts": [
-        {
-          "id": 927445,
-          "type": "lc"
-        },
-        {
-          "id": 927445,
-          "type": "rc"
-        }
-      ]
-    },
-    {
-      "id": "acc_waist_U_ltdmiubeltc",
-      "revision": 11513,
-      "parts": [
-        {
-          "id": 1337723,
-          "type": "wa"
-        },
-        {
-          "id": 1337724,
-          "type": "wa"
-        }
-      ]
-    },
-    {
-      "id": "acc_waist_U_ltdmiubelt1",
-      "revision": 11512,
-      "parts": [
-        {
-          "id": 2147483647,
-          "type": "wa"
-        }
-      ]
-    },
-    {
-      "id": "shirt_U_miucorsett",
-      "revision": 11511,
-      "parts": [
-        {
-          "id": 64433559,
-          "type": "ch"
-        }
-      ]
-    },
-    {
-      "id": "face_U_nftblood2",
-      "revision": 11510,
-      "parts": [
-        {
-          "id": 6143,
-          "type": "fc"
-        },
-        {
-          "id": 6144,
-          "type": "ey"
-        }
-      ]
-    },
-    {
-      "id": "face_U_nftblood1",
-      "revision": 11509,
-      "parts": [
-        {
-          "id": 6141,
-          "type": "fc"
-        },
-        {
-          "id": 6142,
-          "type": "ey"
-        }
-      ]
-    },
-    {
       "id": "jacket_U_HChalloweensac",
       "revision": 11508,
       "parts": [
@@ -55728,10 +55608,6 @@
         },
         {
           "id": 280,
-          "type": "ri"
-        },
-        {
-          "id": 281,
           "type": "ri"
         },
         {
