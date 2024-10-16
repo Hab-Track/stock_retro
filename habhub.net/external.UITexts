@@ -36,7 +36,6 @@
   "notifications.text.activitypoints.2": "You received %AMOUNT% Hearts!",
   "notifications.text.activitypoints.3": "You received %AMOUNT% Gift Points!",
   "notifications.text.activitypoints.5": "You received %AMOUNT% Diamonds!",
-  "notification.hotel.event.alert": "Event",
   "notification.hotel.event.linkTitle": "Go to: %ROOMNAME%",
   "notification.hotel.event.linkUrl": "event:navigator/goto/%ROOMID%",
   "extendedprofile.created": "Created:",
@@ -52,5 +51,7 @@
   "infostand.button.pass_hand_item": "Give hand item",
   "purse.seasonal.currency.102": "Prize Points",
   "notification.hotel.event.title": "Message from HabHub Hotel",
-  "notification.hotel.event.message": "Events are now live, win prize points and rares! Click the button below to join!"
+  "notifications.text.club_gift.selected": "Club gift added to inventory.",
+  "notification.hotel.event.alert": "Events are live!",
+  "notification.hotel.event.message": "Win credits, stars, and a rare! Click the button below to join!"
 }
