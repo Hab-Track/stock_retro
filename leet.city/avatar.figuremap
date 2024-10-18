@@ -1,6 +1,56 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_eye_U_sunglassrd2",
+      "revision": 11521,
+      "parts": [
+        {
+          "id": 1337728,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_sunglassrd",
+      "revision": 11520,
+      "parts": [
+        {
+          "id": 1337727,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_MIUbratglasses",
+      "revision": 11519,
+      "parts": [
+        {
+          "id": 5070557,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_MIUbratopF",
+      "revision": 11518,
+      "parts": [
+        {
+          "id": 5070555,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_MIUbratopM",
+      "revision": 11517,
+      "parts": [
+        {
+          "id": 5070556,
+          "type": "ch"
+        }
+      ]
+    },
+    {
       "id": "hair_U_casspigtails",
       "revision": 11516,
       "parts": [
@@ -55732,6 +55782,10 @@
         },
         {
           "id": 281,
+          "type": "ri"
+        },
+        {
+          "id": 282,
           "type": "ri"
         },
         {
