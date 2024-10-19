@@ -57503,6 +57503,94 @@
           "type": "rc"
         }
       ]
+    },
+    {
+      "id": "jacket_U_espadagiganteum",
+      "revision": 998788068,
+      "parts": [
+        {
+          "id": 321103239,
+          "type": "cc"
+        },
+        {
+          "id": 321103239,
+          "type": "lc"
+        },
+        {
+          "id": 321103239,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_espadagigantedois",
+      "revision": 998788069,
+      "parts": [
+        {
+          "id": 100000312,
+          "type": "cc"
+        },
+        {
+          "id": 100000312,
+          "type": "lc"
+        },
+        {
+          "id": 100000312,
+          "type": "rc"
+        },
+        {
+          "id": 100000313,
+          "type": "cc"
+        },
+        {
+          "id": 100000313,
+          "type": "lc"
+        },
+        {
+          "id": 100000313,
+          "type": "rc"
+        },
+        {
+          "id": 321103242,
+          "type": "cc"
+        },
+        {
+          "id": 321103242,
+          "type": "lc"
+        },
+        {
+          "id": 321103242,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_loafersockscorrect",
+      "revision": 998788070,
+      "parts": [
+        {
+          "id": 5823489,
+          "type": "sh"
+        },
+        {
+          "id": 5824485,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_cintoxmen",
+      "revision": 998788071,
+      "parts": [
+        {
+          "id": 1452231,
+          "type": "wa"
+        },
+        {
+          "id": 1452242,
+          "type": "wa"
+        }
+      ]
     }
   ]
 }
