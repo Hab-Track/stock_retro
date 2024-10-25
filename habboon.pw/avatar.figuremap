@@ -1896,7 +1896,7 @@
     },
     {
       "id": "hair_U_warlocks",
-      "revision": 65118,
+      "revision": 72309,
       "parts": [
         {
           "id": 3490,
@@ -3290,7 +3290,7 @@
     },
     {
       "id": "hair_U_tousledwaves",
-      "revision": 66509,
+      "revision": 72309,
       "parts": [
         {
           "id": 4143,
@@ -4780,7 +4780,7 @@
     },
     {
       "id": "hair_F_showy",
-      "revision": 69407,
+      "revision": 72309,
       "parts": [
         {
           "id": 2422,
@@ -5880,7 +5880,7 @@
     },
     {
       "id": "hair_U_ponytailcap",
-      "revision": 65430,
+      "revision": 72309,
       "parts": [
         {
           "id": 3606,
@@ -12812,7 +12812,7 @@
     },
     {
       "id": "hair_U_sportshair",
-      "revision": 65462,
+      "revision": 72309,
       "parts": [
         {
           "id": 3622,
@@ -14008,7 +14008,7 @@
     },
     {
       "id": "hair_U_harajukuhair",
-      "revision": 64184,
+      "revision": 72309,
       "parts": [
         {
           "id": 3212,
@@ -15784,7 +15784,7 @@
     },
     {
       "id": "hair_U_bloodponytail",
-      "revision": 64304,
+      "revision": 72309,
       "parts": [
         {
           "id": 3229,
@@ -19648,7 +19648,7 @@
     },
     {
       "id": "hair_U_bohobraids",
-      "revision": 63895,
+      "revision": 72309,
       "parts": [
         {
           "id": 3136,
@@ -20394,7 +20394,7 @@
     },
     {
       "id": "hair_U_topknot",
-      "revision": 56797,
+      "revision": 72309,
       "parts": [
         {
           "id": 2629,
@@ -23414,7 +23414,7 @@
     },
     {
       "id": "hair_U_bedhead",
-      "revision": 65748,
+      "revision": 72309,
       "parts": [
         {
           "id": 3719,
@@ -25758,7 +25758,7 @@
     },
     {
       "id": "hair_U_twotonehair",
-      "revision": 70202,
+      "revision": 72309,
       "parts": [
         {
           "id": 5169,
@@ -26816,7 +26816,7 @@
     },
     {
       "id": "hair_U_sportshair2",
-      "revision": 70198,
+      "revision": 72309,
       "parts": [
         {
           "id": 5137,
@@ -33668,7 +33668,7 @@
     },
     {
       "id": "acc_chest_U_skullguitar",
-      "revision": 72081,
+      "revision": 72239,
       "parts": [
         {
           "id": 6025,
@@ -33738,7 +33738,7 @@
     },
     {
       "id": "acc_chest_U_prizedguitar",
-      "revision": 72081,
+      "revision": 72239,
       "parts": [
         {
           "id": 6027,
@@ -33758,7 +33758,7 @@
     },
     {
       "id": "acc_chest_U_acousticguitar",
-      "revision": 72081,
+      "revision": 72239,
       "parts": [
         {
           "id": 6038,
@@ -33820,7 +33820,7 @@
     },
     {
       "id": "acc_chest_U_floralguitar",
-      "revision": 72081,
+      "revision": 72239,
       "parts": [
         {
           "id": 6024,
@@ -33870,7 +33870,7 @@
     },
     {
       "id": "acc_chest_U_vibrantguitar",
-      "revision": 72081,
+      "revision": 72239,
       "parts": [
         {
           "id": 6026,
@@ -34497,6 +34497,286 @@
         {
           "id": 5871,
           "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftminimaude2",
+      "revision": 72215,
+      "parts": [
+        {
+          "id": 6128,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftminihank",
+      "revision": 72215,
+      "parts": [
+        {
+          "id": 6126,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftminimuumio",
+      "revision": 72215,
+      "parts": [
+        {
+          "id": 6124,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_nftminifrank",
+      "revision": 72220,
+      "parts": [
+        {
+          "id": 5817,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftminimaude",
+      "revision": 72215,
+      "parts": [
+        {
+          "id": 6118,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_nftminimyrtle",
+      "revision": 72218,
+      "parts": [
+        {
+          "id": 6121,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftminiduck",
+      "revision": 72215,
+      "parts": [
+        {
+          "id": 5821,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_nftminibonnie",
+      "revision": 72218,
+      "parts": [
+        {
+          "id": 6115,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_nftminidonnie",
+      "revision": 72218,
+      "parts": [
+        {
+          "id": 6119,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftminifrank",
+      "revision": 72215,
+      "parts": [
+        {
+          "id": 5818,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftminidonnie2",
+      "revision": 72215,
+      "parts": [
+        {
+          "id": 6129,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftmininoob",
+      "revision": 72216,
+      "parts": [
+        {
+          "id": 5816,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_nftminihank",
+      "revision": 72218,
+      "parts": [
+        {
+          "id": 6125,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_nftminimuumio",
+      "revision": 72218,
+      "parts": [
+        {
+          "id": 6123,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftminifrank2",
+      "revision": 72215,
+      "parts": [
+        {
+          "id": 6127,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_nftminiduck",
+      "revision": 72218,
+      "parts": [
+        {
+          "id": 5819,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftminimyrtle",
+      "revision": 72215,
+      "parts": [
+        {
+          "id": 6122,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftminibonnie",
+      "revision": 72215,
+      "parts": [
+        {
+          "id": 6116,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_nftmininoob",
+      "revision": 72218,
+      "parts": [
+        {
+          "id": 5815,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_nftminimaude",
+      "revision": 72218,
+      "parts": [
+        {
+          "id": 6117,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftminidonnie",
+      "revision": 72215,
+      "parts": [
+        {
+          "id": 6120,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftskullpendant",
+      "revision": 72221,
+      "parts": [
+        {
+          "id": 6077,
+          "type": "ca"
+        },
+        {
+          "id": 6078,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftrobotikcrown",
+      "revision": 72241,
+      "parts": [
+        {
+          "id": 6140,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftsuitcase",
+      "revision": 72241,
+      "parts": [
+        {
+          "id": 6139,
+          "type": "cc"
+        },
+        {
+          "id": 6139,
+          "type": "lc"
+        },
+        {
+          "id": 6139,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftblood1",
+      "revision": 72244,
+      "parts": [
+        {
+          "id": 6141,
+          "type": "fc"
+        },
+        {
+          "id": 6142,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftblood2",
+      "revision": 72244,
+      "parts": [
+        {
+          "id": 6143,
+          "type": "fc"
+        },
+        {
+          "id": 6144,
+          "type": "ey"
         }
       ]
     },
@@ -36082,7 +36362,7 @@
     },
     {
       "id": "hh_human_item",
-      "revision": 71867,
+      "revision": 72284,
       "parts": [
         {
           "id": 0,
@@ -37094,6 +37374,10 @@
         },
         {
           "id": 280,
+          "type": "ri"
+        },
+        {
+          "id": 281,
           "type": "ri"
         },
         {
