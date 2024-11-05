@@ -1,6 +1,404 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_silverjamtoastbackpack",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6193,
+          "type": "ca"
+        },
+        {
+          "id": 6194,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_NodachiWhiteTalisman",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001273,
+          "type": "ca"
+        },
+        {
+          "id": 10001274,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv24mochilahuella",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000763,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_tv24gafotas",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000753,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_MASCARAHOBBA1",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001280,
+          "type": "fa"
+        },
+        {
+          "id": 10001281,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_ANBUMASK2",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001282,
+          "type": "fa"
+        },
+        {
+          "id": 10001283,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_MASCARAHOBBA3",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001284,
+          "type": "fa"
+        },
+        {
+          "id": 10001285,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_HOBBAMASCARA4",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001286,
+          "type": "fa"
+        },
+        {
+          "id": 10001287,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_HOBBAMASCARA5",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001288,
+          "type": "fa"
+        },
+        {
+          "id": 10001289,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_AkumaZoanAwaken",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001269,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_PistoleraPolicial",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001290,
+          "type": "wa"
+        },
+        {
+          "id": 10001291,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_tv24katana",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000760,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_PeinadoBritney",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001296,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_PeinadoMelena",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001400,
+          "type": "hr"
+        },
+        {
+          "id": 10001400,
+          "type": "hrb"
+        },
+        {
+          "id": 173872,
+          "type": "hr"
+        },
+        {
+          "id": 173872,
+          "type": "hrb"
+        },
+        {
+          "id": 173873,
+          "type": "hr"
+        },
+        {
+          "id": 173873,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_tv24pelohongo",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000766,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv24gorrodino",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000754,
+          "type": "ha"
+        },
+        {
+          "id": 10000755,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv24gorrofinn",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000756,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv24gorrojake",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000757,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv24caparengoku",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000746,
+          "type": "cc"
+        },
+        {
+          "id": 10000747,
+          "type": "lc"
+        },
+        {
+          "id": 10000747,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv24chaquetastreet",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000748,
+          "type": "cc"
+        },
+        {
+          "id": 10000749,
+          "type": "cc"
+        },
+        {
+          "id": 10000750,
+          "type": "lc"
+        },
+        {
+          "id": 10000750,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv24jakeelperro",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000759,
+          "type": "lc"
+        },
+        {
+          "id": 10000759,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv24kimonotomioka",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000761,
+          "type": "cc"
+        },
+        {
+          "id": 10000762,
+          "type": "lc"
+        },
+        {
+          "id": 10000762,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_xmenshirt",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 174044,
+          "type": "ch"
+        },
+        {
+          "id": 174044,
+          "type": "ls"
+        },
+        {
+          "id": 174044,
+          "type": "rs"
+        },
+        {
+          "id": 174045,
+          "type": "ch"
+        },
+        {
+          "id": 174045,
+          "type": "ls"
+        },
+        {
+          "id": 174045,
+          "type": "rs"
+        },
+        {
+          "id": 174046,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_tv24sneakersstar",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000767,
+          "type": "sh"
+        },
+        {
+          "id": 10000768,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_tv24zapatillasflama",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000769,
+          "type": "sh"
+        },
+        {
+          "id": 10000770,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv24doubleskirt",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000751,
+          "type": "lg"
+        },
+        {
+          "id": 10000752,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv24pantalonstreet",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000764,
+          "type": "lg"
+        },
+        {
+          "id": 10000765,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_dreamerbackpack",
       "revision": 7,
       "parts": [
