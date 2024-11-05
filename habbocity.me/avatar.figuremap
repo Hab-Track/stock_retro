@@ -1,15 +1,95 @@
 ﻿{
   "libraries": [
     {
-      "id": "hair_M_EdoHair",
-      "revision": 1156653,
+      "id": "hair_U_tousledwave",
+      "revision": 156665,
       "parts": [
         {
-          "id": 1156653,
+          "id": 156665,
           "type": "hr"
         },
         {
-          "id": 1156654,
+          "id": 156665,
+          "type": "hrb"
+        },
+        {
+          "id": 156666,
+          "type": "hr"
+        },
+        {
+          "id": 156666,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_longwaveshair",
+      "revision": 156664,
+      "parts": [
+        {
+          "id": 156664,
+          "type": "hr"
+        },
+        {
+          "id": 156664,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_dreamerhair",
+      "revision": 156663,
+      "parts": [
+        {
+          "id": 156663,
+          "type": "hr"
+        },
+        {
+          "id": 156663,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_jellyfishhair",
+      "revision": 156660,
+      "parts": [
+        {
+          "id": 156660,
+          "type": "hr"
+        },
+        {
+          "id": 156660,
+          "type": "hrb"
+        },
+        {
+          "id": 156661,
+          "type": "hr"
+        },
+        {
+          "id": 156661,
+          "type": "hrb"
+        },
+        {
+          "id": 156662,
+          "type": "hr"
+        },
+        {
+          "id": 156662,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_M_EdoHair",
+      "revision": 156653,
+      "parts": [
+        {
+          "id": 156653,
+          "type": "hr"
+        },
+        {
+          "id": 156654,
           "type": "hr"
         }
       ]
