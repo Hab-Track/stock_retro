@@ -90188,6 +90188,272 @@
           "type": "ha"
         }
       ]
+    },
+    {
+      "id": "shirt_F_dressinggown",
+      "revision": 11555,
+      "parts": [
+        {
+          "id": 6156,
+          "type": "ch"
+        },
+        {
+          "id": 6156,
+          "type": "ls"
+        },
+        {
+          "id": 6156,
+          "type": "rs"
+        },
+        {
+          "id": 6157,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_dressinggown",
+      "revision": 11554,
+      "parts": [
+        {
+          "id": 6154,
+          "type": "ch"
+        },
+        {
+          "id": 6154,
+          "type": "ls"
+        },
+        {
+          "id": 6154,
+          "type": "rs"
+        },
+        {
+          "id": 6155,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_hollydress",
+      "revision": 11553,
+      "parts": [
+        {
+          "id": 6132,
+          "type": "ch"
+        },
+        {
+          "id": 6132,
+          "type": "ls"
+        },
+        {
+          "id": 6132,
+          "type": "rs"
+        },
+        {
+          "id": 6133,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_hollydress",
+      "revision": 11552,
+      "parts": [
+        {
+          "id": 6134,
+          "type": "ch"
+        },
+        {
+          "id": 6134,
+          "type": "ls"
+        },
+        {
+          "id": 6134,
+          "type": "rs"
+        },
+        {
+          "id": 6135,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_littlesnowman",
+      "revision": 11551,
+      "parts": [
+        {
+          "id": 6172,
+          "type": "ha"
+        },
+        {
+          "id": 6173,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_bigbushybeard",
+      "revision": 11550,
+      "parts": [
+        {
+          "id": 6167,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_tousledwave",
+      "revision": 11549,
+      "parts": [
+        {
+          "id": 6130,
+          "type": "hr"
+        },
+        {
+          "id": 6130,
+          "type": "hrb"
+        },
+        {
+          "id": 6131,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_flippedxmashat",
+      "revision": 11548,
+      "parts": [
+        {
+          "id": 6112,
+          "type": "ha"
+        },
+        {
+          "id": 6113,
+          "type": "ha"
+        },
+        {
+          "id": 6114,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_clippedupdo",
+      "revision": 11547,
+      "parts": [
+        {
+          "id": 6108,
+          "type": "hr"
+        },
+        {
+          "id": 6108,
+          "type": "hrb"
+        },
+        {
+          "id": 6109,
+          "type": "hr"
+        },
+        {
+          "id": 6110,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_verticalnecklace",
+      "revision": 11546,
+      "parts": [
+        {
+          "id": 6101,
+          "type": "ca"
+        },
+        {
+          "id": 6102,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_screwednecklace",
+      "revision": 11545,
+      "parts": [
+        {
+          "id": 6098,
+          "type": "ca"
+        },
+        {
+          "id": 6099,
+          "type": "ca"
+        },
+        {
+          "id": 6100,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_reindeerheadband",
+      "revision": 11544,
+      "parts": [
+        {
+          "id": 6095,
+          "type": "he"
+        },
+        {
+          "id": 6096,
+          "type": "he"
+        },
+        {
+          "id": 6097,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_frozenelfears",
+      "revision": 11543,
+      "parts": [
+        {
+          "id": 6090,
+          "type": "he"
+        },
+        {
+          "id": 6091,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_chainedearrings",
+      "revision": 11542,
+      "parts": [
+        {
+          "id": 6089,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_longwinterdress",
+      "revision": 11541,
+      "parts": [
+        {
+          "id": 6087,
+          "type": "ch"
+        },
+        {
+          "id": 6087,
+          "type": "ls"
+        },
+        {
+          "id": 6087,
+          "type": "rs"
+        },
+        {
+          "id": 6088,
+          "type": "ch"
+        }
+      ]
     }
   ]
 }
