@@ -1,6 +1,20 @@
 ﻿{
   "libraries": [
     {
+      "id": "trousers_F_Legwarmers",
+      "revision": 180512,
+      "parts": [
+        {
+          "id": 180512,
+          "type": "lg"
+        },
+        {
+          "id": 180513,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "acc_head_U_fiocchiclr",
       "revision": 180510,
       "parts": [
