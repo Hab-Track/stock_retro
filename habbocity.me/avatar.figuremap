@@ -1,6 +1,102 @@
 ﻿{
   "libraries": [
     {
+      "id": "hat_U_gladiatorhelmet",
+      "revision": 180517,
+      "parts": [
+        {
+          "id": 180517,
+          "type": "ha"
+        },
+        {
+          "id": 180518,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_offshouldercardigan",
+      "revision": 180514,
+      "parts": [
+        {
+          "id": 180514,
+          "type": "cc"
+        },
+        {
+          "id": 180514,
+          "type": "lc"
+        },
+        {
+          "id": 180514,
+          "type": "rc"
+        },
+        {
+          "id": 180515,
+          "type": "cc"
+        },
+        {
+          "id": 180515,
+          "type": "lc"
+        },
+        {
+          "id": 180515,
+          "type": "rc"
+        },
+        {
+          "id": 180516,
+          "type": "cc"
+        },
+        {
+          "id": 180516,
+          "type": "lc"
+        },
+        {
+          "id": 180516,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_longwinterdress",
+      "revision": 180519,
+      "parts": [
+        {
+          "id": 180519,
+          "type": "ch"
+        },
+        {
+          "id": 180519,
+          "type": "ls"
+        },
+        {
+          "id": 180519,
+          "type": "rs"
+        },
+        {
+          "id": 180520,
+          "type": "ch"
+        },
+        {
+          "id": 180520,
+          "type": "ls"
+        },
+        {
+          "id": 180520,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_cloudslippers",
+      "revision": 180521,
+      "parts": [
+        {
+          "id": 180521,
+          "type": "sh"
+        }
+      ]
+    },
+    {
       "id": "trousers_F_Legwarmers",
       "revision": 180512,
       "parts": [
