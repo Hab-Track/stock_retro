@@ -1,6 +1,66 @@
 ﻿{
   "libraries": [
     {
+      "id": "trousers_U_faldapunk",
+      "revision": 180530,
+      "parts": [
+        {
+          "id": 180530,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_wingshairjewellery",
+      "revision": 180534,
+      "parts": [
+        {
+          "id": 180534,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftgoodvsevil",
+      "revision": 180533,
+      "parts": [
+        {
+          "id": 180533,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_clippedupdo",
+      "revision": 180527,
+      "parts": [
+        {
+          "id": 180527,
+          "type": "hr"
+        },
+        {
+          "id": 180527,
+          "type": "hrb"
+        },
+        {
+          "id": 180528,
+          "type": "hr"
+        },
+        {
+          "id": 180528,
+          "type": "hrb"
+        },
+        {
+          "id": 180529,
+          "type": "hr"
+        },
+        {
+          "id": 180529,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
       "id": "trousers_U_discopants",
       "revision": 180522,
       "parts": [
