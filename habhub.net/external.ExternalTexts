@@ -33466,8 +33466,8 @@
   "open.floor.plan.editor": "Open Floor Plan Editor",
   "opening.hours.closed": "The Hotel has been closed and will be open to the public again at %h%:%m%.",
   "opening.hours.disconnected": "We're sorry but you have been disconnected from the Hotel. The Hotel will open again at %h%:%m%. We look forward to welcoming you back!",
-  "opening.hours.shutdown": "The Hotel will be shutting down in %m% minutes. Some features, like purchasing furniture and trading, are now temporarily disabled. We aim to be back online shortly. If you encounter any issues, please contact us at: discord.gg/habhub",
-  "opening.hours.title": "Hotel Maintenance",
+  "opening.hours.shutdown": "The server is going down for a reboot or maintenance to apply new updates, bug fixes, and/or improvements. You will automatically be reconnected shortly.",
+  "opening.hours.title": "Message from HabHub Staff",
   "panic.button.caption": "Emergency Exit",
   "paygate.confirmation.description": "Confirm payment of %amount% %currency%(s) to enter. <br>Current mode: %mode%.",
   "paygate.confirmation.title": "Enter",
@@ -42615,5 +42615,7 @@
   "badge_name_HUBWN7": "Spooky Architect",
   "badge_desc_HUBWN7": "Awarded for 3rd place in the Supreme Structures Halloween theme.",
   "badge_name_GUY01": "Guy Fawkes Quest",
-  "badge_desc_GUY01": "I completed the Guy Fawkes Quest for 2024!"
+  "badge_desc_GUY01": "I completed the Guy Fawkes Quest for 2024!",
+  "badge_name_O213": "Originals",
+  "badge_desc_O213": "Always and Forever."
 }
