@@ -1,6 +1,150 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_KimonoSleeves",
+      "revision": 156680,
+      "parts": [
+        {
+          "id": 156680,
+          "type": "cc"
+        },
+        {
+          "id": 156680,
+          "type": "lc"
+        },
+        {
+          "id": 156680,
+          "type": "rc"
+        },
+        {
+          "id": 156681,
+          "type": "cc"
+        },
+        {
+          "id": 156681,
+          "type": "lc"
+        },
+        {
+          "id": 156681,
+          "type": "rc"
+        },
+        {
+          "id": 156682,
+          "type": "cc"
+        },
+        {
+          "id": 156682,
+          "type": "lc"
+        },
+        {
+          "id": 156682,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_LadyDiNecklace2",
+      "revision": 156679,
+      "parts": [
+        {
+          "id": 156679,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_NodachiTalismanSword",
+      "revision": 156677,
+      "parts": [
+        {
+          "id": 156677,
+          "type": "ca"
+        },
+        {
+          "id": 156678,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_veil",
+      "revision": 156676,
+      "parts": [
+        {
+          "id": 156676,
+          "type": "ha"
+        },
+        {
+          "id": 156676,
+          "type": "lc"
+        },
+        {
+          "id": 156676,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_suetercolegial",
+      "revision": 156674,
+      "parts": [
+        {
+          "id": 156674,
+          "type": "ch"
+        },
+        {
+          "id": 156675,
+          "type": "ls"
+        },
+        {
+          "id": 156675,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_KimonoShoulder",
+      "revision": 156670,
+      "parts": [
+        {
+          "id": 156670,
+          "type": "cc"
+        },
+        {
+          "id": 156670,
+          "type": "lc"
+        },
+        {
+          "id": 156670,
+          "type": "rc"
+        },
+        {
+          "id": 156671,
+          "type": "cc"
+        },
+        {
+          "id": 156671,
+          "type": "lc"
+        },
+        {
+          "id": 156671,
+          "type": "rc"
+        },
+        {
+          "id": 156672,
+          "type": "cc"
+        },
+        {
+          "id": 156672,
+          "type": "lc"
+        },
+        {
+          "id": 156672,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_ArmSteampunkEdo",
       "revision": 156652,
       "parts": [
