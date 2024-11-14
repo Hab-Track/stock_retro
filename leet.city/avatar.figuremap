@@ -1,6 +1,888 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_nftspdemon",
+      "revision": 11605,
+      "parts": [
+        {
+          "id": 6195,
+          "type": "cc"
+        },
+        {
+          "id": 6195,
+          "type": "lc"
+        },
+        {
+          "id": 6195,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_angelbackpack",
+      "revision": 11604,
+      "parts": [
+        {
+          "id": 85300435,
+          "type": "rc"
+        },
+        {
+          "id": 85300434,
+          "type": "ca"
+        },
+        {
+          "id": 85300435,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_stitchbackpack",
+      "revision": 11603,
+      "parts": [
+        {
+          "id": 85300433,
+          "type": "rc"
+        },
+        {
+          "id": 85300432,
+          "type": "ca"
+        },
+        {
+          "id": 85300433,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_gangsterhat",
+      "revision": 11602,
+      "parts": [
+        {
+          "id": 7539123,
+          "type": "ha"
+        },
+        {
+          "id": 7539124,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_Ichihair",
+      "revision": 11601,
+      "parts": [
+        {
+          "id": 7527761,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_giraffetiara",
+      "revision": 11600,
+      "parts": [
+        {
+          "id": 64456789,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_egypt",
+      "revision": 11599,
+      "parts": [
+        {
+          "id": 1337746,
+          "type": "ch"
+        },
+        {
+          "id": 1337746,
+          "type": "ls"
+        },
+        {
+          "id": 1337746,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_congo",
+      "revision": 11598,
+      "parts": [
+        {
+          "id": 1337745,
+          "type": "ch"
+        },
+        {
+          "id": 1337745,
+          "type": "ls"
+        },
+        {
+          "id": 1337745,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_maroc",
+      "revision": 11597,
+      "parts": [
+        {
+          "id": 1337744,
+          "type": "ch"
+        },
+        {
+          "id": 1337744,
+          "type": "ls"
+        },
+        {
+          "id": 1337744,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_InterTshirtByTrey",
+      "revision": 11596,
+      "parts": [
+        {
+          "id": 1337743,
+          "type": "ch"
+        },
+        {
+          "id": 1337743,
+          "type": "ls"
+        },
+        {
+          "id": 1337743,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_madr1",
+      "revision": 11595,
+      "parts": [
+        {
+          "id": 1337742,
+          "type": "ch"
+        },
+        {
+          "id": 1337742,
+          "type": "ls"
+        },
+        {
+          "id": 1337742,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_ajaxx",
+      "revision": 11594,
+      "parts": [
+        {
+          "id": 1337741,
+          "type": "ch"
+        },
+        {
+          "id": 1337741,
+          "type": "ls"
+        },
+        {
+          "id": 1337741,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_liver",
+      "revision": 11593,
+      "parts": [
+        {
+          "id": 1337740,
+          "type": "ch"
+        },
+        {
+          "id": 1337740,
+          "type": "ls"
+        },
+        {
+          "id": 1337740,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_roma1",
+      "revision": 11592,
+      "parts": [
+        {
+          "id": 1337739,
+          "type": "ch"
+        },
+        {
+          "id": 1337739,
+          "type": "ls"
+        },
+        {
+          "id": 1337739,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_psg16",
+      "revision": 11591,
+      "parts": [
+        {
+          "id": 1337738,
+          "type": "ch"
+        },
+        {
+          "id": 1337738,
+          "type": "ls"
+        },
+        {
+          "id": 1337738,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_monac",
+      "revision": 11590,
+      "parts": [
+        {
+          "id": 1337737,
+          "type": "ch"
+        },
+        {
+          "id": 1337737,
+          "type": "ls"
+        },
+        {
+          "id": 1337737,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_marse",
+      "revision": 11589,
+      "parts": [
+        {
+          "id": 1337736,
+          "type": "ch"
+        },
+        {
+          "id": 1337736,
+          "type": "ls"
+        },
+        {
+          "id": 1337736,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_manch",
+      "revision": 11588,
+      "parts": [
+        {
+          "id": 1337735,
+          "type": "ch"
+        },
+        {
+          "id": 1337735,
+          "type": "ls"
+        },
+        {
+          "id": 1337735,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_lyon1",
+      "revision": 11587,
+      "parts": [
+        {
+          "id": 1337734,
+          "type": "ch"
+        },
+        {
+          "id": 1337734,
+          "type": "ls"
+        },
+        {
+          "id": 1337734,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_lcfc1",
+      "revision": 11586,
+      "parts": [
+        {
+          "id": 1337733,
+          "type": "ch"
+        },
+        {
+          "id": 1337733,
+          "type": "ls"
+        },
+        {
+          "id": 1337733,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_inter",
+      "revision": 11585,
+      "parts": [
+        {
+          "id": 1337732,
+          "type": "ch"
+        },
+        {
+          "id": 1337732,
+          "type": "ls"
+        },
+        {
+          "id": 1337732,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_dortm",
+      "revision": 11584,
+      "parts": [
+        {
+          "id": 1337731,
+          "type": "ch"
+        },
+        {
+          "id": 1337731,
+          "type": "ls"
+        },
+        {
+          "id": 1337731,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_chels",
+      "revision": 11583,
+      "parts": [
+        {
+          "id": 1337730,
+          "type": "ch"
+        },
+        {
+          "id": 1337730,
+          "type": "ls"
+        },
+        {
+          "id": 1337730,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_axeiedoquiver",
+      "revision": 11582,
+      "parts": [
+        {
+          "id": 180042,
+          "type": "ca"
+        },
+        {
+          "id": 180043,
+          "type": "ca"
+        },
+        {
+          "id": 180044,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_coloredsleevetattoo",
+      "revision": 11581,
+      "parts": [
+        {
+          "id": 180188,
+          "type": "ch"
+        },
+        {
+          "id": 180188,
+          "type": "ls"
+        },
+        {
+          "id": 180188,
+          "type": "rs"
+        },
+        {
+          "id": 180189,
+          "type": "ch"
+        },
+        {
+          "id": 180189,
+          "type": "ls"
+        },
+        {
+          "id": 180189,
+          "type": "rs"
+        },
+        {
+          "id": 180190,
+          "type": "ch"
+        },
+        {
+          "id": 180190,
+          "type": "ls"
+        },
+        {
+          "id": 180190,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_paopaoxxx",
+      "revision": 11580,
+      "parts": [
+        {
+          "id": 564531,
+          "type": "cc"
+        },
+        {
+          "id": 564532,
+          "type": "lc"
+        },
+        {
+          "id": 564532,
+          "type": "rc"
+        },
+        {
+          "id": 564533,
+          "type": "cc"
+        },
+        {
+          "id": 564534,
+          "type": "lc"
+        },
+        {
+          "id": 564534,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_galatasarayuniform",
+      "revision": 11579,
+      "parts": [
+        {
+          "id": 1337729,
+          "type": "ch"
+        },
+        {
+          "id": 1337729,
+          "type": "ls"
+        },
+        {
+          "id": 1337729,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_shirtcomo",
+      "revision": 11578,
+      "parts": [
+        {
+          "id": 3528346,
+          "type": "ch"
+        },
+        {
+          "id": 3528346,
+          "type": "ls"
+        },
+        {
+          "id": 3528346,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_shirtfiorentina",
+      "revision": 11577,
+      "parts": [
+        {
+          "id": 562357134,
+          "type": "ch"
+        },
+        {
+          "id": 562357134,
+          "type": "ls"
+        },
+        {
+          "id": 562357134,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_shirtudinese",
+      "revision": 11576,
+      "parts": [
+        {
+          "id": 6328645,
+          "type": "ch"
+        },
+        {
+          "id": 6328645,
+          "type": "ls"
+        },
+        {
+          "id": 6328645,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_shirtmonza",
+      "revision": 11575,
+      "parts": [
+        {
+          "id": 51457814,
+          "type": "ch"
+        },
+        {
+          "id": 51457814,
+          "type": "ls"
+        },
+        {
+          "id": 51457814,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_shirtatalanta",
+      "revision": 11574,
+      "parts": [
+        {
+          "id": 41272246,
+          "type": "ch"
+        },
+        {
+          "id": 41272246,
+          "type": "ls"
+        },
+        {
+          "id": 41272246,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_shirtvenezia",
+      "revision": 11573,
+      "parts": [
+        {
+          "id": 1634452,
+          "type": "ch"
+        },
+        {
+          "id": 1634452,
+          "type": "ls"
+        },
+        {
+          "id": 1634452,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_tv24starstruckrebel",
+      "revision": 11572,
+      "parts": [
+        {
+          "id": 72392634,
+          "type": "sh"
+        },
+        {
+          "id": 72392635,
+          "type": "sh"
+        },
+        {
+          "id": 72392636,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_tv24pelomullet",
+      "revision": 11571,
+      "parts": [
+        {
+          "id": 10000720,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv24gorrala",
+      "revision": 11570,
+      "parts": [
+        {
+          "id": 72183432,
+          "type": "ha"
+        },
+        {
+          "id": 72183433,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_tv24conversechuck",
+      "revision": 11569,
+      "parts": [
+        {
+          "id": 10000713,
+          "type": "sh"
+        },
+        {
+          "id": 10000714,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv24shorts",
+      "revision": 11568,
+      "parts": [
+        {
+          "id": 47873218,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_LGAlienHair",
+      "revision": 11567,
+      "parts": [
+        {
+          "id": 988820173,
+          "type": "hr"
+        },
+        {
+          "id": 988820174,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_HolsterTorso",
+      "revision": 11566,
+      "parts": [
+        {
+          "id": 156645,
+          "type": "ch"
+        },
+        {
+          "id": 156645,
+          "type": "ls"
+        },
+        {
+          "id": 156645,
+          "type": "rs"
+        },
+        {
+          "id": 156646,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_KishibeTrench",
+      "revision": 11565,
+      "parts": [
+        {
+          "id": 156647,
+          "type": "cc"
+        },
+        {
+          "id": 156647,
+          "type": "lc"
+        },
+        {
+          "id": 156647,
+          "type": "rc"
+        },
+        {
+          "id": 156648,
+          "type": "lc"
+        },
+        {
+          "id": 156648,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_Gantelet",
+      "revision": 11564,
+      "parts": [
+        {
+          "id": 156649,
+          "type": "lc"
+        },
+        {
+          "id": 156649,
+          "type": "rc"
+        },
+        {
+          "id": 156650,
+          "type": "lc"
+        },
+        {
+          "id": 156650,
+          "type": "rc"
+        },
+        {
+          "id": 156651,
+          "type": "lc"
+        },
+        {
+          "id": 156651,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_HCuruwndizzyvalorant",
+      "revision": 11563,
+      "parts": [
+        {
+          "id": 721452,
+          "type": "lc"
+        },
+        {
+          "id": 721452,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_PearlChoker",
+      "revision": 11562,
+      "parts": [
+        {
+          "id": 435391,
+          "type": "ca"
+        },
+        {
+          "id": 435392,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_Legwarmers",
+      "revision": 11561,
+      "parts": [
+        {
+          "id": 180512,
+          "type": "lg"
+        },
+        {
+          "id": 180513,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_IchiVenusDress",
+      "revision": 11560,
+      "parts": [
+        {
+          "id": 134589,
+          "type": "ch"
+        },
+        {
+          "id": 134589,
+          "type": "ls"
+        },
+        {
+          "id": 134589,
+          "type": "rs"
+        },
+        {
+          "id": 134590,
+          "type": "ch"
+        },
+        {
+          "id": 134590,
+          "type": "ls"
+        },
+        {
+          "id": 134590,
+          "type": "rs"
+        },
+        {
+          "id": 234589,
+          "type": "ch"
+        },
+        {
+          "id": 234590,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_classicstarshirt",
+      "revision": 11558,
+      "parts": [
+        {
+          "id": 859170,
+          "type": "ch"
+        },
+        {
+          "id": 859171,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_classicstarshirt",
+      "revision": 11557,
+      "parts": [
+        {
+          "id": 859173,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_KarolGHatVip",
+      "revision": 11556,
+      "parts": [
+        {
+          "id": 8826271,
+          "type": "ha"
+        }
+      ]
+    },
+    {
       "id": "shirt_F_dressinggown",
       "revision": 11555,
       "parts": [
@@ -9751,43 +10633,43 @@
       ]
     },
     {
-      "id": "jacket_U_fittedarmor",
+      "id": "jacket_U_fittedarmor1",
       "revision": 10905,
       "parts": [
         {
-          "id": 6193,
+          "id": 1337747,
           "type": "cc"
         },
         {
-          "id": 6193,
+          "id": 1337747,
           "type": "lc"
         },
         {
-          "id": 6193,
+          "id": 1337747,
           "type": "rc"
         },
         {
-          "id": 6194,
+          "id": 1337748,
           "type": "cc"
         },
         {
-          "id": 6194,
+          "id": 1337748,
           "type": "lc"
         },
         {
-          "id": 6194,
+          "id": 1337748,
           "type": "rc"
         },
         {
-          "id": 6195,
+          "id": 1337749,
           "type": "cc"
         },
         {
-          "id": 6196,
+          "id": 1337750,
           "type": "lc"
         },
         {
-          "id": 6196,
+          "id": 1337750,
           "type": "rc"
         }
       ]
@@ -56358,6 +57240,10 @@
         },
         {
           "id": 283,
+          "type": "ri"
+        },
+        {
+          "id": 284,
           "type": "ri"
         },
         {
