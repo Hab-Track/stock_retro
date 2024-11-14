@@ -1,6 +1,34 @@
 ﻿{
   "libraries": [
     {
+      "id": "hair_U_Ichihair",
+      "revision": 156684,
+      "parts": [
+        {
+          "id": 156684,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_MiniMew",
+      "revision": 156683,
+      "parts": [
+        {
+          "id": 156683,
+          "type": "cc"
+        },
+        {
+          "id": 156683,
+          "type": "lc"
+        },
+        {
+          "id": 156683,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_KimonoSleeves",
       "revision": 156680,
       "parts": [
@@ -90,15 +118,15 @@
       "parts": [
         {
           "id": 156674,
-          "type": "ch"
+          "type": "cc"
         },
         {
           "id": 156675,
-          "type": "ls"
+          "type": "lc"
         },
         {
           "id": 156675,
-          "type": "rs"
+          "type": "rc"
         }
       ]
     },
