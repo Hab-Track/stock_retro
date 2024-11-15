@@ -6642,7 +6642,7 @@
     },
     {
       "id": "jacket_U_nordicscarf",
-      "revision": 65239,
+      "revision": 72481,
       "parts": [
         {
           "id": 3527,
@@ -16094,7 +16094,7 @@
     },
     {
       "id": "jacket_U_grandexoticcape",
-      "revision": 65586,
+      "revision": 72483,
       "parts": [
         {
           "id": 3656,
@@ -20026,7 +20026,7 @@
     },
     {
       "id": "jacket_U_longscarf",
-      "revision": 65389,
+      "revision": 72481,
       "parts": [
         {
           "id": 2935,
@@ -35381,6 +35381,24 @@
       ]
     },
     {
+      "id": "jacket_U_nftspdemon",
+      "revision": 72444,
+      "parts": [
+        {
+          "id": 6195,
+          "type": "cc"
+        },
+        {
+          "id": 6195,
+          "type": "lc"
+        },
+        {
+          "id": 6195,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "hh_human_acc_head",
       "revision": 50491,
       "parts": [
@@ -36962,7 +36980,7 @@
     },
     {
       "id": "hh_human_item",
-      "revision": 72367,
+      "revision": 72454,
       "parts": [
         {
           "id": 0,
@@ -37982,6 +38000,10 @@
         },
         {
           "id": 282,
+          "type": "ri"
+        },
+        {
+          "id": 283,
           "type": "ri"
         },
         {
