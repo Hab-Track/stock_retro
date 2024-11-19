@@ -1,6 +1,324 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_tv24bolsoberenjena",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000772,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv24bolsocorazon",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000773,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv24mochilaangel",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000781,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv24mochiladiablo",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000782,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv24mochilapayaso",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000783,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_tv24lagrimas",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000780,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_tv24ojostraviesos",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000785,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv24enamorado",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000775,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv24vomito",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000792,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv24accarcoiris",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000771,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv24accnubes",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000784,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_tv24cinturonflama",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000793,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_cabellokillua",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000654,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_Capellitaranitro",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 908344,
+          "type": "hr"
+        },
+        {
+          "id": 908345,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_ColetaGetoIndie",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001272,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_HairFem2",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 2147483647,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_MakimaIsListening",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001271,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_PeloGuaperas",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001308,
+          "type": "hr"
+        },
+        {
+          "id": 10001309,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_SuguruGetoHairLong",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001270,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv24gorroemoji",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000778,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv24gorrogatito",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000776,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv24gorromono",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000777,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv24hongo",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000779,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv24sombrerocara",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000787,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv24sudaderacong",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000788,
+          "type": "ch"
+        },
+        {
+          "id": 10000789,
+          "type": "ls"
+        },
+        {
+          "id": 10000789,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv24sudaderaenojada",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000790,
+          "type": "ch"
+        },
+        {
+          "id": 10000791,
+          "type": "ls"
+        },
+        {
+          "id": 10000791,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_tamanca",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 8236143,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_tv24pantuflasemoji",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000786,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_JaoPants",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 820641,
+          "type": "lg"
+        },
+        {
+          "id": 820642,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_nftspdemon",
       "revision": 7,
       "parts": [
