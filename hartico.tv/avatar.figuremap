@@ -1,6 +1,374 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_nftspdemon",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6195,
+          "type": "cc"
+        },
+        {
+          "id": 6195,
+          "type": "lc"
+        },
+        {
+          "id": 6195,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_angelbackpack",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 85300434,
+          "type": "ca"
+        },
+        {
+          "id": 85300435,
+          "type": "ca"
+        },
+        {
+          "id": 85300436,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_awp4",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001324,
+          "type": "ca"
+        },
+        {
+          "id": 10001325,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_PearlChoker",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 435391,
+          "type": "ca"
+        },
+        {
+          "id": 435392,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_stitchbackpack",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 85300431,
+          "type": "ca"
+        },
+        {
+          "id": 85300432,
+          "type": "ca"
+        },
+        {
+          "id": 85300433,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_Y2kSunGlasses",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 37542,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_BufandaPelaje",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001328,
+          "type": "fa"
+        },
+        {
+          "id": 10001329,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_VendajesBufanda",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001321,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_EnergyFlow",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001320,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_giraffetiara",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 64456789,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_Vendasfaciales",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001321,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_F_Y2kThongStrings",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 8471,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_Ichihair",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 7527761,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_LGAlienHair",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 988820173,
+          "type": "hr"
+        },
+        {
+          "id": 988820174,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_gangsterhat",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 7539123,
+          "type": "ha"
+        },
+        {
+          "id": 7539124,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_holywimplelM",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 487561,
+          "type": "ha"
+        },
+        {
+          "id": 487562,
+          "type": "ha"
+        },
+        {
+          "id": 487563,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_veil",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 100000,
+          "type": "ha"
+        },
+        {
+          "id": 100000,
+          "type": "lc"
+        },
+        {
+          "id": 100000,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_ANBUFem",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001303,
+          "type": "ch"
+        },
+        {
+          "id": 10001303,
+          "type": "ls"
+        },
+        {
+          "id": 10001303,
+          "type": "rs"
+        },
+        {
+          "id": 10001304,
+          "type": "ch"
+        },
+        {
+          "id": 10001304,
+          "type": "ls"
+        },
+        {
+          "id": 10001304,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_IchiVenusDress",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 134589,
+          "type": "ch"
+        },
+        {
+          "id": 134589,
+          "type": "ls"
+        },
+        {
+          "id": 134589,
+          "type": "rs"
+        },
+        {
+          "id": 134590,
+          "type": "ch"
+        },
+        {
+          "id": 134590,
+          "type": "ls"
+        },
+        {
+          "id": 134590,
+          "type": "rs"
+        },
+        {
+          "id": 234589,
+          "type": "ch"
+        },
+        {
+          "id": 234590,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_Y2kBikiniTop",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 8473,
+          "type": "ch"
+        },
+        {
+          "id": 8473,
+          "type": "ls"
+        },
+        {
+          "id": 8473,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_ANBUMen",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001305,
+          "type": "ch"
+        },
+        {
+          "id": 10001305,
+          "type": "ls"
+        },
+        {
+          "id": 10001305,
+          "type": "rs"
+        },
+        {
+          "id": 10001306,
+          "type": "ch"
+        },
+        {
+          "id": 10001306,
+          "type": "ls"
+        },
+        {
+          "id": 10001306,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_Comisario",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001322,
+          "type": "ch"
+        },
+        {
+          "id": 10001322,
+          "type": "ls"
+        },
+        {
+          "id": 10001322,
+          "type": "rs"
+        },
+        {
+          "id": 10001323,
+          "type": "ch"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_silverjamtoastbackpack",
       "revision": 7,
       "parts": [
