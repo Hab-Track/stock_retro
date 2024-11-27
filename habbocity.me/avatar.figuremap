@@ -1,6 +1,34 @@
 ﻿{
   "libraries": [
     {
+      "id": "shoes_U_tamanca",
+      "revision": 156736,
+      "parts": [
+        {
+          "id": 156736,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_starshoes",
+      "revision": 156733,
+      "parts": [
+        {
+          "id": 156733,
+          "type": "sh"
+        },
+        {
+          "id": 156734,
+          "type": "sh"
+        },
+        {
+          "id": 156735,
+          "type": "sh"
+        }
+      ]
+    },
+    {
       "id": "hair_U_Ekko",
       "revision": 156731,
       "parts": [
