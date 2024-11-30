@@ -1,6 +1,44 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_face_M_BeardOneWeek",
+      "revision": 156757,
+      "parts": [
+        {
+          "id": 156757,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_Y2kBikiniTop",
+      "revision": 112344,
+      "parts": [
+        {
+          "id": 156756,
+          "type": "ch"
+        },
+        {
+          "id": 156756,
+          "type": "ls"
+        },
+        {
+          "id": 156756,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shoes_F_Y2kThongStrings",
+      "revision": 112345,
+      "parts": [
+        {
+          "id": 156755,
+          "type": "sh"
+        }
+      ]
+    },
+    {
       "id": "hair_U_nftmessycut",
       "revision": 156753,
       "parts": [
@@ -19809,16 +19847,6 @@
         {
           "id": 4724,
           "type": "ch"
-        }
-      ]
-    },
-    {
-      "id": "shoes_F_test",
-      "revision": 8471,
-      "parts": [
-        {
-          "id": 8471,
-          "type": "sh"
         }
       ]
     },
