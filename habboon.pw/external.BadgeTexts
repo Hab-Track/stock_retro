@@ -3,5 +3,19 @@
   "purse.seasonal.currency.103": "GOTW Points",
   "purse.seasonal.currency.104": "Snowflakes",
   "campaign.calendar.xmas17advent.title": "Advent Calendar",
-  "inventory.trading.areoffering": "add amount"
+  "inventory.trading.areoffering": "add amount",
+  "landing.view.xmas24_advent.header": "Advent Calendar",
+  "landing.view.xmas24_advent.body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "landing.view.xmas24_advent.button": "Open Advent Calendar",
+  "season-pass.title": "Snowflake Pass",
+  "season-pass.tracker.title": "Snowflake Pass",
+  "season-pass.tracker.description": "Keep an eye on your Snowflake Pass, earning Snowflakes will allow you to unlock new rewards!",
+  "season-pass.tracker.button": "Open",
+  "notification.mysterybox.error.already_opened.guest.message": "This box will close again (and contain a new prize) soon!",
+  "notification.mysterybox.error.already_opened.owner.message": "This box will close again (and contain a new prize) soon!",
+  "notification.mysterybox.error.already_unlocked.guest.message": "Go find another un-opened box of the same color.",
+  "notification.mysterybox.error.no_key.message": "Get the key by completing daily quest chain.",
+  "notification.mysterybox.error.title": "Mystery Box",
+  "notification.mysterybox.error.unexpected.message": "Something went wrong. Please, re-login and try to open the box again.",
+  "notification.mysterybox.error.wrong_key.message": "Go find box with the same color as your key. You can check key color from the little \"Mystery Box\" widget at the right side of the screen."
 }
