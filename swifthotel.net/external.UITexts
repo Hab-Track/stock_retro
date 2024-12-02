@@ -55,7 +55,7 @@
   "notification.hotel.event.alert": "Event",
   "notification.hotel.event.linkTitle": "Go to: %ROOMNAME%",
   "notification.hotel.event.linkUrl": "event:navigator/goto/%ROOMID%",
-  "notification.hotel.event.message": "<div style='padding: 10px;border-radius: 5px;max-height: 100px;max-width: 260px;'><div style='width: 238px;'>%MESSAGE%</div><br>- <b>%USERNAME%</b><div style='background: url(https://imager.habwave.org/?figure=%LOOK%&amp;direction=4&amp;head_direction=3&amp;gesture=spk&amp;img_format=gif), #fff; background-repeat: no-repeat; height: 63px; width: 63px; margin-top: -5px; border: 1px solid #000; background-position: -4px -22px; border-radius: 6px; float: right;'></div>",
+  "notification.hotel.event.message": "<div style='padding: 10px;border-radius: 5px;max-height: 100px;max-width: 260px;'><div style='width: 238px;'>%MESSAGE%</div><br>- <b>%USERNAME%</b><div style='background: url(https://imager.swifthotel.net/?figure=%LOOK%&direction=4&head_direction=3&gesture=spk&img_format=gif), #fff; background-repeat: no-repeat; height: 63px; width: 63px; margin-top: -5px; border: 1px solid #000; background-position: -4px -22px; border-radius: 6px; float: right;'></div>",
   "extendedprofile.created": "Created:",
   "extendedprofile.last.login": "Last Login:",
   "extendedprofile.achievementscore": "Achievement Score:",
@@ -65,15 +65,13 @@
   "widget.furni.present.message_opened": "You open the gift and find",
   "memenu.settings.other.skip.purchase.confirmation": "Skip catalog purchase confirmation",
   "memenu.settings.other.place.multiple.objects": "Place multiple catalog items",
-  "landing.view.Habify.header": "Join Dash Discord",
-  "landing.view.Habify.body": "Click the button below!",
-  "landing.view.Habify.button": "Join Now",
   "room.builders.tool.text": "Builders Tools",
   "room.mute.button.text": "Hide chat",
   "room.unmute.button.text": "Show chat",
   "inventory.delete.confirm_delete.info": "Confirm delete of item: %furniname% & amount: %amount%",
   "chat.confirm.openurl": "Would you like to open this link in a new tab?",
-  "wiredfurni.params.itemcount": "Amount:",
-  "wiredfurni.params.itemid": "Item ID:",
-  "wiredfurni.params.amount.mode": "Comparison type:"
+  "floor.plan.editor.no.items": "No Item Floor",
+  "command.list.title": "Commands",
+  "widget.chooser.checkall": "Check all",
+  "widget.chooser.btn.pickall": "Pick all selected items"
 }
