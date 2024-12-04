@@ -58744,11 +58744,11 @@
         },
         {
           "id": 6125,
-          "type": "lc"
+          "type": "cc"
         },
         {
           "id": 6126,
-          "type": "rc"
+          "type": "cc"
         }
       ]
     },
@@ -58762,11 +58762,11 @@
         },
         {
           "id": 6139,
-          "type": "lc"
+          "type": "cc"
         },
         {
           "id": 6140,
-          "type": "rc"
+          "type": "cc"
         }
       ]
     },
@@ -58945,6 +58945,78 @@
         {
           "id": 6304,
           "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_casshogvestM",
+      "revision": 998788162,
+      "parts": [
+        {
+          "id": 6305,
+          "type": "cc"
+        },
+        {
+          "id": 6306,
+          "type": "cc"
+        },
+        {
+          "id": 6307,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_casshogvestF",
+      "revision": 998788163,
+      "parts": [
+        {
+          "id": 6308,
+          "type": "cc"
+        },
+        {
+          "id": 6309,
+          "type": "cc"
+        },
+        {
+          "id": 6310,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_cassleathervestF",
+      "revision": 998788172,
+      "parts": [
+        {
+          "id": 6314,
+          "type": "cc"
+        },
+        {
+          "id": 6315,
+          "type": "cc"
+        },
+        {
+          "id": 6316,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_cassleathervestM",
+      "revision": 998788173,
+      "parts": [
+        {
+          "id": 6311,
+          "type": "cc"
+        },
+        {
+          "id": 6312,
+          "type": "cc"
+        },
+        {
+          "id": 6313,
+          "type": "cc"
         }
       ]
     }
