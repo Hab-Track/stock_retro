@@ -1,6 +1,104 @@
 ﻿{
   "libraries": [
     {
+      "id": "hat_U_nftgiftbox2",
+      "revision": 156776,
+      "parts": [
+        {
+          "id": 156776,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_littlesnowman",
+      "revision": 156773,
+      "parts": [
+        {
+          "id": 156773,
+          "type": "ha"
+        },
+        {
+          "id": 156774,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_flippedxmashat",
+      "revision": 156770,
+      "parts": [
+        {
+          "id": 156770,
+          "type": "ha"
+        },
+        {
+          "id": 156771,
+          "type": "ha"
+        },
+        {
+          "id": 156772,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_misssantaskirt",
+      "revision": 156768,
+      "parts": [
+        {
+          "id": 156768,
+          "type": "lg"
+        },
+        {
+          "id": 156769,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_missantatop",
+      "revision": 156765,
+      "parts": [
+        {
+          "id": 156765,
+          "type": "ch"
+        },
+        {
+          "id": 156765,
+          "type": "ls"
+        },
+        {
+          "id": 156765,
+          "type": "rs"
+        },
+        {
+          "id": 156766,
+          "type": "ch"
+        },
+        {
+          "id": 156766,
+          "type": "ls"
+        },
+        {
+          "id": 156766,
+          "type": "rs"
+        },
+        {
+          "id": 156767,
+          "type": "ch"
+        },
+        {
+          "id": 156767,
+          "type": "ls"
+        },
+        {
+          "id": 156767,
+          "type": "rs"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_RippedCapeFinale",
       "revision": 156764,
       "parts": [
