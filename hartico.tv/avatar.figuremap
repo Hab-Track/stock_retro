@@ -1,6 +1,520 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_cassbackshield",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6271,
+          "type": "ca"
+        },
+        {
+          "id": 6272,
+          "type": "ca"
+        },
+        {
+          "id": 6273,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv24bufandaalien",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000774,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv24conejogigante",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000804,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv24perrochill",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000805,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_2coloreyesYJ",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 6060510,
+          "type": "ea"
+        },
+        {
+          "id": 6060511,
+          "type": "ea"
+        },
+        {
+          "id": 6060512,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_MIUbratglasses",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5070557,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv24bufandacrochet",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000794,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv24bufandapeluchosa",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000795,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv24bufandapuntafina",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000796,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_HCURUWNaraignee",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 158210,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv24enredoluces",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000800,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv24pendientescandy",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000809,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv24gorrapeluchosa",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000801,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tvgorropolar24",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000802,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv24gorrosantaclos",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000803,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_ChaquetaLargaHobba",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001401,
+          "type": "cc"
+        },
+        {
+          "id": 10001401,
+          "type": "lc"
+        },
+        {
+          "id": 10001401,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_Gabardina",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001310,
+          "type": "cc"
+        },
+        {
+          "id": 10001310,
+          "type": "lc"
+        },
+        {
+          "id": 10001310,
+          "type": "rc"
+        },
+        {
+          "id": 10001311,
+          "type": "cc"
+        },
+        {
+          "id": 10001311,
+          "type": "lc"
+        },
+        {
+          "id": 10001311,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_hombrerasguerrero",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10001326,
+          "type": "cc"
+        },
+        {
+          "id": 10001326,
+          "type": "lc"
+        },
+        {
+          "id": 10001326,
+          "type": "rc"
+        },
+        {
+          "id": 10001327,
+          "type": "cc"
+        },
+        {
+          "id": 10001327,
+          "type": "lc"
+        },
+        {
+          "id": 10001327,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_miultdbag",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 927445,
+          "type": "lc"
+        },
+        {
+          "id": 927445,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_angelbellybartop",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 11111,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_MIUbratopF",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5070555,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_MIUbratopM",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 5070556,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_Barcelona",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 41272247,
+          "type": "ch"
+        },
+        {
+          "id": 41272247,
+          "type": "ls"
+        },
+        {
+          "id": 41272247,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_Realmadrid",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 41272248,
+          "type": "ch"
+        },
+        {
+          "id": 41272248,
+          "type": "ls"
+        },
+        {
+          "id": 41272248,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_Argentina",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 41272249,
+          "type": "ch"
+        },
+        {
+          "id": 41272249,
+          "type": "ls"
+        },
+        {
+          "id": 41272249,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_miushirt",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 807887,
+          "type": "ch"
+        },
+        {
+          "id": 807882,
+          "type": "ls"
+        },
+        {
+          "id": 807882,
+          "type": "rs"
+        },
+        {
+          "id": 807888,
+          "type": "ch"
+        },
+        {
+          "id": 807883,
+          "type": "ls"
+        },
+        {
+          "id": 807883,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv24sudaderapeluch",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000811,
+          "type": "ch"
+        },
+        {
+          "id": 10000812,
+          "type": "ls"
+        },
+        {
+          "id": 10000812,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv24sudaderapolar",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000818,
+          "type": "ch"
+        },
+        {
+          "id": 10000819,
+          "type": "ls"
+        },
+        {
+          "id": 10000819,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv24topsantaclos",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000813,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv24trajesantaclos",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000815,
+          "type": "ch"
+        },
+        {
+          "id": 10000816,
+          "type": "ls"
+        },
+        {
+          "id": 10000816,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_IchiSnowShoes",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 8182175,
+          "type": "sh"
+        },
+        {
+          "id": 8182176,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_tv24calcetascrochet",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000797,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_tv24charolesinvierno",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000798,
+          "type": "sh"
+        },
+        {
+          "id": 10000799,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv24pantalonlazo",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000806,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv24pantalonpolar",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000807,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv24pantalonsanta",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000644,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv24shortssantaclos",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 10000810,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_nftbaubles1",
       "revision": 7,
       "parts": [
