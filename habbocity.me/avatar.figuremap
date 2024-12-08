@@ -1,6 +1,50 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_F_misssantavest",
+      "revision": 156783,
+      "parts": [
+        {
+          "id": 156783,
+          "type": "ch"
+        },
+        {
+          "id": 156784,
+          "type": "ch"
+        },
+        {
+          "id": 156785,
+          "type": "ch"
+        },
+        {
+          "id": 156786,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_misachoco",
+      "revision": 156781,
+      "parts": [
+        {
+          "id": 156781,
+          "type": "ch"
+        },
+        {
+          "id": 156782,
+          "type": "ch"
+        },
+        {
+          "id": 156781,
+          "type": "ls"
+        },
+        {
+          "id": 156781,
+          "type": "rs"
+        }
+      ]
+    },
+    {
       "id": "trousers_U_BoaDress",
       "revision": 156778,
       "parts": [
