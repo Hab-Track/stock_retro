@@ -1,6 +1,90 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_F_nftrastasantajacket",
+      "revision": 156795,
+      "parts": [
+        {
+          "id": 156795,
+          "type": "cc"
+        },
+        {
+          "id": 156795,
+          "type": "lc"
+        },
+        {
+          "id": 156795,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_nftrastasantajacket",
+      "revision": 156794,
+      "parts": [
+        {
+          "id": 156794,
+          "type": "cc"
+        },
+        {
+          "id": 156794,
+          "type": "lc"
+        },
+        {
+          "id": 156794,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftsack",
+      "revision": 156793,
+      "parts": [
+        {
+          "id": 156793,
+          "type": "cc"
+        },
+        {
+          "id": 156793,
+          "type": "lc"
+        },
+        {
+          "id": 156793,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_nftxmassocks",
+      "revision": 156792,
+      "parts": [
+        {
+          "id": 156792,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftbaubles1",
+      "revision": 156791,
+      "parts": [
+        {
+          "id": 156791,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftbaubles2",
+      "revision": 156790,
+      "parts": [
+        {
+          "id": 156790,
+          "type": "ca"
+        }
+      ]
+    },
+    {
       "id": "hair_U_CheveuxBoucles",
       "revision": 156788,
       "parts": [
@@ -20812,35 +20896,43 @@
     },
     {
       "id": "shirt_M_schoolblazer",
-      "revision": 998786852,
+      "revision": 156796,
       "parts": [
         {
-          "id": 5631,
+          "id": 156796,
+          "type": "ch"
+        },
+        {
+          "id": 156796,
           "type": "ls"
         },
         {
-          "id": 5631,
+          "id": 156796,
           "type": "rs"
         },
         {
-          "id": 5631,
+          "id": 156797,
           "type": "ch"
         },
         {
-          "id": 5632,
-          "type": "ch"
-        },
-        {
-          "id": 5632,
+          "id": 156797,
           "type": "ls"
         },
         {
-          "id": 5632,
+          "id": 156797,
           "type": "rs"
         },
         {
-          "id": 5633,
+          "id": 156798,
           "type": "ch"
+        },
+        {
+          "id": 156798,
+          "type": "ls"
+        },
+        {
+          "id": 156798,
+          "type": "rs"
         }
       ]
     },
