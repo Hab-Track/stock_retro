@@ -1,6 +1,72 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_head_U_RubanTete",
+      "revision": 156845,
+      "parts": [
+        {
+          "id": 156845,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_CheveuxChignon",
+      "revision": 156842,
+      "parts": [
+        {
+          "id": 156842,
+          "type": "hr"
+        },
+        {
+          "id": 156843,
+          "type": "hr"
+        },
+        {
+          "id": 156844,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_RubanCeinture",
+      "revision": 156841,
+      "parts": [
+        {
+          "id": 156841,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_JupeCourte",
+      "revision": 156840,
+      "parts": [
+        {
+          "id": 156840,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_Rika",
+      "revision": 156839,
+      "parts": [
+        {
+          "id": 156839,
+          "type": "cc"
+        },
+        {
+          "id": 156839,
+          "type": "lc"
+        },
+        {
+          "id": 156839,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "shirt_U_BoaDress",
       "revision": 156836,
       "parts": [
