@@ -5,12 +5,12 @@
   "hof.furni.url": "https://assets.habhub.net/swf/dcr/hof_furni",
   "images.url": "https://assets.habhub.net/nitro/images",
   "gamedata.url": "https://assets.habhub.net/nitro/gamedata",
-  "sounds.url": "https://assets.habhub.net/nitro/sounds/%sample%.mp3",
+  "sounds.url": "https://assets.habhub.net/sounds/%sample%.mp3",
   "external.texts.url": [
     "https://assets.habhub.net/nitro/gamedata/ExternalTexts.json",
     "https://assets.habhub.net/nitro/gamedata/UITexts.json"
   ],
-  "external.samples.url": "https://assets.habhub.net/swf/dcr/hof_furni/mp3/sound_machine_sample_%sample%.mp3",
+  "external.samples.url": "https://assets.habhub.net/sounds/trax/sound_machine_sample_%sample%.mp3",
   "furnidata.url": "https://assets.habhub.net/nitro/gamedata/FurnitureData.json",
   "productdata.url": "https://assets.habhub.net/nitro/gamedata/ProductData.json",
   "avatar.actions.url": "https://assets.habhub.net/nitro/gamedata/HabboAvatarActions.json",
