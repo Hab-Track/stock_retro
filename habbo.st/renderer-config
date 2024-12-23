@@ -24,6 +24,7 @@
   "pet.asset.url": "${asset.url}/pet/%libname%.nitro",
   "generic.asset.url": "${asset.url}/bundled/generic/%libname%.nitro",
   "badge.asset.url": "${image.library.url}album1584/%badgename%.gif",
+  "banner.asset.url": "${asset.url}/banners/banner%bannerid%.gif",
   "furni.rotation.bounce.steps": 8,
   "furni.rotation.bounce.height": 0.0725,
   "enable.avatar.arrow": false,
@@ -36,6 +37,8 @@
   "system.pong.interval.ms": 20000,
   "room.landscapes.enabled": true,
   "room.color.skip.transition": true,
+  "banner.min": 0,
+  "banner.max": 42,
   "avatar.mandatory.libraries": [
     "bd:1",
     "li:0"
