@@ -1,6 +1,190 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_face_U_cnysnaketongue",
+      "revision": 11639,
+      "parts": [
+        {
+          "id": 6216,
+          "type": "fa"
+        },
+        {
+          "id": 6217,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_cnysnaketail",
+      "revision": 11638,
+      "parts": [
+        {
+          "id": 6218,
+          "type": "wa"
+        },
+        {
+          "id": 6219,
+          "type": "wa"
+        },
+        {
+          "id": 6220,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_poshwaistcoat",
+      "revision": 11637,
+      "parts": [
+        {
+          "id": 6213,
+          "type": "ch"
+        },
+        {
+          "id": 6213,
+          "type": "ls"
+        },
+        {
+          "id": 6213,
+          "type": "rs"
+        },
+        {
+          "id": 6214,
+          "type": "ch"
+        },
+        {
+          "id": 6215,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_poshwaistcoat",
+      "revision": 11636,
+      "parts": [
+        {
+          "id": 6210,
+          "type": "ch"
+        },
+        {
+          "id": 6210,
+          "type": "ls"
+        },
+        {
+          "id": 6210,
+          "type": "rs"
+        },
+        {
+          "id": 6211,
+          "type": "ch"
+        },
+        {
+          "id": 6212,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_goosefriend",
+      "revision": 11635,
+      "parts": [
+        {
+          "id": 6196,
+          "type": "cc"
+        },
+        {
+          "id": 6196,
+          "type": "lc"
+        },
+        {
+          "id": 6196,
+          "type": "rc"
+        },
+        {
+          "id": 6197,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftsack",
+      "revision": 11634,
+      "parts": [
+        {
+          "id": 6312,
+          "type": "lc"
+        },
+        {
+          "id": 6312,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_nftxmassocks",
+      "revision": 11633,
+      "parts": [
+        {
+          "id": 6313,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_nftrastasantajacket",
+      "revision": 11632,
+      "parts": [
+        {
+          "id": 6309,
+          "type": "cc"
+        },
+        {
+          "id": 6309,
+          "type": "lc"
+        },
+        {
+          "id": 6309,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_nftrastasantajacket",
+      "revision": 11631,
+      "parts": [
+        {
+          "id": 6308,
+          "type": "cc"
+        },
+        {
+          "id": 6308,
+          "type": "lc"
+        },
+        {
+          "id": 6308,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftbaubles",
+      "revision": 11630,
+      "parts": [
+        {
+          "id": 6310,
+          "type": "ca"
+        },
+        {
+          "id": 6311,
+          "type": "ca"
+        },
+        {
+          "id": 6312,
+          "type": "ca"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_nftbiglollipop",
       "revision": 11629,
       "parts": [
