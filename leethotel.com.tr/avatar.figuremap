@@ -1,6 +1,86 @@
 ﻿{
   "libraries": [
     {
+      "id": "hair_U_sabrinahair",
+      "revision": 11645,
+      "parts": [
+        {
+          "id": 50103,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_gravatav4",
+      "revision": 11644,
+      "parts": [
+        {
+          "id": 231342432,
+          "type": "ca"
+        },
+        {
+          "id": 231342433,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_Mendlerhair",
+      "revision": 11643,
+      "parts": [
+        {
+          "id": 1337751,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_basicdress",
+      "revision": 11642,
+      "parts": [
+        {
+          "id": 33125563,
+          "type": "ch"
+        },
+        {
+          "id": 33125563,
+          "type": "ls"
+        },
+        {
+          "id": 33125563,
+          "type": "rs"
+        },
+        {
+          "id": 33125564,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_victoriancorset",
+      "revision": 11641,
+      "parts": [
+        {
+          "id": 2147483644,
+          "type": "ch"
+        },
+        {
+          "id": 2147483645,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_bowhat",
+      "revision": 11640,
+      "parts": [
+        {
+          "id": 741351653,
+          "type": "ha"
+        }
+      ]
+    },
+    {
       "id": "acc_face_U_cnysnaketongue",
       "revision": 11639,
       "parts": [
