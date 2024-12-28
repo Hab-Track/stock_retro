@@ -40,6 +40,11 @@
   "room.color.skip.transition": true,
   "banner.min": 0,
   "banner.max": 44,
+  "transferwidget.currencies": [
+    "Taler",
+    "Diamanten",
+    "Flammen"
+  ],
   "avatar.mandatory.libraries": [
     "bd:1",
     "li:0"
