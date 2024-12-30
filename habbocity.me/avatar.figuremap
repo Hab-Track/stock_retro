@@ -1,6 +1,58 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_U_victoriancorset",
+      "revision": 156871,
+      "parts": [
+        {
+          "id": 156871,
+          "type": "ch"
+        },
+        {
+          "id": 156872,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_EnergyFlow",
+      "revision": 156870,
+      "parts": [
+        {
+          "id": 156870,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_pencilskirt",
+      "revision": 156869,
+      "parts": [
+        {
+          "id": 156869,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_PullAxel",
+      "revision": 156868,
+      "parts": [
+        {
+          "id": 156868,
+          "type": "ch"
+        },
+        {
+          "id": 156868,
+          "type": "ls"
+        },
+        {
+          "id": 156868,
+          "type": "rs"
+        }
+      ]
+    },
+    {
       "id": "acc_face_U_FleurWhisp",
       "revision": 156866,
       "parts": [
