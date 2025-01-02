@@ -1,6 +1,82 @@
 ﻿{
   "libraries": [
     {
+      "id": "hair_U_CoupeChignonV",
+      "revision": 156880,
+      "parts": [
+        {
+          "id": 156880,
+          "type": "hr"
+        },
+        {
+          "id": 156881,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_longcheveux",
+      "revision": 156878,
+      "parts": [
+        {
+          "id": 156878,
+          "type": "hr"
+        },
+        {
+          "id": 156878,
+          "type": "hrb"
+        },
+        {
+          "id": 156879,
+          "type": "hr"
+        },
+        {
+          "id": 156879,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_CoupeBarette",
+      "revision": 156876,
+      "parts": [
+        {
+          "id": 156876,
+          "type": "hr"
+        },
+        {
+          "id": 156876,
+          "type": "hrb"
+        },
+        {
+          "id": 156877,
+          "type": "hr"
+        },
+        {
+          "id": 156877,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_PullAxelFeminin",
+      "revision": 156875,
+      "parts": [
+        {
+          "id": 156875,
+          "type": "ch"
+        },
+        {
+          "id": 156875,
+          "type": "ls"
+        },
+        {
+          "id": 156875,
+          "type": "rs"
+        }
+      ]
+    },
+    {
       "id": "hat_U_axeipartyhatcolor",
       "revision": 156873,
       "parts": [
