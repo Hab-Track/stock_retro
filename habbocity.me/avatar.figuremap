@@ -1,6 +1,66 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_F_IchiSnowjacketFm",
+      "revision": 156884,
+      "parts": [
+        {
+          "id": 156884,
+          "type": "ch"
+        },
+        {
+          "id": 156884,
+          "type": "ls"
+        },
+        {
+          "id": 156884,
+          "type": "rs"
+        },
+        {
+          "id": 156885,
+          "type": "ch"
+        },
+        {
+          "id": 156885,
+          "type": "ls"
+        },
+        {
+          "id": 156885,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_IchiSnowjacket",
+      "revision": 156882,
+      "parts": [
+        {
+          "id": 156882,
+          "type": "ch"
+        },
+        {
+          "id": 156882,
+          "type": "ls"
+        },
+        {
+          "id": 156882,
+          "type": "rs"
+        },
+        {
+          "id": 156883,
+          "type": "ch"
+        },
+        {
+          "id": 156883,
+          "type": "ls"
+        },
+        {
+          "id": 156883,
+          "type": "rs"
+        }
+      ]
+    },
+    {
       "id": "hair_U_CoupeChignonV",
       "revision": 156880,
       "parts": [
