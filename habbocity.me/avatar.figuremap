@@ -1,6 +1,42 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_F_IchiAxeiJacketF",
+      "revision": 156887,
+      "parts": [
+        {
+          "id": 156887,
+          "type": "cc"
+        },
+        {
+          "id": 156887,
+          "type": "lc"
+        },
+        {
+          "id": 156887,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_IchiAxeiJacketM",
+      "revision": 156886,
+      "parts": [
+        {
+          "id": 156886,
+          "type": "cc"
+        },
+        {
+          "id": 156886,
+          "type": "lc"
+        },
+        {
+          "id": 156886,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "shirt_F_IchiSnowjacketFm",
       "revision": 156884,
       "parts": [
