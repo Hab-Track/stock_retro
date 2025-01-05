@@ -1,6 +1,118 @@
 ﻿{
   "libraries": [
     {
+      "id": "hair_U_axeiedomecheskishibe",
+      "revision": 156900,
+      "parts": [
+        {
+          "id": 156900,
+          "type": "hr"
+        },
+        {
+          "id": 156901,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_ChapeauFourrure",
+      "revision": 156899,
+      "parts": [
+        {
+          "id": 156899,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_JessicaRabbit",
+      "revision": 156897,
+      "parts": [
+        {
+          "id": 156897,
+          "type": "hr"
+        },
+        {
+          "id": 156897,
+          "type": "hrb"
+        },
+        {
+          "id": 156898,
+          "type": "hr"
+        },
+        {
+          "id": 156898,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_F_nftartistapron",
+      "revision": 156895,
+      "parts": [
+        {
+          "id": 156895,
+          "type": "ca"
+        },
+        {
+          "id": 156896,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_M_nftartistapron",
+      "revision": 156893,
+      "parts": [
+        {
+          "id": 156893,
+          "type": "ca"
+        },
+        {
+          "id": 156894,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftartistpencil",
+      "revision": 156891,
+      "parts": [
+        {
+          "id": 156891,
+          "type": "fa"
+        },
+        {
+          "id": 156892,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nft2025",
+      "revision": 156890,
+      "parts": [
+        {
+          "id": 156890,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftartistberet",
+      "revision": 156888,
+      "parts": [
+        {
+          "id": 156888,
+          "type": "ha"
+        },
+        {
+          "id": 156889,
+          "type": "ha"
+        }
+      ]
+    },
+    {
       "id": "jacket_F_IchiAxeiJacketF",
       "revision": 156887,
       "parts": [
@@ -2740,48 +2852,6 @@
         },
         {
           "id": 6013,
-          "type": "rs"
-        }
-      ]
-    },
-    {
-      "id": "shirt_M_bloodypromdress",
-      "revision": 180503,
-      "parts": [
-        {
-          "id": 5881,
-          "type": "ch"
-        },
-        {
-          "id": 5881,
-          "type": "ls"
-        },
-        {
-          "id": 5881,
-          "type": "rs"
-        },
-        {
-          "id": 5882,
-          "type": "ch"
-        },
-        {
-          "id": 5882,
-          "type": "ls"
-        },
-        {
-          "id": 5882,
-          "type": "rs"
-        },
-        {
-          "id": 5883,
-          "type": "ch"
-        },
-        {
-          "id": 5883,
-          "type": "ls"
-        },
-        {
-          "id": 5883,
           "type": "rs"
         }
       ]
@@ -6010,78 +6080,6 @@
         },
         {
           "id": 5553,
-          "type": "rs"
-        }
-      ]
-    },
-    {
-      "id": "shirt_M_nftsummertop4",
-      "revision": 180302,
-      "parts": [
-        {
-          "id": 5806,
-          "type": "ch"
-        },
-        {
-          "id": 5806,
-          "type": "ls"
-        },
-        {
-          "id": 5806,
-          "type": "rs"
-        }
-      ]
-    },
-    {
-      "id": "shirt_M_nftsummertop3",
-      "revision": 180301,
-      "parts": [
-        {
-          "id": 5805,
-          "type": "ch"
-        },
-        {
-          "id": 5805,
-          "type": "ls"
-        },
-        {
-          "id": 5805,
-          "type": "rs"
-        }
-      ]
-    },
-    {
-      "id": "shirt_M_nftsummertop2",
-      "revision": 180300,
-      "parts": [
-        {
-          "id": 5804,
-          "type": "ch"
-        },
-        {
-          "id": 5804,
-          "type": "ls"
-        },
-        {
-          "id": 5804,
-          "type": "rs"
-        }
-      ]
-    },
-    {
-      "id": "shirt_M_nftsummertop1",
-      "revision": 180299,
-      "parts": [
-        {
-          "id": 5803,
-          "type": "ch"
-        },
-        {
-          "id": 5803,
-          "type": "ls"
-        },
-        {
-          "id": 5803,
           "type": "rs"
         }
       ]
