@@ -1,5 +1,5 @@
 ﻿{
-  "socket.url": "wss://game.habblive.network:2053/",
+  "socket.url": "wss://ws.atlantaserver.me:2053/",
   "asset.url": "//assets.habblive.network/Beta/V2/assets",
   "image.library.url": "//images.habblive.com/c_imagenes/",
   "hof.furni.url": "//images.habblive.net/Habblive/images/dcr/hof_furni_a/",
@@ -7,16 +7,16 @@
   "gamedata.url": "${asset.url}/gamedata_live_V2",
   "sounds.url": "${asset.url}/sounds/%sample%.mp3",
   "external.texts.url": [
-    "${gamedata.url}/ExternalTexts.json",
-    "${gamedata.url}/UITexts_V3.json"
+    "//images.habblive.net/BETA/V2/assets/gamedata_live_V2/ExternalTexts.json",
+    "//images.habblive.net/BETA/V2/assets/gamedata_live_V2/UITexts_V3_H_NAVI_2_1.json"
   ],
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
-  "furnidata.url": "${gamedata.url}/FurnitureData_6_28_2024.json",
-  "productdata.url": "${gamedata.url}/ProductData_3_7_2024.json",
+  "furnidata.url": "${gamedata.url}/FurnitureData_14_12_2024.json",
+  "productdata.url": "${gamedata.url}/ProductData_14_12_2024.json",
   "avatar.actions.url": "${gamedata.url}/HabboAvatarActions.json",
-  "avatar.figuredata.url": "${gamedata.url}/FigureData.json?623336",
-  "avatar.figuremap.url": "${gamedata.url}/FigureMap.json?623336",
-  "avatar.effectmap.url": "${gamedata.url}/EffectMap_4_13_2023.json",
+  "avatar.figuredata.url": "${gamedata.url}/FigureData_14.json",
+  "avatar.figuremap.url": "${gamedata.url}/FigureMap_14.json",
+  "avatar.effectmap.url": "${gamedata.url}/EffectMap_12_9_2024_1.json",
   "avatar.asset.url": "${asset.url}/bundled/clothes_habblive_V2/%libname%.nitro",
   "avatar.asset.effect.url": "${asset.url}/bundled/effect_habblive_V2/%libname%.nitro",
   "furni.asset.url": "${asset.url}/bundled/furniture_habblive_V2/%libname%.nitro",
