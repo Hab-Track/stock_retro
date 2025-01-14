@@ -1,6 +1,24 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_CapucheDos",
+      "revision": 156909,
+      "parts": [
+        {
+          "id": 156909,
+          "type": "cc"
+        },
+        {
+          "id": 156909,
+          "type": "lc"
+        },
+        {
+          "id": 156909,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_LuffyHat",
       "revision": 156907,
       "parts": [
