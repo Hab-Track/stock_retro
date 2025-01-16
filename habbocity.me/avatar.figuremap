@@ -1,6 +1,34 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_cinnamonbag",
+      "revision": 156926,
+      "parts": [
+        {
+          "id": 156926,
+          "type": "cc"
+        },
+        {
+          "id": 156926,
+          "type": "lc"
+        },
+        {
+          "id": 156926,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_CurlyHair",
+      "revision": 156925,
+      "parts": [
+        {
+          "id": 156925,
+          "type": "hr"
+        }
+      ]
+    },
+    {
       "id": "jacket_F_smallvestF",
       "revision": 156923,
       "parts": [
