@@ -2,7 +2,7 @@
   "purse.seasonal.currency.102": "Peanuts",
   "purse.seasonal.currency.103": "GOTW Points",
   "purse.seasonal.currency.104": "Snowflakes",
-  "purse.seasonal.currency.105": "BA Tokens",
+  "purse.seasonal.currency.105": "Boon Adventures Tokens",
   "catalog.alert.notenough.activitypoints.title.105": "Not enough BA Tokens",
   "campaign.calendar.xmas17advent.title": "Advent Calendar",
   "inventory.trading.areoffering": "add amount",
@@ -19,5 +19,6 @@
   "notification.mysterybox.error.no_key.message": "Get the key by completing daily quest chain.",
   "notification.mysterybox.error.title": "Mystery Box",
   "notification.mysterybox.error.unexpected.message": "Something went wrong. Please, re-login and try to open the box again.",
-  "notification.mysterybox.error.wrong_key.message": "Go find box with the same color as your key. You can check key color from the little \"Mystery Box\" widget at the right side of the screen."
+  "notification.mysterybox.error.wrong_key.message": "Go find box with the same color as your key. You can check key color from the little \"Mystery Box\" widget at the right side of the screen.",
+  "inventory.marketplace.confirm_offer.info.multiple": "You are selling %quantity% of %furniname%. If someone buys this offer, you will receive: %price% Credit(s) per item."
 }
