@@ -1,6 +1,42 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_F_KiriHunterVestF",
+      "revision": 156932,
+      "parts": [
+        {
+          "id": 156932,
+          "type": "cc"
+        },
+        {
+          "id": 156932,
+          "type": "lc"
+        },
+        {
+          "id": 156932,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_KiriHunterVestM",
+      "revision": 156931,
+      "parts": [
+        {
+          "id": 156931,
+          "type": "cc"
+        },
+        {
+          "id": 156931,
+          "type": "lc"
+        },
+        {
+          "id": 156931,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_TeemoPeluche",
       "revision": 156930,
       "parts": [
