@@ -1,6 +1,77 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_print_U_nftsnakeyearmark1",
+      "parts": [
+        {
+          "id": 6478,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftsnakeyearmark2",
+      "parts": [
+        {
+          "id": 6479,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftsnakeyearmark3",
+      "parts": [
+        {
+          "id": 6480,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftsnakeyearmark4",
+      "parts": [
+        {
+          "id": 6481,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "pet_U_shiba1test",
+      "parts": [
+        {
+          "id": 6090,
+          "type": "pt"
+        },
+        {
+          "id": 6091,
+          "type": "pt"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftsnakecrown",
+      "parts": [
+        {
+          "id": 6482,
+          "type": "ha"
+        },
+        {
+          "id": 6483,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftsnaketeeth",
+      "parts": [
+        {
+          "id": 6477,
+          "type": "fa"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_tv25alas25",
       "parts": [
         {
@@ -45545,6 +45616,18 @@
         {
           "id": 3012,
           "type": "rs"
+        },
+        {
+          "id": 3013,
+          "type": "ch"
+        },
+        {
+          "id": 3013,
+          "type": "ls"
+        },
+        {
+          "id": 3013,
+          "type": "rs"
         }
       ]
     },
@@ -56369,6 +56452,14 @@
         },
         {
           "id": 3213,
+          "type": "hrb"
+        },
+        {
+          "id": 3214,
+          "type": "hr"
+        },
+        {
+          "id": 3214,
           "type": "hrb"
         }
       ]
