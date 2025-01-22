@@ -1,6 +1,227 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_head_U_fancyweddingveil",
+      "parts": [
+        {
+          "id": 6453,
+          "type": "he"
+        },
+        {
+          "id": 6454,
+          "type": "he"
+        },
+        {
+          "id": 6455,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_duckethat",
+      "parts": [
+        {
+          "id": 6208,
+          "type": "ha"
+        },
+        {
+          "id": 6209,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_roseweddingtophat",
+      "parts": [
+        {
+          "id": 6462,
+          "type": "ha"
+        },
+        {
+          "id": 6463,
+          "type": "ha"
+        },
+        {
+          "id": 6464,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_roseweddingtux",
+      "parts": [
+        {
+          "id": 6459,
+          "type": "cc"
+        },
+        {
+          "id": 6459,
+          "type": "lc"
+        },
+        {
+          "id": 6459,
+          "type": "rc"
+        },
+        {
+          "id": 6460,
+          "type": "cc"
+        },
+        {
+          "id": 6460,
+          "type": "lc"
+        },
+        {
+          "id": 6460,
+          "type": "rc"
+        },
+        {
+          "id": 6461,
+          "type": "cc"
+        },
+        {
+          "id": 6461,
+          "type": "lc"
+        },
+        {
+          "id": 6461,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_roseweddingtux",
+      "parts": [
+        {
+          "id": 6456,
+          "type": "cc"
+        },
+        {
+          "id": 6456,
+          "type": "lc"
+        },
+        {
+          "id": 6456,
+          "type": "rc"
+        },
+        {
+          "id": 6457,
+          "type": "cc"
+        },
+        {
+          "id": 6457,
+          "type": "lc"
+        },
+        {
+          "id": 6457,
+          "type": "rc"
+        },
+        {
+          "id": 6458,
+          "type": "cc"
+        },
+        {
+          "id": 6458,
+          "type": "lc"
+        },
+        {
+          "id": 6458,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_ducketshirt",
+      "parts": [
+        {
+          "id": 6206,
+          "type": "ch"
+        },
+        {
+          "id": 6206,
+          "type": "ls"
+        },
+        {
+          "id": 6206,
+          "type": "rs"
+        },
+        {
+          "id": 6207,
+          "type": "ch"
+        },
+        {
+          "id": 6207,
+          "type": "ls"
+        },
+        {
+          "id": 6207,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_mermaidstyleweddingdress",
+      "parts": [
+        {
+          "id": 6451,
+          "type": "ch"
+        },
+        {
+          "id": 6451,
+          "type": "ls"
+        },
+        {
+          "id": 6451,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_ducketshirt",
+      "parts": [
+        {
+          "id": 6204,
+          "type": "ch"
+        },
+        {
+          "id": 6204,
+          "type": "ls"
+        },
+        {
+          "id": 6204,
+          "type": "rs"
+        },
+        {
+          "id": 6205,
+          "type": "ch"
+        },
+        {
+          "id": 6205,
+          "type": "ls"
+        },
+        {
+          "id": 6205,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_mermaidstyleweddingdress",
+      "parts": [
+        {
+          "id": 6452,
+          "type": "ch"
+        },
+        {
+          "id": 6452,
+          "type": "ls"
+        },
+        {
+          "id": 6452,
+          "type": "rs"
+        }
+      ]
+    },
+    {
       "id": "acc_print_U_nftsnakeyearmark1",
       "parts": [
         {
@@ -34226,23 +34447,6 @@
         },
         {
           "id": 6207,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_shinobibandanasuna",
-      "parts": [
-        {
-          "id": 6208,
-          "type": "ha"
-        },
-        {
-          "id": 6209,
-          "type": "ha"
-        },
-        {
-          "id": 6210,
           "type": "ha"
         }
       ]
