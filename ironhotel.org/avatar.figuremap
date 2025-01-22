@@ -61653,6 +61653,52 @@
           "type": "ca"
         }
       ]
+    },
+    {
+      "id": "hat_U_ShakHat",
+      "revision": 998788329,
+      "parts": [
+        {
+          "id": 67451450,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_ShakMerchFem",
+      "revision": 998788330,
+      "parts": [
+        {
+          "id": 5822756,
+          "type": "ch"
+        },
+        {
+          "id": 5822756,
+          "type": "ls"
+        },
+        {
+          "id": 5822756,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_ShakMerchMasc",
+      "revision": 998788331,
+      "parts": [
+        {
+          "id": 756374,
+          "type": "ch"
+        },
+        {
+          "id": 756374,
+          "type": "ls"
+        },
+        {
+          "id": 756374,
+          "type": "rs"
+        }
+      ]
     }
   ]
 }
