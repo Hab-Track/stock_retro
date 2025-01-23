@@ -22,5 +22,12 @@
   "notification.mysterybox.error.wrong_key.message": "Go find box with the same color as your key. You can check key color from the little \"Mystery Box\" widget at the right side of the screen.",
   "inventory.marketplace.confirm_offer.info.multiple": "You are selling %quantity% of %furniname%. If someone buys this offer, you will receive: %price% Credit(s) per item.",
   "inventory.rares": "Rares",
-  "inventory.clothing": "Clothing"
+  "inventory.clothing": "Clothing",
+  "furni-editor.widget.title": "Furni Editor",
+  "furni-editor.furniture.title": "Public Name",
+  "furni-editor.furniture.description": "Description",
+  "furni-editor.furniture.is-rare": "Is rare?",
+  "furni-editor.furniture.allow-marketplace": "Can be sold on marketplace?",
+  "furni-editor.widget.update": "Update",
+  "infostand.button.edit": "Edit"
 }
