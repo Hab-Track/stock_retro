@@ -40739,20 +40739,6 @@
       ]
     },
     {
-      "id": "acc_face_U_RespiraderoCuervo",
-      "revision": 990003322,
-      "parts": [
-        {
-          "id": 10001356,
-          "type": "fa"
-        },
-        {
-          "id": 10001357,
-          "type": "fa"
-        }
-      ]
-    },
-    {
       "id": "acc_head_U_EnergyFlow",
       "revision": 990003323,
       "parts": [
@@ -41829,20 +41815,6 @@
       ]
     },
     {
-      "id": "shirt_F_blusadecotebychoco1",
-      "revision": 990003401,
-      "parts": [
-        {
-          "id": 1337761,
-          "type": "lc"
-        },
-        {
-          "id": 1337762,
-          "type": "rc"
-        }
-      ]
-    },
-    {
       "id": "shirt_U_victoriancorset",
       "revision": 990003402,
       "parts": [
@@ -42527,6 +42499,16 @@
         {
           "id": 200000007,
           "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv25bolaencadena",
+      "revision": 990003451,
+      "parts": [
+        {
+          "id": 10000841,
+          "type": "cc"
         }
       ]
     },
