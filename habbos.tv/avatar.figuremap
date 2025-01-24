@@ -12850,6 +12850,16 @@
       ]
     },
     {
+      "id": "trousers_U_modernhanbokskirt",
+      "revision": 67644,
+      "parts": [
+        {
+          "id": 4519,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "shirt_M_guccimodernizzata",
       "parts": [
         {
@@ -47961,8 +47971,24 @@
           "type": "ch"
         },
         {
+          "id": 4506,
+          "type": "ls"
+        },
+        {
+          "id": 4506,
+          "type": "rs"
+        },
+        {
           "id": 4507,
           "type": "ch"
+        },
+        {
+          "id": 4507,
+          "type": "ls"
+        },
+        {
+          "id": 4507,
+          "type": "rs"
         }
       ]
     },
@@ -48024,8 +48050,24 @@
           "type": "ch"
         },
         {
+          "id": 4504,
+          "type": "ls"
+        },
+        {
+          "id": 4504,
+          "type": "rs"
+        },
+        {
           "id": 4505,
           "type": "ch"
+        },
+        {
+          "id": 4505,
+          "type": "ls"
+        },
+        {
+          "id": 4505,
+          "type": "rs"
         }
       ]
     },
@@ -52245,6 +52287,14 @@
         {
           "id": 4188,
           "type": "ch"
+        },
+        {
+          "id": 4188,
+          "type": "ls"
+        },
+        {
+          "id": 4188,
+          "type": "rs"
         }
       ]
     },
@@ -73613,6 +73663,15 @@
       "parts": [
         {
           "id": 2604,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_squid2",
+      "parts": [
+        {
+          "id": 4189,
           "type": "ha"
         }
       ]
