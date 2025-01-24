@@ -1,6 +1,240 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_head_U_fancyweddingevil",
+      "revision": 156958,
+      "parts": [
+        {
+          "id": 156958,
+          "type": "he"
+        },
+        {
+          "id": 156959,
+          "type": "he"
+        },
+        {
+          "id": 156960,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_duckethat",
+      "revision": 156956,
+      "parts": [
+        {
+          "id": 156956,
+          "type": "ha"
+        },
+        {
+          "id": 156957,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_roseweddingtophat",
+      "revision": 156953,
+      "parts": [
+        {
+          "id": 156953,
+          "type": "ha"
+        },
+        {
+          "id": 156954,
+          "type": "ha"
+        },
+        {
+          "id": 156955,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_roseweddingtuxF",
+      "revision": 156950,
+      "parts": [
+        {
+          "id": 156950,
+          "type": "cc"
+        },
+        {
+          "id": 156950,
+          "type": "lc"
+        },
+        {
+          "id": 156950,
+          "type": "rc"
+        },
+        {
+          "id": 156951,
+          "type": "cc"
+        },
+        {
+          "id": 156951,
+          "type": "lc"
+        },
+        {
+          "id": 156951,
+          "type": "rc"
+        },
+        {
+          "id": 156952,
+          "type": "cc"
+        },
+        {
+          "id": 156952,
+          "type": "lc"
+        },
+        {
+          "id": 156952,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_roseweddingtux",
+      "revision": 156947,
+      "parts": [
+        {
+          "id": 156947,
+          "type": "cc"
+        },
+        {
+          "id": 156947,
+          "type": "lc"
+        },
+        {
+          "id": 156947,
+          "type": "rc"
+        },
+        {
+          "id": 156948,
+          "type": "cc"
+        },
+        {
+          "id": 156948,
+          "type": "lc"
+        },
+        {
+          "id": 156948,
+          "type": "rc"
+        },
+        {
+          "id": 156949,
+          "type": "cc"
+        },
+        {
+          "id": 156949,
+          "type": "lc"
+        },
+        {
+          "id": 156949,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_ducketshirtF",
+      "revision": 156945,
+      "parts": [
+        {
+          "id": 156945,
+          "type": "ch"
+        },
+        {
+          "id": 156945,
+          "type": "ls"
+        },
+        {
+          "id": 156945,
+          "type": "rs"
+        },
+        {
+          "id": 156946,
+          "type": "ch"
+        },
+        {
+          "id": 156946,
+          "type": "ls"
+        },
+        {
+          "id": 156946,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_mermaidstylewedding",
+      "revision": 156944,
+      "parts": [
+        {
+          "id": 156944,
+          "type": "ch"
+        },
+        {
+          "id": 156944,
+          "type": "ls"
+        },
+        {
+          "id": 156944,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_ducketshirt",
+      "revision": 156942,
+      "parts": [
+        {
+          "id": 156942,
+          "type": "ch"
+        },
+        {
+          "id": 156942,
+          "type": "ls"
+        },
+        {
+          "id": 156942,
+          "type": "rs"
+        },
+        {
+          "id": 156943,
+          "type": "ch"
+        },
+        {
+          "id": 156943,
+          "type": "ls"
+        },
+        {
+          "id": 156943,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_LimeHaircut",
+      "revision": 156940,
+      "parts": [
+        {
+          "id": 156940,
+          "type": "hr"
+        },
+        {
+          "id": 156940,
+          "type": "hrb"
+        },
+        {
+          "id": 156941,
+          "type": "hr"
+        },
+        {
+          "id": 156941,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
       "id": "hat_U_nftsnakecrown",
       "revision": 156938,
       "parts": [
