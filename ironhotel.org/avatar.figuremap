@@ -62217,6 +62217,226 @@
           "type": "hr"
         }
       ]
+    },
+    {
+      "id": "shirt_M_basicregata",
+      "revision": 998788369,
+      "parts": [
+        {
+          "id": 439874721,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_cabeloamarrado",
+      "revision": 998788370,
+      "parts": [
+        {
+          "id": 37246345,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_cabeloekko",
+      "revision": 998788371,
+      "parts": [
+        {
+          "id": 56176451,
+          "type": "hr"
+        },
+        {
+          "id": 56176452,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_Comisario",
+      "revision": 998788372,
+      "parts": [
+        {
+          "id": 10001322,
+          "type": "ch"
+        },
+        {
+          "id": 10001322,
+          "type": "ls"
+        },
+        {
+          "id": 10001322,
+          "type": "rs"
+        },
+        {
+          "id": 10001323,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_KimonoMomoshikiEdo",
+      "revision": 998788373,
+      "parts": [
+        {
+          "id": 10001350,
+          "type": "ch"
+        },
+        {
+          "id": 10001350,
+          "type": "ls"
+        },
+        {
+          "id": 10001350,
+          "type": "rs"
+        },
+        {
+          "id": 10001351,
+          "type": "ch"
+        },
+        {
+          "id": 10001351,
+          "type": "ls"
+        },
+        {
+          "id": 10001351,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_coreankimono",
+      "revision": 998788374,
+      "parts": [
+        {
+          "id": 76432563,
+          "type": "cc"
+        },
+        {
+          "id": 76432563,
+          "type": "lc"
+        },
+        {
+          "id": 76432564,
+          "type": "cc"
+        },
+        {
+          "id": 76432564,
+          "type": "rc"
+        },
+        {
+          "id": 76432565,
+          "type": "lc"
+        },
+        {
+          "id": 76432565,
+          "type": "rc"
+        },
+        {
+          "id": 76432566,
+          "type": "cc"
+        },
+        {
+          "id": 76432566,
+          "type": "lc"
+        },
+        {
+          "id": 76432566,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_gantelet",
+      "revision": 998788375,
+      "parts": [
+        {
+          "id": 76783212,
+          "type": "lc"
+        },
+        {
+          "id": 76783212,
+          "type": "rc"
+        },
+        {
+          "id": 76783213,
+          "type": "lc"
+        },
+        {
+          "id": 76783213,
+          "type": "rc"
+        },
+        {
+          "id": 76783214,
+          "type": "lc"
+        },
+        {
+          "id": 76783214,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_habbobeanie",
+      "revision": 998788376,
+      "parts": [
+        {
+          "id": 76544213,
+          "type": "ha"
+        },
+        {
+          "id": 76544214,
+          "type": "ha"
+        },
+        {
+          "id": 76544215,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_hhvariation",
+      "revision": 998788377,
+      "parts": [
+        {
+          "id": 78421208,
+          "type": "cc"
+        },
+        {
+          "id": 78421209,
+          "type": "lc"
+        },
+        {
+          "id": 78421209,
+          "type": "rc"
+        },
+        {
+          "id": 78421210,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_jaquetastreetst",
+      "revision": 998788378,
+      "parts": [
+        {
+          "id": 73378736,
+          "type": "cc"
+        },
+        {
+          "id": 73378737,
+          "type": "cc"
+        },
+        {
+          "id": 73378738,
+          "type": "lc"
+        },
+        {
+          "id": 73378738,
+          "type": "rc"
+        }
+      ]
     }
   ]
 }
