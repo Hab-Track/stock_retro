@@ -1,6 +1,212 @@
 ﻿{
   "libraries": [
     {
+      "id": "hat_U_duckethat",
+      "revision": 11703,
+      "parts": [
+        {
+          "id": 6208,
+          "type": "ha"
+        },
+        {
+          "id": 6209,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_ducketshirt",
+      "revision": 11702,
+      "parts": [
+        {
+          "id": 6206,
+          "type": "ch"
+        },
+        {
+          "id": 6206,
+          "type": "ls"
+        },
+        {
+          "id": 6206,
+          "type": "rs"
+        },
+        {
+          "id": 6207,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_ducketshirt",
+      "revision": 11701,
+      "parts": [
+        {
+          "id": 6204,
+          "type": "ch"
+        },
+        {
+          "id": 6204,
+          "type": "ls"
+        },
+        {
+          "id": 6204,
+          "type": "rs"
+        },
+        {
+          "id": 6205,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_roseweddingtophat",
+      "revision": 11700,
+      "parts": [
+        {
+          "id": 6462,
+          "type": "ha"
+        },
+        {
+          "id": 6463,
+          "type": "ha"
+        },
+        {
+          "id": 6464,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_roseweddingtux",
+      "revision": 11699,
+      "parts": [
+        {
+          "id": 6459,
+          "type": "cc"
+        },
+        {
+          "id": 6459,
+          "type": "lc"
+        },
+        {
+          "id": 6459,
+          "type": "rc"
+        },
+        {
+          "id": 6460,
+          "type": "cc"
+        },
+        {
+          "id": 6461,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_roseweddingtux",
+      "revision": 11698,
+      "parts": [
+        {
+          "id": 6456,
+          "type": "cc"
+        },
+        {
+          "id": 6456,
+          "type": "lc"
+        },
+        {
+          "id": 6456,
+          "type": "rc"
+        },
+        {
+          "id": 6457,
+          "type": "cc"
+        },
+        {
+          "id": 6458,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_fancyweddingveil",
+      "revision": 11697,
+      "parts": [
+        {
+          "id": 6453,
+          "type": "he"
+        },
+        {
+          "id": 6454,
+          "type": "he"
+        },
+        {
+          "id": 6455,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_mermaidstyleweddingdress",
+      "revision": 11696,
+      "parts": [
+        {
+          "id": 6452,
+          "type": "ch"
+        },
+        {
+          "id": 6452,
+          "type": "ls"
+        },
+        {
+          "id": 6452,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_mermaidstyleweddingdress",
+      "revision": 11695,
+      "parts": [
+        {
+          "id": 6451,
+          "type": "ch"
+        },
+        {
+          "id": 6451,
+          "type": "ls"
+        },
+        {
+          "id": 6451,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftsnakecrown",
+      "revision": 11694,
+      "parts": [
+        {
+          "id": 6482,
+          "type": "ha"
+        },
+        {
+          "id": 6483,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftsnaketeeth",
+      "revision": 11693,
+      "parts": [
+        {
+          "id": 6477,
+          "type": "fa"
+        }
+      ]
+    },
+    {
       "id": "hat_U_axeipartyhatcolor",
       "revision": 11692,
       "parts": [
@@ -421,20 +627,12 @@
       ]
     },
     {
-      "id": "shirt_U_CamisetaBrasil",
+      "id": "shirt_F_JuicyTop2",
       "revision": 11658,
       "parts": [
         {
-          "id": 10004370,
+          "id": 10002430,
           "type": "ch"
-        },
-        {
-          "id": 10004370,
-          "type": "ls"
-        },
-        {
-          "id": 10004370,
-          "type": "rs"
         }
       ]
     },
@@ -453,12 +651,20 @@
       ]
     },
     {
-      "id": "shirt_F_JuicyTop2",
+      "id": "shirt_U_CamisetaBrasil",
       "revision": 11656,
       "parts": [
         {
-          "id": 10002430,
+          "id": 10004370,
           "type": "ch"
+        },
+        {
+          "id": 10004370,
+          "type": "ls"
+        },
+        {
+          "id": 10004370,
+          "type": "rs"
         }
       ]
     },
@@ -11595,27 +11801,27 @@
       ]
     },
     {
-      "id": "shirt_M_batfamilycostume",
+      "id": "shirt_M_batfamilycostume1",
       "revision": 10921,
       "parts": [
         {
-          "id": 6202,
+          "id": 1337766,
           "type": "ch"
         },
         {
-          "id": 6202,
+          "id": 1337766,
           "type": "ls"
         },
         {
-          "id": 6202,
+          "id": 1337766,
           "type": "rs"
         },
         {
-          "id": 6203,
+          "id": 1337767,
           "type": "ch"
         },
         {
-          "id": 6204,
+          "id": 1337768,
           "type": "ch"
         }
       ]
@@ -43595,7 +43801,7 @@
       ]
     },
     {
-      "id": "shirt_F_leetpokl1",
+      "id": "shirt_F_leetpok",
       "revision": 1337,
       "parts": [
         {
@@ -58478,6 +58684,14 @@
         },
         {
           "id": 284,
+          "type": "ri"
+        },
+        {
+          "id": 285,
+          "type": "ri"
+        },
+        {
+          "id": 286,
           "type": "ri"
         },
         {
