@@ -1,6 +1,492 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_head_U_fancyweddingveil",
+      "parts": [
+        {
+          "id": 6453,
+          "type": "he"
+        },
+        {
+          "id": 6454,
+          "type": "he"
+        },
+        {
+          "id": 6455,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_duckethat",
+      "parts": [
+        {
+          "id": 6208,
+          "type": "ha"
+        },
+        {
+          "id": 6209,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_roseweddingtophat",
+      "parts": [
+        {
+          "id": 6462,
+          "type": "ha"
+        },
+        {
+          "id": 6463,
+          "type": "ha"
+        },
+        {
+          "id": 6464,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_roseweddingtux",
+      "parts": [
+        {
+          "id": 6459,
+          "type": "cc"
+        },
+        {
+          "id": 6459,
+          "type": "lc"
+        },
+        {
+          "id": 6459,
+          "type": "rc"
+        },
+        {
+          "id": 6460,
+          "type": "cc"
+        },
+        {
+          "id": 6460,
+          "type": "lc"
+        },
+        {
+          "id": 6460,
+          "type": "rc"
+        },
+        {
+          "id": 6461,
+          "type": "cc"
+        },
+        {
+          "id": 6461,
+          "type": "lc"
+        },
+        {
+          "id": 6461,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_roseweddingtux",
+      "parts": [
+        {
+          "id": 6456,
+          "type": "cc"
+        },
+        {
+          "id": 6456,
+          "type": "lc"
+        },
+        {
+          "id": 6456,
+          "type": "rc"
+        },
+        {
+          "id": 6457,
+          "type": "cc"
+        },
+        {
+          "id": 6457,
+          "type": "lc"
+        },
+        {
+          "id": 6457,
+          "type": "rc"
+        },
+        {
+          "id": 6458,
+          "type": "cc"
+        },
+        {
+          "id": 6458,
+          "type": "lc"
+        },
+        {
+          "id": 6458,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_ducketshirt",
+      "parts": [
+        {
+          "id": 6206,
+          "type": "ch"
+        },
+        {
+          "id": 6206,
+          "type": "ls"
+        },
+        {
+          "id": 6206,
+          "type": "rs"
+        },
+        {
+          "id": 6207,
+          "type": "ch"
+        },
+        {
+          "id": 6207,
+          "type": "ls"
+        },
+        {
+          "id": 6207,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_mermaidstyleweddingdress",
+      "parts": [
+        {
+          "id": 6451,
+          "type": "ch"
+        },
+        {
+          "id": 6451,
+          "type": "ls"
+        },
+        {
+          "id": 6451,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_ducketshirt",
+      "parts": [
+        {
+          "id": 6204,
+          "type": "ch"
+        },
+        {
+          "id": 6204,
+          "type": "ls"
+        },
+        {
+          "id": 6204,
+          "type": "rs"
+        },
+        {
+          "id": 6205,
+          "type": "ch"
+        },
+        {
+          "id": 6205,
+          "type": "ls"
+        },
+        {
+          "id": 6205,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_mermaidstyleweddingdress",
+      "parts": [
+        {
+          "id": 6452,
+          "type": "ch"
+        },
+        {
+          "id": 6452,
+          "type": "ls"
+        },
+        {
+          "id": 6452,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftsnakeyearmark1",
+      "parts": [
+        {
+          "id": 6478,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftsnakeyearmark2",
+      "parts": [
+        {
+          "id": 6479,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftsnakeyearmark3",
+      "parts": [
+        {
+          "id": 6480,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftsnakeyearmark4",
+      "parts": [
+        {
+          "id": 6481,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "pet_U_shiba1test",
+      "parts": [
+        {
+          "id": 6090,
+          "type": "pt"
+        },
+        {
+          "id": 6091,
+          "type": "pt"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftsnakecrown",
+      "parts": [
+        {
+          "id": 6482,
+          "type": "ha"
+        },
+        {
+          "id": 6483,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftsnaketeeth",
+      "parts": [
+        {
+          "id": 6477,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_F_nftartistapron",
+      "parts": [
+        {
+          "id": 6419,
+          "type": "ca"
+        },
+        {
+          "id": 6420,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_M_nftartistapron",
+      "parts": [
+        {
+          "id": 6417,
+          "type": "ca"
+        },
+        {
+          "id": 6418,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftartistpencil",
+      "parts": [
+        {
+          "id": 6415,
+          "type": "fa"
+        },
+        {
+          "id": 6416,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nft2025",
+      "parts": [
+        {
+          "id": 6412,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftartistberet",
+      "parts": [
+        {
+          "id": 6413,
+          "type": "ha"
+        },
+        {
+          "id": 6414,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_cnysnaketongue",
+      "parts": [
+        {
+          "id": 6216,
+          "type": "fa"
+        },
+        {
+          "id": 6217,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_cnysnaketail",
+      "parts": [
+        {
+          "id": 6218,
+          "type": "wa"
+        },
+        {
+          "id": 6219,
+          "type": "wa"
+        },
+        {
+          "id": 6220,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_goosefriend",
+      "parts": [
+        {
+          "id": 6196,
+          "type": "lc"
+        },
+        {
+          "id": 6196,
+          "type": "rc"
+        },
+        {
+          "id": 6197,
+          "type": "lc"
+        },
+        {
+          "id": 6197,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_poshwaistcoat",
+      "parts": [
+        {
+          "id": 6213,
+          "type": "ch"
+        },
+        {
+          "id": 6213,
+          "type": "ls"
+        },
+        {
+          "id": 6213,
+          "type": "rs"
+        },
+        {
+          "id": 6214,
+          "type": "ch"
+        },
+        {
+          "id": 6214,
+          "type": "ls"
+        },
+        {
+          "id": 6214,
+          "type": "rs"
+        },
+        {
+          "id": 6215,
+          "type": "ch"
+        },
+        {
+          "id": 6215,
+          "type": "ls"
+        },
+        {
+          "id": 6215,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_poshwaistcoat",
+      "parts": [
+        {
+          "id": 6210,
+          "type": "ch"
+        },
+        {
+          "id": 6210,
+          "type": "ls"
+        },
+        {
+          "id": 6210,
+          "type": "rs"
+        },
+        {
+          "id": 6211,
+          "type": "ch"
+        },
+        {
+          "id": 6211,
+          "type": "ls"
+        },
+        {
+          "id": 6211,
+          "type": "rs"
+        },
+        {
+          "id": 6212,
+          "type": "ch"
+        },
+        {
+          "id": 6212,
+          "type": "ls"
+        },
+        {
+          "id": 6212,
+          "type": "rs"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_cassbackshield",
       "revision": 7,
       "parts": [
@@ -503,7 +989,7 @@
       "revision": 7,
       "parts": [
         {
-          "id": 10000644,
+          "id": 10000809,
           "type": "lg"
         }
       ]
