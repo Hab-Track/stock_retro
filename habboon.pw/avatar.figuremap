@@ -41933,6 +41933,56 @@
           "type": "ha"
         }
       ]
+    },
+    {
+      "id": "jacket_U_jedirobe",
+      "revision": null,
+      "parts": [
+        {
+          "id": 50108,
+          "type": "cc"
+        },
+        {
+          "id": 50109,
+          "type": "lc"
+        },
+        {
+          "id": 50110,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_grogubackpack",
+      "revision": null,
+      "parts": [
+        {
+          "id": 50111,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_lightsaber",
+      "revision": null,
+      "parts": [
+        {
+          "id": 50112,
+          "type": "lc"
+        },
+        {
+          "id": 50112,
+          "type": "rc"
+        },
+        {
+          "id": 50113,
+          "type": "lc"
+        },
+        {
+          "id": 50113,
+          "type": "rc"
+        }
+      ]
     }
   ]
 }
