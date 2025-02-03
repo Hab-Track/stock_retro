@@ -1,6 +1,34 @@
 ﻿{
   "libraries": [
     {
+      "id": "shoes_U_vansplate",
+      "revision": 180722,
+      "parts": [
+        {
+          "id": 180722,
+          "type": "sh"
+        },
+        {
+          "id": 180723,
+          "type": "sh"
+        },
+        {
+          "id": 180724,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_sabrinahair",
+      "revision": 180721,
+      "parts": [
+        {
+          "id": 180721,
+          "type": "hr"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_VesteNikexCE",
       "revision": 156981,
       "parts": [
