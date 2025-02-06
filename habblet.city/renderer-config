@@ -566,7 +566,7 @@
   "preload.assets.urls": [
     "${asset.url}/libraries/generic/avatar_additions.nitro",
     "${asset.url}/libraries/generic/group_badge.nitro",
-    "${asset.url}/libraries/generic/floor_editor.nitro",
+    "${asset.url}/libraries/generic/floor_editor.nitro?v=1",
     "${asset.url}/libraries/generic/neighborhood_editor.nitro",
     "${images.url}/loading_icon.png",
     "${images.url}/clear_icon.png",

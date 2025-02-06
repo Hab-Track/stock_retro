@@ -7,8 +7,8 @@
   "gamedata.url": "${asset.url}/gamedata_live_V2",
   "sounds.url": "${asset.url}/sounds/%sample%.mp3",
   "external.texts.url": [
-    "//images.habblive.net/BETA/V2/assets/gamedata_live_V2/ExternalTexts.json",
-    "//images.habblive.net/BETA/V2/assets/gamedata_live_V2/UITexts_V3_H_NAVI_2_1.json"
+    "//images.habblive.net/BETA/V2/assets/gamedata_live_V2/ExternalTexts.json?34",
+    "//images.habblive.net/BETA/V2/assets/gamedata_live_V2/UITexts_V3_H_NAVI_2_1.json?443"
   ],
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
   "furnidata.url": "${gamedata.url}/FurnitureData_1_25_25_1.json",
