@@ -322,7 +322,7 @@
       "id": "acc_waist_U_cinto",
       "parts": [
         {
-          "id": 69991,
+          "id": 69901,
           "type": "wa"
         }
       ]
@@ -620,6 +620,18 @@
           "type": "ch"
         },
         {
+          "id": 1000098331,
+          "type": "ls"
+        },
+        {
+          "id": 1000098331,
+          "type": "rs"
+        },
+        {
+          "id": 1000098332,
+          "type": "ch"
+        },
+        {
           "id": 1000098332,
           "type": "ls"
         },
@@ -633,15 +645,27 @@
       "id": "shirt_U_RompevientoNikexCE",
       "parts": [
         {
-          "id": 1000028931,
+          "id": 100028931,
           "type": "ch"
         },
         {
-          "id": 1000028932,
+          "id": 100028931,
           "type": "ls"
         },
         {
-          "id": 1000028932,
+          "id": 100028931,
+          "type": "rs"
+        },
+        {
+          "id": 100028932,
+          "type": "ch"
+        },
+        {
+          "id": 100028932,
+          "type": "ls"
+        },
+        {
+          "id": 100028932,
           "type": "rs"
         }
       ]
@@ -665,31 +689,6 @@
         {
           "id": 38495002,
           "type": "ch"
-        }
-      ]
-    },
-    {
-      "id": "shirt_U_tv25chaquetacombo",
-      "parts": [
-        {
-          "id": 10000866,
-          "type": "ch"
-        },
-        {
-          "id": 10000867,
-          "type": "ch"
-        },
-        {
-          "id": 10000868,
-          "type": "ch"
-        },
-        {
-          "id": 10000869,
-          "type": "ls"
-        },
-        {
-          "id": 10000869,
-          "type": "rs"
         }
       ]
     },
@@ -45120,15 +45119,6 @@
       ]
     },
     {
-      "id": "hat_U_royalcrow5",
-      "parts": [
-        {
-          "id": 6495,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "hat_U_shad2",
       "parts": [
         {
@@ -64116,42 +64106,6 @@
       "parts": [
         {
           "id": 6494,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_royalcrow6",
-      "parts": [
-        {
-          "id": 6496,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_royalcrow7",
-      "parts": [
-        {
-          "id": 6497,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_royalcrow8",
-      "parts": [
-        {
-          "id": 6498,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_royalcrow9",
-      "parts": [
-        {
-          "id": 6499,
           "type": "ha"
         }
       ]
