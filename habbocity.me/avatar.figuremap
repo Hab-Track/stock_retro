@@ -1,6 +1,34 @@
 ﻿{
   "libraries": [
     {
+      "id": "trousers_U_jupetablier",
+      "revision": 180782,
+      "parts": [
+        {
+          "id": 180782,
+          "type": "lg"
+        },
+        {
+          "id": 180783,
+          "type": "lg"
+        },
+        {
+          "id": 180784,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_casshogboots",
+      "revision": 180781,
+      "parts": [
+        {
+          "id": 180781,
+          "type": "sh"
+        }
+      ]
+    },
+    {
       "id": "acc_print_F_nftanime",
       "revision": 180776,
       "parts": [
