@@ -3,21 +3,20 @@
   "asset.url": "https://assets.habhub.net/nitro",
   "image.library.url": "https://assets.habhub.net/swf/c_images/",
   "hof.furni.url": "https://assets.habhub.net/swf/dcr/hof_furni",
-  "images.url": "https://assets.habhub.net/nitro/images",
-  "gamedata.url": "https://assets.habhub.net/nitro/gamedata",
+  "images.url": "https://assets.habhub.net/images",
   "sounds.url": "https://assets.habhub.net/sounds/%sample%.mp3",
   "external.texts.url": [
-    "https://assets.habhub.net/nitro/gamedata/ExternalTexts.json",
-    "https://user-content.habhub.net/badges/BadgeTexts.json",
-    "https://assets.habhub.net/nitro/gamedata/UITexts.json"
+    "https://gamedata.habhub.net/ExternalTexts.json",
+    "https://gamedata.habhub.net/BadgeTexts.json",
+    "https://gamedata.habhub.net/UITexts.json"
   ],
   "external.samples.url": "https://assets.habhub.net/sounds/trax/sound_machine_sample_%sample%.mp3",
-  "furnidata.url": "https://assets.habhub.net/nitro/gamedata/FurnitureData.json",
-  "productdata.url": "https://assets.habhub.net/nitro/gamedata/ProductData.json",
-  "avatar.actions.url": "https://assets.habhub.net/nitro/gamedata/HabboAvatarActions.json",
-  "avatar.figuredata.url": "https://assets.habhub.net/nitro/gamedata/FigureData.json",
-  "avatar.figuremap.url": "https://assets.habhub.net/nitro/gamedata/FigureMap.json",
-  "avatar.effectmap.url": "https://assets.habhub.net/nitro/gamedata/EffectMap.json",
+  "furnidata.url": "https://gamedata.habhub.net/FurnitureData.json",
+  "productdata.url": "https://gamedata.habhub.net/ProductData.json",
+  "avatar.actions.url": "https://gamedata.habhub.net/HabboAvatarActions.json",
+  "avatar.figuredata.url": "https://gamedata.habhub.net/FigureData.json",
+  "avatar.figuremap.url": "https://gamedata.habhub.net/FigureMap.json",
+  "avatar.effectmap.url": "https://gamedata.habhub.net/EffectMap.json",
   "avatar.asset.url": "https://assets.habhub.net/nitro/bundled/figure/%libname%.nitro",
   "avatar.asset.effect.url": "https://assets.habhub.net/nitro/bundled/effect/%libname%.nitro",
   "furni.asset.url": "https://assets.habhub.net/nitro/bundled/furniture/%libname%.nitro",
@@ -578,8 +577,8 @@
     "https://assets.habhub.net/nitro/bundled/generic/avatar_additions.nitro",
     "https://assets.habhub.net/nitro/bundled/generic/group_badge.nitro",
     "https://assets.habhub.net/nitro/bundled/generic/floor_editor.nitro",
-    "https://assets.habhub.net/nitro/images/loading_icon.png",
-    "https://assets.habhub.net/nitro/images/clear_icon.png",
-    "https://assets.habhub.net/nitro/images/big_arrow.png"
+    "https://assets.habhub.net/images/loading_icon.png",
+    "https://assets.habhub.net/images/clear_icon.png",
+    "https://assets.habhub.net/images/big_arrow.png"
   ]
 }
