@@ -63353,6 +63353,130 @@
           "type": "ha"
         }
       ]
+    },
+    {
+      "id": "jacket_U_cassswmanto",
+      "revision": 998788435,
+      "parts": [
+        {
+          "id": 6411,
+          "type": "cc"
+        },
+        {
+          "id": 6411,
+          "type": "lc"
+        },
+        {
+          "id": 6411,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_cassswhilt",
+      "revision": 998788436,
+      "parts": [
+        {
+          "id": 6418,
+          "type": "wa"
+        },
+        {
+          "id": 6419,
+          "type": "wa"
+        },
+        {
+          "id": 6420,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_cassswbelt",
+      "revision": 998788437,
+      "parts": [
+        {
+          "id": 6421,
+          "type": "wa"
+        },
+        {
+          "id": 6422,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_cassswholder",
+      "revision": 998788438,
+      "parts": [
+        {
+          "id": 6423,
+          "type": "ca"
+        },
+        {
+          "id": 6424,
+          "type": "ca"
+        },
+        {
+          "id": 6425,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_cassswholderv2",
+      "revision": 998788439,
+      "parts": [
+        {
+          "id": 6427,
+          "type": "ca"
+        },
+        {
+          "id": 6428,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_cassswbraid",
+      "revision": 998788440,
+      "parts": [
+        {
+          "id": 6412,
+          "type": "ha"
+        },
+        {
+          "id": 6413,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_cassswbraidv2",
+      "revision": 998788441,
+      "parts": [
+        {
+          "id": 6414,
+          "type": "he"
+        },
+        {
+          "id": 6415,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_cassswbraidv3",
+      "revision": 998788442,
+      "parts": [
+        {
+          "id": 6416,
+          "type": "ea"
+        },
+        {
+          "id": 6417,
+          "type": "ea"
+        }
+      ]
     }
   ]
 }
