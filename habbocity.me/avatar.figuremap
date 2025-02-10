@@ -1,6 +1,158 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_MiniSacLuxe",
+      "revision": 180800,
+      "parts": [
+        {
+          "id": 180800,
+          "type": "ca"
+        },
+        {
+          "id": 180801,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_HacheMedievale",
+      "revision": 180797,
+      "parts": [
+        {
+          "id": 180797,
+          "type": "ca"
+        },
+        {
+          "id": 180798,
+          "type": "ca"
+        },
+        {
+          "id": 180799,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_JinxHair",
+      "revision": 180795,
+      "parts": [
+        {
+          "id": 180795,
+          "type": "hr"
+        },
+        {
+          "id": 180796,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_KaynHair",
+      "revision": 180794,
+      "parts": [
+        {
+          "id": 180794,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_bowhat",
+      "revision": 180793,
+      "parts": [
+        {
+          "id": 180793,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_gangsterhat",
+      "revision": 180791,
+      "parts": [
+        {
+          "id": 180791,
+          "type": "ha"
+        },
+        {
+          "id": 180792,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_GantsMotifs",
+      "revision": 180789,
+      "parts": [
+        {
+          "id": 180789,
+          "type": "cc"
+        },
+        {
+          "id": 180789,
+          "type": "lc"
+        },
+        {
+          "id": 180789,
+          "type": "rc"
+        },
+        {
+          "id": 180790,
+          "type": "cc"
+        },
+        {
+          "id": 180790,
+          "type": "lc"
+        },
+        {
+          "id": 180790,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_CapeViking",
+      "revision": 180788,
+      "parts": [
+        {
+          "id": 180788,
+          "type": "cc"
+        },
+        {
+          "id": 180788,
+          "type": "lc"
+        },
+        {
+          "id": 180788,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_Corsetwhisp",
+      "revision": 180786,
+      "parts": [
+        {
+          "id": 180786,
+          "type": "ch"
+        },
+        {
+          "id": 180787,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_JupeChoco",
+      "revision": 180785,
+      "parts": [
+        {
+          "id": 180785,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "trousers_U_jupetablier",
       "revision": 180782,
       "parts": [
