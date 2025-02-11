@@ -1,6 +1,204 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_teddycompanion",
+      "revision": 180820,
+      "parts": [
+        {
+          "id": 180820,
+          "type": "cc"
+        },
+        {
+          "id": 180820,
+          "type": "lc"
+        },
+        {
+          "id": 180820,
+          "type": "rc"
+        },
+        {
+          "id": 180821,
+          "type": "cc"
+        },
+        {
+          "id": 180821,
+          "type": "lc"
+        },
+        {
+          "id": 180821,
+          "type": "rc"
+        },
+        {
+          "id": 180822,
+          "type": "cc"
+        },
+        {
+          "id": 180822,
+          "type": "lc"
+        },
+        {
+          "id": 180822,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_curlyponytail",
+      "revision": 180817,
+      "parts": [
+        {
+          "id": 180817,
+          "type": "hr"
+        },
+        {
+          "id": 180817,
+          "type": "hrb"
+        },
+        {
+          "id": 180818,
+          "type": "hr"
+        },
+        {
+          "id": 180818,
+          "type": "hrb"
+        },
+        {
+          "id": 180819,
+          "type": "hr"
+        },
+        {
+          "id": 180819,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftqueen",
+      "revision": 180816,
+      "parts": [
+        {
+          "id": 180816,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftnpc",
+      "revision": 180815,
+      "parts": [
+        {
+          "id": 180815,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftnoob",
+      "revision": 180814,
+      "parts": [
+        {
+          "id": 180814,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftking",
+      "revision": 180813,
+      "parts": [
+        {
+          "id": 180813,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nfthaha",
+      "revision": 180812,
+      "parts": [
+        {
+          "id": 180812,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftgameover",
+      "revision": 180811,
+      "parts": [
+        {
+          "id": 180811,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftbrat",
+      "revision": 180810,
+      "parts": [
+        {
+          "id": 180810,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftafk",
+      "revision": 180809,
+      "parts": [
+        {
+          "id": 180809,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftabcd",
+      "revision": 180808,
+      "parts": [
+        {
+          "id": 180808,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_redpandabag",
+      "revision": 180805,
+      "parts": [
+        {
+          "id": 180805,
+          "type": "ca"
+        },
+        {
+          "id": 180806,
+          "type": "ca"
+        },
+        {
+          "id": 180807,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_froggybackpack",
+      "revision": 180802,
+      "parts": [
+        {
+          "id": 180802,
+          "type": "ca"
+        },
+        {
+          "id": 180803,
+          "type": "ca"
+        },
+        {
+          "id": 180804,
+          "type": "ca"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_MiniSacLuxe",
       "revision": 180800,
       "parts": [
