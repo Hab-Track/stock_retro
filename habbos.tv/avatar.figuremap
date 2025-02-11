@@ -1,6 +1,419 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_froggybackpack",
+      "parts": [
+        {
+          "id": 6444,
+          "type": "ca"
+        },
+        {
+          "id": 6445,
+          "type": "ca"
+        },
+        {
+          "id": 6446,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_redpandabag",
+      "parts": [
+        {
+          "id": 6484,
+          "type": "ca"
+        },
+        {
+          "id": 6485,
+          "type": "ca"
+        },
+        {
+          "id": 6486,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftabcd",
+      "parts": [
+        {
+          "id": 6384,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nfthaha",
+      "parts": [
+        {
+          "id": 6277,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftgameover",
+      "parts": [
+        {
+          "id": 6290,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftnoob",
+      "parts": [
+        {
+          "id": 6291,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftbrat",
+      "parts": [
+        {
+          "id": 6292,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftnpc",
+      "parts": [
+        {
+          "id": 6293,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftafk",
+      "parts": [
+        {
+          "id": 6294,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftking",
+      "parts": [
+        {
+          "id": 6295,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftqueen",
+      "parts": [
+        {
+          "id": 6296,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftantagonist",
+      "parts": [
+        {
+          "id": 6305,
+          "type": "fc"
+        },
+        {
+          "id": 6306,
+          "type": "ey"
+        },
+        {
+          "id": 6307,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftantagonist2",
+      "parts": [
+        {
+          "id": 6525,
+          "type": "fc"
+        },
+        {
+          "id": 6526,
+          "type": "ey"
+        },
+        {
+          "id": 6527,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftcartoonhero",
+      "parts": [
+        {
+          "id": 6299,
+          "type": "fc"
+        },
+        {
+          "id": 6300,
+          "type": "ey"
+        },
+        {
+          "id": 6301,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftcartoonhero2",
+      "parts": [
+        {
+          "id": 6519,
+          "type": "fc"
+        },
+        {
+          "id": 6520,
+          "type": "ey"
+        },
+        {
+          "id": 6521,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftcartoonheroine",
+      "parts": [
+        {
+          "id": 6302,
+          "type": "fc"
+        },
+        {
+          "id": 6303,
+          "type": "ey"
+        },
+        {
+          "id": 6304,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftcartoonheroine2",
+      "parts": [
+        {
+          "id": 6522,
+          "type": "fc"
+        },
+        {
+          "id": 6523,
+          "type": "ey"
+        },
+        {
+          "id": 6524,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftgold1",
+      "parts": [
+        {
+          "id": 6517,
+          "type": "fc"
+        },
+        {
+          "id": 6517,
+          "type": "ey"
+        },
+        {
+          "id": 6517,
+          "type": "bd"
+        },
+        {
+          "id": 6517,
+          "type": "rh"
+        },
+        {
+          "id": 6517,
+          "type": "lh"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftgold2",
+      "parts": [
+        {
+          "id": 6518,
+          "type": "fc"
+        },
+        {
+          "id": 6518,
+          "type": "ey"
+        },
+        {
+          "id": 6518,
+          "type": "hd"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftsilver1",
+      "parts": [
+        {
+          "id": 6515,
+          "type": "fc"
+        },
+        {
+          "id": 6515,
+          "type": "ey"
+        },
+        {
+          "id": 6515,
+          "type": "bd"
+        },
+        {
+          "id": 6515,
+          "type": "rh"
+        },
+        {
+          "id": 6515,
+          "type": "lh"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftsilver2",
+      "parts": [
+        {
+          "id": 6516,
+          "type": "fc"
+        },
+        {
+          "id": 6516,
+          "type": "ey"
+        },
+        {
+          "id": 6516,
+          "type": "hd"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftbronze1",
+      "parts": [
+        {
+          "id": 6513,
+          "type": "fc"
+        },
+        {
+          "id": 6513,
+          "type": "ey"
+        },
+        {
+          "id": 6513,
+          "type": "bd"
+        },
+        {
+          "id": 6513,
+          "type": "rh"
+        },
+        {
+          "id": 6513,
+          "type": "lh"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftbronze2",
+      "parts": [
+        {
+          "id": 6514,
+          "type": "fc"
+        },
+        {
+          "id": 6514,
+          "type": "ey"
+        },
+        {
+          "id": 6514,
+          "type": "hd"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_curlyponytail",
+      "parts": [
+        {
+          "id": 6471,
+          "type": "hr"
+        },
+        {
+          "id": 6471,
+          "type": "hrb"
+        },
+        {
+          "id": 6472,
+          "type": "hr"
+        },
+        {
+          "id": 6472,
+          "type": "hrb"
+        },
+        {
+          "id": 6473,
+          "type": "hr"
+        },
+        {
+          "id": 6473,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_teddycompanion",
+      "parts": [
+        {
+          "id": 6447,
+          "type": "cc"
+        },
+        {
+          "id": 6447,
+          "type": "lc"
+        },
+        {
+          "id": 6447,
+          "type": "rc"
+        },
+        {
+          "id": 6448,
+          "type": "cc"
+        },
+        {
+          "id": 6448,
+          "type": "lc"
+        },
+        {
+          "id": 6448,
+          "type": "rc"
+        },
+        {
+          "id": 6449,
+          "type": "cc"
+        },
+        {
+          "id": 6449,
+          "type": "lc"
+        },
+        {
+          "id": 6449,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_AK47",
       "parts": [
         {
@@ -911,23 +1324,6 @@
         {
           "id": 6283,
           "type": "cp"
-        }
-      ]
-    },
-    {
-      "id": "face_U_nftantagonist",
-      "parts": [
-        {
-          "id": 6305,
-          "type": "fc"
-        },
-        {
-          "id": 6306,
-          "type": "ey"
-        },
-        {
-          "id": 6307,
-          "type": "fc"
         }
       ]
     },
