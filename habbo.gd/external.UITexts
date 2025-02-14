@@ -279,6 +279,34 @@
       "isAmbassadorOnly": false
     },
     {
+      "styleId": 41,
+      "minRank": 2,
+      "isSystemStyle": false,
+      "isHcOnly": true,
+      "isAmbassadorOnly": false
+    },
+    {
+      "styleId": 43,
+      "minRank": 2,
+      "isSystemStyle": false,
+      "isHcOnly": true,
+      "isAmbassadorOnly": false
+    },
+    {
+      "styleId": 44,
+      "minRank": 4,
+      "isSystemStyle": true,
+      "isHcOnly": false,
+      "isAmbassadorOnly": false
+    },
+    {
+      "styleId": 45,
+      "minRank": 4,
+      "isSystemStyle": true,
+      "isHcOnly": false,
+      "isAmbassadorOnly": false
+    },
+    {
       "styleId": 1,
       "minRank": 5,
       "isSystemStyle": true,
