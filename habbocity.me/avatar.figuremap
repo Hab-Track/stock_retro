@@ -1,6 +1,24 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_U_PullLarge",
+      "revision": 180823,
+      "parts": [
+        {
+          "id": 180823,
+          "type": "ch"
+        },
+        {
+          "id": 180823,
+          "type": "ls"
+        },
+        {
+          "id": 180823,
+          "type": "rs"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_teddycompanion",
       "revision": 180820,
       "parts": [
