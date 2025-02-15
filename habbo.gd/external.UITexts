@@ -272,13 +272,6 @@
   "chat.styles.disabled": [],
   "chat.styles": [
     {
-      "styleId": 0,
-      "minRank": 0,
-      "isSystemStyle": false,
-      "isHcOnly": false,
-      "isAmbassadorOnly": false
-    },
-    {
       "styleId": 41,
       "minRank": 2,
       "isSystemStyle": false,
@@ -307,16 +300,30 @@
       "isAmbassadorOnly": false
     },
     {
-      "styleId": 1,
-      "minRank": 5,
+      "styleId": 46,
+      "minRank": 4,
       "isSystemStyle": true,
       "isHcOnly": false,
       "isAmbassadorOnly": false
     },
     {
-      "styleId": 2,
+      "styleId": 23,
       "minRank": 5,
-      "isSystemStyle": true,
+      "isSystemStyle": false,
+      "isHcOnly": false,
+      "isAmbassadorOnly": false
+    },
+    {
+      "styleId": 37,
+      "minRank": 3,
+      "isSystemStyle": false,
+      "isHcOnly": false,
+      "isAmbassadorOnly": true
+    },
+    {
+      "styleId": 0,
+      "minRank": 0,
+      "isSystemStyle": false,
       "isHcOnly": false,
       "isAmbassadorOnly": false
     },
@@ -356,27 +363,6 @@
       "isAmbassadorOnly": false
     },
     {
-      "styleId": 8,
-      "minRank": 5,
-      "isSystemStyle": true,
-      "isHcOnly": false,
-      "isAmbassadorOnly": false
-    },
-    {
-      "styleId": 9,
-      "minRank": 0,
-      "isSystemStyle": false,
-      "isHcOnly": true,
-      "isAmbassadorOnly": false
-    },
-    {
-      "styleId": 10,
-      "minRank": 0,
-      "isSystemStyle": false,
-      "isHcOnly": true,
-      "isAmbassadorOnly": false
-    },
-    {
       "styleId": 11,
       "minRank": 0,
       "isSystemStyle": false,
@@ -412,21 +398,35 @@
       "isAmbassadorOnly": false
     },
     {
-      "styleId": 16,
+      "styleId": 38,
       "minRank": 0,
       "isSystemStyle": false,
-      "isHcOnly": true,
-      "isAmbassadorOnly": false
-    },
-    {
-      "styleId": 17,
-      "minRank": 0,
-      "isSystemStyle": false,
-      "isHcOnly": true,
+      "isHcOnly": false,
       "isAmbassadorOnly": false
     },
     {
       "styleId": 18,
+      "minRank": 0,
+      "isSystemStyle": false,
+      "isHcOnly": false,
+      "isAmbassadorOnly": false
+    },
+    {
+      "styleId": 10,
+      "minRank": 2,
+      "isSystemStyle": false,
+      "isHcOnly": true,
+      "isAmbassadorOnly": false
+    },
+    {
+      "styleId": 24,
+      "minRank": 2,
+      "isSystemStyle": false,
+      "isHcOnly": true,
+      "isAmbassadorOnly": false
+    },
+    {
+      "styleId": 26,
       "minRank": 0,
       "isSystemStyle": false,
       "isHcOnly": true,
@@ -447,49 +447,7 @@
       "isAmbassadorOnly": false
     },
     {
-      "styleId": 21,
-      "minRank": 0,
-      "isSystemStyle": false,
-      "isHcOnly": true,
-      "isAmbassadorOnly": false
-    },
-    {
-      "styleId": 22,
-      "minRank": 0,
-      "isSystemStyle": false,
-      "isHcOnly": true,
-      "isAmbassadorOnly": false
-    },
-    {
-      "styleId": 23,
-      "minRank": 5,
-      "isSystemStyle": false,
-      "isHcOnly": false,
-      "isAmbassadorOnly": false
-    },
-    {
-      "styleId": 24,
-      "minRank": 0,
-      "isSystemStyle": false,
-      "isHcOnly": true,
-      "isAmbassadorOnly": false
-    },
-    {
       "styleId": 25,
-      "minRank": 0,
-      "isSystemStyle": false,
-      "isHcOnly": true,
-      "isAmbassadorOnly": false
-    },
-    {
-      "styleId": 26,
-      "minRank": 0,
-      "isSystemStyle": false,
-      "isHcOnly": true,
-      "isAmbassadorOnly": false
-    },
-    {
-      "styleId": 27,
       "minRank": 0,
       "isSystemStyle": false,
       "isHcOnly": true,
@@ -510,17 +468,52 @@
       "isAmbassadorOnly": false
     },
     {
-      "styleId": 30,
-      "minRank": 5,
-      "isSystemStyle": true,
-      "isHcOnly": false,
+      "styleId": 31,
+      "minRank": 0,
+      "isSystemStyle": false,
+      "isHcOnly": true,
       "isAmbassadorOnly": false
     },
     {
-      "styleId": 31,
-      "minRank": 5,
-      "isSystemStyle": true,
-      "isHcOnly": false,
+      "styleId": 36,
+      "minRank": 0,
+      "isSystemStyle": false,
+      "isHcOnly": true,
+      "isAmbassadorOnly": false
+    },
+    {
+      "styleId": 16,
+      "minRank": 0,
+      "isSystemStyle": false,
+      "isHcOnly": true,
+      "isAmbassadorOnly": false
+    },
+    {
+      "styleId": 17,
+      "minRank": 0,
+      "isSystemStyle": false,
+      "isHcOnly": true,
+      "isAmbassadorOnly": false
+    },
+    {
+      "styleId": 21,
+      "minRank": 0,
+      "isSystemStyle": false,
+      "isHcOnly": true,
+      "isAmbassadorOnly": false
+    },
+    {
+      "styleId": 22,
+      "minRank": 0,
+      "isSystemStyle": false,
+      "isHcOnly": true,
+      "isAmbassadorOnly": false
+    },
+    {
+      "styleId": 27,
+      "minRank": 0,
+      "isSystemStyle": false,
+      "isHcOnly": true,
       "isAmbassadorOnly": false
     },
     {
@@ -528,6 +521,34 @@
       "minRank": 0,
       "isSystemStyle": false,
       "isHcOnly": true,
+      "isAmbassadorOnly": false
+    },
+    {
+      "styleId": 35,
+      "minRank": 0,
+      "isSystemStyle": false,
+      "isHcOnly": true,
+      "isAmbassadorOnly": false
+    },
+    {
+      "styleId": 1,
+      "minRank": 5,
+      "isSystemStyle": true,
+      "isHcOnly": false,
+      "isAmbassadorOnly": false
+    },
+    {
+      "styleId": 2,
+      "minRank": 5,
+      "isSystemStyle": true,
+      "isHcOnly": false,
+      "isAmbassadorOnly": false
+    },
+    {
+      "styleId": 30,
+      "minRank": 5,
+      "isSystemStyle": true,
+      "isHcOnly": false,
       "isAmbassadorOnly": false
     },
     {
@@ -542,34 +563,6 @@
       "minRank": 5,
       "isSystemStyle": true,
       "isHcOnly": false,
-      "isAmbassadorOnly": false
-    },
-    {
-      "styleId": 35,
-      "minRank": 0,
-      "isSystemStyle": false,
-      "isHcOnly": true,
-      "isAmbassadorOnly": false
-    },
-    {
-      "styleId": 36,
-      "minRank": 0,
-      "isSystemStyle": false,
-      "isHcOnly": true,
-      "isAmbassadorOnly": false
-    },
-    {
-      "styleId": 37,
-      "minRank": 5,
-      "isSystemStyle": false,
-      "isHcOnly": false,
-      "isAmbassadorOnly": true
-    },
-    {
-      "styleId": 38,
-      "minRank": 0,
-      "isSystemStyle": false,
-      "isHcOnly": true,
       "isAmbassadorOnly": false
     }
   ],
