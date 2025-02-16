@@ -1,6 +1,48 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_U_NbaMaillot",
+      "revision": 180834,
+      "parts": [
+        {
+          "id": 180834,
+          "type": "ch"
+        },
+        {
+          "id": 180834,
+          "type": "ls"
+        },
+        {
+          "id": 180834,
+          "type": "rs"
+        },
+        {
+          "id": 180835,
+          "type": "ch"
+        },
+        {
+          "id": 180835,
+          "type": "ls"
+        },
+        {
+          "id": 180835,
+          "type": "rs"
+        },
+        {
+          "id": 180836,
+          "type": "ch"
+        },
+        {
+          "id": 180836,
+          "type": "ls"
+        },
+        {
+          "id": 180836,
+          "type": "rs"
+        }
+      ]
+    },
+    {
       "id": "acc_print_U_NFLnumber9",
       "revision": 180833,
       "parts": [
