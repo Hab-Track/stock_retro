@@ -11039,24 +11039,6 @@
       ]
     },
     {
-      "id": "shirt_M_longvuittm",
-      "revision": 7517463,
-      "parts": [
-        {
-          "id": 7563,
-          "type": "ch"
-        },
-        {
-          "id": 7563,
-          "type": "ls"
-        },
-        {
-          "id": 7563,
-          "type": "rs"
-        }
-      ]
-    },
-    {
       "id": "hat_U_casapsg",
       "revision": 6141067,
       "parts": [
@@ -22029,16 +22011,6 @@
         {
           "id": 202310232,
           "type": "cc"
-        }
-      ]
-    },
-    {
-      "id": "acc_face_U_budcartimaskhlive_1",
-      "revision": 990002100,
-      "parts": [
-        {
-          "id": 99878975,
-          "type": "ca"
         }
       ]
     },
@@ -33323,16 +33295,6 @@
       ]
     },
     {
-      "id": "acc_chest_U_collarlapela",
-      "revision": 990002813,
-      "parts": [
-        {
-          "id": 80009,
-          "type": "ca"
-        }
-      ]
-    },
-    {
       "id": "hat_U_sombreromagolapela",
       "revision": 990002814,
       "parts": [
@@ -39203,16 +39165,6 @@
       ]
     },
     {
-      "id": "acc_chest_U_tv24rata",
-      "revision": 990003204,
-      "parts": [
-        {
-          "id": 10000741,
-          "type": "ca"
-        }
-      ]
-    },
-    {
       "id": "acc_chest_U_tv24sierragore",
       "revision": 990003205,
       "parts": [
@@ -39723,36 +39675,6 @@
         {
           "id": 85868195,
           "type": "hr"
-        }
-      ]
-    },
-    {
-      "id": "acc_chest_U_budbloodacessory",
-      "revision": 990003244,
-      "parts": [
-        {
-          "id": 99878988,
-          "type": "ca"
-        }
-      ]
-    },
-    {
-      "id": "acc_face_U_budcartimaskhlive",
-      "revision": 990003245,
-      "parts": [
-        {
-          "id": 10009340,
-          "type": "ca"
-        }
-      ]
-    },
-    {
-      "id": "acc_face_U_budbloodlips",
-      "revision": 990003246,
-      "parts": [
-        {
-          "id": 10023754,
-          "type": "ca"
         }
       ]
     },
@@ -43919,7 +43841,7 @@
       "revision": 990003549,
       "parts": [
         {
-          "id": 2147483647,
+          "id": 200000020,
           "type": "wa"
         }
       ]
@@ -43929,8 +43851,8 @@
       "revision": 990003550,
       "parts": [
         {
-          "id": 10000875,
-          "type": "wa"
+          "id": 200000021,
+          "type": "ca"
         }
       ]
     },
@@ -44740,6 +44662,16 @@
         {
           "id": 156862,
           "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_budcartimaskhlive",
+      "revision": 990003600,
+      "parts": [
+        {
+          "id": 10009340,
+          "type": "ca"
         }
       ]
     },
@@ -63251,16 +63183,6 @@
       "parts": [
         {
           "id": 6630,
-          "type": "ca"
-        }
-      ]
-    },
-    {
-      "id": "acc_chest_U_sepr",
-      "revision": 990001078,
-      "parts": [
-        {
-          "id": 505050505,
           "type": "ca"
         }
       ]
