@@ -1,6 +1,24 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_CapaRasgada",
+      "revision": 11687,
+      "parts": [
+        {
+          "id": 10001360,
+          "type": "cc"
+        },
+        {
+          "id": 10001360,
+          "type": "lc"
+        },
+        {
+          "id": 10001360,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_silverjamtoastbackpack",
       "revision": 991111036,
       "parts": [
