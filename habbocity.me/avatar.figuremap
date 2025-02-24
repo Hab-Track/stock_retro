@@ -1,6 +1,50 @@
 ﻿{
   "libraries": [
     {
+      "id": "face_U_nftfrecklesb",
+      "revision": 180850,
+      "parts": [
+        {
+          "id": 6224,
+          "type": "fc"
+        },
+        {
+          "id": 6225,
+          "type": "fc"
+        },
+        {
+          "id": 6226,
+          "type": "fc"
+        },
+        {
+          "id": 6225,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftfreckles",
+      "revision": 180849,
+      "parts": [
+        {
+          "id": 6221,
+          "type": "fc"
+        },
+        {
+          "id": 6222,
+          "type": "fc"
+        },
+        {
+          "id": 6223,
+          "type": "fc"
+        },
+        {
+          "id": 6222,
+          "type": "ey"
+        }
+      ]
+    },
+    {
       "id": "hair_U_RockHaircut",
       "revision": 180847,
       "parts": [
