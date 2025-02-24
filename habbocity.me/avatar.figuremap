@@ -1,6 +1,104 @@
 ﻿{
   "libraries": [
     {
+      "id": "hair_U_RockHaircut",
+      "revision": 180847,
+      "parts": [
+        {
+          "id": 180847,
+          "type": "hr"
+        },
+        {
+          "id": 180848,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_NbaMaillotFeminin",
+      "revision": 180844,
+      "parts": [
+        {
+          "id": 180844,
+          "type": "cc"
+        },
+        {
+          "id": 180844,
+          "type": "ls"
+        },
+        {
+          "id": 180844,
+          "type": "rs"
+        },
+        {
+          "id": 180845,
+          "type": "cc"
+        },
+        {
+          "id": 180845,
+          "type": "ls"
+        },
+        {
+          "id": 180845,
+          "type": "rs"
+        },
+        {
+          "id": 180846,
+          "type": "cc"
+        },
+        {
+          "id": 180846,
+          "type": "ls"
+        },
+        {
+          "id": 180846,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_NbaMaillotFeminin",
+      "revision": 180841,
+      "parts": [
+        {
+          "id": 180841,
+          "type": "ch"
+        },
+        {
+          "id": 180841,
+          "type": "ls"
+        },
+        {
+          "id": 180841,
+          "type": "rs"
+        },
+        {
+          "id": 180842,
+          "type": "ch"
+        },
+        {
+          "id": 180842,
+          "type": "ls"
+        },
+        {
+          "id": 180842,
+          "type": "rs"
+        },
+        {
+          "id": 180843,
+          "type": "ch"
+        },
+        {
+          "id": 180843,
+          "type": "ls"
+        },
+        {
+          "id": 180843,
+          "type": "rs"
+        }
+      ]
+    },
+    {
       "id": "acc_head_U_PowerMeches",
       "revision": 180839,
       "parts": [
