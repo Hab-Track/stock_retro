@@ -1,6 +1,70 @@
 ﻿{
   "libraries": [
     {
+      "id": "face_U_nfthearteyes",
+      "revision": 180863,
+      "parts": [
+        {
+          "id": 1,
+          "type": "hd"
+        },
+        {
+          "id": 1,
+          "type": "bd"
+        },
+        {
+          "id": 1,
+          "type": "lh"
+        },
+        {
+          "id": 1,
+          "type": "rh"
+        },
+        {
+          "id": 6562,
+          "type": "fc"
+        },
+        {
+          "id": 6563,
+          "type": "fc"
+        },
+        {
+          "id": 6563,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftbluehearteyes",
+      "revision": 180862,
+      "parts": [
+        {
+          "id": 1,
+          "type": "hd"
+        },
+        {
+          "id": 1,
+          "type": "bd"
+        },
+        {
+          "id": 1,
+          "type": "lh"
+        },
+        {
+          "id": 1,
+          "type": "rh"
+        },
+        {
+          "id": 6566,
+          "type": "fc"
+        },
+        {
+          "id": 6567,
+          "type": "ey"
+        }
+      ]
+    },
+    {
       "id": "face_U_nftgold1",
       "revision": 180861,
       "parts": [
