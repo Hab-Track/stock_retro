@@ -37048,7 +37048,7 @@
     },
     {
       "id": "face_U_nftbronze2",
-      "revision": 72808,
+      "revision": 72879,
       "parts": [
         {
           "id": 6514,
@@ -37324,7 +37324,7 @@
     },
     {
       "id": "face_U_nfthearteyes2",
-      "revision": 72846,
+      "revision": 72859,
       "parts": [
         {
           "id": 6564,
@@ -37342,7 +37342,7 @@
     },
     {
       "id": "face_U_nftbluehearteyes2",
-      "revision": 72846,
+      "revision": 72859,
       "parts": [
         {
           "id": 6568,
@@ -37355,6 +37355,42 @@
         {
           "id": 6569,
           "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftflowerfairy",
+      "revision": 72872,
+      "parts": [
+        {
+          "id": 6570,
+          "type": "he"
+        },
+        {
+          "id": 6571,
+          "type": "he"
+        },
+        {
+          "id": 6572,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftflowerfairy2",
+      "revision": 72872,
+      "parts": [
+        {
+          "id": 6583,
+          "type": "he"
+        },
+        {
+          "id": 6584,
+          "type": "he"
+        },
+        {
+          "id": 6585,
+          "type": "he"
         }
       ]
     },
@@ -42964,7 +43000,7 @@
     },
     {
       "id": "jacket_U_jedirobe",
-      "revision": null,
+      "revision": 1,
       "parts": [
         {
           "id": 50108,
@@ -42982,7 +43018,7 @@
     },
     {
       "id": "jacket_U_grogubackpack",
-      "revision": null,
+      "revision": 1,
       "parts": [
         {
           "id": 50111,
@@ -42992,7 +43028,7 @@
     },
     {
       "id": "jacket_U_lightsaber",
-      "revision": null,
+      "revision": 1,
       "parts": [
         {
           "id": 50112,
