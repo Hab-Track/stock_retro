@@ -2,6 +2,84 @@
   "libraries": [
     {
       "id": "face_U_nfthearteyes",
+      "revision": 180869,
+      "parts": [
+        {
+          "id": 2,
+          "type": "hd"
+        },
+        {
+          "id": 1,
+          "type": "bd"
+        },
+        {
+          "id": 1,
+          "type": "lh"
+        },
+        {
+          "id": 1,
+          "type": "rh"
+        },
+        {
+          "id": 6562,
+          "type": "fc"
+        },
+        {
+          "id": 6563,
+          "type": "fc"
+        },
+        {
+          "id": 6563,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftbluehearteyes",
+      "revision": 180868,
+      "parts": [
+        {
+          "id": 2,
+          "type": "hd"
+        },
+        {
+          "id": 1,
+          "type": "bd"
+        },
+        {
+          "id": 1,
+          "type": "lh"
+        },
+        {
+          "id": 1,
+          "type": "rh"
+        },
+        {
+          "id": 6566,
+          "type": "fc"
+        },
+        {
+          "id": 6567,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_GameboyColor",
+      "revision": 180866,
+      "parts": [
+        {
+          "id": 180866,
+          "type": "ca"
+        },
+        {
+          "id": 180867,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nfthearteyes",
       "revision": 180863,
       "parts": [
         {
