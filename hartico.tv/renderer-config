@@ -8,7 +8,7 @@
   "sounds.url": "${asset.url}/sounds/%sample%.mp3",
   "external.texts.url": [
     "https://housekeeping.hartico.tv/Settings/TextsNitro",
-    "${gamedata.url}/UITexts.json?2"
+    "${gamedata.url}/UITexts.json?3"
   ],
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
   "furnidata.url": "${gamedata.url}/FurnitureData.json?1",
