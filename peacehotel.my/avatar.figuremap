@@ -1,6 +1,24 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_redpandabag",
+      "revision": 180805,
+      "parts": [
+        {
+          "id": 180805,
+          "type": "ca"
+        },
+        {
+          "id": 180806,
+          "type": "ca"
+        },
+        {
+          "id": 180807,
+          "type": "ca"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_CapaRasgada",
       "revision": 11687,
       "parts": [
