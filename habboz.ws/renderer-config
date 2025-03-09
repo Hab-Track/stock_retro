@@ -1,5 +1,5 @@
 ﻿{
-  "socket.url": "wss://meteorserver.habboz.ws:2096",
+  "socket.url": "wss://ouroboros.habboz.ws:2096",
   "asset.url": "https://meteor5.habboz.ws/swfassets",
   "image.library.url": "https://meteor.habboz.ws/c_images/",
   "hof.furni.url": "https://meteor.habboz.ws/dcr/hof_furni",
@@ -7,9 +7,9 @@
   "gamedata.url": "${asset.url}/gamedata",
   "sounds.url": "${asset.url}/sounds/%sample%.mp3",
   "external.texts.url": [
-    "${gamedata.url}/ExternalTexts.json?u343",
-    "${gamedata.url}/UITexts.json?u343",
-    "${gamedata.url}/OverrideTexts.json?1741033782"
+    "${gamedata.url}/ExternalTexts.json",
+    "${gamedata.url}/UITexts.json",
+    "${gamedata.url}/OverrideTexts.json"
   ],
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
   "furnidata.url": "${gamedata.url}/FurnitureData422.json",
