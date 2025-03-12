@@ -1,6 +1,36 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_VesteEpaule",
+      "revision": 180917,
+      "parts": [
+        {
+          "id": 180917,
+          "type": "cc"
+        },
+        {
+          "id": 180917,
+          "type": "lc"
+        },
+        {
+          "id": 180917,
+          "type": "rc"
+        },
+        {
+          "id": 180918,
+          "type": "cc"
+        },
+        {
+          "id": 180918,
+          "type": "lc"
+        },
+        {
+          "id": 180918,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "face_F_nftscarface",
       "revision": 180916,
       "parts": [
