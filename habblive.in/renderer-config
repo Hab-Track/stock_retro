@@ -11,8 +11,8 @@
     "//images.habblive.net/BETA/V2/assets/gamedata_live_V2/UITexts_V3_H_NAVI_2_1.json"
   ],
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
-  "furnidata.url": "${gamedata.url}/FurnitureData_2_25_2025.json",
-  "productdata.url": "${gamedata.url}/ProductData_2_25_2025.json",
+  "furnidata.url": "//images.habblive.net/BETA/V2/assets/gamedata_live_V2/FurnitureData_default_t_1.json",
+  "productdata.url": "//images.habblive.net/BETA/V2/assets/gamedata_live_V2/ProductData_default_t_1.json",
   "avatar.actions.url": "${gamedata.url}/HabboAvatarActions.json",
   "avatar.figuredata.url": "${gamedata.url}/FigureData_2_25_25.json",
   "avatar.figuremap.url": "${gamedata.url}/FigureMap_2_25_25.json",
