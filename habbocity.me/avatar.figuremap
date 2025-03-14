@@ -1,6 +1,28 @@
 ﻿{
   "libraries": [
     {
+      "id": "hair_U_RogueHaircut",
+      "revision": 180924,
+      "parts": [
+        {
+          "id": 180924,
+          "type": "hr"
+        },
+        {
+          "id": 180924,
+          "type": "hrb"
+        },
+        {
+          "id": 180925,
+          "type": "hr"
+        },
+        {
+          "id": 180925,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
       "id": "face_U_bratzkobyface",
       "revision": 180923,
       "parts": [
