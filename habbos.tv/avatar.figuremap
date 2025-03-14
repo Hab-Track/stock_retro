@@ -1,6 +1,32 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_CeCeHandbagWithChain",
+      "parts": [
+        {
+          "id": 1223424243,
+          "type": "ca"
+        },
+        {
+          "id": 2147483647,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_F_tanskineyeshadow",
+      "parts": [
+        {
+          "id": 124243543,
+          "type": "fa"
+        },
+        {
+          "id": 124243544,
+          "type": "fa"
+        }
+      ]
+    },
+    {
       "id": "face_U_bratzkobyface",
       "parts": [
         {
@@ -13585,15 +13611,6 @@
         },
         {
           "id": 2390382,
-          "type": "ca"
-        }
-      ]
-    },
-    {
-      "id": "acc_chest_U_miubodychain",
-      "parts": [
-        {
-          "id": 2147483647,
           "type": "ca"
         }
       ]
