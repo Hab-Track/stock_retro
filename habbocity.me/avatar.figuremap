@@ -1,6 +1,86 @@
 ﻿{
   "libraries": [
     {
+      "id": "face_U_bratzkobyface",
+      "revision": 180923,
+      "parts": [
+        {
+          "id": 2,
+          "type": "hd"
+        },
+        {
+          "id": 1,
+          "type": "bd"
+        },
+        {
+          "id": 1,
+          "type": "lh"
+        },
+        {
+          "id": 1,
+          "type": "rh"
+        },
+        {
+          "id": 6469,
+          "type": "fc"
+        },
+        {
+          "id": 6470,
+          "type": "fc"
+        },
+        {
+          "id": 6470,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bratzcameronhair",
+      "revision": 180922,
+      "parts": [
+        {
+          "id": 180922,
+          "type": "hr"
+        },
+        {
+          "id": 180922,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bratzsashaponytail",
+      "revision": 180920,
+      "parts": [
+        {
+          "id": 180920,
+          "type": "hr"
+        },
+        {
+          "id": 180920,
+          "type": "hrb"
+        },
+        {
+          "id": 180921,
+          "type": "hr"
+        },
+        {
+          "id": 180921,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_bratzjeans",
+      "revision": 180919,
+      "parts": [
+        {
+          "id": 180919,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_VesteEpaule",
       "revision": 180917,
       "parts": [
