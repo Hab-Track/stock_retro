@@ -1,6 +1,50 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_U_RompevientoNikexCE",
+      "revision": 991111038,
+      "parts": [
+        {
+          "id": 100028931,
+          "type": "ch"
+        },
+        {
+          "id": 100028931,
+          "type": "ls"
+        },
+        {
+          "id": 100028931,
+          "type": "rs"
+        },
+        {
+          "id": 100028932,
+          "type": "ch"
+        },
+        {
+          "id": 100028932,
+          "type": "ls"
+        },
+        {
+          "id": 100028932,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_PantalonNike",
+      "revision": 991111037,
+      "parts": [
+        {
+          "id": 100095841,
+          "type": "lg"
+        },
+        {
+          "id": 100095842,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_redpandabag",
       "revision": 180805,
       "parts": [
