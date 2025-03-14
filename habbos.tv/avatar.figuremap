@@ -1,6 +1,62 @@
 ﻿{
   "libraries": [
     {
+      "id": "face_U_bratzkobyface",
+      "parts": [
+        {
+          "id": 6469,
+          "type": "fc"
+        },
+        {
+          "id": 6470,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bratzcameronhair",
+      "parts": [
+        {
+          "id": 6468,
+          "type": "hr"
+        },
+        {
+          "id": 6468,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bratzsashaponytail",
+      "parts": [
+        {
+          "id": 6465,
+          "type": "hr"
+        },
+        {
+          "id": 6465,
+          "type": "hrb"
+        },
+        {
+          "id": 6466,
+          "type": "hr"
+        },
+        {
+          "id": 6466,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_bratzjeans",
+      "parts": [
+        {
+          "id": 6467,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_bratzyasminpearls",
       "parts": [
         {
