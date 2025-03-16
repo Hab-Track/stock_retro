@@ -7,7 +7,7 @@
   "gamedata.url": "${asset.url}/gamedata_live_V2",
   "sounds.url": "${asset.url}/sounds/%sample%.mp3",
   "external.texts.url": [
-    "//images.habblive.net/BETA/V2/assets/gamedata_live_V2/ExternalTexts.json",
+    "//images.habblive.net/BETA/V2/assets/gamedata_live_V2/ExternalTexts.json?13",
     "//images.habblive.net/BETA/V2/assets/gamedata_live_V2/UITexts_V3_H_NAVI_2_1.json"
   ],
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",

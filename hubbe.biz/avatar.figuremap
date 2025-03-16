@@ -18263,24 +18263,6 @@
       ]
     },
     {
-      "id": "hair_U_slickedbackhair",
-      "revision": 990000375,
-      "parts": [
-        {
-          "id": 3754,
-          "type": "hr"
-        },
-        {
-          "id": 3754,
-          "type": "hrb"
-        },
-        {
-          "id": 3755,
-          "type": "hr"
-        }
-      ]
-    },
-    {
       "id": "shirt_F_flapperdress",
       "revision": 990000369,
       "parts": [
@@ -61867,24 +61849,6 @@
       ]
     },
     {
-      "id": "hair_U_slickedbackhair",
-      "revision": 990000375,
-      "parts": [
-        {
-          "id": 3754,
-          "type": "hr"
-        },
-        {
-          "id": 3754,
-          "type": "hrb"
-        },
-        {
-          "id": 3755,
-          "type": "hr"
-        }
-      ]
-    },
-    {
       "id": "hair_U_neonpunkhair",
       "revision": 990000376,
       "parts": [
@@ -91644,24 +91608,6 @@
       ]
     },
     {
-      "id": "acc_head_U_nftflowerfairy",
-      "revision": 72872,
-      "parts": [
-        {
-          "id": 6570,
-          "type": "he"
-        },
-        {
-          "id": 6571,
-          "type": "he"
-        },
-        {
-          "id": 6572,
-          "type": "he"
-        }
-      ]
-    },
-    {
       "id": "acc_head_U_nftflowerfairy2",
       "revision": 72872,
       "parts": [
@@ -94032,6 +93978,404 @@
         {
           "id": 457574258,
           "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftbigsword",
+      "revision": 72926,
+      "parts": [
+        {
+          "id": 6600,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftcatmaidtail",
+      "revision": 72927,
+      "parts": [
+        {
+          "id": 6596,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftcatmaidtail2",
+      "revision": 72927,
+      "parts": [
+        {
+          "id": 6597,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "face_F_nftscarface",
+      "revision": 72908,
+      "parts": [
+        {
+          "id": 6605,
+          "type": "fc"
+        },
+        {
+          "id": 6606,
+          "type": "fc"
+        },
+        {
+          "id": 6606,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "face_M_nftscarface",
+      "revision": 72908,
+      "parts": [
+        {
+          "id": 6601,
+          "type": "fc"
+        },
+        {
+          "id": 6602,
+          "type": "fc"
+        },
+        {
+          "id": 6602,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftakaiakuma",
+      "revision": 72927,
+      "parts": [
+        {
+          "id": 6586,
+          "type": "hr"
+        },
+        {
+          "id": 6586,
+          "type": "hrb"
+        },
+        {
+          "id": 6587,
+          "type": "hr"
+        },
+        {
+          "id": 6588,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftyumekawa",
+      "revision": 72927,
+      "parts": [
+        {
+          "id": 6589,
+          "type": "hr"
+        },
+        {
+          "id": 6589,
+          "type": "hrb"
+        },
+        {
+          "id": 6590,
+          "type": "hr"
+        },
+        {
+          "id": 6591,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftcatheadband2",
+      "revision": 72927,
+      "parts": [
+        {
+          "id": 6593,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftcatheadband",
+      "revision": 72927,
+      "parts": [
+        {
+          "id": 6592,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftcat1",
+      "revision": 72969,
+      "parts": [
+        {
+          "id": 6655,
+          "type": "lc"
+        },
+        {
+          "id": 6655,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftcat2",
+      "revision": 72969,
+      "parts": [
+        {
+          "id": 6656,
+          "type": "cc"
+        },
+        {
+          "id": 6656,
+          "type": "lc"
+        },
+        {
+          "id": 6656,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_nftcatmaiddress",
+      "revision": 72978,
+      "parts": [
+        {
+          "id": 6594,
+          "type": "ch"
+        },
+        {
+          "id": 6594,
+          "type": "ls"
+        },
+        {
+          "id": 6594,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_nftcatmaiddress2",
+      "revision": 72978,
+      "parts": [
+        {
+          "id": 6595,
+          "type": "ch"
+        },
+        {
+          "id": 6595,
+          "type": "ls"
+        },
+        {
+          "id": 6595,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_nftcatslippers",
+      "revision": 72927,
+      "parts": [
+        {
+          "id": 6598,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_nftcatslippers2",
+      "revision": 72927,
+      "parts": [
+        {
+          "id": 6599,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nytie1",
+      "revision": 70895,
+      "parts": [
+        {
+          "id": 5355,
+          "type": "ca"
+        },
+        {
+          "id": 5356,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nytie2",
+      "revision": 70895,
+      "parts": [
+        {
+          "id": 5357,
+          "type": "ca"
+        },
+        {
+          "id": 5358,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nytie3",
+      "revision": 70895,
+      "parts": [
+        {
+          "id": 5359,
+          "type": "ca"
+        },
+        {
+          "id": 5360,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nytie4",
+      "revision": 70895,
+      "parts": [
+        {
+          "id": 5361,
+          "type": "ca"
+        },
+        {
+          "id": 5362,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nytie5",
+      "revision": 70895,
+      "parts": [
+        {
+          "id": 5363,
+          "type": "ca"
+        },
+        {
+          "id": 5364,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nytie6",
+      "revision": 70895,
+      "parts": [
+        {
+          "id": 5365,
+          "type": "ca"
+        },
+        {
+          "id": 5366,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nytie7",
+      "revision": 70895,
+      "parts": [
+        {
+          "id": 5367,
+          "type": "ca"
+        },
+        {
+          "id": 5368,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nytie8",
+      "revision": 70895,
+      "parts": [
+        {
+          "id": 5369,
+          "type": "ca"
+        },
+        {
+          "id": 5370,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftcandycane",
+      "revision": 70918,
+      "parts": [
+        {
+          "id": 5392,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_sb_raygun",
+      "revision": 71442,
+      "parts": [
+        {
+          "id": 5644,
+          "type": "rc"
+        },
+        {
+          "id": 5644,
+          "type": "lc"
+        },
+        {
+          "id": 5645,
+          "type": "rc"
+        },
+        {
+          "id": 5646,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftdragonwings",
+      "revision": 72152,
+      "parts": [
+        {
+          "id": 6105,
+          "type": "ca"
+        },
+        {
+          "id": 6106,
+          "type": "ca"
+        },
+        {
+          "id": 6107,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_spiderbackpack",
+      "revision": 72325,
+      "parts": [
+        {
+          "id": 6018,
+          "type": "ca"
+        },
+        {
+          "id": 6019,
+          "type": "ca"
+        },
+        {
+          "id": 6020,
+          "type": "ca"
         }
       ]
     }

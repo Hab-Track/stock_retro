@@ -1,6 +1,1314 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_F_animalprinthort",
+      "revision": 181022,
+      "parts": [
+        {
+          "id": 181022,
+          "type": "cc"
+        },
+        {
+          "id": 181022,
+          "type": "lc"
+        },
+        {
+          "id": 181022,
+          "type": "rc"
+        },
+        {
+          "id": 181023,
+          "type": "cc"
+        },
+        {
+          "id": 181023,
+          "type": "lc"
+        },
+        {
+          "id": 181023,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_floralkshortsleeved",
+      "revision": 181019,
+      "parts": [
+        {
+          "id": 181019,
+          "type": "cc"
+        },
+        {
+          "id": 181019,
+          "type": "lc"
+        },
+        {
+          "id": 181019,
+          "type": "rc"
+        },
+        {
+          "id": 181020,
+          "type": "cc"
+        },
+        {
+          "id": 181020,
+          "type": "lc"
+        },
+        {
+          "id": 181020,
+          "type": "rc"
+        },
+        {
+          "id": 181021,
+          "type": "cc"
+        },
+        {
+          "id": 181021,
+          "type": "lc"
+        },
+        {
+          "id": 181021,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_shortsleeved",
+      "revision": 181017,
+      "parts": [
+        {
+          "id": 181017,
+          "type": "cc"
+        },
+        {
+          "id": 181017,
+          "type": "lc"
+        },
+        {
+          "id": 181017,
+          "type": "rc"
+        },
+        {
+          "id": 181018,
+          "type": "cc"
+        },
+        {
+          "id": 181018,
+          "type": "lc"
+        },
+        {
+          "id": 181018,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_stripedshortsleeved",
+      "revision": 181014,
+      "parts": [
+        {
+          "id": 181014,
+          "type": "cc"
+        },
+        {
+          "id": 181014,
+          "type": "lc"
+        },
+        {
+          "id": 181014,
+          "type": "rc"
+        },
+        {
+          "id": 181015,
+          "type": "cc"
+        },
+        {
+          "id": 181015,
+          "type": "lc"
+        },
+        {
+          "id": 181015,
+          "type": "rc"
+        },
+        {
+          "id": 181016,
+          "type": "cc"
+        },
+        {
+          "id": 181016,
+          "type": "lc"
+        },
+        {
+          "id": 181016,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_animalprinthort",
+      "revision": 181012,
+      "parts": [
+        {
+          "id": 181012,
+          "type": "cc"
+        },
+        {
+          "id": 181012,
+          "type": "lc"
+        },
+        {
+          "id": 181012,
+          "type": "rc"
+        },
+        {
+          "id": 181013,
+          "type": "cc"
+        },
+        {
+          "id": 181013,
+          "type": "lc"
+        },
+        {
+          "id": 181013,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_floralkshortsleeved",
+      "revision": 181009,
+      "parts": [
+        {
+          "id": 181009,
+          "type": "cc"
+        },
+        {
+          "id": 181009,
+          "type": "lc"
+        },
+        {
+          "id": 181009,
+          "type": "rc"
+        },
+        {
+          "id": 181010,
+          "type": "cc"
+        },
+        {
+          "id": 181010,
+          "type": "lc"
+        },
+        {
+          "id": 181010,
+          "type": "rc"
+        },
+        {
+          "id": 181011,
+          "type": "cc"
+        },
+        {
+          "id": 181011,
+          "type": "lc"
+        },
+        {
+          "id": 181011,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_shortsleeved",
+      "revision": 181007,
+      "parts": [
+        {
+          "id": 181007,
+          "type": "cc"
+        },
+        {
+          "id": 181007,
+          "type": "lc"
+        },
+        {
+          "id": 181007,
+          "type": "rc"
+        },
+        {
+          "id": 181008,
+          "type": "cc"
+        },
+        {
+          "id": 181008,
+          "type": "lc"
+        },
+        {
+          "id": 181008,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_stripedshortsleeved",
+      "revision": 181004,
+      "parts": [
+        {
+          "id": 181004,
+          "type": "cc"
+        },
+        {
+          "id": 181004,
+          "type": "lc"
+        },
+        {
+          "id": 181004,
+          "type": "rc"
+        },
+        {
+          "id": 181005,
+          "type": "cc"
+        },
+        {
+          "id": 181005,
+          "type": "lc"
+        },
+        {
+          "id": 181005,
+          "type": "rc"
+        },
+        {
+          "id": 181006,
+          "type": "cc"
+        },
+        {
+          "id": 181006,
+          "type": "lc"
+        },
+        {
+          "id": 181006,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_bunbunface",
+      "revision": 181003,
+      "parts": [
+        {
+          "id": 6348,
+          "type": "hd"
+        },
+        {
+          "id": 6349,
+          "type": "hd"
+        },
+        {
+          "id": 1,
+          "type": "bd"
+        },
+        {
+          "id": 1,
+          "type": "lh"
+        },
+        {
+          "id": 1,
+          "type": "rh"
+        },
+        {
+          "id": 6348,
+          "type": "fc"
+        },
+        {
+          "id": 6349,
+          "type": "fc"
+        },
+        {
+          "id": 6350,
+          "type": "fc"
+        },
+        {
+          "id": 6349,
+          "type": "ey"
+        },
+        {
+          "id": 6350,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_thinscarf",
+      "revision": 181001,
+      "parts": [
+        {
+          "id": 181001,
+          "type": "ca"
+        },
+        {
+          "id": 181002,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_bunnyeyepatch",
+      "revision": 180999,
+      "parts": [
+        {
+          "id": 180999,
+          "type": "ea"
+        },
+        {
+          "id": 181000,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_fashionsunglasses",
+      "revision": 180996,
+      "parts": [
+        {
+          "id": 180996,
+          "type": "ea"
+        },
+        {
+          "id": 180997,
+          "type": "ea"
+        },
+        {
+          "id": 180998,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_bunbunearrings",
+      "revision": 180994,
+      "parts": [
+        {
+          "id": 180994,
+          "type": "he"
+        },
+        {
+          "id": 180995,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nfteastereggcrown",
+      "revision": 180993,
+      "parts": [
+        {
+          "id": 180993,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_fashionhalfmanbun",
+      "revision": 180991,
+      "parts": [
+        {
+          "id": 180991,
+          "type": "hr"
+        },
+        {
+          "id": 180991,
+          "type": "hrb"
+        },
+        {
+          "id": 180992,
+          "type": "hr"
+        },
+        {
+          "id": 180992,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_slickedpartedhair",
+      "revision": 180989,
+      "parts": [
+        {
+          "id": 180989,
+          "type": "hr"
+        },
+        {
+          "id": 180990,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_twotonelonglocks",
+      "revision": 180987,
+      "parts": [
+        {
+          "id": 180987,
+          "type": "hr"
+        },
+        {
+          "id": 180987,
+          "type": "hrb"
+        },
+        {
+          "id": 180988,
+          "type": "hr"
+        },
+        {
+          "id": 180988,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_twotonedplaitedwave",
+      "revision": 180984,
+      "parts": [
+        {
+          "id": 180984,
+          "type": "hr"
+        },
+        {
+          "id": 180984,
+          "type": "hrb"
+        },
+        {
+          "id": 180985,
+          "type": "hr"
+        },
+        {
+          "id": 180985,
+          "type": "hrb"
+        },
+        {
+          "id": 180986,
+          "type": "hr"
+        },
+        {
+          "id": 180986,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_bosscoat",
+      "revision": 180983,
+      "parts": [
+        {
+          "id": 180983,
+          "type": "cc"
+        },
+        {
+          "id": 180983,
+          "type": "lc"
+        },
+        {
+          "id": 180983,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftcat1",
+      "revision": 180982,
+      "parts": [
+        {
+          "id": 180982,
+          "type": "cc"
+        },
+        {
+          "id": 180982,
+          "type": "lc"
+        },
+        {
+          "id": 180982,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftcat2",
+      "revision": 180981,
+      "parts": [
+        {
+          "id": 180981,
+          "type": "cc"
+        },
+        {
+          "id": 180981,
+          "type": "lc"
+        },
+        {
+          "id": 180981,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_offshoulderjacket",
+      "revision": 180979,
+      "parts": [
+        {
+          "id": 180979,
+          "type": "cc"
+        },
+        {
+          "id": 180979,
+          "type": "lc"
+        },
+        {
+          "id": 180979,
+          "type": "rc"
+        },
+        {
+          "id": 180980,
+          "type": "cc"
+        },
+        {
+          "id": 180980,
+          "type": "lc"
+        },
+        {
+          "id": 180980,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_sharkplushie",
+      "revision": 180977,
+      "parts": [
+        {
+          "id": 180977,
+          "type": "cc"
+        },
+        {
+          "id": 180977,
+          "type": "lc"
+        },
+        {
+          "id": 180977,
+          "type": "rc"
+        },
+        {
+          "id": 180978,
+          "type": "cc"
+        },
+        {
+          "id": 180978,
+          "type": "lc"
+        },
+        {
+          "id": 180978,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_animalprinthort",
+      "revision": 180975,
+      "parts": [
+        {
+          "id": 180975,
+          "type": "ch"
+        },
+        {
+          "id": 180975,
+          "type": "ls"
+        },
+        {
+          "id": 180975,
+          "type": "rs"
+        },
+        {
+          "id": 180976,
+          "type": "ch"
+        },
+        {
+          "id": 180976,
+          "type": "ls"
+        },
+        {
+          "id": 180976,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_buttontubetop",
+      "revision": 180973,
+      "parts": [
+        {
+          "id": 180973,
+          "type": "ch"
+        },
+        {
+          "id": 180973,
+          "type": "ls"
+        },
+        {
+          "id": 180973,
+          "type": "rs"
+        },
+        {
+          "id": 180974,
+          "type": "ch"
+        },
+        {
+          "id": 180974,
+          "type": "ls"
+        },
+        {
+          "id": 180974,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_denimtubetop",
+      "revision": 180971,
+      "parts": [
+        {
+          "id": 180971,
+          "type": "ch"
+        },
+        {
+          "id": 180971,
+          "type": "ls"
+        },
+        {
+          "id": 180971,
+          "type": "rs"
+        },
+        {
+          "id": 180972,
+          "type": "ch"
+        },
+        {
+          "id": 180972,
+          "type": "ls"
+        },
+        {
+          "id": 180972,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_fashionfloraldress",
+      "revision": 180968,
+      "parts": [
+        {
+          "id": 180968,
+          "type": "ch"
+        },
+        {
+          "id": 180968,
+          "type": "ls"
+        },
+        {
+          "id": 180968,
+          "type": "rs"
+        },
+        {
+          "id": 180969,
+          "type": "ch"
+        },
+        {
+          "id": 180969,
+          "type": "ls"
+        },
+        {
+          "id": 180969,
+          "type": "rs"
+        },
+        {
+          "id": 180970,
+          "type": "ch"
+        },
+        {
+          "id": 180970,
+          "type": "ls"
+        },
+        {
+          "id": 180970,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_floralkshortsleeved",
+      "revision": 180965,
+      "parts": [
+        {
+          "id": 180965,
+          "type": "ch"
+        },
+        {
+          "id": 180965,
+          "type": "ls"
+        },
+        {
+          "id": 180965,
+          "type": "rs"
+        },
+        {
+          "id": 180966,
+          "type": "ch"
+        },
+        {
+          "id": 180966,
+          "type": "ls"
+        },
+        {
+          "id": 180966,
+          "type": "rs"
+        },
+        {
+          "id": 180967,
+          "type": "ch"
+        },
+        {
+          "id": 180967,
+          "type": "ls"
+        },
+        {
+          "id": 180967,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_floraltubetop",
+      "revision": 180962,
+      "parts": [
+        {
+          "id": 180962,
+          "type": "ch"
+        },
+        {
+          "id": 180962,
+          "type": "ls"
+        },
+        {
+          "id": 180962,
+          "type": "rs"
+        },
+        {
+          "id": 180963,
+          "type": "ch"
+        },
+        {
+          "id": 180963,
+          "type": "ls"
+        },
+        {
+          "id": 180963,
+          "type": "rs"
+        },
+        {
+          "id": 180964,
+          "type": "ch"
+        },
+        {
+          "id": 180964,
+          "type": "ls"
+        },
+        {
+          "id": 180964,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_polkaheartcutdress",
+      "revision": 180960,
+      "parts": [
+        {
+          "id": 180960,
+          "type": "ch"
+        },
+        {
+          "id": 180960,
+          "type": "ls"
+        },
+        {
+          "id": 180960,
+          "type": "rs"
+        },
+        {
+          "id": 180961,
+          "type": "ch"
+        },
+        {
+          "id": 180961,
+          "type": "ls"
+        },
+        {
+          "id": 180961,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_shortsleeved",
+      "revision": 180958,
+      "parts": [
+        {
+          "id": 180958,
+          "type": "ch"
+        },
+        {
+          "id": 180958,
+          "type": "ls"
+        },
+        {
+          "id": 180958,
+          "type": "rs"
+        },
+        {
+          "id": 180959,
+          "type": "ch"
+        },
+        {
+          "id": 180959,
+          "type": "ls"
+        },
+        {
+          "id": 180959,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_strappysatindress",
+      "revision": 180956,
+      "parts": [
+        {
+          "id": 180956,
+          "type": "ch"
+        },
+        {
+          "id": 180956,
+          "type": "ls"
+        },
+        {
+          "id": 180956,
+          "type": "rs"
+        },
+        {
+          "id": 180957,
+          "type": "ch"
+        },
+        {
+          "id": 180957,
+          "type": "ls"
+        },
+        {
+          "id": 180957,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_stripedshortsleeved",
+      "revision": 180953,
+      "parts": [
+        {
+          "id": 180953,
+          "type": "ch"
+        },
+        {
+          "id": 180953,
+          "type": "ls"
+        },
+        {
+          "id": 180953,
+          "type": "rs"
+        },
+        {
+          "id": 180954,
+          "type": "ch"
+        },
+        {
+          "id": 180954,
+          "type": "ls"
+        },
+        {
+          "id": 180954,
+          "type": "rs"
+        },
+        {
+          "id": 180955,
+          "type": "ch"
+        },
+        {
+          "id": 180955,
+          "type": "ls"
+        },
+        {
+          "id": 180955,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_tubetop",
+      "revision": 180952,
+      "parts": [
+        {
+          "id": 180952,
+          "type": "ch"
+        },
+        {
+          "id": 180952,
+          "type": "ls"
+        },
+        {
+          "id": 180952,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_animalprinthort",
+      "revision": 180950,
+      "parts": [
+        {
+          "id": 180950,
+          "type": "ch"
+        },
+        {
+          "id": 180950,
+          "type": "ls"
+        },
+        {
+          "id": 180950,
+          "type": "rs"
+        },
+        {
+          "id": 180951,
+          "type": "ch"
+        },
+        {
+          "id": 180951,
+          "type": "ls"
+        },
+        {
+          "id": 180951,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_buttontubetop",
+      "revision": 180948,
+      "parts": [
+        {
+          "id": 180948,
+          "type": "ch"
+        },
+        {
+          "id": 180948,
+          "type": "ls"
+        },
+        {
+          "id": 180948,
+          "type": "rs"
+        },
+        {
+          "id": 180949,
+          "type": "ch"
+        },
+        {
+          "id": 180949,
+          "type": "ls"
+        },
+        {
+          "id": 180949,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_denimtubetop",
+      "revision": 180946,
+      "parts": [
+        {
+          "id": 180946,
+          "type": "ch"
+        },
+        {
+          "id": 180946,
+          "type": "ls"
+        },
+        {
+          "id": 180946,
+          "type": "rs"
+        },
+        {
+          "id": 180947,
+          "type": "ch"
+        },
+        {
+          "id": 180947,
+          "type": "ls"
+        },
+        {
+          "id": 180947,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_floralkshortsleeved",
+      "revision": 180943,
+      "parts": [
+        {
+          "id": 180943,
+          "type": "ch"
+        },
+        {
+          "id": 180943,
+          "type": "ls"
+        },
+        {
+          "id": 180943,
+          "type": "rs"
+        },
+        {
+          "id": 180944,
+          "type": "ch"
+        },
+        {
+          "id": 180944,
+          "type": "ls"
+        },
+        {
+          "id": 180944,
+          "type": "rs"
+        },
+        {
+          "id": 180945,
+          "type": "ch"
+        },
+        {
+          "id": 180945,
+          "type": "ls"
+        },
+        {
+          "id": 180945,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_floraltubetop",
+      "revision": 180940,
+      "parts": [
+        {
+          "id": 180940,
+          "type": "ch"
+        },
+        {
+          "id": 180940,
+          "type": "ls"
+        },
+        {
+          "id": 180940,
+          "type": "rs"
+        },
+        {
+          "id": 180941,
+          "type": "ch"
+        },
+        {
+          "id": 180941,
+          "type": "ls"
+        },
+        {
+          "id": 180941,
+          "type": "rs"
+        },
+        {
+          "id": 180942,
+          "type": "ch"
+        },
+        {
+          "id": 180942,
+          "type": "ls"
+        },
+        {
+          "id": 180942,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_knittedbikini",
+      "revision": 180938,
+      "parts": [
+        {
+          "id": 180938,
+          "type": "ch"
+        },
+        {
+          "id": 180938,
+          "type": "ls"
+        },
+        {
+          "id": 180938,
+          "type": "rs"
+        },
+        {
+          "id": 180939,
+          "type": "ch"
+        },
+        {
+          "id": 180939,
+          "type": "ls"
+        },
+        {
+          "id": 180939,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_shortsleeved",
+      "revision": 180936,
+      "parts": [
+        {
+          "id": 180936,
+          "type": "ch"
+        },
+        {
+          "id": 180936,
+          "type": "ls"
+        },
+        {
+          "id": 180936,
+          "type": "rs"
+        },
+        {
+          "id": 180937,
+          "type": "ch"
+        },
+        {
+          "id": 180937,
+          "type": "ls"
+        },
+        {
+          "id": 180937,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_stripedshortsleeved",
+      "revision": 180933,
+      "parts": [
+        {
+          "id": 180933,
+          "type": "ch"
+        },
+        {
+          "id": 180933,
+          "type": "ls"
+        },
+        {
+          "id": 180933,
+          "type": "rs"
+        },
+        {
+          "id": 180934,
+          "type": "ch"
+        },
+        {
+          "id": 180934,
+          "type": "ls"
+        },
+        {
+          "id": 180934,
+          "type": "rs"
+        },
+        {
+          "id": 180935,
+          "type": "ch"
+        },
+        {
+          "id": 180935,
+          "type": "ls"
+        },
+        {
+          "id": 180935,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_tubetop",
+      "revision": 180932,
+      "parts": [
+        {
+          "id": 180932,
+          "type": "ch"
+        },
+        {
+          "id": 180932,
+          "type": "ls"
+        },
+        {
+          "id": 180932,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_nftbunnyshoes",
+      "revision": 180931,
+      "parts": [
+        {
+          "id": 180931,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_bunnyclipshorts",
+      "revision": 180928,
+      "parts": [
+        {
+          "id": 180928,
+          "type": "lg"
+        },
+        {
+          "id": 180929,
+          "type": "lg"
+        },
+        {
+          "id": 180930,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_F_knittedbikini",
+      "revision": 180926,
+      "parts": [
+        {
+          "id": 180926,
+          "type": "lg"
+        },
+        {
+          "id": 180927,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "hair_U_RogueHaircut",
       "revision": 180924,
       "parts": [

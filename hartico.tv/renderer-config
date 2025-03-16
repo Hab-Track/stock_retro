@@ -14,7 +14,7 @@
   "furnidata.url": "${gamedata.url}/FurnitureData.json?1",
   "productdata.url": "${gamedata.url}/ProductData.json",
   "avatar.actions.url": "${gamedata.url}/HabboAvatarActions.json",
-  "avatar.figuredata.url": "${gamedata.url}/FigureData.json",
+  "avatar.figuredata.url": "${gamedata.url}/FigureData.json?112233",
   "avatar.figuremap.url": "${gamedata.url}/FigureMap.json",
   "avatar.effectmap.url": "${gamedata.url}/EffectMap.json",
   "avatar.asset.url": "${asset.url}/bundled/figure/%libname%.nitro",
