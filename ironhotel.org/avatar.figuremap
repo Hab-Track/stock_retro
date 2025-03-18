@@ -63871,6 +63871,176 @@
           "type": "hrb"
         }
       ]
+    },
+    {
+      "id": "shirt_M_nftcolorshirt",
+      "revision": 998788468,
+      "parts": [
+        {
+          "id": 6254,
+          "type": "ch"
+        },
+        {
+          "id": 6254,
+          "type": "ls"
+        },
+        {
+          "id": 6254,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_nftcolorshirt",
+      "revision": 998788469,
+      "parts": [
+        {
+          "id": 6255,
+          "type": "ch"
+        },
+        {
+          "id": 6255,
+          "type": "ls"
+        },
+        {
+          "id": 6255,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_F_nftkpop",
+      "revision": 998788470,
+      "parts": [
+        {
+          "id": 16284,
+          "type": "cp"
+        },
+        {
+          "id": 16285,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_F_nftanime",
+      "revision": 998788471,
+      "parts": [
+        {
+          "id": 16280,
+          "type": "cp"
+        },
+        {
+          "id": 16281,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_M_nfthiphop",
+      "revision": 998788472,
+      "parts": [
+        {
+          "id": 16286,
+          "type": "cp"
+        },
+        {
+          "id": 16287,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftcolorwidebrim",
+      "revision": 998788473,
+      "parts": [
+        {
+          "id": 16265,
+          "type": "ha"
+        },
+        {
+          "id": 16266,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_redpandabag",
+      "revision": 998788474,
+      "parts": [
+        {
+          "id": 6484,
+          "type": "ca"
+        },
+        {
+          "id": 6485,
+          "type": "ca"
+        },
+        {
+          "id": 6486,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_froggybackpack",
+      "revision": 998788475,
+      "parts": [
+        {
+          "id": 6444,
+          "type": "ca"
+        },
+        {
+          "id": 6445,
+          "type": "ca"
+        },
+        {
+          "id": 6446,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_teddycompanion",
+      "revision": 998788476,
+      "parts": [
+        {
+          "id": 6447,
+          "type": "cc"
+        },
+        {
+          "id": 6447,
+          "type": "lc"
+        },
+        {
+          "id": 6447,
+          "type": "rc"
+        },
+        {
+          "id": 6448,
+          "type": "cc"
+        },
+        {
+          "id": 6448,
+          "type": "lc"
+        },
+        {
+          "id": 6448,
+          "type": "rc"
+        },
+        {
+          "id": 6449,
+          "type": "cc"
+        },
+        {
+          "id": 6449,
+          "type": "lc"
+        },
+        {
+          "id": 6449,
+          "type": "rc"
+        }
+      ]
     }
   ]
 }
