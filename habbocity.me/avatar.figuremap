@@ -1,6 +1,294 @@
 ﻿{
   "libraries": [
     {
+      "id": "face_U_bratzboyface",
+      "revision": 181053,
+      "parts": [
+        {
+          "id": 2,
+          "type": "hd"
+        },
+        {
+          "id": 1,
+          "type": "bd"
+        },
+        {
+          "id": 1,
+          "type": "lh"
+        },
+        {
+          "id": 1,
+          "type": "rh"
+        },
+        {
+          "id": 6658,
+          "type": "fc"
+        },
+        {
+          "id": 6659,
+          "type": "fc"
+        },
+        {
+          "id": 6660,
+          "type": "fc"
+        },
+        {
+          "id": 6659,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_canvasbag",
+      "revision": 181051,
+      "parts": [
+        {
+          "id": 181051,
+          "type": "ca"
+        },
+        {
+          "id": 181052,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_coinnecklace",
+      "revision": 181049,
+      "parts": [
+        {
+          "id": 181049,
+          "type": "ca"
+        },
+        {
+          "id": 181050,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_crystalnecklace",
+      "revision": 181046,
+      "parts": [
+        {
+          "id": 181046,
+          "type": "ca"
+        },
+        {
+          "id": 181047,
+          "type": "ca"
+        },
+        {
+          "id": 181048,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_floralcanvasbag",
+      "revision": 181043,
+      "parts": [
+        {
+          "id": 181043,
+          "type": "ca"
+        },
+        {
+          "id": 181044,
+          "type": "ca"
+        },
+        {
+          "id": 181045,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_knittedcanvasbag",
+      "revision": 181041,
+      "parts": [
+        {
+          "id": 181041,
+          "type": "ca"
+        },
+        {
+          "id": 181042,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_rainbowcanvasbag",
+      "revision": 181039,
+      "parts": [
+        {
+          "id": 181039,
+          "type": "ca"
+        },
+        {
+          "id": 181040,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_simplechainnecklace",
+      "revision": 181037,
+      "parts": [
+        {
+          "id": 181037,
+          "type": "ca"
+        },
+        {
+          "id": 181038,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tribalnecklace",
+      "revision": 181034,
+      "parts": [
+        {
+          "id": 181034,
+          "type": "ca"
+        },
+        {
+          "id": 181035,
+          "type": "ca"
+        },
+        {
+          "id": 181036,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_casualshorthair",
+      "revision": 181032,
+      "parts": [
+        {
+          "id": 181032,
+          "type": "hr"
+        },
+        {
+          "id": 181032,
+          "type": "hrb"
+        },
+        {
+          "id": 181033,
+          "type": "hr"
+        },
+        {
+          "id": 181033,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_slickedbackhair2",
+      "revision": 181031,
+      "parts": [
+        {
+          "id": 181031,
+          "type": "hr"
+        },
+        {
+          "id": 181031,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftbunnyhood",
+      "revision": 181030,
+      "parts": [
+        {
+          "id": 181030,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_bunnycompanion",
+      "revision": 181029,
+      "parts": [
+        {
+          "id": 181029,
+          "type": "cc"
+        },
+        {
+          "id": 181029,
+          "type": "lc"
+        },
+        {
+          "id": 181029,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftbunnycape",
+      "revision": 181028,
+      "parts": [
+        {
+          "id": 181028,
+          "type": "cc"
+        },
+        {
+          "id": 181028,
+          "type": "lc"
+        },
+        {
+          "id": 181028,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_umbrella",
+      "revision": 181026,
+      "parts": [
+        {
+          "id": 181026,
+          "type": "cc"
+        },
+        {
+          "id": 181026,
+          "type": "lc"
+        },
+        {
+          "id": 181026,
+          "type": "rc"
+        },
+        {
+          "id": 181027,
+          "type": "cc"
+        },
+        {
+          "id": 181027,
+          "type": "lc"
+        },
+        {
+          "id": 181027,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_fashionboots",
+      "revision": 181024,
+      "parts": [
+        {
+          "id": 181024,
+          "type": "sh"
+        },
+        {
+          "id": 181025,
+          "type": "sh"
+        }
+      ]
+    },
+    {
       "id": "jacket_F_animalprinthort",
       "revision": 181022,
       "parts": [
