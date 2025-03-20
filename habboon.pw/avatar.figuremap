@@ -17682,19 +17682,15 @@
     },
     {
       "id": "hair_U_slickedbackhair",
-      "revision": 65740,
+      "revision": 72980,
       "parts": [
         {
-          "id": 3754,
+          "id": 6450,
           "type": "hr"
         },
         {
-          "id": 3754,
+          "id": 6450,
           "type": "hrb"
-        },
-        {
-          "id": 3755,
-          "type": "hr"
         }
       ]
     },
@@ -37522,7 +37518,7 @@
     },
     {
       "id": "shirt_U_nftcatmaiddress",
-      "revision": 72927,
+      "revision": 72978,
       "parts": [
         {
           "id": 6594,
@@ -37540,7 +37536,7 @@
     },
     {
       "id": "shirt_U_nftcatmaiddress2",
-      "revision": 72927,
+      "revision": 72978,
       "parts": [
         {
           "id": 6595,
@@ -37715,6 +37711,890 @@
         {
           "id": 6470,
           "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_fashionhalfmanbunhair",
+      "revision": 72960,
+      "parts": [
+        {
+          "id": 6346,
+          "type": "hr"
+        },
+        {
+          "id": 6346,
+          "type": "hrb"
+        },
+        {
+          "id": 6347,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_fashionsunglasses",
+      "revision": 72960,
+      "parts": [
+        {
+          "id": 6314,
+          "type": "ea"
+        },
+        {
+          "id": 6315,
+          "type": "ea"
+        },
+        {
+          "id": 6316,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_floraltubetop",
+      "revision": 72964,
+      "parts": [
+        {
+          "id": 6366,
+          "type": "ch"
+        },
+        {
+          "id": 6366,
+          "type": "ls"
+        },
+        {
+          "id": 6366,
+          "type": "rs"
+        },
+        {
+          "id": 6367,
+          "type": "ch"
+        },
+        {
+          "id": 6368,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_floraltubetop",
+      "revision": 72964,
+      "parts": [
+        {
+          "id": 6380,
+          "type": "ch"
+        },
+        {
+          "id": 6380,
+          "type": "ls"
+        },
+        {
+          "id": 6380,
+          "type": "rs"
+        },
+        {
+          "id": 6381,
+          "type": "ch"
+        },
+        {
+          "id": 6382,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_strappysatindress",
+      "revision": 72960,
+      "parts": [
+        {
+          "id": 6334,
+          "type": "ch"
+        },
+        {
+          "id": 6334,
+          "type": "ls"
+        },
+        {
+          "id": 6334,
+          "type": "rs"
+        },
+        {
+          "id": 6335,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_fashionfloraldress",
+      "revision": 72960,
+      "parts": [
+        {
+          "id": 6326,
+          "type": "ch"
+        },
+        {
+          "id": 6326,
+          "type": "ls"
+        },
+        {
+          "id": 6326,
+          "type": "rs"
+        },
+        {
+          "id": 6327,
+          "type": "ch"
+        },
+        {
+          "id": 6328,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_slickedpartedhair",
+      "revision": 72964,
+      "parts": [
+        {
+          "id": 6369,
+          "type": "hr"
+        },
+        {
+          "id": 6369,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_twotonedplaitedwavehair",
+      "revision": 72960,
+      "parts": [
+        {
+          "id": 6317,
+          "type": "hr"
+        },
+        {
+          "id": 6317,
+          "type": "hrb"
+        },
+        {
+          "id": 6318,
+          "type": "hr"
+        },
+        {
+          "id": 6319,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_thinscarf",
+      "revision": 72964,
+      "parts": [
+        {
+          "id": 6354,
+          "type": "ca"
+        },
+        {
+          "id": 6355,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_animalprinthortsleevedshirt",
+      "revision": 72980,
+      "parts": [
+        {
+          "id": 6436,
+          "type": "ch"
+        },
+        {
+          "id": 6436,
+          "type": "ls"
+        },
+        {
+          "id": 6436,
+          "type": "rs"
+        },
+        {
+          "id": 6437,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_animalprinthortsleevedshirt",
+      "revision": 72980,
+      "parts": [
+        {
+          "id": 6434,
+          "type": "ch"
+        },
+        {
+          "id": 6434,
+          "type": "ls"
+        },
+        {
+          "id": 6434,
+          "type": "rs"
+        },
+        {
+          "id": 6435,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_strappysatindress",
+      "revision": 72960,
+      "parts": [
+        {
+          "id": 6332,
+          "type": "ch"
+        },
+        {
+          "id": 6332,
+          "type": "ls"
+        },
+        {
+          "id": 6332,
+          "type": "rs"
+        },
+        {
+          "id": 6333,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_knittedbikini",
+      "revision": 72960,
+      "parts": [
+        {
+          "id": 6336,
+          "type": "ch"
+        },
+        {
+          "id": 6336,
+          "type": "ls"
+        },
+        {
+          "id": 6336,
+          "type": "rs"
+        },
+        {
+          "id": 6337,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nfteastereggcrown",
+      "revision": 72960,
+      "parts": [
+        {
+          "id": 6353,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_stripedshortsleevedshirt",
+      "revision": 72980,
+      "parts": [
+        {
+          "id": 6441,
+          "type": "ch"
+        },
+        {
+          "id": 6441,
+          "type": "ls"
+        },
+        {
+          "id": 6441,
+          "type": "rs"
+        },
+        {
+          "id": 6442,
+          "type": "ch"
+        },
+        {
+          "id": 6443,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_tubetop",
+      "revision": 72964,
+      "parts": [
+        {
+          "id": 6356,
+          "type": "ch"
+        },
+        {
+          "id": 6356,
+          "type": "ls"
+        },
+        {
+          "id": 6356,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_knittedbikini",
+      "revision": 72960,
+      "parts": [
+        {
+          "id": 6338,
+          "type": "ch"
+        },
+        {
+          "id": 6338,
+          "type": "ls"
+        },
+        {
+          "id": 6338,
+          "type": "rs"
+        },
+        {
+          "id": 6339,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_bosscoat",
+      "revision": 72980,
+      "parts": [
+        {
+          "id": 6421,
+          "type": "cc"
+        },
+        {
+          "id": 6421,
+          "type": "lc"
+        },
+        {
+          "id": 6421,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_bunbunface",
+      "revision": 72960,
+      "parts": [
+        {
+          "id": 6349,
+          "type": "fc"
+        },
+        {
+          "id": 6349,
+          "type": "ey"
+        },
+        {
+          "id": 6350,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_twotonedlonglocks",
+      "revision": 72960,
+      "parts": [
+        {
+          "id": 6351,
+          "type": "hr"
+        },
+        {
+          "id": 6351,
+          "type": "hrb"
+        },
+        {
+          "id": 6352,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_fashionfloraldress",
+      "revision": 72960,
+      "parts": [
+        {
+          "id": 6329,
+          "type": "ch"
+        },
+        {
+          "id": 6329,
+          "type": "ls"
+        },
+        {
+          "id": 6329,
+          "type": "rs"
+        },
+        {
+          "id": 6330,
+          "type": "ch"
+        },
+        {
+          "id": 6331,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_offshoulderjacket",
+      "revision": 72964,
+      "parts": [
+        {
+          "id": 6372,
+          "type": "cc"
+        },
+        {
+          "id": 6372,
+          "type": "lc"
+        },
+        {
+          "id": 6372,
+          "type": "rc"
+        },
+        {
+          "id": 6373,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_bunbunearrings",
+      "revision": 72960,
+      "parts": [
+        {
+          "id": 6344,
+          "type": "he"
+        },
+        {
+          "id": 6345,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_bunnyeyepatch",
+      "revision": 72960,
+      "parts": [
+        {
+          "id": 6342,
+          "type": "ea"
+        },
+        {
+          "id": 6343,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_buttontubetop",
+      "revision": 72964,
+      "parts": [
+        {
+          "id": 6362,
+          "type": "ch"
+        },
+        {
+          "id": 6362,
+          "type": "ls"
+        },
+        {
+          "id": 6362,
+          "type": "rs"
+        },
+        {
+          "id": 6363,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_polkaheartcutdress",
+      "revision": 72960,
+      "parts": [
+        {
+          "id": 6322,
+          "type": "ch"
+        },
+        {
+          "id": 6322,
+          "type": "ls"
+        },
+        {
+          "id": 6322,
+          "type": "rs"
+        },
+        {
+          "id": 6323,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_buttontubetop",
+      "revision": 72964,
+      "parts": [
+        {
+          "id": 6364,
+          "type": "ch"
+        },
+        {
+          "id": 6364,
+          "type": "ls"
+        },
+        {
+          "id": 6364,
+          "type": "rs"
+        },
+        {
+          "id": 6365,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_sharkplushie",
+      "revision": 72964,
+      "parts": [
+        {
+          "id": 6370,
+          "type": "cc"
+        },
+        {
+          "id": 6370,
+          "type": "lc"
+        },
+        {
+          "id": 6370,
+          "type": "rc"
+        },
+        {
+          "id": 6371,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_floralkshortsleevedshirt",
+      "revision": 72980,
+      "parts": [
+        {
+          "id": 6431,
+          "type": "ch"
+        },
+        {
+          "id": 6431,
+          "type": "ls"
+        },
+        {
+          "id": 6431,
+          "type": "rs"
+        },
+        {
+          "id": 6432,
+          "type": "ch"
+        },
+        {
+          "id": 6433,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_shortsleevedshirt",
+      "revision": 72980,
+      "parts": [
+        {
+          "id": 6422,
+          "type": "ch"
+        },
+        {
+          "id": 6422,
+          "type": "ls"
+        },
+        {
+          "id": 6422,
+          "type": "rs"
+        },
+        {
+          "id": 6423,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_bunnyclipshorts",
+      "revision": 72964,
+      "parts": [
+        {
+          "id": 6374,
+          "type": "lg"
+        },
+        {
+          "id": 6375,
+          "type": "lg"
+        },
+        {
+          "id": 6376,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftcat1",
+      "revision": 72969,
+      "parts": [
+        {
+          "id": 6655,
+          "type": "lc"
+        },
+        {
+          "id": 6655,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftcat2",
+      "revision": 72969,
+      "parts": [
+        {
+          "id": 6656,
+          "type": "cc"
+        },
+        {
+          "id": 6656,
+          "type": "lc"
+        },
+        {
+          "id": 6656,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_longdressbase",
+      "revision": 72960,
+      "parts": [
+        {
+          "id": 6320,
+          "type": "ch"
+        },
+        {
+          "id": 6320,
+          "type": "ls"
+        },
+        {
+          "id": 6320,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_longdressbase",
+      "revision": 72960,
+      "parts": [
+        {
+          "id": 6321,
+          "type": "ch"
+        },
+        {
+          "id": 6321,
+          "type": "ls"
+        },
+        {
+          "id": 6321,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_denimtubetop",
+      "revision": 72964,
+      "parts": [
+        {
+          "id": 6358,
+          "type": "ch"
+        },
+        {
+          "id": 6358,
+          "type": "ls"
+        },
+        {
+          "id": 6358,
+          "type": "rs"
+        },
+        {
+          "id": 6359,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_stripedshortsleevedshirt",
+      "revision": 72980,
+      "parts": [
+        {
+          "id": 6438,
+          "type": "ch"
+        },
+        {
+          "id": 6438,
+          "type": "ls"
+        },
+        {
+          "id": 6438,
+          "type": "rs"
+        },
+        {
+          "id": 6439,
+          "type": "ch"
+        },
+        {
+          "id": 6440,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_polkaheartcutdress",
+      "revision": 72960,
+      "parts": [
+        {
+          "id": 6324,
+          "type": "ch"
+        },
+        {
+          "id": 6324,
+          "type": "ls"
+        },
+        {
+          "id": 6324,
+          "type": "rs"
+        },
+        {
+          "id": 6325,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_shortsleevedshirt",
+      "revision": 72980,
+      "parts": [
+        {
+          "id": 6425,
+          "type": "ch"
+        },
+        {
+          "id": 6425,
+          "type": "ls"
+        },
+        {
+          "id": 6425,
+          "type": "rs"
+        },
+        {
+          "id": 6426,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_knittedbikini",
+      "revision": 72960,
+      "parts": [
+        {
+          "id": 6340,
+          "type": "lg"
+        },
+        {
+          "id": 6341,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_tubetop",
+      "revision": 72964,
+      "parts": [
+        {
+          "id": 6357,
+          "type": "ch"
+        },
+        {
+          "id": 6357,
+          "type": "ls"
+        },
+        {
+          "id": 6357,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_floralkshortsleevedshirt",
+      "revision": 72980,
+      "parts": [
+        {
+          "id": 6428,
+          "type": "ch"
+        },
+        {
+          "id": 6428,
+          "type": "ls"
+        },
+        {
+          "id": 6428,
+          "type": "rs"
+        },
+        {
+          "id": 6429,
+          "type": "ch"
+        },
+        {
+          "id": 6430,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_nftbunnyshoes",
+      "revision": 72964,
+      "parts": [
+        {
+          "id": 6377,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_denimtubetop",
+      "revision": 72964,
+      "parts": [
+        {
+          "id": 6360,
+          "type": "ch"
+        },
+        {
+          "id": 6360,
+          "type": "ls"
+        },
+        {
+          "id": 6360,
+          "type": "rs"
+        },
+        {
+          "id": 6361,
+          "type": "ch"
         }
       ]
     },
