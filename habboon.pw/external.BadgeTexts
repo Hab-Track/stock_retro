@@ -54,5 +54,11 @@
   "season-event.tracker.button": "Open Shop",
   "season-event.title": "Habboon's Love Loot",
   "avatar.widget.collect_hearts": "Collect Hearts",
-  "notifications.text.hearts.received": "You have %AMOUNT% heart(s) ready to collect from Cupid."
+  "notifications.text.hearts.received": "You have %AMOUNT% heart(s) ready to collect from Cupid.",
+  "catalog.marketplace.filter.all": "All",
+  "catalog.marketplace.filter.floor": "Floor Items",
+  "catalog.marketplace.filter.wall": "Wall Items",
+  "catalog.marketplace.filter.clothing": "Clothing Items",
+  "catalog.marketplace.filter.ltds": "LTDs",
+  "inventory.marketplace.confirm_offer.info.duration": "You are selling %quantity% of %furniname% for %duration%. If someone buys this offer, you will receive: %price% %currency%(s) per item."
 }
