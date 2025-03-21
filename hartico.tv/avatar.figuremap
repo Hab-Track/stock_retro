@@ -1,6 +1,242 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_canvasbag",
+      "parts": [
+        {
+          "id": 6397,
+          "type": "ca"
+        },
+        {
+          "id": 6398,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_coinnecklace",
+      "parts": [
+        {
+          "id": 6387,
+          "type": "ca"
+        },
+        {
+          "id": 6388,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_crystalnecklace",
+      "parts": [
+        {
+          "id": 6389,
+          "type": "ca"
+        },
+        {
+          "id": 6390,
+          "type": "ca"
+        },
+        {
+          "id": 6391,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_floralcanvasbag",
+      "parts": [
+        {
+          "id": 6401,
+          "type": "ca"
+        },
+        {
+          "id": 6402,
+          "type": "ca"
+        },
+        {
+          "id": 6403,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_knittedcanvasbag",
+      "parts": [
+        {
+          "id": 6404,
+          "type": "ca"
+        },
+        {
+          "id": 6405,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_rainbowcanvasbag",
+      "parts": [
+        {
+          "id": 6399,
+          "type": "ca"
+        },
+        {
+          "id": 6400,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_simplechainnecklace",
+      "parts": [
+        {
+          "id": 6392,
+          "type": "ca"
+        },
+        {
+          "id": 6393,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tribalnecklace",
+      "parts": [
+        {
+          "id": 6394,
+          "type": "ca"
+        },
+        {
+          "id": 6395,
+          "type": "ca"
+        },
+        {
+          "id": 6396,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "face_U_bratzboyface",
+      "parts": [
+        {
+          "id": 6658,
+          "type": "fc"
+        },
+        {
+          "id": 6659,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_casualshorthair",
+      "parts": [
+        {
+          "id": 6385,
+          "type": "hr"
+        },
+        {
+          "id": 6385,
+          "type": "hrb"
+        },
+        {
+          "id": 6386,
+          "type": "hr"
+        },
+        {
+          "id": 6386,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_slickedbackhair2",
+      "parts": [
+        {
+          "id": 6450,
+          "type": "hr"
+        },
+        {
+          "id": 6450,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftbunnyhood",
+      "parts": [
+        {
+          "id": 6410,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_bunnycompanion",
+      "parts": [
+        {
+          "id": 6667,
+          "type": "lc"
+        },
+        {
+          "id": 6667,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftbunnycape",
+      "parts": [
+        {
+          "id": 6411,
+          "type": "cc"
+        },
+        {
+          "id": 6411,
+          "type": "lc"
+        },
+        {
+          "id": 6411,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_umbrella",
+      "parts": [
+        {
+          "id": 6406,
+          "type": "lc"
+        },
+        {
+          "id": 6406,
+          "type": "rc"
+        },
+        {
+          "id": 6407,
+          "type": "lc"
+        },
+        {
+          "id": 6407,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_fashionboots",
+      "parts": [
+        {
+          "id": 6408,
+          "type": "sh"
+        },
+        {
+          "id": 6409,
+          "type": "sh"
+        }
+      ]
+    },
+    {
       "id": "hair_U_habkokohair20",
       "parts": [
         {
@@ -46362,19 +46598,6 @@
         },
         {
           "id": 9328,
-          "type": "hrb"
-        }
-      ]
-    },
-    {
-      "id": "hair_F_braidger",
-      "parts": [
-        {
-          "id": 6346,
-          "type": "hr"
-        },
-        {
-          "id": 6346,
           "type": "hrb"
         }
       ]
