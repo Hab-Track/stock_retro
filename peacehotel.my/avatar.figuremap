@@ -1,6 +1,32 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_teddycompanion",
+      "revision": 11707,
+      "parts": [
+        {
+          "id": 6447,
+          "type": "cc"
+        },
+        {
+          "id": 6447,
+          "type": "lc"
+        },
+        {
+          "id": 6447,
+          "type": "rc"
+        },
+        {
+          "id": 6448,
+          "type": "cc"
+        },
+        {
+          "id": 6449,
+          "type": "cc"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_froggybackpack",
       "revision": 11705,
       "parts": [
