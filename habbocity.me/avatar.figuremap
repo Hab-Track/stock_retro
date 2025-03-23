@@ -1,6 +1,176 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_eye_U_LunettesFine",
+      "revision": 181082,
+      "parts": [
+        {
+          "id": 181082,
+          "type": "ea"
+        },
+        {
+          "id": 181083,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_EcharpeInumaki",
+      "revision": 181081,
+      "parts": [
+        {
+          "id": 181081,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_EcharpeCacheCou",
+      "revision": 181080,
+      "parts": [
+        {
+          "id": 181080,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_AkumaZoan",
+      "revision": 181079,
+      "parts": [
+        {
+          "id": 181079,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_FrangeCourte",
+      "revision": 181078,
+      "parts": [
+        {
+          "id": 181078,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_RubanGeant",
+      "revision": 181077,
+      "parts": [
+        {
+          "id": 181077,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_HelloKittyHair",
+      "revision": 181075,
+      "parts": [
+        {
+          "id": 181075,
+          "type": "hr"
+        },
+        {
+          "id": 181076,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_Straightside",
+      "revision": 181074,
+      "parts": [
+        {
+          "id": 181074,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_christmasmitre",
+      "revision": 181072,
+      "parts": [
+        {
+          "id": 181072,
+          "type": "ha"
+        },
+        {
+          "id": 181073,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_TopBasketball",
+      "revision": 181069,
+      "parts": [
+        {
+          "id": 181069,
+          "type": "ch"
+        },
+        {
+          "id": 181069,
+          "type": "ls"
+        },
+        {
+          "id": 181069,
+          "type": "rs"
+        },
+        {
+          "id": 181070,
+          "type": "ch"
+        },
+        {
+          "id": 181070,
+          "type": "ls"
+        },
+        {
+          "id": 181070,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_WickedShirt",
+      "revision": 181068,
+      "parts": [
+        {
+          "id": 181068,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_PantalonNike",
+      "revision": 181066,
+      "parts": [
+        {
+          "id": 181066,
+          "type": "lg"
+        },
+        {
+          "id": 181067,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_JupeCourteColo",
+      "revision": 181064,
+      "parts": [
+        {
+          "id": 181064,
+          "type": "lg"
+        },
+        {
+          "id": 181065,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_NBAnumber9",
       "revision": 181063,
       "parts": [
@@ -26395,24 +26565,8 @@
           "type": "bd"
         },
         {
-          "id": 1,
-          "type": "fc"
-        },
-        {
-          "id": 1,
-          "type": "lh"
-        },
-        {
-          "id": 1,
-          "type": "rh"
-        },
-        {
           "id": 4697,
           "type": "hd"
-        },
-        {
-          "id": 1,
-          "type": "ey"
         }
       ]
     },
