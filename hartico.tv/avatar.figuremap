@@ -1,6 +1,54 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_face_F_tylaface",
+      "parts": [
+        {
+          "id": 144243543,
+          "type": "fa"
+        },
+        {
+          "id": 144243544,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_deviltat",
+      "parts": [
+        {
+          "id": 6565656,
+          "type": "cp"
+        },
+        {
+          "id": 6565657,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_tylapboytat",
+      "parts": [
+        {
+          "id": 21221222,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_tylaflowersparkl",
+      "parts": [
+        {
+          "id": 114243544,
+          "type": "cp"
+        },
+        {
+          "id": 114243545,
+          "type": "cp"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_canvasbag",
       "parts": [
         {
@@ -4463,11 +4511,11 @@
       "id": "acc_print_M_nfthiphop",
       "parts": [
         {
-          "id": 6282,
+          "id": 6286,
           "type": "cp"
         },
         {
-          "id": 6283,
+          "id": 6287,
           "type": "cp"
         }
       ]
@@ -13692,6 +13740,32 @@
       ]
     },
     {
+      "id": "shirt_F_Boobs",
+      "parts": [
+        {
+          "id": 6285263,
+          "type": "ch"
+        },
+        {
+          "id": 6285264,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_boobpierce",
+      "parts": [
+        {
+          "id": 2285268,
+          "type": "ch"
+        },
+        {
+          "id": 2285269,
+          "type": "ch"
+        }
+      ]
+    },
+    {
       "id": "trousers_U_tvcargoaltos",
       "parts": [
         {
@@ -15812,19 +15886,6 @@
         {
           "id": 1627,
           "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "shirt_F_Boobs",
-      "parts": [
-        {
-          "id": 6285263,
-          "type": "ch"
-        },
-        {
-          "id": 6285264,
-          "type": "ch"
         }
       ]
     },
