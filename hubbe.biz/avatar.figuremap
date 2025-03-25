@@ -82016,20 +82016,6 @@
       ]
     },
     {
-      "id": "shoes_U_cloudwalking",
-      "revision": 990002510,
-      "parts": [
-        {
-          "id": 800321,
-          "type": "sh"
-        },
-        {
-          "id": 800322,
-          "type": "sh"
-        }
-      ]
-    },
-    {
       "id": "shirt_U_nftspacesuitFIX",
       "revision": 990002558,
       "parts": [
@@ -94376,6 +94362,16 @@
         {
           "id": 6020,
           "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_hubbecloudwalking",
+      "revision": 65678,
+      "parts": [
+        {
+          "id": 2147483647,
+          "type": "sh"
         }
       ]
     }
