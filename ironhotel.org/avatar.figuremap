@@ -64041,6 +64041,110 @@
           "type": "rc"
         }
       ]
+    },
+    {
+      "id": "acc_waist_U_bratzdylanbelt",
+      "revision": 998788477,
+      "parts": [
+        {
+          "id": 6493,
+          "type": "wa"
+        },
+        {
+          "id": 6494,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bratzcameronhair",
+      "revision": 998788478,
+      "parts": [
+        {
+          "id": 6468,
+          "type": "hr"
+        },
+        {
+          "id": 6468,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bratzsashaponytail",
+      "revision": 998788479,
+      "parts": [
+        {
+          "id": 6465,
+          "type": "hr"
+        },
+        {
+          "id": 6465,
+          "type": "hrb"
+        },
+        {
+          "id": 6466,
+          "type": "hr"
+        },
+        {
+          "id": 6466,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_casualshorthair",
+      "revision": 998788480,
+      "parts": [
+        {
+          "id": 6385,
+          "type": "hr"
+        },
+        {
+          "id": 6385,
+          "type": "hrb"
+        },
+        {
+          "id": 6386,
+          "type": "hr"
+        },
+        {
+          "id": 6386,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_fashionhalfmanbunhair",
+      "revision": 998788481,
+      "parts": [
+        {
+          "id": 6346,
+          "type": "hr"
+        },
+        {
+          "id": 6346,
+          "type": "hrb"
+        },
+        {
+          "id": 6347,
+          "type": "hr"
+        },
+        {
+          "id": 6347,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_crocs",
+      "revision": 998788482,
+      "parts": [
+        {
+          "id": 1337719,
+          "type": "sh"
+        }
+      ]
     }
   ]
 }
