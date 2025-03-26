@@ -1,14 +1,202 @@
 ﻿{
   "libraries": [
     {
-      "id": "acc_face_F_tylaface",
+      "id": "trousers_F_jeanskirt",
       "parts": [
         {
-          "id": 144243543,
+          "id": 1991,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_F_Legwarmers",
+      "parts": [
+        {
+          "id": 180512,
+          "type": "lg"
+        },
+        {
+          "id": 180513,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_M_baiana",
+      "parts": [
+        {
+          "id": 19990001,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_45434",
+      "parts": [
+        {
+          "id": 87345713,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_aaaaaaaa",
+      "parts": [
+        {
+          "id": 78545,
+          "type": "lg"
+        },
+        {
+          "id": 78546,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_adidaspants",
+      "parts": [
+        {
+          "id": 5107,
+          "type": "lg"
+        },
+        {
+          "id": 5108,
+          "type": "lg"
+        },
+        {
+          "id": 5109,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_axeiclemlegstrap",
+      "parts": [
+        {
+          "id": 174279,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_miniskirtp",
+      "parts": [
+        {
+          "id": 85868199,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_miniskirty2k",
+      "parts": [
+        {
+          "id": 85868192,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_saiadelinho",
+      "parts": [
+        {
+          "id": 1099902,
+          "type": "lg"
+        },
+        {
+          "id": 2099902,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_trousersoprova",
+      "parts": [
+        {
+          "id": 30000177,
+          "type": "lg"
+        },
+        {
+          "id": 30000178,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "wibbo_dbz_jacket_1",
+      "parts": [
+        {
+          "id": 45788,
+          "type": "cc"
+        },
+        {
+          "id": 45788,
+          "type": "lc"
+        },
+        {
+          "id": 45788,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shoes_F_PantalonJupe",
+      "parts": [
+        {
+          "id": 156861,
+          "type": "sh"
+        },
+        {
+          "id": 156862,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_BlairaHeels1",
+      "parts": [
+        {
+          "id": 1337756,
+          "type": "sh"
+        },
+        {
+          "id": 1337757,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_casshogboots",
+      "parts": [
+        {
+          "id": 6135,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_IchiPrideShoes",
+      "parts": [
+        {
+          "id": 9382175,
+          "type": "sh"
+        },
+        {
+          "id": 9382176,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_F_tylasface1",
+      "parts": [
+        {
+          "id": 6565659,
           "type": "fa"
         },
         {
-          "id": 144243544,
+          "id": 6565660,
           "type": "fa"
         }
       ]
@@ -174,6 +362,14 @@
         {
           "id": 6659,
           "type": "ey"
+        },
+        {
+          "id": 6659,
+          "type": "fc"
+        },
+        {
+          "id": 6660,
+          "type": "fc"
         }
       ]
     },
@@ -586,8 +782,16 @@
           "type": "fc"
         },
         {
+          "id": 6349,
+          "type": "ey"
+        },
+        {
           "id": 6350,
           "type": "ey"
+        },
+        {
+          "id": 6350,
+          "type": "fc"
         }
       ]
     },
@@ -1501,6 +1705,10 @@
         {
           "id": 6470,
           "type": "ey"
+        },
+        {
+          "id": 6470,
+          "type": "fc"
         }
       ]
     },
@@ -1615,6 +1823,10 @@
         {
           "id": 6606,
           "type": "ey"
+        },
+        {
+          "id": 6606,
+          "type": "fc"
         }
       ]
     },
@@ -1628,6 +1840,10 @@
         {
           "id": 6602,
           "type": "ey"
+        },
+        {
+          "id": 6602,
+          "type": "fc"
         }
       ]
     },
@@ -3151,6 +3367,10 @@
         {
           "id": 6563,
           "type": "ey"
+        },
+        {
+          "id": 6563,
+          "type": "fc"
         }
       ]
     },
@@ -3164,6 +3384,10 @@
         {
           "id": 6565,
           "type": "ey"
+        },
+        {
+          "id": 6565,
+          "type": "fc"
         }
       ]
     },
@@ -3177,6 +3401,10 @@
         {
           "id": 6567,
           "type": "ey"
+        },
+        {
+          "id": 6567,
+          "type": "fc"
         }
       ]
     },
@@ -3190,6 +3418,10 @@
         {
           "id": 6569,
           "type": "ey"
+        },
+        {
+          "id": 6569,
+          "type": "fc"
         }
       ]
     },
@@ -7129,7 +7361,7 @@
       ]
     },
     {
-      "id": "trousers_U_JaoPants",
+      "id": "trousers_U_jaopants",
       "parts": [
         {
           "id": 820641,
