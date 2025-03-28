@@ -17572,7 +17572,7 @@
     },
     {
       "id": "acc_chest_U_bookbag",
-      "revision": 65168,
+      "revision": 73071,
       "parts": [
         {
           "id": 3508,
@@ -22866,7 +22866,7 @@
     },
     {
       "id": "jacket_U_camo",
-      "revision": 69383,
+      "revision": 73071,
       "parts": [
         {
           "id": 2501,
@@ -33056,7 +33056,7 @@
     },
     {
       "id": "shirt_F_cagedpetticoat",
-      "revision": 71866,
+      "revision": 73071,
       "parts": [
         {
           "id": 5545,
@@ -37603,24 +37603,16 @@
       ]
     },
     {
-      "id": "jacket_U_bratzchloebag",
-      "revision": 72932,
+      "id": "acc_chest_U_bratzcloebag",
+      "revision": 73056,
       "parts": [
         {
           "id": 6489,
-          "type": "cc"
-        },
-        {
-          "id": 6489,
-          "type": "lc"
-        },
-        {
-          "id": 6489,
-          "type": "rc"
+          "type": "ca"
         },
         {
           "id": 6492,
-          "type": "cc"
+          "type": "ca"
         }
       ]
     },
@@ -38845,6 +38837,62 @@
         {
           "id": 6398,
           "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftthebigcap",
+      "revision": 73066,
+      "parts": [
+        {
+          "id": 6664,
+          "type": "ha"
+        },
+        {
+          "id": 6665,
+          "type": "ha"
+        },
+        {
+          "id": 6666,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_nftbunnyshades1",
+      "revision": 73066,
+      "parts": [
+        {
+          "id": 6661,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_nftbunnyshades2",
+      "revision": 73066,
+      "parts": [
+        {
+          "id": 6662,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftblingnecklace",
+      "revision": 73066,
+      "parts": [
+        {
+          "id": 6663,
+          "type": "ch"
+        },
+        {
+          "id": 6663,
+          "type": "ls"
+        },
+        {
+          "id": 6663,
+          "type": "rs"
         }
       ]
     },
@@ -41673,6 +41721,28 @@
         {
           "id": 12,
           "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_bratzchloebag",
+      "revision": 72932,
+      "parts": [
+        {
+          "id": 6489,
+          "type": "cc"
+        },
+        {
+          "id": 6489,
+          "type": "lc"
+        },
+        {
+          "id": 6489,
+          "type": "rc"
+        },
+        {
+          "id": 6492,
+          "type": "cc"
         }
       ]
     },
