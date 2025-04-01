@@ -95856,6 +95856,58 @@
           "type": "rs"
         }
       ]
+    },
+    {
+      "id": "jacket_U_chasublethree",
+      "revision": 65678,
+      "parts": [
+        {
+          "id": 11111,
+          "type": "cc"
+        },
+        {
+          "id": 22222,
+          "type": "cc"
+        },
+        {
+          "id": 33333,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_faixama",
+      "revision": 65678,
+      "parts": [
+        {
+          "id": 100000,
+          "type": "wa"
+        },
+        {
+          "id": 100002,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_cingulo",
+      "revision": 65678,
+      "parts": [
+        {
+          "id": 1000002,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_calvocorrecao",
+      "revision": 65678,
+      "parts": [
+        {
+          "id": 100002,
+          "type": "hr"
+        }
+      ]
     }
   ]
 }
