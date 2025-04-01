@@ -1,6 +1,119 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_eye_F_lipfillerlips",
+      "parts": [
+        {
+          "id": 333332323,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_F_tylacoloreyestan",
+      "parts": [
+        {
+          "id": 6565699,
+          "type": "fa"
+        },
+        {
+          "id": 8777778,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_F_tylacoloreyesblack",
+      "parts": [
+        {
+          "id": 88888888,
+          "type": "fa"
+        },
+        {
+          "id": 88888889,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_F_tylacoloreyespale",
+      "parts": [
+        {
+          "id": 44444333,
+          "type": "fa"
+        },
+        {
+          "id": 44444334,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftblingnecklace",
+      "parts": [
+        {
+          "id": 6663,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_nftbunnyshades1",
+      "parts": [
+        {
+          "id": 6661,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_nftbunnyshades2",
+      "parts": [
+        {
+          "id": 6662,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftmop",
+      "parts": [
+        {
+          "id": 6668,
+          "type": "hr"
+        },
+        {
+          "id": 6668,
+          "type": "hrb"
+        },
+        {
+          "id": 6669,
+          "type": "hr"
+        },
+        {
+          "id": 6669,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftthebigcap",
+      "parts": [
+        {
+          "id": 6664,
+          "type": "ha"
+        },
+        {
+          "id": 6665,
+          "type": "ha"
+        },
+        {
+          "id": 6666,
+          "type": "ha"
+        }
+      ]
+    },
+    {
       "id": "hair_U_Ichispikyhair",
       "parts": [
         {
@@ -276,19 +389,6 @@
         },
         {
           "id": 24002588,
-          "type": "rc"
-        }
-      ]
-    },
-    {
-      "id": "jacket_U_cinnamonbag",
-      "parts": [
-        {
-          "id": 6365281,
-          "type": "lc"
-        },
-        {
-          "id": 6365281,
           "type": "rc"
         }
       ]
