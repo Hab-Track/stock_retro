@@ -1,6 +1,6 @@
 ﻿{
   "socket.url": "wss://ws.atlantaserver.me:2053/",
-  "asset.url": "//assets.habblive.live/Beta/V2/assets",
+  "asset.url": "//assets.habblive.network/Beta/V2/assets",
   "image.library.url": "//images.habblive.net/Habblive/images/c_imagenes/",
   "hof.furni.url": "//images.habblive.net/Habblive/images/dcr/hof_furni_a/",
   "images.url": "${asset.url}/images",
@@ -16,7 +16,7 @@
   "avatar.actions.url": "${gamedata.url}/HabboAvatarActions.json",
   "avatar.figuredata.url": "${gamedata.url}/FigureData_3_21_2025.json",
   "avatar.figuremap.url": "${gamedata.url}/FigureMap_3_21_2025.json",
-  "avatar.effectmap.url": "${gamedata.url}/EffectMap_12_9_2024_1.json",
+  "avatar.effectmap.url": "${gamedata.url}/EffectMap_3_4_2025.json",
   "avatar.asset.url": "${asset.url}/bundled/clothes_habblive_V2/%libname%.nitro",
   "avatar.asset.effect.url": "${asset.url}/bundled/effect_habblive_V2/%libname%.nitro",
   "furni.asset.url": "${asset.url}/bundled/furniture_habblive_V2/%libname%.nitro",
