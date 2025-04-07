@@ -1,4 +1,20 @@
 ﻿{
+  "infostand.button.whisper.group.add": "Adicionar ao grupo",
+  "infostand.button.whisper.group.remove": "Remover do grupo",
+  "navigator.roomsettings.moderation.banned.users.info": "Selecione um usuário para desbanir.",
+  "navigator.roomsettings.moderation.banned.users.unban": "Desbanir",
+  "navigator.roomsettings.moderation.ban.user": "Banir usuário",
+  "navigator.roomsettings.moderation.ban.user.info": "Digite o nome do usuário que deseja banir.",
+  "navigator.roomsettings.moderation.ban.user.name": "Usuário:",
+  "navigator.roomsettings.moderation.ban.user.duration": "Duração:",
+  "navigator.roomsettings.moderation.ban.user.button": "Banir",
+  "navigator.roomsettings.tab.7": "Bans",
+  "navigator.roomsettings.moderation.delete.room.header": "Quem pode apagar o quarto:",
+  "navigator.roomsettings.moderation.add.bot.header": "Quem pode adicionar bots:",
+  "navigator.roomsettings.moderation.save.floor.plan.header": "Quem pode usar o editor de chão:",
+  "navigator.roomsettings.moderation.mute.room.header": "Quem pode silenciar todos:",
+  "navigator.roomsettings.moderation.give.rights.header": "Quem pode conceder direitos:",
+  "navigator.roomsettings.moderation.change.look.header": "Quem pode mudar o visual:",
   "wiredfurni.params.hide_area.option.4": "Esconder usuários",
   "navigator.path_finder_settings": "Processamento do clique",
   "navigator.roomsettings.path_finder.default": "Clique original",
@@ -28440,5 +28456,7 @@
   "badge_name_HUB471": "Diários de uma Apotecária",
   "badge_desc_HUB471": "Desvende mistérios, cure doenças e descubra remédios inéditos com a Maomao.",
   "badge_name_FR377": "Coelho",
-  "badge_desc_FR377": "A Páscoa está chegando!"
+  "badge_desc_FR377": "A Páscoa está chegando!",
+  "badge_name_HUB472": "Drake & Josh",
+  "badge_desc_HUB472": "Me abraça, mano!"
 }
