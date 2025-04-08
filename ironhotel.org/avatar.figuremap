@@ -64653,6 +64653,66 @@
           "type": "fa"
         }
       ]
+    },
+    {
+      "id": "jacket_U_cassmetalarm",
+      "revision": 998788513,
+      "parts": [
+        {
+          "id": 10104,
+          "type": "lc"
+        },
+        {
+          "id": 10104,
+          "type": "rc"
+        },
+        {
+          "id": 10105,
+          "type": "lc"
+        },
+        {
+          "id": 10105,
+          "type": "rc"
+        },
+        {
+          "id": 10106,
+          "type": "lc"
+        },
+        {
+          "id": 10106,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_cassmetalarmv2",
+      "revision": 998788514,
+      "parts": [
+        {
+          "id": 10107,
+          "type": "lc"
+        },
+        {
+          "id": 10107,
+          "type": "rc"
+        },
+        {
+          "id": 10108,
+          "type": "lc"
+        },
+        {
+          "id": 10108,
+          "type": "rc"
+        },
+        {
+          "id": 10109,
+          "type": "lc"
+        },
+        {
+          "id": 10109,
+          "type": "rc"
+        }
+      ]
     }
   ]
 }
