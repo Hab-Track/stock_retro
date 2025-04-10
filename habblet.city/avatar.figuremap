@@ -1,6 +1,268 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_head_U_clubclip",
+      "revision": 11862,
+      "parts": [
+        {
+          "id": 6654,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_spadeclip",
+      "revision": 11861,
+      "parts": [
+        {
+          "id": 6653,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_heartclip",
+      "revision": 11860,
+      "parts": [
+        {
+          "id": 6652,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_diamondclip",
+      "revision": 11859,
+      "parts": [
+        {
+          "id": 6651,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_wonderlandclock",
+      "revision": 11858,
+      "parts": [
+        {
+          "id": 6621,
+          "type": "ca"
+        },
+        {
+          "id": 6622,
+          "type": "ca"
+        },
+        {
+          "id": 6623,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_qohgown",
+      "revision": 11857,
+      "parts": [
+        {
+          "id": 6632,
+          "type": "ch"
+        },
+        {
+          "id": 6632,
+          "type": "ls"
+        },
+        {
+          "id": 6632,
+          "type": "rs"
+        },
+        {
+          "id": 6633,
+          "type": "ch"
+        },
+        {
+          "id": 6634,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_qohgown",
+      "revision": 11856,
+      "parts": [
+        {
+          "id": 6635,
+          "type": "ch"
+        },
+        {
+          "id": 6635,
+          "type": "ls"
+        },
+        {
+          "id": 6635,
+          "type": "rs"
+        },
+        {
+          "id": 6636,
+          "type": "ch"
+        },
+        {
+          "id": 6637,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_knighthelmet",
+      "revision": 11855,
+      "parts": [
+        {
+          "id": 6615,
+          "type": "ha"
+        },
+        {
+          "id": 6616,
+          "type": "ha"
+        },
+        {
+          "id": 6617,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_teacuphead",
+      "revision": 11854,
+      "parts": [
+        {
+          "id": 6629,
+          "type": "ha"
+        },
+        {
+          "id": 6630,
+          "type": "ha"
+        },
+        {
+          "id": 6631,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_chesscrown",
+      "revision": 11853,
+      "parts": [
+        {
+          "id": 6627,
+          "type": "ha"
+        },
+        {
+          "id": 6628,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_hearttrumpet",
+      "revision": 11852,
+      "parts": [
+        {
+          "id": 6610,
+          "type": "cc"
+        },
+        {
+          "id": 6610,
+          "type": "lc"
+        },
+        {
+          "id": 6610,
+          "type": "rc"
+        },
+        {
+          "id": 6611,
+          "type": "cc"
+        },
+        {
+          "id": 6612,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_woodensword",
+      "revision": 11851,
+      "parts": [
+        {
+          "id": 6657,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_knightarmor",
+      "revision": 11850,
+      "parts": [
+        {
+          "id": 6613,
+          "type": "ch"
+        },
+        {
+          "id": 6613,
+          "type": "ls"
+        },
+        {
+          "id": 6613,
+          "type": "rs"
+        },
+        {
+          "id": 6614,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_alicedress",
+      "revision": 11849,
+      "parts": [
+        {
+          "id": 6638,
+          "type": "ch"
+        },
+        {
+          "id": 6638,
+          "type": "ls"
+        },
+        {
+          "id": 6638,
+          "type": "rs"
+        },
+        {
+          "id": 6639,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_alicehair",
+      "revision": 11848,
+      "parts": [
+        {
+          "id": 6624,
+          "type": "hr"
+        },
+        {
+          "id": 6624,
+          "type": "hrb"
+        },
+        {
+          "id": 6625,
+          "type": "hr"
+        },
+        {
+          "id": 6626,
+          "type": "hr"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_nfttrench",
       "revision": 11847,
       "parts": [
