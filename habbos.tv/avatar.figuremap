@@ -1,6 +1,322 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_wonderlandclock",
+      "parts": [
+        {
+          "id": 6621,
+          "type": "ca"
+        },
+        {
+          "id": 6622,
+          "type": "ca"
+        },
+        {
+          "id": 6623,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_diamondclip",
+      "parts": [
+        {
+          "id": 6651,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_heartclip",
+      "parts": [
+        {
+          "id": 6652,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_spadeclip",
+      "parts": [
+        {
+          "id": 6653,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_clubclip",
+      "parts": [
+        {
+          "id": 6654,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_woodensword",
+      "parts": [
+        {
+          "id": 6657,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_alicehair",
+      "parts": [
+        {
+          "id": 6624,
+          "type": "hr"
+        },
+        {
+          "id": 6624,
+          "type": "hrb"
+        },
+        {
+          "id": 6625,
+          "type": "hr"
+        },
+        {
+          "id": 6625,
+          "type": "hrb"
+        },
+        {
+          "id": 6626,
+          "type": "hr"
+        },
+        {
+          "id": 6626,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_chesscrown",
+      "parts": [
+        {
+          "id": 6627,
+          "type": "ha"
+        },
+        {
+          "id": 6628,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_knighthelmet",
+      "parts": [
+        {
+          "id": 6615,
+          "type": "ha"
+        },
+        {
+          "id": 6616,
+          "type": "ha"
+        },
+        {
+          "id": 6617,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_teacuphead",
+      "parts": [
+        {
+          "id": 6629,
+          "type": "ha"
+        },
+        {
+          "id": 6630,
+          "type": "ha"
+        },
+        {
+          "id": 6631,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_hearttrumpet",
+      "parts": [
+        {
+          "id": 6610,
+          "type": "lc"
+        },
+        {
+          "id": 6610,
+          "type": "rc"
+        },
+        {
+          "id": 6611,
+          "type": "lc"
+        },
+        {
+          "id": 6611,
+          "type": "rc"
+        },
+        {
+          "id": 6612,
+          "type": "lc"
+        },
+        {
+          "id": 6612,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_qohgown",
+      "parts": [
+        {
+          "id": 6632,
+          "type": "ch"
+        },
+        {
+          "id": 6632,
+          "type": "rs"
+        },
+        {
+          "id": 6632,
+          "type": "ls"
+        },
+        {
+          "id": 6633,
+          "type": "ch"
+        },
+        {
+          "id": 6633,
+          "type": "rs"
+        },
+        {
+          "id": 6633,
+          "type": "ls"
+        },
+        {
+          "id": 6634,
+          "type": "ch"
+        },
+        {
+          "id": 6634,
+          "type": "rs"
+        },
+        {
+          "id": 6634,
+          "type": "ls"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_qohgown",
+      "parts": [
+        {
+          "id": 6635,
+          "type": "ch"
+        },
+        {
+          "id": 6635,
+          "type": "rs"
+        },
+        {
+          "id": 6635,
+          "type": "ls"
+        },
+        {
+          "id": 6636,
+          "type": "ch"
+        },
+        {
+          "id": 6636,
+          "type": "rs"
+        },
+        {
+          "id": 6636,
+          "type": "ls"
+        },
+        {
+          "id": 6637,
+          "type": "ch"
+        },
+        {
+          "id": 6637,
+          "type": "rs"
+        },
+        {
+          "id": 6637,
+          "type": "ls"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_alicedress",
+      "parts": [
+        {
+          "id": 6638,
+          "type": "ch"
+        },
+        {
+          "id": 6638,
+          "type": "rs"
+        },
+        {
+          "id": 6638,
+          "type": "ls"
+        },
+        {
+          "id": 6639,
+          "type": "ch"
+        },
+        {
+          "id": 6639,
+          "type": "rs"
+        },
+        {
+          "id": 6639,
+          "type": "ls"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_knightarmor",
+      "parts": [
+        {
+          "id": 6613,
+          "type": "ch"
+        },
+        {
+          "id": 6613,
+          "type": "rs"
+        },
+        {
+          "id": 6613,
+          "type": "ls"
+        },
+        {
+          "id": 6614,
+          "type": "ch"
+        },
+        {
+          "id": 6614,
+          "type": "rs"
+        },
+        {
+          "id": 6614,
+          "type": "ls"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_wibbo",
+      "parts": [
+        {
+          "id": 70007,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_Bisento",
       "parts": [
         {
@@ -20087,7 +20403,6 @@
     },
     {
       "id": "trousers_U_modernhanbokskirt",
-      "revision": 67644,
       "parts": [
         {
           "id": 4519,
@@ -53603,15 +53918,6 @@
         {
           "id": 9234,
           "type": "rs"
-        }
-      ]
-    },
-    {
-      "id": "shirt_U_newonesie",
-      "parts": [
-        {
-          "id": 6639,
-          "type": "ch"
         }
       ]
     },
