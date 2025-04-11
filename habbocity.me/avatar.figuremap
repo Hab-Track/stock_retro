@@ -1,6 +1,210 @@
 ﻿{
   "libraries": [
     {
+      "id": "trousers_U_CoquetteFalda",
+      "revision": 181113,
+      "parts": [
+        {
+          "id": 181113,
+          "type": "lg"
+        },
+        {
+          "id": 181113,
+          "type": "lg"
+        },
+        {
+          "id": 181113,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_bale",
+      "revision": 181111,
+      "parts": [
+        {
+          "id": 181111,
+          "type": "sh"
+        },
+        {
+          "id": 181112,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_corbata",
+      "revision": 181099,
+      "parts": [
+        {
+          "id": 181099,
+          "type": "ch"
+        },
+        {
+          "id": 181110,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_RollingCame",
+      "revision": 181097,
+      "parts": [
+        {
+          "id": 181097,
+          "type": "ch"
+        },
+        {
+          "id": 181097,
+          "type": "ls"
+        },
+        {
+          "id": 181097,
+          "type": "rs"
+        },
+        {
+          "id": 181098,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_vikingcape",
+      "revision": 181096,
+      "parts": [
+        {
+          "id": 181096,
+          "type": "cc"
+        },
+        {
+          "id": 181096,
+          "type": "lc"
+        },
+        {
+          "id": 181096,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_Zhanghuo",
+      "revision": 181095,
+      "parts": [
+        {
+          "id": 181095,
+          "type": "hr"
+        },
+        {
+          "id": 181095,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_Sasori",
+      "revision": 181094,
+      "parts": [
+        {
+          "id": 181094,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_HairSort",
+      "revision": 181093,
+      "parts": [
+        {
+          "id": 181093,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_FusilChest",
+      "revision": 181092,
+      "parts": [
+        {
+          "id": 181092,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_AnimeShort",
+      "revision": 181091,
+      "parts": [
+        {
+          "id": 181091,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_AnimeLong",
+      "revision": 181089,
+      "parts": [
+        {
+          "id": 181089,
+          "type": "hr"
+        },
+        {
+          "id": 181090,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_GanteletsChic",
+      "revision": 181088,
+      "parts": [
+        {
+          "id": 181088,
+          "type": "lc"
+        },
+        {
+          "id": 181088,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_CropLovely",
+      "revision": 181087,
+      "parts": [
+        {
+          "id": 181087,
+          "type": "ch"
+        },
+        {
+          "id": 181087,
+          "type": "ls"
+        },
+        {
+          "id": 181087,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_EpicCape",
+      "revision": 181086,
+      "parts": [
+        {
+          "id": 181086,
+          "type": "cc"
+        },
+        {
+          "id": 181086,
+          "type": "lc"
+        },
+        {
+          "id": 181086,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "hair_U_hairsakura",
       "revision": 181084,
       "parts": [
