@@ -1398,7 +1398,7 @@
   "catalog.marketplace.offer.minutes": "minutos",
   "catalog.marketplace.offer.pick": "Desistir",
   "catalog.marketplace.offer.price_own_item": "Preço: %price% Diamantes",
-  "catalog.marketplace.offer.price_public_item": "Preço: %price% (Média: %average%)",
+  "catalog.marketplace.offer.price_public_item": "Preço: %price% (Média: %average%) (Valoristas: %rarePrice%)",
   "catalog.marketplace.offer.redeem": "Gerar Diamantes",
   "catalog.marketplace.offer.sold": "Este item está vendido",
   "catalog.marketplace.offer.time_left": "Tempo restante: %time%",
@@ -28479,5 +28479,7 @@
   "badge_name_PASC07": "Artista da Páscoa",
   "badge_desc_PASC07": "Com talento e imaginação, você transformou a Páscoa em pura arte! Um verdadeiro criador de cores, formas e sorrisos pascais.",
   "badge_name_UK623": "Caça aos Ovos de Páscoa",
-  "badge_desc_UK623": "Mestre na busca pelos ovos de páscoa perdidos."
+  "badge_desc_UK623": "Mestre na busca pelos ovos de páscoa perdidos.",
+  "badge_name_DE59H": "Tulipa Primaveril",
+  "badge_desc_DE59H": "Cada pétala transporta consigo uma imensidão de beleza e elegância."
 }
