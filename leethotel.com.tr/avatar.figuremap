@@ -1,6 +1,376 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_F_KiriHunterninsVestF",
+      "revision": 11885,
+      "parts": [
+        {
+          "id": 754271922,
+          "type": "cc"
+        },
+        {
+          "id": 754271922,
+          "type": "lc"
+        },
+        {
+          "id": 754271922,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_KiriHunterninsVestM",
+      "revision": 11884,
+      "parts": [
+        {
+          "id": 754271921,
+          "type": "cc"
+        },
+        {
+          "id": 754271921,
+          "type": "lc"
+        },
+        {
+          "id": 754271921,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_cinnamonbag",
+      "revision": 11883,
+      "parts": [
+        {
+          "id": 6365281,
+          "type": "lc"
+        },
+        {
+          "id": 6365281,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_dutchclog",
+      "revision": 11882,
+      "parts": [
+        {
+          "id": 293174513,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_handbag3",
+      "revision": 11881,
+      "parts": [
+        {
+          "id": 75636842,
+          "type": "lc"
+        },
+        {
+          "id": 75636842,
+          "type": "rc"
+        },
+        {
+          "id": 75636843,
+          "type": "lc"
+        },
+        {
+          "id": 75636843,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_Ichiskate",
+      "revision": 11880,
+      "parts": [
+        {
+          "id": 35721653,
+          "type": "lc"
+        },
+        {
+          "id": 35721653,
+          "type": "rc"
+        },
+        {
+          "id": 35721654,
+          "type": "lc"
+        },
+        {
+          "id": 35721654,
+          "type": "rc"
+        },
+        {
+          "id": 35721655,
+          "type": "lc"
+        },
+        {
+          "id": 35721655,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_snoopybackpack",
+      "revision": 11879,
+      "parts": [
+        {
+          "id": 8374692,
+          "type": "ca"
+        },
+        {
+          "id": 8374693,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_shadowbackpack",
+      "revision": 11878,
+      "parts": [
+        {
+          "id": 629431821,
+          "type": "ca"
+        },
+        {
+          "id": 629431822,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_sonicbackpack",
+      "revision": 11877,
+      "parts": [
+        {
+          "id": 629431823,
+          "type": "ca"
+        },
+        {
+          "id": 629431824,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_Hellokittycouplebag2",
+      "revision": 11876,
+      "parts": [
+        {
+          "id": 94375154,
+          "type": "ca"
+        },
+        {
+          "id": 94375155,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_Hellokittycouplebag1",
+      "revision": 11875,
+      "parts": [
+        {
+          "id": 94375152,
+          "type": "ca"
+        },
+        {
+          "id": 94375153,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_Kisses",
+      "revision": 11874,
+      "parts": [
+        {
+          "id": 384781924,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_Jinxshirt",
+      "revision": 11873,
+      "parts": [
+        {
+          "id": 44678134,
+          "type": "ch"
+        },
+        {
+          "id": 44678135,
+          "type": "ch"
+        },
+        {
+          "id": 44678136,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_JinxshirtM",
+      "revision": 11872,
+      "parts": [
+        {
+          "id": 44678137,
+          "type": "ch"
+        },
+        {
+          "id": 44678138,
+          "type": "ch"
+        },
+        {
+          "id": 44678139,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_ichihoodieF",
+      "revision": 11871,
+      "parts": [
+        {
+          "id": 62472252,
+          "type": "ch"
+        },
+        {
+          "id": 62472252,
+          "type": "ls"
+        },
+        {
+          "id": 62472252,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_ichihoodieM",
+      "revision": 11870,
+      "parts": [
+        {
+          "id": 62472251,
+          "type": "ch"
+        },
+        {
+          "id": 62472251,
+          "type": "ls"
+        },
+        {
+          "id": 62472251,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_HakuKimono",
+      "revision": 11869,
+      "parts": [
+        {
+          "id": 74842841,
+          "type": "ch"
+        },
+        {
+          "id": 74842841,
+          "type": "ls"
+        },
+        {
+          "id": 74842841,
+          "type": "rs"
+        },
+        {
+          "id": 74842842,
+          "type": "ch"
+        },
+        {
+          "id": 74842842,
+          "type": "ls"
+        },
+        {
+          "id": 74842842,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_Jinxhair",
+      "revision": 11868,
+      "parts": [
+        {
+          "id": 6598642,
+          "type": "hr"
+        },
+        {
+          "id": 6598643,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_Ichispikyhair",
+      "revision": 11867,
+      "parts": [
+        {
+          "id": 273649137,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_SerpaHat",
+      "revision": 11866,
+      "parts": [
+        {
+          "id": 56654732,
+          "type": "ha"
+        },
+        {
+          "id": 56654733,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_Icapbackwards",
+      "revision": 11865,
+      "parts": [
+        {
+          "id": 4978751,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_JinxBelt",
+      "revision": 11864,
+      "parts": [
+        {
+          "id": 67378925,
+          "type": "wa"
+        },
+        {
+          "id": 67378926,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_policebelt",
+      "revision": 11863,
+      "parts": [
+        {
+          "id": 83437427,
+          "type": "wa"
+        },
+        {
+          "id": 83437428,
+          "type": "wa"
+        }
+      ]
+    },
+    {
       "id": "acc_head_U_clubclip",
       "revision": 11862,
       "parts": [
@@ -31415,14 +31785,6 @@
         {
           "id": 4049,
           "type": "rs"
-        },
-        {
-          "id": 4049,
-          "type": "ch"
-        },
-        {
-          "id": 4049,
-          "type": "ch"
         }
       ]
     },
@@ -46043,11 +46405,11 @@
       ]
     },
     {
-      "id": "shirt_U_newonesie",
-      "revision": 1337,
+      "id": "shirt_U_newonesiex",
+      "revision": 7290,
       "parts": [
         {
-          "id": 6639,
+          "id": 1337780,
           "type": "ch"
         }
       ]
@@ -61348,6 +61710,10 @@
         },
         {
           "id": 286,
+          "type": "ri"
+        },
+        {
+          "id": 287,
           "type": "ri"
         },
         {
