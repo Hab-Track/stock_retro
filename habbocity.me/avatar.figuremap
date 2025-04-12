@@ -1,6 +1,444 @@
 ﻿{
   "libraries": [
     {
+      "id": "shoes_U_bottes",
+      "revision": 181151,
+      "parts": [
+        {
+          "id": 181151,
+          "type": "sh"
+        },
+        {
+          "id": 181152,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_ezrelatop",
+      "revision": 181150,
+      "parts": [
+        {
+          "id": 181150,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_leathv",
+      "revision": 181149,
+      "parts": [
+        {
+          "id": 181149,
+          "type": "cc"
+        },
+        {
+          "id": 181149,
+          "type": "cc"
+        },
+        {
+          "id": 181149,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_CORSE",
+      "revision": 181148,
+      "parts": [
+        {
+          "id": 181148,
+          "type": "cc"
+        },
+        {
+          "id": 181148,
+          "type": "cc"
+        },
+        {
+          "id": 181148,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_usahat",
+      "revision": 181147,
+      "parts": [
+        {
+          "id": 181147,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_FEMSTRAI",
+      "revision": 181146,
+      "parts": [
+        {
+          "id": 181146,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_chevalier",
+      "revision": 181142,
+      "parts": [
+        {
+          "id": 181142,
+          "type": "ch"
+        },
+        {
+          "id": 181142,
+          "type": "ls"
+        },
+        {
+          "id": 181142,
+          "type": "rs"
+        },
+        {
+          "id": 181143,
+          "type": "ch"
+        },
+        {
+          "id": 181143,
+          "type": "ls"
+        },
+        {
+          "id": 181143,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_ALICEROBE",
+      "revision": 181140,
+      "parts": [
+        {
+          "id": 181140,
+          "type": "ch"
+        },
+        {
+          "id": 181140,
+          "type": "ls"
+        },
+        {
+          "id": 181140,
+          "type": "rs"
+        },
+        {
+          "id": 181141,
+          "type": "ch"
+        },
+        {
+          "id": 181141,
+          "type": "ls"
+        },
+        {
+          "id": 181141,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_QOHGOWN",
+      "revision": 181137,
+      "parts": [
+        {
+          "id": 181137,
+          "type": "ch"
+        },
+        {
+          "id": 181137,
+          "type": "ls"
+        },
+        {
+          "id": 181137,
+          "type": "rs"
+        },
+        {
+          "id": 181138,
+          "type": "ch"
+        },
+        {
+          "id": 181138,
+          "type": "ls"
+        },
+        {
+          "id": 181138,
+          "type": "rs"
+        },
+        {
+          "id": 181139,
+          "type": "ch"
+        },
+        {
+          "id": 181139,
+          "type": "ls"
+        },
+        {
+          "id": 181139,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_trenchnft",
+      "revision": 181136,
+      "parts": [
+        {
+          "id": 181136,
+          "type": "cc"
+        },
+        {
+          "id": 181136,
+          "type": "lc"
+        },
+        {
+          "id": 181136,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_trumpethea",
+      "revision": 181133,
+      "parts": [
+        {
+          "id": 181133,
+          "type": "cc"
+        },
+        {
+          "id": 181133,
+          "type": "lc"
+        },
+        {
+          "id": 181133,
+          "type": "rc"
+        },
+        {
+          "id": 181134,
+          "type": "cc"
+        },
+        {
+          "id": 181134,
+          "type": "lc"
+        },
+        {
+          "id": 181134,
+          "type": "rc"
+        },
+        {
+          "id": 181135,
+          "type": "cc"
+        },
+        {
+          "id": 181135,
+          "type": "lc"
+        },
+        {
+          "id": 181135,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_cuphead",
+      "revision": 181131,
+      "parts": [
+        {
+          "id": 181131,
+          "type": "ha"
+        },
+        {
+          "id": 181132,
+          "type": "ha"
+        },
+        {
+          "id": 181131,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_bigcap",
+      "revision": 181130,
+      "parts": [
+        {
+          "id": 181130,
+          "type": "ha"
+        },
+        {
+          "id": 181130,
+          "type": "ha"
+        },
+        {
+          "id": 181130,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tallcrown",
+      "revision": 181129,
+      "parts": [
+        {
+          "id": 181129,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_helmetknight",
+      "revision": 181144,
+      "parts": [
+        {
+          "id": 181144,
+          "type": "ha"
+        },
+        {
+          "id": 181145,
+          "type": "ha"
+        },
+        {
+          "id": 181144,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_Couronnechec",
+      "revision": 181126,
+      "parts": [
+        {
+          "id": 181126,
+          "type": "ha"
+        },
+        {
+          "id": 181127,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_alicehair",
+      "revision": 181124,
+      "parts": [
+        {
+          "id": 181124,
+          "type": "hr"
+        },
+        {
+          "id": 181124,
+          "type": "hrb"
+        },
+        {
+          "id": 181124,
+          "type": "hr"
+        },
+        {
+          "id": 181124,
+          "type": "hrb"
+        },
+        {
+          "id": 181124,
+          "type": "hr"
+        },
+        {
+          "id": 181124,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_woodensword",
+      "revision": 181123,
+      "parts": [
+        {
+          "id": 181123,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_spadehair",
+      "revision": 181122,
+      "parts": [
+        {
+          "id": 181122,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_hearthair",
+      "revision": 181121,
+      "parts": [
+        {
+          "id": 181121,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_diamanthair",
+      "revision": 181120,
+      "parts": [
+        {
+          "id": 181120,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_clubclip",
+      "revision": 181119,
+      "parts": [
+        {
+          "id": 181119,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_bunnyshaden2",
+      "revision": 181118,
+      "parts": [
+        {
+          "id": 181118,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_bunnyshade",
+      "revision": 181117,
+      "parts": [
+        {
+          "id": 181117,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_pute",
+      "revision": 181114,
+      "parts": [
+        {
+          "id": 181114,
+          "type": "ca"
+        },
+        {
+          "id": 181115,
+          "type": "ca"
+        },
+        {
+          "id": 181116,
+          "type": "ca"
+        }
+      ]
+    },
+    {
       "id": "trousers_U_CoquetteFalda",
       "revision": 181113,
       "parts": [
