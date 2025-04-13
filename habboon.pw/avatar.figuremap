@@ -31496,7 +31496,7 @@
     },
     {
       "id": "trousers_U_techpants",
-      "revision": 71506,
+      "revision": 73090,
       "parts": [
         {
           "id": 5601,
@@ -38880,19 +38880,319 @@
     },
     {
       "id": "acc_chest_U_nftblingnecklace",
-      "revision": 73066,
+      "revision": 73074,
       "parts": [
         {
           "id": 6663,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftmop",
+      "revision": 73075,
+      "parts": [
+        {
+          "id": 6668,
+          "type": "hr"
+        },
+        {
+          "id": 6668,
+          "type": "hrb"
+        },
+        {
+          "id": 6669,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nfttallcrown",
+      "revision": 73093,
+      "parts": [
+        {
+          "id": 6671,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nfttrench",
+      "revision": 73092,
+      "parts": [
+        {
+          "id": 6670,
+          "type": "cc"
+        },
+        {
+          "id": 6670,
+          "type": "lc"
+        },
+        {
+          "id": 6670,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_knighthelmet",
+      "revision": 73133,
+      "parts": [
+        {
+          "id": 6615,
+          "type": "ha"
+        },
+        {
+          "id": 6616,
+          "type": "ha"
+        },
+        {
+          "id": 6617,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_qohgown",
+      "revision": 73116,
+      "parts": [
+        {
+          "id": 6635,
           "type": "ch"
         },
         {
-          "id": 6663,
+          "id": 6635,
           "type": "ls"
         },
         {
-          "id": 6663,
+          "id": 6635,
           "type": "rs"
+        },
+        {
+          "id": 6636,
+          "type": "ch"
+        },
+        {
+          "id": 6637,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_wonderlandclock",
+      "revision": 73116,
+      "parts": [
+        {
+          "id": 6621,
+          "type": "ca"
+        },
+        {
+          "id": 6622,
+          "type": "ca"
+        },
+        {
+          "id": 6623,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_clubclip",
+      "revision": 73137,
+      "parts": [
+        {
+          "id": 6654,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_knightarmor",
+      "revision": 73133,
+      "parts": [
+        {
+          "id": 6613,
+          "type": "ch"
+        },
+        {
+          "id": 6613,
+          "type": "ls"
+        },
+        {
+          "id": 6613,
+          "type": "rs"
+        },
+        {
+          "id": 6614,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_chesscrown",
+      "revision": 73116,
+      "parts": [
+        {
+          "id": 6627,
+          "type": "ha"
+        },
+        {
+          "id": 6628,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_heartclip",
+      "revision": 73137,
+      "parts": [
+        {
+          "id": 6652,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_diamondclip",
+      "revision": 73137,
+      "parts": [
+        {
+          "id": 6651,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_alicehair",
+      "revision": 73116,
+      "parts": [
+        {
+          "id": 6624,
+          "type": "hr"
+        },
+        {
+          "id": 6624,
+          "type": "hrb"
+        },
+        {
+          "id": 6625,
+          "type": "hr"
+        },
+        {
+          "id": 6626,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_woodensword",
+      "revision": 73128,
+      "parts": [
+        {
+          "id": 6657,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_qohgown",
+      "revision": 73116,
+      "parts": [
+        {
+          "id": 6632,
+          "type": "ch"
+        },
+        {
+          "id": 6632,
+          "type": "ls"
+        },
+        {
+          "id": 6632,
+          "type": "rs"
+        },
+        {
+          "id": 6633,
+          "type": "ch"
+        },
+        {
+          "id": 6634,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_teacuphead",
+      "revision": 73116,
+      "parts": [
+        {
+          "id": 6629,
+          "type": "ha"
+        },
+        {
+          "id": 6630,
+          "type": "ha"
+        },
+        {
+          "id": 6631,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_hearttrumpet",
+      "revision": 73128,
+      "parts": [
+        {
+          "id": 6610,
+          "type": "cc"
+        },
+        {
+          "id": 6610,
+          "type": "lc"
+        },
+        {
+          "id": 6610,
+          "type": "rc"
+        },
+        {
+          "id": 6611,
+          "type": "cc"
+        },
+        {
+          "id": 6612,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_alicedress",
+      "revision": 73116,
+      "parts": [
+        {
+          "id": 6638,
+          "type": "ch"
+        },
+        {
+          "id": 6638,
+          "type": "ls"
+        },
+        {
+          "id": 6638,
+          "type": "rs"
+        },
+        {
+          "id": 6639,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_spadeclip",
+      "revision": 73137,
+      "parts": [
+        {
+          "id": 6653,
+          "type": "he"
         }
       ]
     },
@@ -40478,7 +40778,7 @@
     },
     {
       "id": "hh_human_item",
-      "revision": 72738,
+      "revision": 73136,
       "parts": [
         {
           "id": 0,
@@ -41510,6 +41810,10 @@
         },
         {
           "id": 285,
+          "type": "ri"
+        },
+        {
+          "id": 287,
           "type": "ri"
         },
         {
