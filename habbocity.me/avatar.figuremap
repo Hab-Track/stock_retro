@@ -1,6 +1,54 @@
 ﻿{
   "libraries": [
     {
+      "id": "hair_U_alicehaircorrect",
+      "revision": 181156,
+      "parts": [
+        {
+          "id": 181156,
+          "type": "hr"
+        },
+        {
+          "id": 181156,
+          "type": "hrb"
+        },
+        {
+          "id": 181157,
+          "type": "hr"
+        },
+        {
+          "id": 181157,
+          "type": "hrb"
+        },
+        {
+          "id": 181158,
+          "type": "hr"
+        },
+        {
+          "id": 181158,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_cupheadcorrect",
+      "revision": 181153,
+      "parts": [
+        {
+          "id": 181153,
+          "type": "ha"
+        },
+        {
+          "id": 181154,
+          "type": "ha"
+        },
+        {
+          "id": 181155,
+          "type": "ha"
+        }
+      ]
+    },
+    {
       "id": "shoes_U_bottes",
       "revision": 181151,
       "parts": [
@@ -243,24 +291,6 @@
       ]
     },
     {
-      "id": "hat_U_cuphead",
-      "revision": 181131,
-      "parts": [
-        {
-          "id": 181131,
-          "type": "ha"
-        },
-        {
-          "id": 181132,
-          "type": "ha"
-        },
-        {
-          "id": 181131,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "hat_U_bigcap",
       "revision": 181130,
       "parts": [
@@ -317,36 +347,6 @@
         {
           "id": 181127,
           "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hair_U_alicehair",
-      "revision": 181124,
-      "parts": [
-        {
-          "id": 181124,
-          "type": "hr"
-        },
-        {
-          "id": 181124,
-          "type": "hrb"
-        },
-        {
-          "id": 181124,
-          "type": "hr"
-        },
-        {
-          "id": 181124,
-          "type": "hrb"
-        },
-        {
-          "id": 181124,
-          "type": "hr"
-        },
-        {
-          "id": 181124,
-          "type": "hrb"
         }
       ]
     },
