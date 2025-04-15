@@ -1,6 +1,24 @@
 ﻿{
   "libraries": [
     {
+      "id": "hat_U_bigcapcorrect",
+      "revision": 181159,
+      "parts": [
+        {
+          "id": 181159,
+          "type": "ha"
+        },
+        {
+          "id": 181160,
+          "type": "ha"
+        },
+        {
+          "id": 181161,
+          "type": "ha"
+        }
+      ]
+    },
+    {
       "id": "hair_U_alicehaircorrect",
       "revision": 181156,
       "parts": [
@@ -287,24 +305,6 @@
         {
           "id": 181135,
           "type": "rc"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_bigcap",
-      "revision": 181130,
-      "parts": [
-        {
-          "id": 181130,
-          "type": "ha"
-        },
-        {
-          "id": 181130,
-          "type": "ha"
-        },
-        {
-          "id": 181130,
-          "type": "ha"
         }
       ]
     },
