@@ -1,6 +1,24 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_CORSEcorrect",
+      "revision": 181162,
+      "parts": [
+        {
+          "id": 181162,
+          "type": "cc"
+        },
+        {
+          "id": 181163,
+          "type": "cc"
+        },
+        {
+          "id": 181164,
+          "type": "cc"
+        }
+      ]
+    },
+    {
       "id": "hat_U_bigcapcorrect",
       "revision": 181159,
       "parts": [
@@ -104,24 +122,6 @@
         },
         {
           "id": 181149,
-          "type": "cc"
-        }
-      ]
-    },
-    {
-      "id": "jacket_U_CORSE",
-      "revision": 181148,
-      "parts": [
-        {
-          "id": 181148,
-          "type": "cc"
-        },
-        {
-          "id": 181148,
-          "type": "cc"
-        },
-        {
-          "id": 181148,
           "type": "cc"
         }
       ]
