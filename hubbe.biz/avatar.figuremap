@@ -94596,16 +94596,6 @@
       ]
     },
     {
-      "id": "hat_U_nftbunnyhood",
-      "revision": 73013,
-      "parts": [
-        {
-          "id": 6410,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "hat_U_nftcatheadband2",
       "revision": 72927,
       "parts": [
@@ -94683,24 +94673,6 @@
         },
         {
           "id": 6655,
-          "type": "rc"
-        }
-      ]
-    },
-    {
-      "id": "jacket_U_nftbunnycape",
-      "revision": 73013,
-      "parts": [
-        {
-          "id": 6411,
-          "type": "cc"
-        },
-        {
-          "id": 6411,
-          "type": "lc"
-        },
-        {
-          "id": 6411,
           "type": "rc"
         }
       ]
@@ -95716,16 +95688,6 @@
       ]
     },
     {
-      "id": "hat_U_nftbunnyhood",
-      "revision": 73013,
-      "parts": [
-        {
-          "id": 6410,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "hat_U_nftthebigcap",
       "revision": 73066,
       "parts": [
@@ -95784,24 +95746,6 @@
         {
           "id": 6407,
           "type": "cc"
-        }
-      ]
-    },
-    {
-      "id": "jacket_U_nftbunnycape",
-      "revision": 73013,
-      "parts": [
-        {
-          "id": 6411,
-          "type": "cc"
-        },
-        {
-          "id": 6411,
-          "type": "lc"
-        },
-        {
-          "id": 6411,
-          "type": "rc"
         }
       ]
     },
@@ -96604,6 +96548,16 @@
         {
           "id": 293174513,
           "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftbunnycape",
+      "revision": 65678,
+      "parts": [
+        {
+          "id": 6411,
+          "type": "cc"
         }
       ]
     }
