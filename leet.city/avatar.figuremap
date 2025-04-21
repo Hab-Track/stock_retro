@@ -1,6 +1,56 @@
 ﻿{
   "libraries": [
     {
+      "id": "hat_U_Baleclava",
+      "revision": 11888,
+      "parts": [
+        {
+          "id": 1337783,
+          "type": "ha"
+        },
+        {
+          "id": 1337784,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_BXASUIT",
+      "revision": 11887,
+      "parts": [
+        {
+          "id": 23944,
+          "type": "ch"
+        },
+        {
+          "id": 23944,
+          "type": "ls"
+        },
+        {
+          "id": 23944,
+          "type": "rs"
+        },
+        {
+          "id": 23947,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_bxatrousers",
+      "revision": 11886,
+      "parts": [
+        {
+          "id": 1337781,
+          "type": "lg"
+        },
+        {
+          "id": 1337782,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "jacket_F_KiriHunterninsVestF",
       "revision": 11885,
       "parts": [
