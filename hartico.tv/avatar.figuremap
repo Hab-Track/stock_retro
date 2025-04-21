@@ -1,6 +1,760 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_BagHilton",
+      "parts": [
+        {
+          "id": 1337680,
+          "type": "ca"
+        },
+        {
+          "id": 1337681,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_CeCeHandbag",
+      "parts": [
+        {
+          "id": 1337721,
+          "type": "ca"
+        },
+        {
+          "id": 1337722,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_colarisa",
+      "parts": [
+        {
+          "id": 9999857,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_gravatagarotamagica",
+      "parts": [
+        {
+          "id": 100000227,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_gravatav4",
+      "parts": [
+        {
+          "id": 231342432,
+          "type": "ca"
+        },
+        {
+          "id": 231342433,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_LadyDiNeckless1",
+      "parts": [
+        {
+          "id": 1337710,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_snoopybackpack",
+      "parts": [
+        {
+          "id": 8374692,
+          "type": "ca"
+        },
+        {
+          "id": 8374693,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_blairamoschglasses",
+      "parts": [
+        {
+          "id": 82412,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_error",
+      "parts": [
+        {
+          "id": 10000165,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_moll1",
+      "parts": [
+        {
+          "id": 1910,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_moll2",
+      "parts": [
+        {
+          "id": 1911,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_Nozdormu",
+      "parts": [
+        {
+          "id": 862126,
+          "type": "ea"
+        },
+        {
+          "id": 862127,
+          "type": "ea"
+        },
+        {
+          "id": 862128,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_OculosCinema",
+      "parts": [
+        {
+          "id": 1337653,
+          "type": "ea"
+        },
+        {
+          "id": 1337654,
+          "type": "ea"
+        },
+        {
+          "id": 1337655,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_sunglassrd",
+      "parts": [
+        {
+          "id": 1337727,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_sunglassrd2",
+      "parts": [
+        {
+          "id": 1337728,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_HiltonglamGloss",
+      "parts": [
+        {
+          "id": 1337678,
+          "type": "fa"
+        },
+        {
+          "id": 1337679,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_FoxHead",
+      "parts": [
+        {
+          "id": 1337593,
+          "type": "he"
+        },
+        {
+          "id": 1337594,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_monodecuadros",
+      "parts": [
+        {
+          "id": 10000288,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_silmiuearings",
+      "parts": [
+        {
+          "id": 543577773,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_siren",
+      "parts": [
+        {
+          "id": 1337599,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bailarine",
+      "parts": [
+        {
+          "id": 9999729,
+          "type": "hr"
+        },
+        {
+          "id": 9999730,
+          "type": "hr"
+        },
+        {
+          "id": 9999731,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_blondehaircunt",
+      "parts": [
+        {
+          "id": 85868195,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_CurlyHair",
+      "parts": [
+        {
+          "id": 1337754,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_danpon",
+      "parts": [
+        {
+          "id": 1751,
+          "type": "hr"
+        },
+        {
+          "id": 1751,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_HairMasc1",
+      "parts": [
+        {
+          "id": 1337712,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_HairMasc2",
+      "parts": [
+        {
+          "id": 1337713,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_HairMasc3",
+      "parts": [
+        {
+          "id": 1337714,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_Jinxhair",
+      "parts": [
+        {
+          "id": 6598642,
+          "type": "hr"
+        },
+        {
+          "id": 6598643,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_Mendlerhair",
+      "parts": [
+        {
+          "id": 1337751,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_StraightMasc",
+      "parts": [
+        {
+          "id": 1337755,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_vantwing1",
+      "parts": [
+        {
+          "id": 85868202,
+          "type": "hr"
+        },
+        {
+          "id": 85868203,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_Zaraki",
+      "parts": [
+        {
+          "id": 173870,
+          "type": "hrb"
+        },
+        {
+          "id": 173871,
+          "type": "hr"
+        },
+        {
+          "id": 173872,
+          "type": "hr"
+        },
+        {
+          "id": 173873,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_818hatbycamp",
+      "parts": [
+        {
+          "id": 1337682,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_Baleclava",
+      "parts": [
+        {
+          "id": 1337783,
+          "type": "ha"
+        },
+        {
+          "id": 1337784,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_FoxHat",
+      "parts": [
+        {
+          "id": 1337590,
+          "type": "ha"
+        },
+        {
+          "id": 1337591,
+          "type": "ha"
+        },
+        {
+          "id": 1337592,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_HCpokemon1",
+      "parts": [
+        {
+          "id": 857414,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_HCpokemon2",
+      "parts": [
+        {
+          "id": 200571,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_HoddieBlet",
+      "parts": [
+        {
+          "id": 1337598,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_Icapbackwards",
+      "parts": [
+        {
+          "id": 4978751,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_SerpaHat",
+      "parts": [
+        {
+          "id": 56654732,
+          "type": "ha"
+        },
+        {
+          "id": 56654733,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_WolverineMask",
+      "parts": [
+        {
+          "id": 645923456,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "Shirt_F_Tshirt_Vestenk",
+      "parts": [
+        {
+          "id": 1337571,
+          "type": "ch"
+        },
+        {
+          "id": 1337571,
+          "type": "ls"
+        },
+        {
+          "id": 1337571,
+          "type": "rs"
+        },
+        {
+          "id": 1337572,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_BXASUIT",
+      "parts": [
+        {
+          "id": 23944,
+          "type": "ch"
+        },
+        {
+          "id": 23944,
+          "type": "ls"
+        },
+        {
+          "id": 23944,
+          "type": "rs"
+        },
+        {
+          "id": 23947,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_bxatrousers",
+      "parts": [
+        {
+          "id": 1337781,
+          "type": "lg"
+        },
+        {
+          "id": 1337782,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_calcacargoalta",
+      "parts": [
+        {
+          "id": 1000056123,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_jeansadjusted",
+      "parts": [
+        {
+          "id": 1337611,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_saiacurtabychoco",
+      "parts": [
+        {
+          "id": 1337759,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_saiadetalhada",
+      "parts": [
+        {
+          "id": 72353467,
+          "type": "lg"
+        },
+        {
+          "id": 72353468,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_streetwearjean",
+      "parts": [
+        {
+          "id": 72353434,
+          "type": "lg"
+        },
+        {
+          "id": 72353435,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_casssuebodysuit3",
+      "parts": [
+        {
+          "id": 10115,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_casssuebodysuit2",
+      "parts": [
+        {
+          "id": 10114,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_patyshirt",
+      "parts": [
+        {
+          "id": 2147483546,
+          "type": "ch"
+        },
+        {
+          "id": 2147483547,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_FEMSTRAI",
+      "parts": [
+        {
+          "id": 181146,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_MarjorieHair",
+      "parts": [
+        {
+          "id": 70048,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_cassPPPv2",
+      "parts": [
+        {
+          "id": 10113,
+          "type": "hr"
+        },
+        {
+          "id": 10113,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_cassbobv2",
+      "parts": [
+        {
+          "id": 10112,
+          "type": "hr"
+        },
+        {
+          "id": 10112,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_PeloKayn",
+      "parts": [
+        {
+          "id": 70046,
+          "type": "hr"
+        },
+        {
+          "id": 70047,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_ShortBlaineHair",
+      "parts": [
+        {
+          "id": 70045,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_Shorthair",
+      "parts": [
+        {
+          "id": 70049,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_hairwithbangs",
+      "parts": [
+        {
+          "id": 70050,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_pelodespeinado",
+      "parts": [
+        {
+          "id": 80092820,
+          "type": "hr"
+        },
+        {
+          "id": 80092830,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_cassboyhair",
+      "parts": [
+        {
+          "id": 31124,
+          "type": "hr"
+        },
+        {
+          "id": 31124,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_cassmahdihair",
+      "parts": [
+        {
+          "id": 10102,
+          "type": "hr"
+        },
+        {
+          "id": 10102,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_cassPPPv1",
+      "parts": [
+        {
+          "id": 10098,
+          "type": "hr"
+        },
+        {
+          "id": 10098,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_twintailsrare",
+      "parts": [
+        {
+          "id": 181165,
+          "type": "hr"
+        },
+        {
+          "id": 181166,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_CabezaDY",
+      "parts": [
+        {
+          "id": 30001463,
+          "type": "ha"
+        }
+      ]
+    },
+    {
       "id": "acc_face_F_tylanewwface",
       "parts": [
         {
