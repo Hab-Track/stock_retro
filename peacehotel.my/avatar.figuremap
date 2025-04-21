@@ -1,6 +1,34 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_nftbunnycape",
+      "revision": 11829,
+      "parts": [
+        {
+          "id": 6411,
+          "type": "cc"
+        },
+        {
+          "id": 6411,
+          "type": "lc"
+        },
+        {
+          "id": 6411,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftbunnyhood",
+      "revision": 11828,
+      "parts": [
+        {
+          "id": 6410,
+          "type": "ha"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_vikingcape",
       "revision": 181096,
       "parts": [
