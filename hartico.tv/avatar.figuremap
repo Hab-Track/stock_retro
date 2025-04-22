@@ -1,6 +1,647 @@
 ﻿{
   "libraries": [
     {
+      "id": "hat_U_theoneduck",
+      "parts": [
+        {
+          "id": 5661,
+          "type": "ha"
+        },
+        {
+          "id": 5662,
+          "type": "ha"
+        },
+        {
+          "id": 5663,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_fittedarmor1",
+      "parts": [
+        {
+          "id": 1337747,
+          "type": "cc"
+        },
+        {
+          "id": 1337747,
+          "type": "lc"
+        },
+        {
+          "id": 1337747,
+          "type": "rc"
+        },
+        {
+          "id": 1337748,
+          "type": "cc"
+        },
+        {
+          "id": 1337748,
+          "type": "lc"
+        },
+        {
+          "id": 1337748,
+          "type": "rc"
+        },
+        {
+          "id": 1337749,
+          "type": "cc"
+        },
+        {
+          "id": 1337750,
+          "type": "lc"
+        },
+        {
+          "id": 1337750,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_irongrifinoria",
+      "parts": [
+        {
+          "id": 9999698,
+          "type": "cc"
+        },
+        {
+          "id": 9999698,
+          "type": "lc"
+        },
+        {
+          "id": 9999698,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_ironlufalufa",
+      "parts": [
+        {
+          "id": 9999699,
+          "type": "cc"
+        },
+        {
+          "id": 9999699,
+          "type": "lc"
+        },
+        {
+          "id": 9999699,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_ironcorvinal",
+      "parts": [
+        {
+          "id": 9999700,
+          "type": "cc"
+        },
+        {
+          "id": 9999700,
+          "type": "lc"
+        },
+        {
+          "id": 9999700,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_ironsonserina3",
+      "parts": [
+        {
+          "id": 9999722,
+          "type": "cc"
+        },
+        {
+          "id": 9999722,
+          "type": "lc"
+        },
+        {
+          "id": 9999722,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_romanchasuble",
+      "parts": [
+        {
+          "id": 1337707,
+          "type": "lc"
+        },
+        {
+          "id": 1337707,
+          "type": "rc"
+        },
+        {
+          "id": 1337708,
+          "type": "cc"
+        },
+        {
+          "id": 1337709,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_blusinhay2k",
+      "parts": [
+        {
+          "id": 85868183,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_bsslithuania",
+      "parts": [
+        {
+          "id": 1337683,
+          "type": "ch"
+        },
+        {
+          "id": 1337683,
+          "type": "ls"
+        },
+        {
+          "id": 1337683,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_bssnorvegia",
+      "parts": [
+        {
+          "id": 1337684,
+          "type": "ch"
+        },
+        {
+          "id": 1337684,
+          "type": "ls"
+        },
+        {
+          "id": 1337684,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_bssalbania",
+      "parts": [
+        {
+          "id": 1337685,
+          "type": "ch"
+        },
+        {
+          "id": 1337685,
+          "type": "ls"
+        },
+        {
+          "id": 1337685,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_bssgreece",
+      "parts": [
+        {
+          "id": 1337686,
+          "type": "ch"
+        },
+        {
+          "id": 1337686,
+          "type": "ls"
+        },
+        {
+          "id": 1337686,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_bssmalta",
+      "parts": [
+        {
+          "id": 1337687,
+          "type": "ch"
+        },
+        {
+          "id": 1337687,
+          "type": "ls"
+        },
+        {
+          "id": 1337687,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_bssserbia",
+      "parts": [
+        {
+          "id": 1337688,
+          "type": "ch"
+        },
+        {
+          "id": 1337688,
+          "type": "ls"
+        },
+        {
+          "id": 1337688,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_bssbelgio",
+      "parts": [
+        {
+          "id": 1337689,
+          "type": "ch"
+        },
+        {
+          "id": 1337689,
+          "type": "ls"
+        },
+        {
+          "id": 1337689,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_bssfenerbahce",
+      "parts": [
+        {
+          "id": 1337690,
+          "type": "ch"
+        },
+        {
+          "id": 1337690,
+          "type": "ls"
+        },
+        {
+          "id": 1337690,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_bssfeyenoord",
+      "parts": [
+        {
+          "id": 1337691,
+          "type": "ch"
+        },
+        {
+          "id": 1337691,
+          "type": "ls"
+        },
+        {
+          "id": 1337691,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_bssleipzig",
+      "parts": [
+        {
+          "id": 1337692,
+          "type": "ch"
+        },
+        {
+          "id": 1337692,
+          "type": "ls"
+        },
+        {
+          "id": 1337692,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_bssleverkusen",
+      "parts": [
+        {
+          "id": 1337693,
+          "type": "ch"
+        },
+        {
+          "id": 1337693,
+          "type": "ls"
+        },
+        {
+          "id": 1337693,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_bsslille",
+      "parts": [
+        {
+          "id": 1337694,
+          "type": "ch"
+        },
+        {
+          "id": 1337694,
+          "type": "ls"
+        },
+        {
+          "id": 1337694,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_bssmancity",
+      "parts": [
+        {
+          "id": 1337695,
+          "type": "ch"
+        },
+        {
+          "id": 1337695,
+          "type": "ls"
+        },
+        {
+          "id": 1337695,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_bssmessina",
+      "parts": [
+        {
+          "id": 1337696,
+          "type": "ch"
+        },
+        {
+          "id": 1337696,
+          "type": "ls"
+        },
+        {
+          "id": 1337696,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_bssrealmadrid",
+      "parts": [
+        {
+          "id": 1337697,
+          "type": "ch"
+        },
+        {
+          "id": 1337697,
+          "type": "ls"
+        },
+        {
+          "id": 1337697,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_bssnapoli",
+      "parts": [
+        {
+          "id": 1337698,
+          "type": "ch"
+        },
+        {
+          "id": 1337698,
+          "type": "ls"
+        },
+        {
+          "id": 1337698,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_chels",
+      "parts": [
+        {
+          "id": 1337730,
+          "type": "ch"
+        },
+        {
+          "id": 1337730,
+          "type": "ls"
+        },
+        {
+          "id": 1337730,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_lyon1",
+      "parts": [
+        {
+          "id": 1337734,
+          "type": "ch"
+        },
+        {
+          "id": 1337734,
+          "type": "ls"
+        },
+        {
+          "id": 1337734,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_manch",
+      "parts": [
+        {
+          "id": 1337735,
+          "type": "ch"
+        },
+        {
+          "id": 1337735,
+          "type": "ls"
+        },
+        {
+          "id": 1337735,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_marse",
+      "parts": [
+        {
+          "id": 1337736,
+          "type": "ch"
+        },
+        {
+          "id": 1337736,
+          "type": "ls"
+        },
+        {
+          "id": 1337736,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_monac",
+      "parts": [
+        {
+          "id": 1337737,
+          "type": "ch"
+        },
+        {
+          "id": 1337737,
+          "type": "ls"
+        },
+        {
+          "id": 1337737,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_psg16",
+      "parts": [
+        {
+          "id": 1337738,
+          "type": "ch"
+        },
+        {
+          "id": 1337738,
+          "type": "ls"
+        },
+        {
+          "id": 1337738,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_roma1",
+      "parts": [
+        {
+          "id": 1337739,
+          "type": "ch"
+        },
+        {
+          "id": 1337739,
+          "type": "ls"
+        },
+        {
+          "id": 1337739,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_madr1",
+      "parts": [
+        {
+          "id": 1337742,
+          "type": "ch"
+        },
+        {
+          "id": 1337742,
+          "type": "ls"
+        },
+        {
+          "id": 1337742,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_maroc",
+      "parts": [
+        {
+          "id": 1337744,
+          "type": "ch"
+        },
+        {
+          "id": 1337744,
+          "type": "ls"
+        },
+        {
+          "id": 1337744,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_chemisehbt",
+      "parts": [
+        {
+          "id": 7894,
+          "type": "ch"
+        },
+        {
+          "id": 7894,
+          "type": "ls"
+        },
+        {
+          "id": 7894,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shoes_F_bowshoes",
+      "parts": [
+        {
+          "id": 2474,
+          "type": "sh"
+        },
+        {
+          "id": 2475,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_Bale",
+      "parts": [
+        {
+          "id": 1337777,
+          "type": "sh"
+        },
+        {
+          "id": 1337778,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_hogshoesheels",
+      "parts": [
+        {
+          "id": 6186,
+          "type": "sh"
+        },
+        {
+          "id": 6187,
+          "type": "sh"
+        },
+        {
+          "id": 6188,
+          "type": "sh"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_BagHilton",
       "parts": [
         {
@@ -400,24 +1041,6 @@
       ]
     },
     {
-      "id": "hat_U_HCpokemon1",
-      "parts": [
-        {
-          "id": 857414,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_HCpokemon2",
-      "parts": [
-        {
-          "id": 200571,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "hat_U_HoddieBlet",
       "parts": [
         {
@@ -496,6 +1119,14 @@
         {
           "id": 23947,
           "type": "ch"
+        },
+        {
+          "id": 23947,
+          "type": "ls"
+        },
+        {
+          "id": 23947,
+          "type": "rs"
         }
       ]
     },
@@ -40621,7 +41252,7 @@
       "id": "hair_F_maxshair",
       "parts": [
         {
-          "id": 70030,
+          "id": 70028,
           "type": "hr"
         }
       ]
@@ -45188,23 +45819,6 @@
       ]
     },
     {
-      "id": "hair_F_beats",
-      "parts": [
-        {
-          "id": 9061,
-          "type": "he"
-        },
-        {
-          "id": 9061,
-          "type": "hrb"
-        },
-        {
-          "id": 9062,
-          "type": "he"
-        }
-      ]
-    },
-    {
       "id": "acc_drap_U_israe",
       "parts": [
         {
@@ -48017,7 +48631,7 @@
       "id": "hair_F_dyanloxi",
       "parts": [
         {
-          "id": 70050,
+          "id": 70029,
           "type": "hr"
         }
       ]
