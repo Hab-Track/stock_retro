@@ -1,6 +1,196 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_U_miu1shirt",
+      "revision": 181187,
+      "parts": [
+        {
+          "id": 181187,
+          "type": "ch"
+        },
+        {
+          "id": 181187,
+          "type": "ls"
+        },
+        {
+          "id": 181187,
+          "type": "rs"
+        },
+        {
+          "id": 181188,
+          "type": "ch"
+        },
+        {
+          "id": 181188,
+          "type": "ls"
+        },
+        {
+          "id": 181188,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_patychelou",
+      "revision": 181185,
+      "parts": [
+        {
+          "id": 181185,
+          "type": "ch"
+        },
+        {
+          "id": 181186,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_paketchelou",
+      "revision": 181184,
+      "parts": [
+        {
+          "id": 181184,
+          "type": "cc"
+        },
+        {
+          "id": 181184,
+          "type": "lc"
+        },
+        {
+          "id": 181184,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_scarletchelou",
+      "revision": 181183,
+      "parts": [
+        {
+          "id": 181183,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_maleniachelou",
+      "revision": 181181,
+      "parts": [
+        {
+          "id": 181181,
+          "type": "ha"
+        },
+        {
+          "id": 181182,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_princessechelou",
+      "revision": 181180,
+      "parts": [
+        {
+          "id": 181180,
+          "type": "hr"
+        },
+        {
+          "id": 181180,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_frenchchelou",
+      "revision": 181179,
+      "parts": [
+        {
+          "id": 181179,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_camilachelou",
+      "revision": 181178,
+      "parts": [
+        {
+          "id": 181178,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_F_cheveuxchelou",
+      "revision": 181177,
+      "parts": [
+        {
+          "id": 181177,
+          "type": "hr"
+        },
+        {
+          "id": 181177,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_miumiuchelou",
+      "revision": 181176,
+      "parts": [
+        {
+          "id": 181176,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_lunetteschelou",
+      "revision": 181174,
+      "parts": [
+        {
+          "id": 181174,
+          "type": "ea"
+        },
+        {
+          "id": 181175,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_sacchelou",
+      "revision": 181171,
+      "parts": [
+        {
+          "id": 181171,
+          "type": "ca"
+        },
+        {
+          "id": 181172,
+          "type": "ca"
+        },
+        {
+          "id": 181173,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_fusilchelou",
+      "revision": 181169,
+      "parts": [
+        {
+          "id": 181169,
+          "type": "ca"
+        },
+        {
+          "id": 181170,
+          "type": "ca"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_oeufpackrar",
       "revision": 181168,
       "parts": [
