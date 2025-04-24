@@ -8,13 +8,13 @@
   "sounds.url": "${asset.url}/sounds/%sample%.mp3",
   "external.texts.url": [
     "${gamedata.url}/ExternalTexts.json",
-    "${gamedata.url}/UITexts.json",
+    "${asset.url}/static/UITexts.json",
     "${gamedata.url}/ExternalTextsOverride.json"
   ],
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
   "furnidata.url": "${gamedata.url}/FurnitureData.json",
   "productdata.url": "${gamedata.url}/ProductData.json",
-  "avatar.actions.url": "${gamedata.url}/HabboAvatarActions.json",
+  "avatar.actions.url": "${asset.url}/static/HabboAvatarActions.json",
   "avatar.figuredata.url": "${gamedata.url}/FigureData.json",
   "avatar.figuremap.url": "${gamedata.url}/FigureMap.json",
   "avatar.effectmap.url": "${gamedata.url}/EffectMap.json",
