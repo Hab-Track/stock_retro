@@ -1,12 +1,20 @@
 ﻿{
   "libraries": [
     {
-      "id": "acc_chest_U_oeufpackrar",
+      "id": "jacket_U_oeufpackrar",
       "revision": 181168,
       "parts": [
         {
           "id": 181168,
-          "type": "ca"
+          "type": "cc"
+        },
+        {
+          "id": 181168,
+          "type": "lc"
+        },
+        {
+          "id": 181168,
+          "type": "rc"
         }
       ]
     },
