@@ -1,20 +1,6 @@
 ﻿{
   "libraries": [
     {
-      "id": "acc_head_U_aliceheadband",
-      "revision": 11889,
-      "parts": [
-        {
-          "id": 6709,
-          "type": "he"
-        },
-        {
-          "id": 6710,
-          "type": "he"
-        }
-      ]
-    },
-    {
       "id": "hat_U_Baleclava",
       "revision": 11888,
       "parts": [
@@ -32239,7 +32225,7 @@
       ]
     },
     {
-      "id": "acc_head_U_accessorio3",
+      "id": "bsstonino_U_accessorio3",
       "revision": 5051998,
       "parts": [
         {
@@ -32308,10 +32294,6 @@
         },
         {
           "id": 1805,
-          "type": "he"
-        },
-        {
-          "id": 1337785,
           "type": "he"
         }
       ]
