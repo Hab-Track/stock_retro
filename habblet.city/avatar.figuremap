@@ -1,6 +1,140 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_print_F_haaziqwettprintf",
+      "revision": 11902,
+      "parts": [
+        {
+          "id": 1337799,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_M_haaziqwettprintm",
+      "revision": 11901,
+      "parts": [
+        {
+          "id": 1337798,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_haaziqwettanktopf",
+      "revision": 11900,
+      "parts": [
+        {
+          "id": 1337797,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_haaziqwettanktopm",
+      "revision": 11899,
+      "parts": [
+        {
+          "id": 1337796,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_Shorthair",
+      "revision": 11898,
+      "parts": [
+        {
+          "id": 1337795,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_CurlyTopHair",
+      "revision": 11897,
+      "parts": [
+        {
+          "id": 1337794,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_ShortBlaineHair",
+      "revision": 11896,
+      "parts": [
+        {
+          "id": 1337793,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_MarjorieHair",
+      "revision": 11895,
+      "parts": [
+        {
+          "id": 1337792,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_hairwithbangs",
+      "revision": 11894,
+      "parts": [
+        {
+          "id": 1337791,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_straightfem",
+      "revision": 11893,
+      "parts": [
+        {
+          "id": 1337790,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_dreadshort",
+      "revision": 11892,
+      "parts": [
+        {
+          "id": 1337788,
+          "type": "hr"
+        },
+        {
+          "id": 1337789,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_straightside",
+      "revision": 11891,
+      "parts": [
+        {
+          "id": 1337787,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_straightshort",
+      "revision": 11890,
+      "parts": [
+        {
+          "id": 1337786,
+          "type": "hr"
+        }
+      ]
+    },
+    {
       "id": "acc_head_U_aliceheadband",
       "revision": 11889,
       "parts": [
