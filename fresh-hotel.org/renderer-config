@@ -24,24 +24,23 @@
   "pet.asset.url": "${asset.url}/bundled/pet/%libname%.nitro",
   "generic.asset.url": "${asset.url}/bundled/generic/%libname%.nitro",
   "badge.asset.url": "${image.library.url}album1584/%badgename%.gif",
-  "furni.rotation.bounce.steps": 6,
-  "furni.rotation.bounce.height": 0.05,
-  "enable.avatar.arrow": true,
+  "furni.rotation.bounce.steps": 8,
+  "furni.rotation.bounce.height": 0.0625,
+  "enable.avatar.arrow": false,
   "system.log.debug": false,
-  "system.log.warn": true,
-  "system.log.error": true,
+  "system.log.warn": false,
+  "system.log.error": false,
   "system.log.events": false,
-  "system.log.packets": true,
-  "system.fps.animation": 30,
-  "system.fps.max": 60,
-  "system.pong.manually": false,
+  "system.log.packets": false,
+  "system.fps.animation": 24,
+  "system.fps.max": 120,
+  "system.pong.manually": true,
   "system.pong.interval.ms": 20000,
-  "room.color.skip.transition": false,
+  "room.color.skip.transition": true,
   "room.landscapes.enabled": true,
   "avatar.mandatory.libraries": [
     "bd:1",
-    "li:0",
-    "hd:1"
+    "li:0"
   ],
   "avatar.mandatory.effect.libraries": [
     "dance.1",
@@ -563,6 +562,7 @@
     "bearbaby",
     "terrierbaby",
     "gnome",
+    "gnome",
     "kittenbaby",
     "puppybaby",
     "pigletbaby",
@@ -578,14 +578,9 @@
   "preload.assets.urls": [
     "${asset.url}/bundled/generic/avatar_additions.nitro",
     "${asset.url}/bundled/generic/group_badge.nitro",
+    "${asset.url}/bundled/generic/floor_editor.nitro",
     "${images.url}/loading_icon.png",
     "${images.url}/clear_icon.png",
-    "${images.url}/big_arrow.png",
-    "${gamedata.url}/FigureData.json",
-    "${gamedata.url}/FurniData.json"
-  ],
-  "grok.integration": {
-    "deepSearch.enabled": true,
-    "thinkMode.enabled": false
-  }
+    "${images.url}/big_arrow.png"
+  ]
 }
