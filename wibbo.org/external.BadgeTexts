@@ -4663,8 +4663,14 @@
   "badge_desc_CHIBYMIR1": "On a tous besoin d’une personne qui nous rappelle à quel point la vie est belle <3 - Shaaweenn",
   "badge_name_CHIBAERYNA1": "Aeryna - Architecte <3",
   "badge_desc_CHIBAERYNA1": "On a tous besoin d’une personne qui nous rappelle à quel point la vie est belle <3 - Shaaweenn",
-  "badge_name_LYAACHB25": "lya",
-  "badge_desc_LYAACHB25": "my shaylaa",
+  "badge_name_LYAACHB25": [
+    "lya",
+    "lyaa"
+  ],
+  "badge_desc_LYAACHB25": [
+    "my shaylaa",
+    "Moi top 1, toi KO au premier round"
+  ],
   "badge_name_CARNAVALUP1": "ADLS - Carnaval",
   "badge_desc_CARNAVALUP1": "J'ai participé à l'ADLS Carnaval 2025",
   "badge_name_UPSHA34": "Carnaval de Rio",
@@ -4774,5 +4780,7 @@
   "badge_name_YUMECHB25": "Yume",
   "badge_desc_YUMECHB25": "           ",
   "badge_name_DEINCOCHB25": "Deinco",
-  "badge_desc_DEINCOCHB25": "Devenu PGM du jour au lendemain."
+  "badge_desc_DEINCOCHB25": "Devenu PGM du jour au lendemain.",
+  "badge_name_LYAACHB25P": "lyaa",
+  "badge_desc_LYAACHB25P": "Moi top 1, toi KO au premier round"
 }
