@@ -1,6 +1,6 @@
 ﻿{
   "socket.url": "wss://ws.atlantaserver.me:2053/",
-  "asset.url": "//assets.habblive.live/Beta/V2/assets",
+  "asset.url": "//assets.habblive.network/Beta/V2/assets",
   "image.library.url": "//images.habblive.net/Habblive/images/c_imagenes/",
   "hof.furni.url": "//images.habblive.net/Habblive/images/dcr/hof_furni_a/",
   "images.url": "${asset.url}/images",
@@ -11,8 +11,8 @@
     "//images.habblive.net/BETA/V2/assets/gamedata_live_V2/UITexts_V3_H_NAVI_2_1.json"
   ],
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
-  "furnidata.url": "//images.habblive.com/gamedata/variables/furnidata.php",
-  "productdata.url": "//images.habblive.com/gamedata/variables/productdata.php",
+  "furnidata.url": "//images.habblive.com/gamedata/variables/Updated_FurnitureData.json",
+  "productdata.url": "//images.habblive.com/gamedata/variables/ProductData_default_t_1.json",
   "avatar.actions.url": "${gamedata.url}/HabboAvatarActions.json",
   "avatar.figuredata.url": "${gamedata.url}/FigureData_4_17_2025.json",
   "avatar.figuremap.url": "${gamedata.url}/FigureMap_4_17_2025.json",
