@@ -1,6 +1,120 @@
 ﻿{
   "libraries": [
     {
+      "id": "hat_U_capbackwards",
+      "revision": 181211,
+      "parts": [
+        {
+          "id": 181211,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_gloss",
+      "revision": 181209,
+      "parts": [
+        {
+          "id": 181209,
+          "type": "fa"
+        },
+        {
+          "id": 181210,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_choascrown",
+      "revision": 181208,
+      "parts": [
+        {
+          "id": 181208,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_jinxceinturebaby",
+      "revision": 181206,
+      "parts": [
+        {
+          "id": 181206,
+          "type": "wa"
+        },
+        {
+          "id": 181207,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_croixquinn",
+      "revision": 181205,
+      "parts": [
+        {
+          "id": 181205,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_schuepatin",
+      "revision": 181203,
+      "parts": [
+        {
+          "id": 181203,
+          "type": "sh"
+        },
+        {
+          "id": 181204,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_cheveuxichisan",
+      "revision": 181202,
+      "parts": [
+        {
+          "id": 181202,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_trouserjsp",
+      "revision": 181201,
+      "parts": [
+        {
+          "id": 181201,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_robebelle",
+      "revision": 181199,
+      "parts": [
+        {
+          "id": 181199,
+          "type": "ch"
+        },
+        {
+          "id": 181199,
+          "type": "ls"
+        },
+        {
+          "id": 181199,
+          "type": "rs"
+        },
+        {
+          "id": 181200,
+          "type": "ch"
+        }
+      ]
+    },
+    {
       "id": "hair_U_CHEVEUXONDULASSHENT",
       "revision": 181198,
       "parts": [
@@ -71,11 +185,11 @@
       "revision": 181189,
       "parts": [
         {
-          "id": 181190,
+          "id": 181189,
           "type": "sh"
         },
         {
-          "id": 181189,
+          "id": 181190,
           "type": "sh"
         }
       ]
