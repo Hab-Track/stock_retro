@@ -1,7 +1,7 @@
 ﻿{
   "socket.url": "wss://secure.habtime.org",
-  "asset.url": "https://habtime.org/client/nitro-assets",
-  "flash.asset.url": "https://habtime.org/client/flash-assets",
+  "asset.url": "https://cdn.habtime.org/nitro",
+  "flash.asset.url": "https://cdn.habtime.org/flash",
   "image.library.url": "${flash.asset.url}/c_images/",
   "hof.furni.url": "${flash.asset.url}/dcr/hof_furni",
   "images.url": "${asset.url}/images",
@@ -12,7 +12,7 @@
     "${gamedata.url}/UITexts.json"
   ],
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
-  "furnidata.url": "${gamedata.url}/FurnitureData.json?v=3214545",
+  "furnidata.url": "${gamedata.url}/FurnitureData.json",
   "productdata.url": "${gamedata.url}/ProductData.json",
   "avatar.actions.url": "${gamedata.url}/HabboAvatarActions.json",
   "avatar.figuredata.url": "${gamedata.url}/FigureData.json",
