@@ -1,6 +1,24 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_U_alger",
+      "revision": 181222,
+      "parts": [
+        {
+          "id": 181222,
+          "type": "ch"
+        },
+        {
+          "id": 181222,
+          "type": "ls"
+        },
+        {
+          "id": 181222,
+          "type": "rs"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_braceletmanto",
       "revision": 181221,
       "parts": [
