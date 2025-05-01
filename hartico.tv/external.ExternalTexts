@@ -12769,7 +12769,7 @@
   "catalog.marketplace.offer_details.trade_volume": "Volumen de tradeos",
   "catalog.marketplace.operation_failed.topic": "Problema con la oferta",
   "catalog.marketplace.redeem.get_credits": "%count% objeto(s) se ha(n) vendido. Haz clic en 'Lograr Créditos' para hacerte con los que te corresponden. Créditos a recibir: %credits%",
-  "catalog.marketplace.redeem.no_sold_items": "Ninguno de tus objetos del listado se ha vendido. Tras publicar una oferta, acude a esta sección para ver su status y lograr los Créditos que te correspondan. Usa el Inventario para poner objetos a la venta.",
+  "catalog.marketplace.redeem.no_sold_items": "Ninguno de tus objetos del listado se ha vendido. Tras publicar una oferta, acude a esta sección para ver su status y lograr las Esmeraldas que te correspondan. Usa el Inventario para poner objetos a la venta.",
   "catalog.marketplace.search_advanced": "Avanzada",
   "catalog.marketplace.search_by_activity": "Por actividad",
   "catalog.marketplace.search_by_value": "Por valor",
@@ -15093,7 +15093,7 @@
   "inventory.marketplace.make_offer.expiration_info": "Tu oferta estará visible para otros usuarios durante %time% horas. Nota: Puedes vender hasta 250 artículos a la vez",
   "inventory.marketplace.make_offer.final_price": "El precio final de venta incluye la comisión del Mercadillo por un importe de %commission% Crédito(s), así que el precio final es %finalprice%.",
   "inventory.marketplace.make_offer.max_price": "El precio máximo que puedes pedir por una oferta es de %maxprice% Créditos.",
-  "inventory.marketplace.make_offer.min_price": "El precio mínimo que puedes pedir por una oferta es de %minprice% Crédito(s).",
+  "inventory.marketplace.make_offer.min_price": "El precio mínimo que puedes pedir por una oferta es de %minprice% Esmeralda(s).",
   "inventory.marketplace.make_offer.post": "Publicar",
   "inventory.marketplace.make_offer.price_request": "Pedir precio:",
   "inventory.marketplace.make_offer.title": "Ofertas del Mercadillo",
@@ -36712,5 +36712,11 @@
   "badge_name_LTDPIXELABRI2": "Heladera Conejil",
   "badge_desc_LTDPIXELABRI2": "Lanzamiento Edición Especial pixeles, abril 2025",
   "badge_name_LTDPIXELABRI3": "Dragón de Fuego Conejil",
-  "badge_desc_LTDPIXELABRI3": "Lanzamiento Edición Especial pixeles, abril 2025"
+  "badge_desc_LTDPIXELABRI3": "Lanzamiento Edición Especial pixeles, abril 2025",
+  "badge_name_MANDY1": "Puro Hueso",
+  "badge_desc_MANDY1": "¡El rey del inframundo!",
+  "badge_name_MANDY2": "Mandy",
+  "badge_desc_MANDY2": "¿Qué quieres?",
+  "badge_name_MANDY3": "Billy",
+  "badge_desc_MANDY3": "Quiero a mi gatito"
 }
