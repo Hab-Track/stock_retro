@@ -1,6 +1,86 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_braceletmanto",
+      "revision": 181221,
+      "parts": [
+        {
+          "id": 181221,
+          "type": "lc"
+        },
+        {
+          "id": 181221,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_haedbandiealice",
+      "revision": 181219,
+      "parts": [
+        {
+          "id": 181219,
+          "type": "he"
+        },
+        {
+          "id": 181220,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_bisousvisaj",
+      "revision": 181218,
+      "parts": [
+        {
+          "id": 181218,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_lunetteschic",
+      "revision": 181217,
+      "parts": [
+        {
+          "id": 181217,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_casquedconv2",
+      "revision": 181214,
+      "parts": [
+        {
+          "id": 181214,
+          "type": "ha"
+        },
+        {
+          "id": 181215,
+          "type": "ha"
+        },
+        {
+          "id": 181216,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_loaferscks",
+      "revision": 181212,
+      "parts": [
+        {
+          "id": 181212,
+          "type": "sh"
+        },
+        {
+          "id": 181213,
+          "type": "sh"
+        }
+      ]
+    },
+    {
       "id": "hat_U_capbackwards",
       "revision": 181211,
       "parts": [
