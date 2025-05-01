@@ -1,6 +1,86 @@
 ﻿{
   "libraries": [
     {
+      "id": "hair_U_CHEVEUXONDULASSHENT",
+      "revision": 181198,
+      "parts": [
+        {
+          "id": 181198,
+          "type": "hr"
+        },
+        {
+          "id": 181198,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_joggingfassonfasson",
+      "revision": 181194,
+      "parts": [
+        {
+          "id": 181194,
+          "type": "lg"
+        },
+        {
+          "id": 181195,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_coquettelisto",
+      "revision": 181193,
+      "parts": [
+        {
+          "id": 181193,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_vestcobjia",
+      "revision": 181192,
+      "parts": [
+        {
+          "id": 181192,
+          "type": "cc"
+        },
+        {
+          "id": 181192,
+          "type": "lc"
+        },
+        {
+          "id": 181192,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_ailesdepoulet",
+      "revision": 181191,
+      "parts": [
+        {
+          "id": 181191,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_trainingCORRIGE",
+      "revision": 181189,
+      "parts": [
+        {
+          "id": 181190,
+          "type": "sh"
+        },
+        {
+          "id": 181189,
+          "type": "sh"
+        }
+      ]
+    },
+    {
       "id": "shirt_U_miu1shirt",
       "revision": 181187,
       "parts": [
