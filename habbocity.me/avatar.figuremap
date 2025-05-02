@@ -1,6 +1,50 @@
 ﻿{
   "libraries": [
     {
+      "id": "shoes_F_talonschicent",
+      "revision": 181227,
+      "parts": [
+        {
+          "id": 181227,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_hiphort",
+      "revision": 181225,
+      "parts": [
+        {
+          "id": 181225,
+          "type": "lg"
+        },
+        {
+          "id": 181226,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_cheveuxdeporc",
+      "revision": 181224,
+      "parts": [
+        {
+          "id": 181224,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_riflrosa",
+      "revision": 181223,
+      "parts": [
+        {
+          "id": 181223,
+          "type": "ca"
+        }
+      ]
+    },
+    {
       "id": "shirt_U_alger",
       "revision": 181222,
       "parts": [
