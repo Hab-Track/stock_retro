@@ -1,6 +1,46 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_U_knightarmor",
+      "revision": 11850,
+      "parts": [
+        {
+          "id": 6613,
+          "type": "ch"
+        },
+        {
+          "id": 6613,
+          "type": "ls"
+        },
+        {
+          "id": 6613,
+          "type": "rs"
+        },
+        {
+          "id": 6614,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_knighthelmet",
+      "revision": 11855,
+      "parts": [
+        {
+          "id": 6615,
+          "type": "ha"
+        },
+        {
+          "id": 6616,
+          "type": "ha"
+        },
+        {
+          "id": 6617,
+          "type": "ha"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_snoopybackpack",
       "revision": 11879,
       "parts": [
