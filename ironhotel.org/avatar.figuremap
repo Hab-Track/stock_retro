@@ -65045,6 +65045,84 @@
           "type": "hrb"
         }
       ]
+    },
+    {
+      "id": "shirt_M_animalprinthortsleevedshirt",
+      "revision": 998788539,
+      "parts": [
+        {
+          "id": 6434,
+          "type": "ch"
+        },
+        {
+          "id": 6434,
+          "type": "ls"
+        },
+        {
+          "id": 6434,
+          "type": "rs"
+        },
+        {
+          "id": 6435,
+          "type": "ch"
+        },
+        {
+          "id": 6435,
+          "type": "ls"
+        },
+        {
+          "id": 6435,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_animalprinthortsleevedshirt",
+      "revision": 998788540,
+      "parts": [
+        {
+          "id": 6436,
+          "type": "ch"
+        },
+        {
+          "id": 6436,
+          "type": "ls"
+        },
+        {
+          "id": 6436,
+          "type": "rs"
+        },
+        {
+          "id": 6437,
+          "type": "ch"
+        },
+        {
+          "id": 6437,
+          "type": "ls"
+        },
+        {
+          "id": 6437,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_bunnycompanion",
+      "revision": 998788541,
+      "parts": [
+        {
+          "id": 6667,
+          "type": "cc"
+        },
+        {
+          "id": 6667,
+          "type": "lc"
+        },
+        {
+          "id": 6667,
+          "type": "rc"
+        }
+      ]
     }
   ]
 }
