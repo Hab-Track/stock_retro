@@ -1,6 +1,688 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_Kikoku",
+      "parts": [
+        {
+          "id": 20001513,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_NunchakusToji",
+      "parts": [
+        {
+          "id": 20001511,
+          "type": "ca"
+        },
+        {
+          "id": 20001512,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_NichirinTengenUzui",
+      "parts": [
+        {
+          "id": 20001510,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_EspadasKillerBee",
+      "parts": [
+        {
+          "id": 20001509,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_M_Kabuto",
+      "parts": [
+        {
+          "id": 20001508,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_CajaNezuko",
+      "parts": [
+        {
+          "id": 20001506,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_M_KatanasZoro",
+      "parts": [
+        {
+          "id": 20001502,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_budbloodacessory",
+      "parts": [
+        {
+          "id": 99878988,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_GranMartillo",
+      "parts": [
+        {
+          "id": 30001468,
+          "type": "ca"
+        },
+        {
+          "id": 30001469,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_HachaVikinga",
+      "parts": [
+        {
+          "id": 10000891,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_KatanaEspalda",
+      "parts": [
+        {
+          "id": 10001398,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv25hachagigante",
+      "parts": [
+        {
+          "id": 10000988,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv25bufandapordelan",
+      "parts": [
+        {
+          "id": 10000987,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv25bufandapordetras",
+      "parts": [
+        {
+          "id": 10000986,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_tv25gafasy2k",
+      "parts": [
+        {
+          "id": 10000990,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_BufandaOri",
+      "parts": [
+        {
+          "id": 20001503,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_cassrorschach",
+      "parts": [
+        {
+          "id": 6298,
+          "type": "fa"
+        },
+        {
+          "id": 6299,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_KawakiEstadoKarma",
+      "parts": [
+        {
+          "id": 20001447,
+          "type": "fa"
+        },
+        {
+          "id": 20001448,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_TapaBocaNezuko",
+      "parts": [
+        {
+          "id": 20001507,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_hlivegorilaheada",
+      "parts": [
+        {
+          "id": 200000009,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_pinkuromiskull",
+      "parts": [
+        {
+          "id": 40021230,
+          "type": "he"
+        },
+        {
+          "id": 40021231,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv25auracelestial",
+      "parts": [
+        {
+          "id": 10000991,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv25auraniebla",
+      "parts": [
+        {
+          "id": 10000993,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv25auraviento",
+      "parts": [
+        {
+          "id": 10000992,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_NinjaScroll",
+      "parts": [
+        {
+          "id": 10001447,
+          "type": "wa"
+        },
+        {
+          "id": 10001448,
+          "type": "wa"
+        },
+        {
+          "id": 10001449,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_ekko",
+      "parts": [
+        {
+          "id": 10001368,
+          "type": "hr"
+        },
+        {
+          "id": 10001369,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_ErentoJaegu",
+      "parts": [
+        {
+          "id": 10001413,
+          "type": "hr"
+        },
+        {
+          "id": 10001414,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_lowfadelacio",
+      "parts": [
+        {
+          "id": 400965769,
+          "type": "hr"
+        },
+        {
+          "id": 400965770,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_PeloSia",
+      "parts": [
+        {
+          "id": 30001452,
+          "type": "hr"
+        },
+        {
+          "id": 30001453,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_twintails",
+      "parts": [
+        {
+          "id": 28599642,
+          "type": "hr"
+        },
+        {
+          "id": 28599643,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_Yabi",
+      "parts": [
+        {
+          "id": 256354,
+          "type": "hr"
+        },
+        {
+          "id": 256355,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_zhanguo",
+      "parts": [
+        {
+          "id": 5898648,
+          "type": "hr"
+        },
+        {
+          "id": 5898649,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_gorramymelody",
+      "parts": [
+        {
+          "id": 10082340,
+          "type": "ha"
+        },
+        {
+          "id": 10082341,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_gorrobarca",
+      "parts": [
+        {
+          "id": 44023050,
+          "type": "ha"
+        },
+        {
+          "id": 44023051,
+          "type": "ha"
+        },
+        {
+          "id": 44023052,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_guitarraelectrica",
+      "parts": [
+        {
+          "id": 3400560,
+          "type": "ha"
+        },
+        {
+          "id": 3400561,
+          "type": "ha"
+        },
+        {
+          "id": 3400562,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_bufonkuromi",
+      "parts": [
+        {
+          "id": 50019230,
+          "type": "cc"
+        },
+        {
+          "id": 50019230,
+          "type": "rc"
+        },
+        {
+          "id": 50019230,
+          "type": "lc"
+        },
+        {
+          "id": 50019231,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv25abrigodefresa",
+      "parts": [
+        {
+          "id": 10000983,
+          "type": "cc"
+        },
+        {
+          "id": 10000984,
+          "type": "rc"
+        },
+        {
+          "id": 10000984,
+          "type": "lc"
+        },
+        {
+          "id": 10000985,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv25abrigoLazos",
+      "parts": [
+        {
+          "id": 10000972,
+          "type": "cc"
+        },
+        {
+          "id": 10000973,
+          "type": "rc"
+        },
+        {
+          "id": 10000973,
+          "type": "lc"
+        },
+        {
+          "id": 10000974,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv25chaquetacelest",
+      "parts": [
+        {
+          "id": 10000980,
+          "type": "cc"
+        },
+        {
+          "id": 10000981,
+          "type": "rc"
+        },
+        {
+          "id": 10000981,
+          "type": "lc"
+        },
+        {
+          "id": 10000982,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv25chaquetahueca",
+      "parts": [
+        {
+          "id": 10000970,
+          "type": "cc"
+        },
+        {
+          "id": 10000971,
+          "type": "rc"
+        },
+        {
+          "id": 10000971,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv25chaquetalistones",
+      "parts": [
+        {
+          "id": 10000977,
+          "type": "cc"
+        },
+        {
+          "id": 10000978,
+          "type": "rc"
+        },
+        {
+          "id": 10000978,
+          "type": "lc"
+        },
+        {
+          "id": 10000979,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv25tophueco",
+      "parts": [
+        {
+          "id": 10000968,
+          "type": "cc"
+        },
+        {
+          "id": 10000969,
+          "type": "rc"
+        },
+        {
+          "id": 10000969,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv25tungsahur",
+      "parts": [
+        {
+          "id": 10000989,
+          "type": "rc"
+        },
+        {
+          "id": 10000989,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_ChalecoKillerBee",
+      "parts": [
+        {
+          "id": 20001505,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_TankTopCasual",
+      "parts": [
+        {
+          "id": 10001454,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_TatuajesTrafalgar",
+      "parts": [
+        {
+          "id": 20001518,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_Topadidas",
+      "parts": [
+        {
+          "id": 2100013647,
+          "type": "ch"
+        },
+        {
+          "id": 2100013648,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv25chaquetacombo",
+      "parts": [
+        {
+          "id": 10000866,
+          "type": "ch"
+        },
+        {
+          "id": 10000867,
+          "type": "ch"
+        },
+        {
+          "id": 10000868,
+          "type": "ch"
+        },
+        {
+          "id": 10000869,
+          "type": "rs"
+        },
+        {
+          "id": 10000869,
+          "type": "ls"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv25toplazo",
+      "parts": [
+        {
+          "id": 10000975,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_faldacargo",
+      "parts": [
+        {
+          "id": 30021040,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_faldalanadecordero",
+      "parts": [
+        {
+          "id": 7007840,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_brmothwings",
+      "parts": [
+        {
+          "id": 6580,
+          "type": "ca"
+        },
+        {
+          "id": 6581,
+          "type": "ca"
+        },
+        {
+          "id": 6582,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_festastrawhat",
+      "parts": [
+        {
+          "id": 6725,
+          "type": "ha"
+        },
+        {
+          "id": 6726,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_festashirt",
+      "parts": [
+        {
+          "id": 6727,
+          "type": "ch"
+        },
+        {
+          "id": 6727,
+          "type": "ls"
+        },
+        {
+          "id": 6727,
+          "type": "rs"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_brzlnecklace",
       "parts": [
         {
@@ -1140,19 +1822,6 @@
       ]
     },
     {
-      "id": "shoes_F_bowshoes",
-      "parts": [
-        {
-          "id": 2474,
-          "type": "sh"
-        },
-        {
-          "id": 2475,
-          "type": "sh"
-        }
-      ]
-    },
-    {
       "id": "shoes_U_Bale",
       "parts": [
         {
@@ -1720,19 +2389,6 @@
         },
         {
           "id": 72353468,
-          "type": "lg"
-        }
-      ]
-    },
-    {
-      "id": "trousers_U_streetwearjean",
-      "parts": [
-        {
-          "id": 72353434,
-          "type": "lg"
-        },
-        {
-          "id": 72353435,
           "type": "lg"
         }
       ]
@@ -84856,15 +85512,6 @@
         {
           "id": 6262,
           "type": "sh"
-        }
-      ]
-    },
-    {
-      "id": "shirt_F_tshirt_angrybirds",
-      "parts": [
-        {
-          "id": 6727,
-          "type": "ch"
         }
       ]
     },
