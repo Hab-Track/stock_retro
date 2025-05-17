@@ -65411,6 +65411,66 @@
           "type": "rs"
         }
       ]
+    },
+    {
+      "id": "jacket_U_cassmadaoshield",
+      "revision": 998788550,
+      "parts": [
+        {
+          "id": 488013,
+          "type": "lc"
+        },
+        {
+          "id": 488013,
+          "type": "rc"
+        },
+        {
+          "id": 488014,
+          "type": "lc"
+        },
+        {
+          "id": 488014,
+          "type": "rc"
+        },
+        {
+          "id": 488015,
+          "type": "lc"
+        },
+        {
+          "id": 488015,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_cassmadaoshieldv2",
+      "revision": 998788551,
+      "parts": [
+        {
+          "id": 488016,
+          "type": "lc"
+        },
+        {
+          "id": 488016,
+          "type": "rc"
+        },
+        {
+          "id": 488017,
+          "type": "lc"
+        },
+        {
+          "id": 488017,
+          "type": "rc"
+        },
+        {
+          "id": 488018,
+          "type": "lc"
+        },
+        {
+          "id": 488018,
+          "type": "rc"
+        }
+      ]
     }
   ]
 }
