@@ -1,6 +1,498 @@
 ﻿{
   "libraries": [
     {
+      "id": "shoes_U_SHOESTIHGBONNI",
+      "revision": 181286,
+      "parts": [
+        {
+          "id": 181288,
+          "type": "sh"
+        },
+        {
+          "id": 181286,
+          "type": "sh"
+        },
+        {
+          "id": 181287,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_mamanabangala",
+      "revision": 181285,
+      "parts": [
+        {
+          "id": 181285,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_IARANIAMAZZZ",
+      "revision": 181282,
+      "parts": [
+        {
+          "id": 181282,
+          "type": "ch"
+        },
+        {
+          "id": 181282,
+          "type": "ls"
+        },
+        {
+          "id": 181282,
+          "type": "rs"
+        },
+        {
+          "id": 181283,
+          "type": "ch"
+        },
+        {
+          "id": 181283,
+          "type": "ls"
+        },
+        {
+          "id": 181283,
+          "type": "rs"
+        },
+        {
+          "id": 181284,
+          "type": "ch"
+        },
+        {
+          "id": 181284,
+          "type": "ls"
+        },
+        {
+          "id": 181284,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_BOKOHOAM",
+      "revision": 181279,
+      "parts": [
+        {
+          "id": 181281,
+          "type": "ch"
+        },
+        {
+          "id": 181281,
+          "type": "ls"
+        },
+        {
+          "id": 181281,
+          "type": "rs"
+        },
+        {
+          "id": 181279,
+          "type": "ch"
+        },
+        {
+          "id": 181279,
+          "type": "ls"
+        },
+        {
+          "id": 181279,
+          "type": "rs"
+        },
+        {
+          "id": 181280,
+          "type": "ch"
+        },
+        {
+          "id": 181280,
+          "type": "ls"
+        },
+        {
+          "id": 181280,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_FESTAHHHII",
+      "revision": 181278,
+      "parts": [
+        {
+          "id": 181278,
+          "type": "ch"
+        },
+        {
+          "id": 181278,
+          "type": "ls"
+        },
+        {
+          "id": 181278,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_PLAYSUITTRRR",
+      "revision": 181276,
+      "parts": [
+        {
+          "id": 181276,
+          "type": "ch"
+        },
+        {
+          "id": 181276,
+          "type": "ls"
+        },
+        {
+          "id": 181276,
+          "type": "rs"
+        },
+        {
+          "id": 181277,
+          "type": "ch"
+        },
+        {
+          "id": 181277,
+          "type": "ls"
+        },
+        {
+          "id": 181277,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_BIKINIAMA",
+      "revision": 181274,
+      "parts": [
+        {
+          "id": 181274,
+          "type": "ch"
+        },
+        {
+          "id": 181275,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_IARATOP",
+      "revision": 181271,
+      "parts": [
+        {
+          "id": 181271,
+          "type": "ch"
+        },
+        {
+          "id": 181271,
+          "type": "ls"
+        },
+        {
+          "id": 181271,
+          "type": "rs"
+        },
+        {
+          "id": 181272,
+          "type": "ch"
+        },
+        {
+          "id": 181272,
+          "type": "ls"
+        },
+        {
+          "id": 181272,
+          "type": "rs"
+        },
+        {
+          "id": 181273,
+          "type": "ch"
+        },
+        {
+          "id": 181273,
+          "type": "ls"
+        },
+        {
+          "id": 181273,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_BOTOCHE",
+      "revision": 181269,
+      "parts": [
+        {
+          "id": 181269,
+          "type": "ch"
+        },
+        {
+          "id": 181269,
+          "type": "ls"
+        },
+        {
+          "id": 181269,
+          "type": "rs"
+        },
+        {
+          "id": 181270,
+          "type": "ch"
+        },
+        {
+          "id": 181270,
+          "type": "ls"
+        },
+        {
+          "id": 181270,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_HITCHEDER",
+      "revision": 181266,
+      "parts": [
+        {
+          "id": 181266,
+          "type": "ch"
+        },
+        {
+          "id": 181267,
+          "type": "ch"
+        },
+        {
+          "id": 181268,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_FESTAH",
+      "revision": 181264,
+      "parts": [
+        {
+          "id": 181264,
+          "type": "ha"
+        },
+        {
+          "id": 181265,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_BOTOHAT",
+      "revision": 181261,
+      "parts": [
+        {
+          "id": 181261,
+          "type": "ha"
+        },
+        {
+          "id": 181262,
+          "type": "ha"
+        },
+        {
+          "id": 181263,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_BONNIEchevu",
+      "revision": 181259,
+      "parts": [
+        {
+          "id": 181259,
+          "type": "hr"
+        },
+        {
+          "id": 181259,
+          "type": "hrb"
+        },
+        {
+          "id": 181260,
+          "type": "hr"
+        },
+        {
+          "id": 181260,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_iarahaar",
+      "revision": 181256,
+      "parts": [
+        {
+          "id": 181256,
+          "type": "hr"
+        },
+        {
+          "id": 181256,
+          "type": "hrb"
+        },
+        {
+          "id": 181257,
+          "type": "hr"
+        },
+        {
+          "id": 181257,
+          "type": "hrb"
+        },
+        {
+          "id": 181258,
+          "type": "hr"
+        },
+        {
+          "id": 181258,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_curlylok",
+      "revision": 181253,
+      "parts": [
+        {
+          "id": 181253,
+          "type": "hr"
+        },
+        {
+          "id": 181253,
+          "type": "hrb"
+        },
+        {
+          "id": 181254,
+          "type": "hr"
+        },
+        {
+          "id": 181254,
+          "type": "hrb"
+        },
+        {
+          "id": 181255,
+          "type": "hr"
+        },
+        {
+          "id": 181255,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_SHILLINGNFT",
+      "revision": 181252,
+      "parts": [
+        {
+          "id": 181252,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_sunflontm",
+      "revision": 181251,
+      "parts": [
+        {
+          "id": 181251,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_floatingrain",
+      "revision": 181249,
+      "parts": [
+        {
+          "id": 181249,
+          "type": "he"
+        },
+        {
+          "id": 181250,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_CHESHIREHO",
+      "revision": 181248,
+      "parts": [
+        {
+          "id": 181248,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_BONNIEK",
+      "revision": 181245,
+      "parts": [
+        {
+          "id": 181245,
+          "type": "ea"
+        },
+        {
+          "id": 181246,
+          "type": "ea"
+        },
+        {
+          "id": 181247,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_bratzcol",
+      "revision": 181242,
+      "parts": [
+        {
+          "id": 181242,
+          "type": "ca"
+        },
+        {
+          "id": 181243,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_VIANDEE",
+      "revision": 181239,
+      "parts": [
+        {
+          "id": 181239,
+          "type": "ca"
+        },
+        {
+          "id": 181240,
+          "type": "ca"
+        },
+        {
+          "id": 181241,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_hautkibri",
+      "revision": 181238,
+      "parts": [
+        {
+          "id": 181238,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_jupepute",
+      "revision": 181237,
+      "parts": [
+        {
+          "id": 181237,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "shoes_U_kurochauss",
       "revision": 181236,
       "parts": [
