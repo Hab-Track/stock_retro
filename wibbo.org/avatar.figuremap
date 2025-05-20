@@ -13416,34 +13416,26 @@
     },
     {
       "id": "shirt_F_jbho",
-      "revision": 5555,
+      "revision": 1337,
       "parts": [
         {
-          "id": 50101,
+          "id": 1763,
           "type": "ch"
         },
         {
-          "id": 50102,
+          "id": 1763,
           "type": "ls"
         },
         {
-          "id": 50103,
+          "id": 1763,
           "type": "rs"
         },
         {
-          "id": 50104,
+          "id": 1764,
           "type": "ch"
         },
         {
-          "id": 50105,
-          "type": "ls"
-        },
-        {
-          "id": 50106,
-          "type": "rs"
-        },
-        {
-          "id": 50107,
+          "id": 1765,
           "type": "ch"
         }
       ]
@@ -74871,30 +74863,16 @@
       ]
     },
     {
+      "id": "face_M_nftscarface2",
+      "revision": 72910
+    },
+    {
       "id": "acc_chest_U_nftbigsword",
       "revision": 72926,
       "parts": [
         {
           "id": 6600,
           "type": "ca"
-        }
-      ]
-    },
-    {
-      "id": "face_F_nftscarface",
-      "revision": 72908,
-      "parts": [
-        {
-          "id": 6605,
-          "type": "fc"
-        },
-        {
-          "id": 6606,
-          "type": "fc"
-        },
-        {
-          "id": 6606,
-          "type": "ey"
         }
       ]
     },
