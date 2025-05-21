@@ -1,6 +1,24 @@
 ﻿{
   "libraries": [
     {
+      "id": "hat_U_BOTOHAT",
+      "revision": 181261,
+      "parts": [
+        {
+          "id": 181261,
+          "type": "ha"
+        },
+        {
+          "id": 181262,
+          "type": "ha"
+        },
+        {
+          "id": 181263,
+          "type": "ha"
+        }
+      ]
+    },
+    {
       "id": "shoes_U_SHOESTIHGBONNI",
       "revision": 181286,
       "parts": [
@@ -261,38 +279,6 @@
         {
           "id": 181268,
           "type": "ch"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_FESTAH",
-      "revision": 181264,
-      "parts": [
-        {
-          "id": 181264,
-          "type": "ha"
-        },
-        {
-          "id": 181265,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_BOTOHAT",
-      "revision": 181261,
-      "parts": [
-        {
-          "id": 181261,
-          "type": "ha"
-        },
-        {
-          "id": 181262,
-          "type": "ha"
-        },
-        {
-          "id": 181263,
-          "type": "ha"
         }
       ]
     },
