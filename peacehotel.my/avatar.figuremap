@@ -1,6 +1,30 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_TeemoPeluche",
+      "revision": 11912,
+      "parts": [
+        {
+          "id": 156930,
+          "type": "lc"
+        },
+        {
+          "id": 156930,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_Teemohat",
+      "revision": 11903,
+      "parts": [
+        {
+          "id": 84231681,
+          "type": "ha"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_toninomattaliwings",
       "revision": 31000,
       "parts": [
