@@ -3991,8 +3991,14 @@
   "badge_desc_UPLIWX1": "Nous ne sommes pas 11, mais des milliers.",
   "badge_name_UPSEEW26": "LTC Premium Card",
   "badge_desc_UPSEEW26": "Cette Carte sert à faire taire les Haters lorsque tu CashPlay comme Seeway.",
-  "badge_name_UPSEEW27": "LTC Premium Black Card",
-  "badge_desc_UPSEEW27": "Pour les Joueurs ayant déjà eu la somme de 20000 LTC. Design by Ajoute.",
+  "badge_name_UPSEEW27": [
+    "LTC Premium Black Card",
+    "LTC Premium Black Card"
+  ],
+  "badge_desc_UPSEEW27": [
+    "Pour les Joueurs ayant déjà eu la somme de 20000 LTC. Design by Ajoute.",
+    "Paraît que Leiloup recrute chez les cambrioleurs."
+  ],
   "badge_name_HBC194": "Madonna",
   "badge_desc_HBC194": "Like a virgin, gonna give you all my love boy my fear is fading fast",
   "badge_name_HBC193": "Madame X",
@@ -4836,5 +4842,17 @@
   "badge_name_CLTRV05251": "Employé du mois",
   "badge_desc_CLTRV05251": "J'ai été le/la plus fashion au travail",
   "badge_name_CLTRV05252": "Le boss du mois",
-  "badge_desc_CLTRV05252": "J'ai été le/la plus fashion au travail"
+  "badge_desc_CLTRV05252": "J'ai été le/la plus fashion au travail",
+  "badge_name_UPSEEWAY26": "LTC Premium Card",
+  "badge_desc_UPSEEWAY26": "Paraît que Leiloup recrute chez les cambrioleurs.",
+  "badge_name_UPSEEW28": "ORH",
+  "badge_desc_UPSEEW28": "ORH GVNG",
+  "badge_name_ORH1": "ORH",
+  "badge_desc_ORH1": "ORH GVNG",
+  "badge_name_VegetaORH_LTC_PC": "LTC Premium Card",
+  "badge_desc_VegetaORH_LTC_PC": "Paraît que Leiloup recrute chez les cambrioleurs.",
+  "badge_name_VegetaORH_LTC_PBC": "LTC Premium Black Card",
+  "badge_desc_VegetaORH_LTC_PBC": "Paraît que Leiloup recrute chez les cambrioleurs.",
+  "badge_name_VegetaORH_ORH": "ORH",
+  "badge_desc_VegetaORH_ORH": "ORH GVNG"
 }
