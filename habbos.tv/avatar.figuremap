@@ -1,6 +1,202 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_sacdior",
+      "parts": [
+        {
+          "id": 181235,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hair_F_reginageorgehair",
+      "parts": [
+        {
+          "id": 867675434,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_barbihair",
+      "parts": [
+        {
+          "id": 2147483647,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_cropingmanteau",
+      "parts": [
+        {
+          "id": 181234,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_uniformfix",
+      "parts": [
+        {
+          "id": 10000161,
+          "type": "cc"
+        },
+        {
+          "id": 10000162,
+          "type": "cc"
+        },
+        {
+          "id": 10000163,
+          "type": "lc"
+        },
+        {
+          "id": 10000163,
+          "type": "rc"
+        },
+        {
+          "id": 10000164,
+          "type": "lc"
+        },
+        {
+          "id": 10000164,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_animalprintshirt",
+      "parts": [
+        {
+          "id": 28323801,
+          "type": "ch"
+        },
+        {
+          "id": 28323801,
+          "type": "ls"
+        },
+        {
+          "id": 28323801,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_sweetheartdress",
+      "parts": [
+        {
+          "id": 43242342,
+          "type": "ch"
+        },
+        {
+          "id": 43242343,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_habkokochsandals",
+      "parts": [
+        {
+          "id": 2604218,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "trousers_F_flowercoord",
+      "parts": [
+        {
+          "id": 123456743,
+          "type": "lg"
+        },
+        {
+          "id": 123456744,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_juicyjogger",
+      "parts": [
+        {
+          "id": 124453431,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "hair_F_shortfemalehairloddy",
+      "parts": [
+        {
+          "id": 889286639,
+          "type": "hr"
+        },
+        {
+          "id": 889286640,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_longanimehair",
+      "parts": [
+        {
+          "id": 65874343,
+          "type": "hr"
+        },
+        {
+          "id": 65874344,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_bowhat",
+      "parts": [
+        {
+          "id": 741351653,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_victoriancorset",
+      "parts": [
+        {
+          "id": 2147483644,
+          "type": "ch"
+        },
+        {
+          "id": 2147483645,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_wicked01fix",
+      "parts": [
+        {
+          "id": 9427641,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_floatingrainbow",
+      "parts": [
+        {
+          "id": 6740,
+          "type": "he"
+        },
+        {
+          "id": 6741,
+          "type": "he"
+        }
+      ]
+    },
+    {
       "id": "acc_eye_U_bonniecateyeshades",
       "parts": [
         {
@@ -2376,27 +2572,6 @@
         {
           "id": 645923456,
           "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "Shirt_F_Tshirt_Vestenk",
-      "parts": [
-        {
-          "id": 1337571,
-          "type": "ch"
-        },
-        {
-          "id": 1337571,
-          "type": "ls"
-        },
-        {
-          "id": 1337571,
-          "type": "rs"
-        },
-        {
-          "id": 1337572,
-          "type": "ch"
         }
       ]
     },
