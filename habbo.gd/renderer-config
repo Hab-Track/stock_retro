@@ -1,5 +1,4 @@
 ﻿{
-  "socket.url": "wss://ops.habbo.gd/a",
   "asset.url": "https://habbo.gd/Nitro/assets",
   "image.library.url": "https://habbo.gd/Nitro/assets/c_images/",
   "hof.furni.url": "https://habbo.gd/Nitro/assets/dcr/hof_furni",
@@ -10,8 +9,8 @@
   "productdata.url": "${gamedata.url}/ProductData.json",
   "avatar.actions.url": "${gamedata.url}/HabboAvatarActions.json",
   "avatar.effectmap.url": "${gamedata.url}/EffectMap.json",
-  "avatar.figuredata.url": "${gamedata.url}/FigureData.json?aa",
-  "avatar.figuremap.url": "${gamedata.url}/FigureMap.json?aa",
+  "avatar.figuredata.url": "${gamedata.url}/FigureData.json",
+  "avatar.figuremap.url": "${gamedata.url}/FigureMap.json",
   "avatar.asset.url": "${asset.url}/bundled/figure/%libname%.nitro",
   "avatar.asset.effect.url": "${asset.url}/bundled/effect/%libname%.nitro",
   "furni.asset.url": "${asset.url}/bundled/furniture/%libname%.nitro",
