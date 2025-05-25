@@ -7973,20 +7973,6 @@
       ]
     },
     {
-      "id": "hair_F_taylorhair",
-      "revision": 1337,
-      "parts": [
-        {
-          "id": 5777,
-          "type": "hr"
-        },
-        {
-          "id": 5778,
-          "type": "hrb"
-        }
-      ]
-    },
-    {
       "id": "hair_F_sonzashair",
       "revision": 1337,
       "parts": [
@@ -98584,6 +98570,20 @@
         {
           "id": 1337802,
           "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hair_F_taylorhair",
+      "revision": 1337,
+      "parts": [
+        {
+          "id": 1337700,
+          "type": "hr"
+        },
+        {
+          "id": 1337701,
+          "type": "hrb"
         }
       ]
     }
