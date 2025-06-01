@@ -1,6 +1,282 @@
 ﻿{
   "libraries": [
     {
+      "id": "hair_F_letsweirr",
+      "revision": 181354,
+      "parts": [
+        {
+          "id": 181354,
+          "type": "hr"
+        },
+        {
+          "id": 181354,
+          "type": "hrb"
+        },
+        {
+          "id": 181355,
+          "type": "hr"
+        },
+        {
+          "id": 181355,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_shirtcomorie",
+      "revision": 181353,
+      "parts": [
+        {
+          "id": 181353,
+          "type": "ch"
+        },
+        {
+          "id": 181353,
+          "type": "ls"
+        },
+        {
+          "id": 181353,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_chaussureetranj",
+      "revision": 181351,
+      "parts": [
+        {
+          "id": 181351,
+          "type": "sh"
+        },
+        {
+          "id": 181352,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_teemochapo",
+      "revision": 181350,
+      "parts": [
+        {
+          "id": 181350,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_parisienne",
+      "revision": 181348,
+      "parts": [
+        {
+          "id": 181348,
+          "type": "lg"
+        },
+        {
+          "id": 181349,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_unicornhorny",
+      "revision": 181345,
+      "parts": [
+        {
+          "id": 181345,
+          "type": "he"
+        },
+        {
+          "id": 181346,
+          "type": "he"
+        },
+        {
+          "id": 181347,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_pelodejner",
+      "revision": 181343,
+      "parts": [
+        {
+          "id": 181343,
+          "type": "hr"
+        },
+        {
+          "id": 181344,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_mochilenelo",
+      "revision": 181340,
+      "parts": [
+        {
+          "id": 181340,
+          "type": "ca"
+        },
+        {
+          "id": 181341,
+          "type": "ca"
+        },
+        {
+          "id": 181342,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_shinobishhoes",
+      "revision": 181339,
+      "parts": [
+        {
+          "id": 181339,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_patyhaute",
+      "revision": 181337,
+      "parts": [
+        {
+          "id": 181337,
+          "type": "ch"
+        },
+        {
+          "id": 181338,
+          "type": "ls"
+        },
+        {
+          "id": 181338,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_nanika",
+      "revision": 181335,
+      "parts": [
+        {
+          "id": 181335,
+          "type": "lg"
+        },
+        {
+          "id": 181336,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_sombrerodepescadore",
+      "revision": 181333,
+      "parts": [
+        {
+          "id": 181333,
+          "type": "ha"
+        },
+        {
+          "id": 181334,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_accwaistmaletaniams",
+      "revision": 181332,
+      "parts": [
+        {
+          "id": 181332,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "hair_F_girlygirl",
+      "revision": 181331,
+      "parts": [
+        {
+          "id": 181331,
+          "type": "hr"
+        },
+        {
+          "id": 181331,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_negitutiror",
+      "revision": 181329,
+      "parts": [
+        {
+          "id": 181329,
+          "type": "cc"
+        },
+        {
+          "id": 181329,
+          "type": "lc"
+        },
+        {
+          "id": 181329,
+          "type": "rc"
+        },
+        {
+          "id": 181330,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_chalheureuse",
+      "revision": 181327,
+      "parts": [
+        {
+          "id": 181327,
+          "type": "sh"
+        },
+        {
+          "id": 181328,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_juperchilonguesexe",
+      "revision": 181326,
+      "parts": [
+        {
+          "id": 181326,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_topnikemeuf",
+      "revision": 181324,
+      "parts": [
+        {
+          "id": 181324,
+          "type": "ch"
+        },
+        {
+          "id": 181324,
+          "type": "ls"
+        },
+        {
+          "id": 181324,
+          "type": "rs"
+        },
+        {
+          "id": 181325,
+          "type": "ch"
+        }
+      ]
+    },
+    {
       "id": "shirt_U_pulluphere",
       "revision": 181323,
       "parts": [
