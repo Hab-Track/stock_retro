@@ -1,6 +1,54 @@
 ﻿{
   "libraries": [
     {
+      "id": "hat_U_habkokochcap",
+      "parts": [
+        {
+          "id": 1337811,
+          "type": "ha"
+        },
+        {
+          "id": 1337812,
+          "type": "ha"
+        },
+        {
+          "id": 1337813,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_habkokochrobothead",
+      "parts": [
+        {
+          "id": 260424,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_habkokochsandals",
+      "parts": [
+        {
+          "id": 2604218,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_habkokochrobotbag",
+      "parts": [
+        {
+          "id": 30042025,
+          "type": "lc"
+        },
+        {
+          "id": 30042025,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "acc_eye_U_oakleyplantaris",
       "revision": 11983,
       "parts": [
