@@ -1,6 +1,100 @@
 ﻿{
   "libraries": [
     {
+      "id": "hat_U_habkokochcap",
+      "parts": [
+        {
+          "id": 1337811,
+          "type": "ha"
+        },
+        {
+          "id": 1337812,
+          "type": "ha"
+        },
+        {
+          "id": 1337813,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_habkokochrobothead",
+      "parts": [
+        {
+          "id": 260424,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_habkokochsandals",
+      "parts": [
+        {
+          "id": 2604218,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_habkokochrobotbag",
+      "parts": [
+        {
+          "id": 30042025,
+          "type": "lc"
+        },
+        {
+          "id": 30042025,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_oakleyplantaris",
+      "revision": 11983,
+      "parts": [
+        {
+          "id": 1337807,
+          "type": "ea"
+        },
+        {
+          "id": 1337808,
+          "type": "ea"
+        },
+        {
+          "id": 1337809,
+          "type": "ea"
+        },
+        {
+          "id": 1337810,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_CripsOakley",
+      "revision": 11982,
+      "parts": [
+        {
+          "id": 1337806,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_BandanaxCrips",
+      "revision": 11981,
+      "parts": [
+        {
+          "id": 1337804,
+          "type": "ha"
+        },
+        {
+          "id": 1337805,
+          "type": "ha"
+        }
+      ]
+    },
+    {
       "id": "trousers_U_novasaialongardt",
       "revision": 11980,
       "parts": [
