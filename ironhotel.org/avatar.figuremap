@@ -67345,6 +67345,52 @@
           "type": "ha"
         }
       ]
+    },
+    {
+      "id": "acc_chest_U_brmothwings",
+      "revision": 998788664,
+      "parts": [
+        {
+          "id": 6580,
+          "type": "ca"
+        },
+        {
+          "id": 6581,
+          "type": "ca"
+        },
+        {
+          "id": 6582,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_cheerbear",
+      "revision": 998788665,
+      "parts": [
+        {
+          "id": 6717,
+          "type": "ch"
+        },
+        {
+          "id": 6717,
+          "type": "ls"
+        },
+        {
+          "id": 6717,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_cheerbear",
+      "revision": 998788666,
+      "parts": [
+        {
+          "id": 6711,
+          "type": "ha"
+        }
+      ]
     }
   ]
 }
