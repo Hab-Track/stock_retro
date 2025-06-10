@@ -1,6 +1,93 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_face_F_newface",
+      "parts": [
+        {
+          "id": 9876565435,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_AKMColoreable",
+      "parts": [
+        {
+          "id": 10001009,
+          "type": "ca"
+        },
+        {
+          "id": 10001010,
+          "type": "ca"
+        },
+        {
+          "id": 10001011,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_AKMSimple",
+      "parts": [
+        {
+          "id": 1000085,
+          "type": "ca"
+        },
+        {
+          "id": 1000086,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_ArnesPorcino",
+      "parts": [
+        {
+          "id": 10001014,
+          "type": "ca"
+        },
+        {
+          "id": 10001015,
+          "type": "ca"
+        },
+        {
+          "id": 10001016,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_BoaPeluda",
+      "parts": [
+        {
+          "id": 30001472,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nebrd",
+      "parts": [
+        {
+          "id": 77020,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_VestidoLazado",
+      "parts": [
+        {
+          "id": 10001012,
+          "type": "ch"
+        },
+        {
+          "id": 10001013,
+          "type": "ch"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_bolsodeconejo",
       "parts": [
         {
