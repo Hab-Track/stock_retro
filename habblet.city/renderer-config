@@ -1,5 +1,5 @@
 ﻿{
-  "asset.url": "https://images.habblet.city/leet-asset-bundles",
+  "asset.url": "https://images.habblet.city/habblet-asset-bundles",
   "image.library.url": "https://images.habblet.city/c_images/",
   "hof.furni.url": "https://images.habblet.city/library/hof_furni",
   "images.url": "https://images.habblet.city/images",
@@ -13,7 +13,7 @@
   "pet.asset.url": "${asset.url}/libraries/pet/%libname%.nitro",
   "generic.asset.url": "${asset.url}/libraries/generic/%libname%.nitro",
   "badge.asset.url": "${image.library.url}album1584/%badgename%.gif",
-  "group.badge.url": "https://cdn.habbix.ws/badge/%imagerdata%.gif",
+  "group.badge.url": "https://cdn.habblet.city/badge/%imagerdata%.gif",
   "furni.rotation.bounce.steps": 8,
   "furni.rotation.bounce.height": 0.0625,
   "enable.avatar.arrow": false,
