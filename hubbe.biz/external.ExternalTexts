@@ -1,4 +1,5 @@
 ﻿{
+  "memenu.settings.other.delete.item.confirmation": "Pular confirmação ao deletar itens do inventário",
   "infostand.link.customize_name": "Nome",
   "infostand.link.customize_tags": "Tags",
   "infostand.link.customize": "Personalizar",
@@ -4812,8 +4813,8 @@
   "inventory.furni.item.wallpaper.name": "Papel de parede",
   "inventory.furni.next": "Seguinte",
   "inventory.furni.page.selector": "PÁG. %currentPage% / %totalPages%",
-  "inventory.furni.delete": "Apagar todos",
-  "inventory.delete.confirm": "Você tem certeza que deseja deletar todos os mobis iguais a esse?",
+  "inventory.furni.delete": "Apagar Itens",
+  "inventory.delete.confirm": "Você tem certeza que deseja deletar '%value%' '%furni%' iguais a esse?",
   "inventory.furni.placetoroom": "Colocar no Quarto",
   "inventory.furni.preview.not_recyclable": "Nenhum destes itens é reciclável",
   "inventory.furni.preview.not_tradeable": "Nenhum destes itens é reciclável",
@@ -29435,5 +29436,7 @@
   "badge_name_HUB627": "Lolla",
   "badge_desc_HUB627": "...e eu sou a sorte dele.",
   "badge_name_HUB628": "Fiel que nem um pinguim!",
-  "badge_desc_HUB628": "Presenteei o meu par com o melhor perfume desse hotel!"
+  "badge_desc_HUB628": "Presenteei o meu par com o melhor perfume desse hotel!",
+  "badge_name_HUB629": "Muuranga",
+  "badge_desc_HUB629": "A vaquinha mais curiosa e doce de Leitalina, parte em busca do Morango Sagrado."
 }
