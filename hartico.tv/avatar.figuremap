@@ -1,10 +1,403 @@
 ﻿{
   "libraries": [
     {
-      "id": "acc_face_F_newface",
+      "id": "acc_head_U_lazitolazito",
       "parts": [
         {
-          "id": 9876565435,
+          "id": 61611816,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_chaquetaninjamujer",
+      "parts": [
+        {
+          "id": 2147483647,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_sk8board",
+      "parts": [
+        {
+          "id": 6738,
+          "type": "ca"
+        },
+        {
+          "id": 6739,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_nfts25glasses1",
+      "parts": [
+        {
+          "id": 6769,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_nfts25glasses2",
+      "parts": [
+        {
+          "id": 6770,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftchocoicecream",
+      "parts": [
+        {
+          "id": 6749,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftpopsicle1",
+      "parts": [
+        {
+          "id": 6746,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftpopsicle2",
+      "parts": [
+        {
+          "id": 6747,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftpopsicle3",
+      "parts": [
+        {
+          "id": 6748,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftbubblebath",
+      "parts": [
+        {
+          "id": 6765,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftflowershades1",
+      "parts": [
+        {
+          "id": 6755,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftflowershades2",
+      "parts": [
+        {
+          "id": 6756,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftflowershades3",
+      "parts": [
+        {
+          "id": 6757,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftflowershades4",
+      "parts": [
+        {
+          "id": 6758,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftflowershades5",
+      "parts": [
+        {
+          "id": 6759,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftpiranha",
+      "parts": [
+        {
+          "id": 6762,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftpotpalm",
+      "parts": [
+        {
+          "id": 6763,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftsun",
+      "parts": [
+        {
+          "id": 6761,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftsmileyface",
+      "parts": [
+        {
+          "id": 6781,
+          "type": "fc"
+        },
+        {
+          "id": 6782,
+          "type": "ey"
+        },
+        {
+          "id": 6783,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftsmileyface2",
+      "parts": [
+        {
+          "id": 6784,
+          "type": "fc"
+        },
+        {
+          "id": 6785,
+          "type": "ey"
+        },
+        {
+          "id": 6786,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nonbowponytail",
+      "parts": [
+        {
+          "id": 6744,
+          "type": "hr"
+        },
+        {
+          "id": 6744,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_rainbowponytail",
+      "parts": [
+        {
+          "id": 6742,
+          "type": "hr"
+        },
+        {
+          "id": 6742,
+          "type": "hrb"
+        },
+        {
+          "id": 6743,
+          "type": "hr"
+        },
+        {
+          "id": 6743,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftdenimcap",
+      "parts": [
+        {
+          "id": 6750,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_sk8erhelmet",
+      "parts": [
+        {
+          "id": 6730,
+          "type": "ha"
+        },
+        {
+          "id": 6731,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftdenimjacket",
+      "parts": [
+        {
+          "id": 6751,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_unicorncompanion",
+      "parts": [
+        {
+          "id": 6729,
+          "type": "lc"
+        },
+        {
+          "id": 6729,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_nftdenimcroptop",
+      "parts": [
+        {
+          "id": 6752,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_sk8ershirt",
+      "parts": [
+        {
+          "id": 6734,
+          "type": "ch"
+        },
+        {
+          "id": 6734,
+          "type": "ls"
+        },
+        {
+          "id": 6734,
+          "type": "rs"
+        },
+        {
+          "id": 6735,
+          "type": "ch"
+        },
+        {
+          "id": 6735,
+          "type": "ls"
+        },
+        {
+          "id": 6735,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_nftdenimcroptop",
+      "parts": [
+        {
+          "id": 6753,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_sk8ershirt",
+      "parts": [
+        {
+          "id": 6732,
+          "type": "ch"
+        },
+        {
+          "id": 6732,
+          "type": "ls"
+        },
+        {
+          "id": 6732,
+          "type": "rs"
+        },
+        {
+          "id": 6733,
+          "type": "ch"
+        },
+        {
+          "id": 6733,
+          "type": "ls"
+        },
+        {
+          "id": 6733,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_nftbubblebath",
+      "parts": [
+        {
+          "id": 6764,
+          "type": "ch"
+        },
+        {
+          "id": 6764,
+          "type": "ls"
+        },
+        {
+          "id": 6764,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_nftdenimshorts",
+      "parts": [
+        {
+          "id": 6754,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_sk8ershorts",
+      "parts": [
+        {
+          "id": 6736,
+          "type": "lg"
+        },
+        {
+          "id": 6737,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_F_newfaceone",
+      "parts": [
+        {
+          "id": 8765432345,
           "type": "fa"
         }
       ]
