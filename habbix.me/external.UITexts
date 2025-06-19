@@ -23,8 +23,20 @@
   "notification.hotel.event.message": " An event is being hosted!:",
   "notification.hotel.event.linkTitle": "Go to: %ROOMNAME%",
   "notification.hotel.event.linkUrl": "event:navigator/goto/%ROOMID%",
-  "extendedprofile.created": "Créé le :",
-  "extendedprofile.last.login": "Dernière connexion :",
+  "extendedprofile.created": "<b>Crée le :</b> %created%",
+  "extendedprofile.last.login": "<b>Dernière connexion :</b> %lastlogin%",
   "extendedprofile.achievementscore": "Score :",
-  "extendedprofile.friends.count": "Amis :"
+  "extendedprofile.friends.count": "<b>Amis :</b> %count%",
+  "inventory.filter.placement.any": "Tout vos mobis",
+  "inventory.filter.placement.wall": "Mobis de mur",
+  "inventory.filter.placement.floor": "Mobis de sol",
+  "inventory.filter.placement.rare": "Mobis rares",
+  "inventory.banners": "Bannières",
+  "people.search.title": "Rechercher un joueur",
+  "memenu.settings.other.place.multiple.objects": "Placer plusieurs mobilier depuis le catalogue",
+  "memenu.settings.other.skip.purchase.confirmation": "Ignorer la confirmation d'achat du catalogue",
+  "memunu.settings.disable.game.alert": "Désactiver les alertes d'animation",
+  "generic.confirm": "Confirmer",
+  "generic.delete": "Supprimer",
+  "inventory.confirm.delete.item": "Voulez vous supprimer ce mobilier de votre inventaire ?"
 }
