@@ -2809,6 +2809,23 @@
       ]
     },
     {
+      "id": "shirt_U_bbsharkbody",
+      "parts": [
+        {
+          "id": 909500,
+          "type": "ch"
+        },
+        {
+          "id": 909500,
+          "type": "ls"
+        },
+        {
+          "id": 909500,
+          "type": "rs"
+        }
+      ]
+    },
+    {
       "id": "shirt_U_couplesweater2",
       "revision": 7,
       "parts": [
@@ -3106,6 +3123,15 @@
         },
         {
           "id": 5471,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftwintercap1",
+      "parts": [
+        {
+          "id": 6497,
           "type": "ha"
         }
       ]
