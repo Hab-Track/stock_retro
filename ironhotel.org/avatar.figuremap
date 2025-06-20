@@ -68181,6 +68181,250 @@
           "type": "fa"
         }
       ]
+    },
+    {
+      "id": "shirt_U_alicedressok",
+      "revision": 998788700,
+      "parts": [
+        {
+          "id": 16638,
+          "type": "ch"
+        },
+        {
+          "id": 16638,
+          "type": "ls"
+        },
+        {
+          "id": 16638,
+          "type": "rs"
+        },
+        {
+          "id": 16639,
+          "type": "ch"
+        },
+        {
+          "id": 16639,
+          "type": "ls"
+        },
+        {
+          "id": 16639,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_festashirtok",
+      "revision": 998788701,
+      "parts": [
+        {
+          "id": 16727,
+          "type": "ch"
+        },
+        {
+          "id": 16727,
+          "type": "ls"
+        },
+        {
+          "id": 16727,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_strappybikinitop",
+      "revision": 998788702,
+      "parts": [
+        {
+          "id": 6509,
+          "type": "ch"
+        },
+        {
+          "id": 6510,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_strappybikinitop",
+      "revision": 998788703,
+      "parts": [
+        {
+          "id": 6507,
+          "type": "ch"
+        },
+        {
+          "id": 6508,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_strappybikinibottoms",
+      "revision": 998788704,
+      "parts": [
+        {
+          "id": 6511,
+          "type": "lg"
+        },
+        {
+          "id": 6512,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "face_M_sunburntface",
+      "revision": 998788705,
+      "parts": [
+        {
+          "id": 6556,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_F_sunburntface2",
+      "revision": 998788706,
+      "parts": [
+        {
+          "id": 6558,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_sunfloweracc",
+      "revision": 998788707,
+      "parts": [
+        {
+          "id": 6552,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_teacuphead",
+      "revision": 998788708,
+      "parts": [
+        {
+          "id": 6629,
+          "type": "ha"
+        },
+        {
+          "id": 6630,
+          "type": "ha"
+        },
+        {
+          "id": 6631,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_tropicalplaysuit",
+      "revision": 998788709,
+      "parts": [
+        {
+          "id": 16573,
+          "type": "ch"
+        },
+        {
+          "id": 16573,
+          "type": "ls"
+        },
+        {
+          "id": 16573,
+          "type": "rs"
+        },
+        {
+          "id": 16574,
+          "type": "ch"
+        },
+        {
+          "id": 16574,
+          "type": "ls"
+        },
+        {
+          "id": 16574,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_tropicalplaysuit",
+      "revision": 998788710,
+      "parts": [
+        {
+          "id": 6575,
+          "type": "ch"
+        },
+        {
+          "id": 6575,
+          "type": "ls"
+        },
+        {
+          "id": 6575,
+          "type": "rs"
+        },
+        {
+          "id": 6576,
+          "type": "ch"
+        },
+        {
+          "id": 6576,
+          "type": "ls"
+        },
+        {
+          "id": 6576,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_wonderlandclock",
+      "revision": 998788711,
+      "parts": [
+        {
+          "id": 6621,
+          "type": "ca"
+        },
+        {
+          "id": 6622,
+          "type": "ca"
+        },
+        {
+          "id": 6623,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_woodensword",
+      "revision": 998788712,
+      "parts": [
+        {
+          "id": 6657,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nfttrenchcolorable",
+      "revision": 998788713,
+      "parts": [
+        {
+          "id": 16670,
+          "type": "cc"
+        },
+        {
+          "id": 16670,
+          "type": "lc"
+        },
+        {
+          "id": 16670,
+          "type": "rc"
+        }
+      ]
     }
   ]
 }
