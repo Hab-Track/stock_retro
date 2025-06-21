@@ -68681,6 +68681,182 @@
           "type": "wa"
         }
       ]
+    },
+    {
+      "id": "trousers_U_sk8ershorts",
+      "revision": 998788730,
+      "parts": [
+        {
+          "id": 6736,
+          "type": "lg"
+        },
+        {
+          "id": 6737,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_sk8erhelmet",
+      "revision": 998788731,
+      "parts": [
+        {
+          "id": 6730,
+          "type": "ha"
+        },
+        {
+          "id": 6731,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_sk8board",
+      "revision": 998788732,
+      "parts": [
+        {
+          "id": 6738,
+          "type": "ca"
+        },
+        {
+          "id": 6739,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_sk8ershirt",
+      "revision": 998788733,
+      "parts": [
+        {
+          "id": 6732,
+          "type": "ch"
+        },
+        {
+          "id": 6732,
+          "type": "ls"
+        },
+        {
+          "id": 6732,
+          "type": "rs"
+        },
+        {
+          "id": 6733,
+          "type": "ch"
+        },
+        {
+          "id": 6733,
+          "type": "ls"
+        },
+        {
+          "id": 6733,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_sk8ershirt",
+      "revision": 998788734,
+      "parts": [
+        {
+          "id": 6734,
+          "type": "ch"
+        },
+        {
+          "id": 6734,
+          "type": "ls"
+        },
+        {
+          "id": 6734,
+          "type": "rs"
+        },
+        {
+          "id": 6735,
+          "type": "ch"
+        },
+        {
+          "id": 6735,
+          "type": "ls"
+        },
+        {
+          "id": 6735,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_nftdenimshorts",
+      "revision": 998788735,
+      "parts": [
+        {
+          "id": 6754,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_nftdenimcroptop",
+      "revision": 998788736,
+      "parts": [
+        {
+          "id": 6753,
+          "type": "ch"
+        },
+        {
+          "id": 6753,
+          "type": "ls"
+        },
+        {
+          "id": 6753,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_nftdenimcroptop",
+      "revision": 998788737,
+      "parts": [
+        {
+          "id": 6752,
+          "type": "ch"
+        },
+        {
+          "id": 6752,
+          "type": "ls"
+        },
+        {
+          "id": 6752,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftdenimjacket",
+      "revision": 998788738,
+      "parts": [
+        {
+          "id": 6751,
+          "type": "cc"
+        },
+        {
+          "id": 6751,
+          "type": "lc"
+        },
+        {
+          "id": 6751,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftdenimcap",
+      "revision": 998788739,
+      "parts": [
+        {
+          "id": 6750,
+          "type": "ha"
+        }
+      ]
     }
   ]
 }
