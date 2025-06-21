@@ -68277,6 +68277,30 @@
       "revision": 998788705,
       "parts": [
         {
+          "id": 2,
+          "type": "hd"
+        },
+        {
+          "id": 1,
+          "type": "bd"
+        },
+        {
+          "id": 1,
+          "type": "ey"
+        },
+        {
+          "id": 1,
+          "type": "fc"
+        },
+        {
+          "id": 1,
+          "type": "lh"
+        },
+        {
+          "id": 1,
+          "type": "rh"
+        },
+        {
           "id": 6556,
           "type": "fc"
         }
@@ -68286,6 +68310,30 @@
       "id": "face_F_sunburntface2",
       "revision": 998788706,
       "parts": [
+        {
+          "id": 2,
+          "type": "hd"
+        },
+        {
+          "id": 1,
+          "type": "bd"
+        },
+        {
+          "id": 2,
+          "type": "ey"
+        },
+        {
+          "id": 1,
+          "type": "fc"
+        },
+        {
+          "id": 1,
+          "type": "lh"
+        },
+        {
+          "id": 1,
+          "type": "rh"
+        },
         {
           "id": 6558,
           "type": "fc"
@@ -68423,6 +68471,214 @@
         {
           "id": 16670,
           "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_axeiuruwngolden",
+      "revision": 998788714,
+      "parts": [
+        {
+          "id": 174376,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_eletronicanklet1",
+      "revision": 998788715,
+      "parts": [
+        {
+          "id": 174302,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_faldacolegio1",
+      "revision": 998788716,
+      "parts": [
+        {
+          "id": 10000444,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_franjabangs",
+      "revision": 998788717,
+      "parts": [
+        {
+          "id": 2334223,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_mariposasacce1",
+      "revision": 998788718,
+      "parts": [
+        {
+          "id": 10000624,
+          "type": "he"
+        },
+        {
+          "id": 10000625,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_mochabear1",
+      "revision": 998788719,
+      "parts": [
+        {
+          "id": 10004360,
+          "type": "ca"
+        },
+        {
+          "id": 10004361,
+          "type": "ca"
+        },
+        {
+          "id": 10004362,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_snoopybackpack1",
+      "revision": 998788720,
+      "parts": [
+        {
+          "id": 8374692,
+          "type": "ca"
+        },
+        {
+          "id": 8374693,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_zapatosconmedias",
+      "revision": 998788721,
+      "parts": [
+        {
+          "id": 20073630,
+          "type": "sh"
+        },
+        {
+          "id": 200736230,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_zapatosinmeia",
+      "revision": 998788722,
+      "parts": [
+        {
+          "id": 200736231,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_CinturonDiesel2",
+      "revision": 998788723,
+      "parts": [
+        {
+          "id": 721474836,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_MIUbeachat",
+      "revision": 998788724,
+      "parts": [
+        {
+          "id": 175477,
+          "type": "ha"
+        },
+        {
+          "id": 175478,
+          "type": "ha"
+        },
+        {
+          "id": 175479,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_MIUbeachtop",
+      "revision": 998788725,
+      "parts": [
+        {
+          "id": 175480,
+          "type": "ch"
+        },
+        {
+          "id": 175481,
+          "type": "ch"
+        },
+        {
+          "id": 175482,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_MIUsuebody",
+      "revision": 998788726,
+      "parts": [
+        {
+          "id": 995040,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "trousers_F_MIUbeachbottom",
+      "revision": 998788727,
+      "parts": [
+        {
+          "id": 175483,
+          "type": "lg"
+        },
+        {
+          "id": 175484,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_ruborzinho",
+      "revision": 998788728,
+      "parts": [
+        {
+          "id": 10000187,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_policebelt2",
+      "revision": 998788729,
+      "parts": [
+        {
+          "id": 83437429,
+          "type": "ch"
+        },
+        {
+          "id": 83437430,
+          "type": "wa"
+        },
+        {
+          "id": 83437429,
+          "type": "wa"
         }
       ]
     }
