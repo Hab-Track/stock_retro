@@ -1,4 +1,6 @@
 ﻿{
+  "wiredfurni.params.variables.availability.20": "Referência",
+  "wiredfurni.params.view_variable_in_menu": "Ver no menu Wired",
   "wiredmenu.inspect": "Inspecionar",
   "navigator.wiredmenu.error_info": "Wired Error Information",
   "wiredmenu.error_info.0": "Este erro ocorre quando o limite máximo de uso de Wired (que pode ser observado na aba \"Monitor\") está prestes a ser excedido por uma execução de Wired. Quando isso acontece, a execução do Wired será cancelada, de modo que o limite de uso do Wired nunca seja excedido.\\n\\nAtingir o limite de execução muito rapidamente pode ser um sinal de uma configuração de Wired ineficiente. Se sua configuração de Wired não for muito complexa, você deve investigar como melhorá-la para evitar que este erro aconteça inesperadamente. O uso de Wired é um ótimo indicador da complexidade do Wired do seu quarto, e outros fatores (como lag nos servidores Habbo) não estão em jogo.",
