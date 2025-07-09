@@ -1,6 +1,405 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_AR15",
+      "parts": [
+        {
+          "id": 10001067,
+          "type": "ca"
+        },
+        {
+          "id": 10001068,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_KelTecRDB",
+      "parts": [
+        {
+          "id": 10001069,
+          "type": "ca"
+        },
+        {
+          "id": 10001070,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_cuttiebag",
+      "parts": [
+        {
+          "id": 10000433,
+          "type": "ca"
+        },
+        {
+          "id": 10000434,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_kiba",
+      "parts": [
+        {
+          "id": 2147483647,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_ojosconeja",
+      "parts": [
+        {
+          "id": 10001138,
+          "type": "ea"
+        },
+        {
+          "id": 10001139,
+          "type": "ea"
+        },
+        {
+          "id": 10001140,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv25trapoBocal",
+      "parts": [
+        {
+          "id": 10001133,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv25vendasfaciales",
+      "parts": [
+        {
+          "id": 10001129,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv25lazoLargo",
+      "parts": [
+        {
+          "id": 10001130,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv25pendOrientales",
+      "parts": [
+        {
+          "id": 10001125,
+          "type": "he"
+        },
+        {
+          "id": 10001126,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_goobdemontail",
+      "parts": [
+        {
+          "id": 9183784,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_tv25bolsoKuromi",
+      "parts": [
+        {
+          "id": 10001135,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_tv25bolsoMelody",
+      "parts": [
+        {
+          "id": 10001134,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_tv25flotador",
+      "parts": [
+        {
+          "id": 10001136,
+          "type": "wa"
+        },
+        {
+          "id": 10001137,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv25capuchaBling",
+      "parts": [
+        {
+          "id": 10001127,
+          "type": "ha"
+        },
+        {
+          "id": 10001128,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_chalecofelpa",
+      "parts": [
+        {
+          "id": 440060540,
+          "type": "cc"
+        },
+        {
+          "id": 440060540,
+          "type": "lc"
+        },
+        {
+          "id": 440060540,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_coldplaybracelet",
+      "parts": [
+        {
+          "id": 76834553,
+          "type": "lc"
+        },
+        {
+          "id": 76834553,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv25abrigoLalala",
+      "parts": [
+        {
+          "id": 10001099,
+          "type": "cc"
+        },
+        {
+          "id": 10001099,
+          "type": "lc"
+        },
+        {
+          "id": 10001099,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv25camisola4K",
+      "parts": [
+        {
+          "id": 10001123,
+          "type": "cc"
+        },
+        {
+          "id": 10001123,
+          "type": "lc"
+        },
+        {
+          "id": 10001123,
+          "type": "rc"
+        },
+        {
+          "id": 10001124,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv25chaquetaBershka",
+      "parts": [
+        {
+          "id": 10001121,
+          "type": "cc"
+        },
+        {
+          "id": 10001121,
+          "type": "lc"
+        },
+        {
+          "id": 10001121,
+          "type": "rc"
+        },
+        {
+          "id": 10001122,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv25zorro",
+      "parts": [
+        {
+          "id": 10001072,
+          "type": "cc"
+        },
+        {
+          "id": 10001073,
+          "type": "lc"
+        },
+        {
+          "id": 10001073,
+          "type": "rc"
+        },
+        {
+          "id": 10001074,
+          "type": "cc"
+        },
+        {
+          "id": 10001075,
+          "type": "lc"
+        },
+        {
+          "id": 10001075,
+          "type": "rc"
+        },
+        {
+          "id": 10001076,
+          "type": "lc"
+        },
+        {
+          "id": 10001076,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_VestidoGotica",
+      "parts": [
+        {
+          "id": 10001141,
+          "type": "cc"
+        },
+        {
+          "id": 10001142,
+          "type": "cc"
+        },
+        {
+          "id": 10001143,
+          "type": "lc"
+        },
+        {
+          "id": 10001143,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_corsethadaF",
+      "parts": [
+        {
+          "id": 1337624,
+          "type": "ch"
+        },
+        {
+          "id": 1337624,
+          "type": "ls"
+        },
+        {
+          "id": 1337624,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_pearlshirtF",
+      "parts": [
+        {
+          "id": 8765433,
+          "type": "ch"
+        },
+        {
+          "id": 8765433,
+          "type": "ls"
+        },
+        {
+          "id": 8765433,
+          "type": "rs"
+        },
+        {
+          "id": 8765434,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_corsethadaM",
+      "parts": [
+        {
+          "id": 9999585,
+          "type": "ch"
+        },
+        {
+          "id": 9999585,
+          "type": "ls"
+        },
+        {
+          "id": 9999585,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_pearlshirtM",
+      "parts": [
+        {
+          "id": 8765435,
+          "type": "ch"
+        },
+        {
+          "id": 8765435,
+          "type": "ls"
+        },
+        {
+          "id": 8765435,
+          "type": "rs"
+        },
+        {
+          "id": 8765436,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_haaziqpantsadj",
+      "parts": [
+        {
+          "id": 145751,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv25pantsbaggycargo",
+      "parts": [
+        {
+          "id": 10001071,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "hair_U_punkhazardhair",
       "parts": [
         {
