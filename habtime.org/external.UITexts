@@ -42,6 +42,7 @@
   "notification.hotel.event.title": "Event",
   "notification.hotel.alert.imager": "https://imager.habtime.org/?figure=%FIGURE%",
   "notification.hotel.alert.linkUrl": "event:navigator/goto/%ROOMID%",
+  "notification.hotel.alert.link": "event:navigator/goto/%ROOMID%",
   "notification.hotel.alert.title": "Message from HabTime Staff",
   "notification.hotel.alert.click": "Click here to visit",
   "notification.about.alert.title": "Powered by Arcturus Emulator",
