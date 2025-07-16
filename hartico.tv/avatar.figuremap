@@ -1,6 +1,336 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_AlasSteampunk",
+      "parts": [
+        {
+          "id": 20001557,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_FlotadoraPavoreal",
+      "parts": [
+        {
+          "id": 10001148,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_sprayjetpack",
+      "parts": [
+        {
+          "id": 93652716,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv25bebeBob",
+      "parts": [
+        {
+          "id": 10001173,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv25bebePatricio",
+      "parts": [
+        {
+          "id": 10001172,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_tv25gafasEsponja",
+      "parts": [
+        {
+          "id": 10001163,
+          "type": "ea"
+        },
+        {
+          "id": 10001164,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_CubreBocaInvernal",
+      "parts": [
+        {
+          "id": 20001560,
+          "type": "fa"
+        },
+        {
+          "id": 20001561,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_Ghost",
+      "parts": [
+        {
+          "id": 173945,
+          "type": "fa"
+        },
+        {
+          "id": 173946,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv25caraCalamardo",
+      "parts": [
+        {
+          "id": 10001159,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv25mascarasirenoman",
+      "parts": [
+        {
+          "id": 10001174,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv25pompaDeJabon",
+      "parts": [
+        {
+          "id": 10001168,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_Ardilla",
+      "parts": [
+        {
+          "id": 10001146,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv25auraEsponja",
+      "parts": [
+        {
+          "id": 10001160,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv25burbujaSucia",
+      "parts": [
+        {
+          "id": 10001175,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv25florEsponja",
+      "parts": [
+        {
+          "id": 10001162,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_PeinadoBullNordico",
+      "parts": [
+        {
+          "id": 20001564,
+          "type": "hr"
+        },
+        {
+          "id": 20001565,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv25gorroBotellon",
+      "parts": [
+        {
+          "id": 10001166,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv25gorroPercebe",
+      "parts": [
+        {
+          "id": 10001176,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv25peceraEsponja",
+      "parts": [
+        {
+          "id": 10001167,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_PelucheBuzz",
+      "parts": [
+        {
+          "id": 30001492,
+          "type": "lc"
+        },
+        {
+          "id": 30001492,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_PelucheJessie",
+      "parts": [
+        {
+          "id": 30001490,
+          "type": "lc"
+        },
+        {
+          "id": 30001490,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_PelucheLotso",
+      "parts": [
+        {
+          "id": 30001489,
+          "type": "lc"
+        },
+        {
+          "id": 30001489,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_PelucheWoody",
+      "parts": [
+        {
+          "id": 30001491,
+          "type": "lc"
+        },
+        {
+          "id": 30001491,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_PelucheTiroAlBlanco",
+      "parts": [
+        {
+          "id": 30001488,
+          "type": "lc"
+        },
+        {
+          "id": 30001488,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv25gary",
+      "parts": [
+        {
+          "id": 10001165,
+          "type": "lc"
+        },
+        {
+          "id": 10001165,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv25pinturaCalamardo",
+      "parts": [
+        {
+          "id": 10001161,
+          "type": "lc"
+        },
+        {
+          "id": 10001161,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv25rocky",
+      "parts": [
+        {
+          "id": 10001169,
+          "type": "lc"
+        },
+        {
+          "id": 10001169,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv25colorburger",
+      "parts": [
+        {
+          "id": 10001170,
+          "type": "ch"
+        },
+        {
+          "id": 10001171,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_BikiniBrasileno",
+      "parts": [
+        {
+          "id": 20001558,
+          "type": "lg"
+        },
+        {
+          "id": 20001559,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_saiaderenda",
+      "parts": [
+        {
+          "id": 100000,
+          "type": "lg"
+        },
+        {
+          "id": 100001,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_AR15",
       "parts": [
         {
