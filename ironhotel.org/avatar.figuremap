@@ -69499,6 +69499,100 @@
           "type": "fa"
         }
       ]
+    },
+    {
+      "id": "hair_U_cassbardihair",
+      "revision": 998788785,
+      "parts": [
+        {
+          "id": 488049,
+          "type": "hr"
+        },
+        {
+          "id": 488049,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_cassteamprintfem",
+      "revision": 998788786,
+      "parts": [
+        {
+          "id": 488046,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_cassteamprintmasc",
+      "revision": 998788787,
+      "parts": [
+        {
+          "id": 488045,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_cassstripesfem",
+      "revision": 998788788,
+      "parts": [
+        {
+          "id": 488047,
+          "type": "ch"
+        },
+        {
+          "id": 488047,
+          "type": "ls"
+        },
+        {
+          "id": 488047,
+          "type": "rs"
+        },
+        {
+          "id": 488048,
+          "type": "ch"
+        },
+        {
+          "id": 488048,
+          "type": "ls"
+        },
+        {
+          "id": 488048,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_cassstripesmasc",
+      "revision": 998788789,
+      "parts": [
+        {
+          "id": 488041,
+          "type": "ch"
+        },
+        {
+          "id": 488041,
+          "type": "ls"
+        },
+        {
+          "id": 488041,
+          "type": "rs"
+        },
+        {
+          "id": 488042,
+          "type": "ch"
+        },
+        {
+          "id": 488042,
+          "type": "ls"
+        },
+        {
+          "id": 488042,
+          "type": "rs"
+        }
+      ]
     }
   ]
 }
