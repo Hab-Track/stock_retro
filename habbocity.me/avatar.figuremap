@@ -1,6 +1,118 @@
 ﻿{
   "libraries": [
     {
+      "id": "hair_U_HitsugayaHaircut",
+      "revision": 181365,
+      "parts": [
+        {
+          "id": 181365,
+          "type": "hr"
+        },
+        {
+          "id": 181365,
+          "type": "hrb"
+        },
+        {
+          "id": 181366,
+          "type": "hr"
+        },
+        {
+          "id": 181366,
+          "type": "hrb"
+        },
+        {
+          "id": 181367,
+          "type": "hr"
+        },
+        {
+          "id": 181367,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_CollierMeet",
+      "revision": 181362,
+      "parts": [
+        {
+          "id": 181362,
+          "type": "ca"
+        },
+        {
+          "id": 181363,
+          "type": "ca"
+        },
+        {
+          "id": 181364,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_MeetGalaDress",
+      "revision": 181359,
+      "parts": [
+        {
+          "id": 181359,
+          "type": "ch"
+        },
+        {
+          "id": 181359,
+          "type": "ls"
+        },
+        {
+          "id": 181359,
+          "type": "rs"
+        },
+        {
+          "id": 181360,
+          "type": "ch"
+        },
+        {
+          "id": 181361,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_BOKOHOAM2",
+      "revision": 181356,
+      "parts": [
+        {
+          "id": 181356,
+          "type": "cc"
+        },
+        {
+          "id": 181356,
+          "type": "lc"
+        },
+        {
+          "id": 181356,
+          "type": "rc"
+        },
+        {
+          "id": 181357,
+          "type": "cc"
+        },
+        {
+          "id": 181357,
+          "type": "lc"
+        },
+        {
+          "id": 181358,
+          "type": "cc"
+        },
+        {
+          "id": 181358,
+          "type": "lc"
+        },
+        {
+          "id": 181358,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "hair_F_letsweirr",
       "revision": 181354,
       "parts": [
