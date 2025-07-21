@@ -1,7 +1,7 @@
 ﻿{
-  "socket.url": "wss://socket.habvibe.org",
-  "asset.url": "https://assets.habvibe.org/nitro/nitro-assets",
-  "flash.asset.url": "https://assets.habvibe.org/flash",
+  "socket.url": "wss://secure.pixu.life",
+  "asset.url": "https://assets.pixu.life/nitro/nitro-assets",
+  "flash.asset.url": "https://assets.pixu.life/flash",
   "image.library.url": "${flash.asset.url}/c_images/",
   "hof.furni.url": "${flash.asset.url}/dcr/hof_furni",
   "images.url": "${asset.url}/images",
@@ -36,7 +36,7 @@
   "system.fps.animation": 24,
   "system.fps.max": 60,
   "system.pong.manually": true,
-  "system.pong.interval.ms": 20000,
+  "system.pong.interval.ms": 10000,
   "room.color.skip.transition": true,
   "room.landscapes.enabled": true,
   "avatar.mandatory.libraries": [
