@@ -1,6 +1,54 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_U_MomoshikiSleeve",
+      "revision": 181433,
+      "parts": [
+        {
+          "id": 181433,
+          "type": "ch"
+        },
+        {
+          "id": 181433,
+          "type": "ls"
+        },
+        {
+          "id": 181433,
+          "type": "rs"
+        },
+        {
+          "id": 181434,
+          "type": "ch"
+        },
+        {
+          "id": 181434,
+          "type": "ls"
+        },
+        {
+          "id": 181434,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_IwaVest",
+      "revision": 181432,
+      "parts": [
+        {
+          "id": 181432,
+          "type": "cc"
+        },
+        {
+          "id": 181432,
+          "type": "lc"
+        },
+        {
+          "id": 181432,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_dreamerbackpack",
       "revision": 181430,
       "parts": [
