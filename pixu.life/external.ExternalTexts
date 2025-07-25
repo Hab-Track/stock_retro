@@ -3132,6 +3132,7 @@
   "chat.history.button.tooltip": "Open chat history",
   "chat.history.drag.tooltip": "Drag this to display chat history",
   "chat.history.mute.tooltip": "Ignore this user",
+  "chat.history.clear": "Clear History",
   "chat.ignore_user.confirm.info": "Ignore all future chat from %username%?",
   "chat.ignore_user.confirm.title": "Ignore User",
   "chat.input.alert.flood": "Don't flood the room! - %time% seconds remaining",
@@ -25493,6 +25494,7 @@
   "help.cfh.reason.cyber": "Cyber Bullying",
   "widget.chooser.btn.pickall": "Pickup Items",
   "inventory.delete.confirm_delete.title": "Deleting Item!",
+  "inventory.delete.amount.button": "Amount:",
   "inventory.delete.max_amount.button": "MAX",
   "inventory.delete.confirm_delete.button": "Delete",
   "inventory.delete.confirm_delete.info": "Are you sure you want to delete this item?",
@@ -25535,5 +25537,7 @@
   "badge_desc_NB222": "Nationale Feestdag van België met Pixu!",
   "badge_name_NB222": "Verzot op frietjes!",
   "badge_desc_AYAN": "Classroom of the Elite",
-  "badge_name_AYAN": "Kiyotaka Ayanokoji"
+  "badge_name_AYAN": "Kiyotaka Ayanokoji",
+  "memenu.settings.chat.prefer.old.chat": "Prefer Old Chat",
+  "memenu.settings.other.ignore.room.invites": "Ignore Room Invites"
 }
