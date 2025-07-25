@@ -1,6 +1,24 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_unicorncompanion",
+      "revision": 991111039,
+      "parts": [
+        {
+          "id": 6729,
+          "type": "cc"
+        },
+        {
+          "id": 6729,
+          "type": "lc"
+        },
+        {
+          "id": 6729,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_kirby",
       "revision": 10546,
       "parts": [
