@@ -1,6 +1,92 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_HyakkimaruKimono",
+      "revision": 181440,
+      "parts": [
+        {
+          "id": 181440,
+          "type": "cc"
+        },
+        {
+          "id": 181440,
+          "type": "lc"
+        },
+        {
+          "id": 181440,
+          "type": "rc"
+        },
+        {
+          "id": 181441,
+          "type": "cc"
+        },
+        {
+          "id": 181441,
+          "type": "lc"
+        },
+        {
+          "id": 181441,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_HyakkimaruKimono",
+      "revision": 181438,
+      "parts": [
+        {
+          "id": 181438,
+          "type": "ch"
+        },
+        {
+          "id": 181438,
+          "type": "ls"
+        },
+        {
+          "id": 181438,
+          "type": "rs"
+        },
+        {
+          "id": 181439,
+          "type": "ch"
+        },
+        {
+          "id": 181439,
+          "type": "ls"
+        },
+        {
+          "id": 181439,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_Suiryu",
+      "revision": 181435,
+      "parts": [
+        {
+          "id": 181435,
+          "type": "hr"
+        },
+        {
+          "id": 181435,
+          "type": "hrb"
+        },
+        {
+          "id": 181436,
+          "type": "hrb"
+        },
+        {
+          "id": 181437,
+          "type": "hr"
+        },
+        {
+          "id": 181437,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
       "id": "shirt_U_MomoshikiSleeve",
       "revision": 181433,
       "parts": [
