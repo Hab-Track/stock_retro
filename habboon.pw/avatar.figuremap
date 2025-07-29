@@ -40564,7 +40564,7 @@
     },
     {
       "id": "shirt_M_frillybikinitop",
-      "revision": 73650,
+      "revision": 73696,
       "parts": [
         {
           "id": 6684,
@@ -40614,7 +40614,7 @@
     },
     {
       "id": "shirt_F_frillybikinitop",
-      "revision": 73650,
+      "revision": 73696,
       "parts": [
         {
           "id": 6682,
@@ -40812,7 +40812,7 @@
     },
     {
       "id": "acc_chest_U_iridescentstarbag",
-      "revision": 73671,
+      "revision": 73691,
       "parts": [
         {
           "id": 6745,
@@ -40917,6 +40917,62 @@
         {
           "id": 6858,
           "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftwatermelonhelmet",
+      "revision": 73692,
+      "parts": [
+        {
+          "id": 6857,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_patchlongscarf",
+      "revision": 73689,
+      "parts": [
+        {
+          "id": 6722,
+          "type": "cc"
+        },
+        {
+          "id": 6722,
+          "type": "lc"
+        },
+        {
+          "id": 6722,
+          "type": "rc"
+        },
+        {
+          "id": 6723,
+          "type": "cc"
+        },
+        {
+          "id": 6724,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_nftbrokenglasses",
+      "revision": 73692,
+      "parts": [
+        {
+          "id": 6856,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftcola",
+      "revision": 73698,
+      "parts": [
+        {
+          "id": 6859,
+          "type": "ca"
         }
       ]
     },
