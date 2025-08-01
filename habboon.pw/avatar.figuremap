@@ -39838,7 +39838,7 @@
     },
     {
       "id": "acc_eye_U_bonniecateyeshades",
-      "revision": 73288,
+      "revision": 73711,
       "parts": [
         {
           "id": 6618,
@@ -40973,6 +40973,32 @@
         {
           "id": 6859,
           "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftbionic",
+      "revision": 73719,
+      "parts": [
+        {
+          "id": 6860,
+          "type": "lc"
+        },
+        {
+          "id": 6860,
+          "type": "rc"
+        },
+        {
+          "id": 6860,
+          "type": "cc"
+        },
+        {
+          "id": 6861,
+          "type": "lc"
+        },
+        {
+          "id": 6862,
+          "type": "lc"
         }
       ]
     },
@@ -42558,7 +42584,7 @@
     },
     {
       "id": "hh_human_item",
-      "revision": 73661,
+      "revision": 73711,
       "parts": [
         {
           "id": 0,
@@ -43606,6 +43632,10 @@
         },
         {
           "id": 289,
+          "type": "ri"
+        },
+        {
+          "id": 290,
           "type": "ri"
         },
         {
