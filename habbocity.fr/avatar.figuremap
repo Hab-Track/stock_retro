@@ -1,6 +1,36 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_NeckHeadband",
+      "revision": 181445,
+      "parts": [
+        {
+          "id": 181445,
+          "type": "cc"
+        },
+        {
+          "id": 181445,
+          "type": "lc"
+        },
+        {
+          "id": 181445,
+          "type": "rc"
+        },
+        {
+          "id": 181446,
+          "type": "cc"
+        },
+        {
+          "id": 181446,
+          "type": "lc"
+        },
+        {
+          "id": 181446,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "shoes_U_EggIslandBoots",
       "revision": 181442,
       "parts": [
