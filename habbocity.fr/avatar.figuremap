@@ -1,6 +1,24 @@
 ﻿{
   "libraries": [
     {
+      "id": "shoes_U_EggIslandBoots",
+      "revision": 181442,
+      "parts": [
+        {
+          "id": 181442,
+          "type": "sh"
+        },
+        {
+          "id": 181443,
+          "type": "sh"
+        },
+        {
+          "id": 181444,
+          "type": "sh"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_HyakkimaruKimono",
       "revision": 181440,
       "parts": [
