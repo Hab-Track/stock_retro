@@ -60,5 +60,6 @@
   "catalog.marketplace.filter.wall": "Wall Items",
   "catalog.marketplace.filter.clothing": "Clothing Items",
   "catalog.marketplace.filter.ltds": "LTDs",
-  "inventory.marketplace.confirm_offer.info.duration": "You are selling %quantity% of %furniname% for %duration%. If someone buys this offer, you will receive: %price% %currency%(s) per item."
+  "inventory.marketplace.confirm_offer.info.duration": "You are selling %quantity% of %furniname% for %duration%. If someone buys this offer, you will receive: %price% %currency%(s) per item.",
+  "catalog.alert.notenough.diamonds.description": "You don't have enough Diamonds for this."
 }
