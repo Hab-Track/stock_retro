@@ -1,6 +1,36 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_ArmHeadband",
+      "revision": 181447,
+      "parts": [
+        {
+          "id": 181447,
+          "type": "cc"
+        },
+        {
+          "id": 181447,
+          "type": "lc"
+        },
+        {
+          "id": 181447,
+          "type": "rc"
+        },
+        {
+          "id": 181448,
+          "type": "cc"
+        },
+        {
+          "id": 181448,
+          "type": "lc"
+        },
+        {
+          "id": 181448,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_NeckHeadband",
       "revision": 181445,
       "parts": [
