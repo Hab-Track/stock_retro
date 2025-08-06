@@ -70661,6 +70661,230 @@
           "type": "cc"
         }
       ]
+    },
+    {
+      "id": "shirt_U_cassFFblousemasc",
+      "revision": 998788865,
+      "parts": [
+        {
+          "id": 488022,
+          "type": "ch"
+        },
+        {
+          "id": 488022,
+          "type": "ls"
+        },
+        {
+          "id": 488022,
+          "type": "rs"
+        },
+        {
+          "id": 488023,
+          "type": "ch"
+        },
+        {
+          "id": 488024,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_cassFFpants",
+      "revision": 998788866,
+      "parts": [
+        {
+          "id": 488025,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_cassFFshoes",
+      "revision": 998788867,
+      "parts": [
+        {
+          "id": 488026,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_cassFFshoepant",
+      "revision": 998788868,
+      "parts": [
+        {
+          "id": 488027,
+          "type": "lg"
+        },
+        {
+          "id": 488028,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_cassFFblousefem",
+      "revision": 998788869,
+      "parts": [
+        {
+          "id": 488057,
+          "type": "ch"
+        },
+        {
+          "id": 488057,
+          "type": "ls"
+        },
+        {
+          "id": 488057,
+          "type": "rs"
+        },
+        {
+          "id": 488058,
+          "type": "ch"
+        },
+        {
+          "id": 488059,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_cassFFbelt",
+      "revision": 998788870,
+      "parts": [
+        {
+          "id": 488060,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_cassFFfenantreno1",
+      "revision": 998788871,
+      "parts": [
+        {
+          "id": 488061,
+          "type": "cp"
+        },
+        {
+          "id": 488062,
+          "type": "cp"
+        },
+        {
+          "id": 488063,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_cassFFfenantreno2",
+      "revision": 998788872,
+      "parts": [
+        {
+          "id": 488064,
+          "type": "cp"
+        },
+        {
+          "id": 488065,
+          "type": "cp"
+        },
+        {
+          "id": 488066,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_cassFFfenantreno3",
+      "revision": 998788873,
+      "parts": [
+        {
+          "id": 488067,
+          "type": "cp"
+        },
+        {
+          "id": 488068,
+          "type": "cp"
+        },
+        {
+          "id": 488069,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_cassFFfenantreno5",
+      "revision": 998788874,
+      "parts": [
+        {
+          "id": 488070,
+          "type": "ca"
+        },
+        {
+          "id": 488071,
+          "type": "ca"
+        },
+        {
+          "id": 488072,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_cassFFfenantreno6",
+      "revision": 998788875,
+      "parts": [
+        {
+          "id": 488073,
+          "type": "ca"
+        },
+        {
+          "id": 488074,
+          "type": "ca"
+        },
+        {
+          "id": 488075,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_cassFFtanktopfem",
+      "revision": 998788876,
+      "parts": [
+        {
+          "id": 488076,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_cassFFtanktopmasc",
+      "revision": 998788877,
+      "parts": [
+        {
+          "id": 488077,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_cassFFfenantreno4",
+      "revision": 998788878,
+      "parts": [
+        {
+          "id": 488067,
+          "type": "ca"
+        },
+        {
+          "id": 488068,
+          "type": "ca"
+        },
+        {
+          "id": 488069,
+          "type": "ca"
+        }
+      ]
     }
   ]
 }
