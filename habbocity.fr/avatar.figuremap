@@ -1,6 +1,24 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_GaaraGourde",
+      "revision": 181449,
+      "parts": [
+        {
+          "id": 181449,
+          "type": "ca"
+        },
+        {
+          "id": 181450,
+          "type": "ca"
+        },
+        {
+          "id": 181451,
+          "type": "ca"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_ArmHeadband",
       "revision": 181447,
       "parts": [
@@ -23173,7 +23191,7 @@
       ]
     },
     {
-      "id": "shirt_M_SupaHiroVarianteF",
+      "id": "shirt_M_bVarianteF",
       "revision": null,
       "parts": [
         {
