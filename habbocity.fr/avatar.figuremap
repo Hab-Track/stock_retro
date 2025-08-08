@@ -1,6 +1,36 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_NarutoArmor",
+      "revision": 181455,
+      "parts": [
+        {
+          "id": 181455,
+          "type": "cc"
+        },
+        {
+          "id": 181455,
+          "type": "lc"
+        },
+        {
+          "id": 181455,
+          "type": "rc"
+        },
+        {
+          "id": 181456,
+          "type": "cc"
+        },
+        {
+          "id": 181456,
+          "type": "lc"
+        },
+        {
+          "id": 181456,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "acc_head_U_HitaiAte",
       "revision": 181452,
       "parts": [
