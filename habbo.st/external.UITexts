@@ -1,4 +1,12 @@
 ﻿{
+  "wiredfurni.params.quantifier.furni.0": "All of the furni match",
+  "wiredfurni.params.quantifier.furni.1": "Any of the furni match",
+  "wiredfurni.params.quantifier.furni.neg.0": "Any of the furni does not match",
+  "wiredfurni.params.quantifier.furni.neg.1": "None of the furni match",
+  "wiredfurni.params.quantifier.users.0": "All of the users match",
+  "wiredfurni.params.quantifier.users.1": "Any of the users match",
+  "wiredfurni.params.quantifier.users.neg.0": "Any of the users does not match",
+  "wiredfurni.params.quantifier.users.neg.1": "None of the users match",
   "wiredfurni.params.handitem": "Hand Item",
   "wiredfurni.params.capture.handitem": "Copy my hand item",
   "wiredfurni.tooltip.enter_names_info": "Separate usernames by new lines",
