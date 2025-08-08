@@ -1,6 +1,270 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_sk8board",
+      "revision": 12018,
+      "parts": [
+        {
+          "id": 6738,
+          "type": "ca"
+        },
+        {
+          "id": 6739,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_sk8erhelmet",
+      "revision": 12010,
+      "parts": [
+        {
+          "id": 6730,
+          "type": "ha"
+        },
+        {
+          "id": 6731,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_sk8ershorts",
+      "revision": 12016,
+      "parts": [
+        {
+          "id": 6736,
+          "type": "lg"
+        },
+        {
+          "id": 6737,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_sk8ershirt",
+      "revision": 12013,
+      "parts": [
+        {
+          "id": 6734,
+          "type": "ch"
+        },
+        {
+          "id": 6734,
+          "type": "ls"
+        },
+        {
+          "id": 6734,
+          "type": "rs"
+        },
+        {
+          "id": 6735,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_sk8ershirt",
+      "revision": 12012,
+      "parts": [
+        {
+          "id": 6732,
+          "type": "ch"
+        },
+        {
+          "id": 6732,
+          "type": "ls"
+        },
+        {
+          "id": 6732,
+          "type": "rs"
+        },
+        {
+          "id": 6733,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tenderheart",
+      "revision": 11999,
+      "parts": [
+        {
+          "id": 6718,
+          "type": "cc"
+        },
+        {
+          "id": 6718,
+          "type": "lc"
+        },
+        {
+          "id": 6718,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_sharebear",
+      "revision": 11998,
+      "parts": [
+        {
+          "id": 6720,
+          "type": "cc"
+        },
+        {
+          "id": 6720,
+          "type": "lc"
+        },
+        {
+          "id": 6720,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_grumpybear",
+      "revision": 11997,
+      "parts": [
+        {
+          "id": 6721,
+          "type": "cc"
+        },
+        {
+          "id": 6721,
+          "type": "lc"
+        },
+        {
+          "id": 6721,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_goodluckbear",
+      "revision": 11996,
+      "parts": [
+        {
+          "id": 6728,
+          "type": "cc"
+        },
+        {
+          "id": 6728,
+          "type": "lc"
+        },
+        {
+          "id": 6728,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_funshinebear",
+      "revision": 11995,
+      "parts": [
+        {
+          "id": 6719,
+          "type": "cc"
+        },
+        {
+          "id": 6719,
+          "type": "lc"
+        },
+        {
+          "id": 6719,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_cheerbear",
+      "revision": 11994,
+      "parts": [
+        {
+          "id": 6717,
+          "type": "cc"
+        },
+        {
+          "id": 6717,
+          "type": "lc"
+        },
+        {
+          "id": 6717,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tenderheart",
+      "revision": 11993,
+      "parts": [
+        {
+          "id": 6712,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_sharebear",
+      "revision": 11992,
+      "parts": [
+        {
+          "id": 6715,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_grumpybear",
+      "revision": 11991,
+      "parts": [
+        {
+          "id": 6716,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_goodluckbear",
+      "revision": 11990,
+      "parts": [
+        {
+          "id": 6714,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_funshinebear",
+      "revision": 11989,
+      "parts": [
+        {
+          "id": 6713,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_cheerbear",
+      "revision": 11988,
+      "parts": [
+        {
+          "id": 6711,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_iridescentstarbag",
+      "revision": 12045,
+      "parts": [
+        {
+          "id": 6745,
+          "type": "ca"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_unicorncompanion",
       "revision": 991111039,
       "parts": [
