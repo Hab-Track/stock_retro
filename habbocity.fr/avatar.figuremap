@@ -1,6 +1,24 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_M_TshirtPlain",
+      "revision": 181460,
+      "parts": [
+        {
+          "id": 181460,
+          "type": "ch"
+        },
+        {
+          "id": 181460,
+          "type": "ls"
+        },
+        {
+          "id": 181460,
+          "type": "rs"
+        }
+      ]
+    },
+    {
       "id": "hat_U_KakashiMask",
       "revision": 181459,
       "parts": [
