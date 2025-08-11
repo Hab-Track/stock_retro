@@ -1,6 +1,42 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_head_U_AyatoBangs",
+      "revision": 181463,
+      "parts": [
+        {
+          "id": 181463,
+          "type": "he"
+        },
+        {
+          "id": 181464,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_GurenHaircut",
+      "revision": 181461,
+      "parts": [
+        {
+          "id": 181461,
+          "type": "hr"
+        },
+        {
+          "id": 181461,
+          "type": "hrb"
+        },
+        {
+          "id": 181462,
+          "type": "hr"
+        },
+        {
+          "id": 181462,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
       "id": "shirt_M_TshirtPlain",
       "revision": 181460,
       "parts": [
@@ -24,7 +60,7 @@
       "parts": [
         {
           "id": 181459,
-          "type": "hrb"
+          "type": "hr"
         }
       ]
     },
