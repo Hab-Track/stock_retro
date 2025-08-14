@@ -1,6 +1,79 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_U_cloeshirt",
+      "parts": [
+        {
+          "id": 349751996,
+          "type": "ch"
+        },
+        {
+          "id": 349751997,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_meowpurrshirt",
+      "parts": [
+        {
+          "id": 650193155,
+          "type": "ch"
+        },
+        {
+          "id": 650193156,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_patyshirt3",
+      "parts": [
+        {
+          "id": 22847915,
+          "type": "ch"
+        },
+        {
+          "id": 22847916,
+          "type": "ch"
+        },
+        {
+          "id": 22847916,
+          "type": "ls"
+        },
+        {
+          "id": 22847916,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_patyhaute",
+      "parts": [
+        {
+          "id": 181337,
+          "type": "ch"
+        },
+        {
+          "id": 181338,
+          "type": "ls"
+        },
+        {
+          "id": 181338,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_mamanabangala",
+      "parts": [
+        {
+          "id": 181285,
+          "type": "ch"
+        }
+      ]
+    },
+    {
       "id": "acc_waist_U_cingulo",
       "parts": [
         {
