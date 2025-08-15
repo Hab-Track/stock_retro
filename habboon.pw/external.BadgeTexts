@@ -41,7 +41,7 @@
   "inventory.marketplace.make_offer.min_price": "Minimum price you can set for an offer is %minprice% %currency%(s).",
   "inventory.marketplace.make_offer.final_price": "The final sale price will include the marketplace commission of %commission% %currency%(s), so the final price is %finalprice%.",
   "inventory.marketplace.confirm_offer.info": "You are selling %furniname%. If someone buys this offer, you will receive: %price% %currency%(s).",
-  "inventory.marketplace.make_offer.expiration_info": "Your offer will be visible to other users for %time% hours.",
+  "inventory.marketplace.make_offer.expiration_info": "Your offer will be visible to other users for %time%.",
   "catalog.marketplace.alert.notenough.credits.description": "You don´t have enough %currency% for this.",
   "catalog.marketplace.alert.notenough.title": "Not enough %currency%",
   "catalog.marketplace.offer.price_public_item": "%price% %currency% (Average: %average%)",
