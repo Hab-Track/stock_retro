@@ -349,6 +349,24 @@
     {
       "parts": [
         {
+          "id": 800030,
+          "type": "sh"
+        },
+        {
+          "id": 800031,
+          "type": "sh"
+        },
+        {
+          "id": 800032,
+          "type": "sh"
+        }
+      ],
+      "id": "shoes_U_scarpevans",
+      "revision": 65168
+    },
+    {
+      "parts": [
+        {
           "id": 2044,
           "type": "sh"
         },
@@ -33969,6 +33987,16 @@
     {
       "parts": [
         {
+          "id": 22311211,
+          "type": "cc"
+        }
+      ],
+      "id": "jacket_U_chinabox",
+      "revision": 65168
+    },
+    {
+      "parts": [
+        {
           "id": 3521,
           "type": "cc"
         },
@@ -35785,6 +35813,20 @@
       ],
       "id": "hair_U_spikedshorthair",
       "revision": 67718
+    },
+    {
+      "parts": [
+        {
+          "id": 10000007,
+          "type": "hr"
+        },
+        {
+          "id": 10000007,
+          "type": "hrb"
+        }
+      ],
+      "id": "hair_F_lbuns",
+      "revision": 65168
     },
     {
       "parts": [
@@ -38257,6 +38299,58 @@
     {
       "parts": [
         {
+          "id": 55534,
+          "type": "ls"
+        },
+        {
+          "id": 55534,
+          "type": "rs"
+        },
+        {
+          "id": 55535,
+          "type": "ch"
+        }
+      ],
+      "id": "shirt_F_sleevedtop",
+      "revision": 65168
+    },
+    {
+      "parts": [
+        {
+          "id": 55531,
+          "type": "cc"
+        },
+        {
+          "id": 55531,
+          "type": "lc"
+        },
+        {
+          "id": 55531,
+          "type": "rc"
+        },
+        {
+          "id": 55532,
+          "type": "cc"
+        },
+        {
+          "id": 55532,
+          "type": "lc"
+        },
+        {
+          "id": 55532,
+          "type": "rc"
+        },
+        {
+          "id": 55533,
+          "type": "ch"
+        }
+      ],
+      "id": "shirt_F_sleevedshirt",
+      "revision": 65168
+    },
+    {
+      "parts": [
+        {
           "id": 6154,
           "type": "ch"
         },
@@ -38603,6 +38697,36 @@
       ],
       "id": "jacket_U_offshouldercardigan",
       "revision": 72369
+    },
+    {
+      "parts": [
+        {
+          "id": 40000,
+          "type": "cc"
+        },
+        {
+          "id": 40000,
+          "type": "lc"
+        },
+        {
+          "id": 40000,
+          "type": "rc"
+        },
+        {
+          "id": 40001,
+          "type": "cc"
+        },
+        {
+          "id": 40001,
+          "type": "lc"
+        },
+        {
+          "id": 40001,
+          "type": "rc"
+        }
+      ],
+      "id": "jacket_U_frank",
+      "revision": 65168
     },
     {
       "parts": [
@@ -39025,6 +39149,20 @@
     {
       "parts": [
         {
+          "id": 40002,
+          "type": "ha"
+        },
+        {
+          "id": 40003,
+          "type": "ha"
+        }
+      ],
+      "id": "hat_U_frankhat",
+      "revision": 65168
+    },
+    {
+      "parts": [
+        {
           "id": 6242,
           "type": "ha"
         }
@@ -39259,6 +39397,62 @@
       ],
       "id": "shirt_M_ducketshirt",
       "revision": 72727
+    },
+    {
+      "parts": [
+        {
+          "id": 55536,
+          "type": "ch"
+        },
+        {
+          "id": 55536,
+          "type": "ls"
+        },
+        {
+          "id": 55536,
+          "type": "rs"
+        },
+        {
+          "id": 55537,
+          "type": "ls"
+        },
+        {
+          "id": 55537,
+          "type": "rs"
+        }
+      ],
+      "id": "shirt_F_slvdtop",
+      "revision": 65168
+    },
+    {
+      "parts": [
+        {
+          "id": 55538,
+          "type": "ch"
+        },
+        {
+          "id": 55538,
+          "type": "ls"
+        },
+        {
+          "id": 55538,
+          "type": "rs"
+        },
+        {
+          "id": 55539,
+          "type": "ls"
+        },
+        {
+          "id": 55539,
+          "type": "rs"
+        },
+        {
+          "id": 55540,
+          "type": "ls"
+        }
+      ],
+      "id": "shirt_F_cutetop",
+      "revision": 65168
     },
     {
       "parts": [
@@ -40345,6 +40539,20 @@
       ],
       "id": "trousers_U_PantalonNike",
       "revision": 156943
+    },
+    {
+      "parts": [
+        {
+          "id": 77653,
+          "type": "lg"
+        },
+        {
+          "id": 77654,
+          "type": "lg"
+        }
+      ],
+      "id": "trousers_U_duopantss",
+      "revision": 65168
     },
     {
       "parts": [
@@ -41657,6 +41865,40 @@
     {
       "parts": [
         {
+          "id": 45732,
+          "type": "lc"
+        },
+        {
+          "id": 45732,
+          "type": "rc"
+        },
+        {
+          "id": 45733,
+          "type": "cc"
+        },
+        {
+          "id": 45733,
+          "type": "lc"
+        },
+        {
+          "id": 45733,
+          "type": "rc"
+        },
+        {
+          "id": 45734,
+          "type": "cc"
+        },
+        {
+          "id": 45734,
+          "type": "rc"
+        }
+      ],
+      "id": "jacket_U_bomberjcket",
+      "revision": 65168
+    },
+    {
+      "parts": [
+        {
           "id": 6372,
           "type": "cc"
         },
@@ -41813,6 +42055,28 @@
     {
       "parts": [
         {
+          "id": 55342,
+          "type": "hr"
+        },
+        {
+          "id": 55343,
+          "type": "hrb"
+        },
+        {
+          "id": 55344,
+          "type": "hr"
+        },
+        {
+          "id": 55345,
+          "type": "hrb"
+        }
+      ],
+      "id": "hair_U_pigtailhair",
+      "revision": 65168
+    },
+    {
+      "parts": [
+        {
           "id": 6668,
           "type": "hr"
         },
@@ -41943,6 +42207,16 @@
       ],
       "id": "hat_U_nftbunnyhood",
       "revision": 73013
+    },
+    {
+      "parts": [
+        {
+          "id": 999300500,
+          "type": "ha"
+        }
+      ],
+      "id": "hat_U_jasonmask",
+      "revision": 65168
     },
     {
       "parts": [
