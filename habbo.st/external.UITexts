@@ -1,4 +1,11 @@
 ﻿{
+  "wiredfurni.params.select_options": "Select options:",
+  "wiredfurni.params.allmatch": "Match all text",
+  "wiredfurni.params.exactmatch": "Exact match",
+  "wiredfurni.params.chatcontains": "Contains keyword",
+  "wiredfurni.params.chattriggertype": "Choose type:",
+  "wiredfurni.params.chat.hide": "Hide the triggerer's message",
+  "wiredfurni.params.chat.onlyowner": "Only the room owner can trigger",
   "wiredfurni.params.sources.furni.title.match.0": "The furni to match:",
   "wiredfurni.params.sources.furni.title.match.1": "Furni to compare with:",
   "wiredfurni.params.sources.furni.title.mv.0": "The moving furni:",
