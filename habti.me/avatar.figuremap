@@ -1,6 +1,92 @@
 ﻿{
   "libraries": [
     {
+      "id": "hat_U_sk8erhelmet",
+      "revision": 73555,
+      "parts": [
+        {
+          "id": 6730,
+          "type": "ha"
+        },
+        {
+          "id": 6731,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_sk8board",
+      "revision": 73555,
+      "parts": [
+        {
+          "id": 6738,
+          "type": "ca"
+        },
+        {
+          "id": 6739,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_sk8ershirt",
+      "revision": 73555,
+      "parts": [
+        {
+          "id": 6734,
+          "type": "ch"
+        },
+        {
+          "id": 6734,
+          "type": "ls"
+        },
+        {
+          "id": 6734,
+          "type": "rs"
+        },
+        {
+          "id": 6735,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_sk8ershirt",
+      "revision": 73555,
+      "parts": [
+        {
+          "id": 6732,
+          "type": "ch"
+        },
+        {
+          "id": 6732,
+          "type": "ls"
+        },
+        {
+          "id": 6732,
+          "type": "rs"
+        },
+        {
+          "id": 6733,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_sk8ershorts",
+      "revision": 73555,
+      "parts": [
+        {
+          "id": 6736,
+          "type": "lg"
+        },
+        {
+          "id": 6737,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_Bisento",
       "parts": [
         {
@@ -13,6 +99,16 @@
         },
         {
           "id": 10001487,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_zeuslightning",
+      "revision": 73762,
+      "parts": [
+        {
+          "id": 6873,
           "type": "ca"
         }
       ]
