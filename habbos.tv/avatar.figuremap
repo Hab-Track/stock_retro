@@ -1,6 +1,191 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_MochilaTricolor",
+      "parts": [
+        {
+          "id": 30001516,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_AccesorioSocorrista",
+      "parts": [
+        {
+          "id": 10001235,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_CabellodeOkarun",
+      "parts": [
+        {
+          "id": 30001505,
+          "type": "hr"
+        },
+        {
+          "id": 30001506,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_casshalfdyedbangs",
+      "parts": [
+        {
+          "id": 31126,
+          "type": "hr"
+        },
+        {
+          "id": 31126,
+          "type": "hrb"
+        },
+        {
+          "id": 31127,
+          "type": "hr"
+        },
+        {
+          "id": 31127,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_cassmilfhairv1",
+      "parts": [
+        {
+          "id": 488012,
+          "type": "hr"
+        },
+        {
+          "id": 488012,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_casskleberhat",
+      "parts": [
+        {
+          "id": 488029,
+          "type": "ha"
+        },
+        {
+          "id": 488030,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_SombreroVueltiao",
+      "parts": [
+        {
+          "id": 30001517,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_cassmadaoshield",
+      "parts": [
+        {
+          "id": 488013,
+          "type": "rc"
+        },
+        {
+          "id": 488013,
+          "type": "lc"
+        },
+        {
+          "id": 488014,
+          "type": "rc"
+        },
+        {
+          "id": 488014,
+          "type": "lc"
+        },
+        {
+          "id": 488015,
+          "type": "rc"
+        },
+        {
+          "id": 488015,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_PonchoPeruano",
+      "parts": [
+        {
+          "id": 30001518,
+          "type": "cc"
+        },
+        {
+          "id": 30001518,
+          "type": "rc"
+        },
+        {
+          "id": 30001518,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_Pudu",
+      "parts": [
+        {
+          "id": 30001520,
+          "type": "rc"
+        },
+        {
+          "id": 30001520,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_VolantesFlamencos",
+      "parts": [
+        {
+          "id": 30001519,
+          "type": "cc"
+        },
+        {
+          "id": 30001519,
+          "type": "rc"
+        },
+        {
+          "id": 30001519,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_ArmadilloShoes",
+      "parts": [
+        {
+          "id": 10,
+          "type": "sh"
+        },
+        {
+          "id": 11,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_Bombacha",
+      "parts": [
+        {
+          "id": 30001521,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "shirt_U_cloeshirt",
       "parts": [
         {
