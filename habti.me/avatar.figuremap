@@ -1,6 +1,28 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_sharkplushie",
+      "revision": 72964,
+      "parts": [
+        {
+          "id": 6370,
+          "type": "cc"
+        },
+        {
+          "id": 6370,
+          "type": "lc"
+        },
+        {
+          "id": 6370,
+          "type": "rc"
+        },
+        {
+          "id": 6371,
+          "type": "cc"
+        }
+      ]
+    },
+    {
       "id": "acc_head_U_blessedheadpiece",
       "revision": 73775,
       "parts": [
