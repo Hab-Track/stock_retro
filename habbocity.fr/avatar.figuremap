@@ -1,6 +1,24 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_AnorakEdo",
+      "revision": 181480,
+      "parts": [
+        {
+          "id": 181480,
+          "type": "cc"
+        },
+        {
+          "id": 181480,
+          "type": "lc"
+        },
+        {
+          "id": 181480,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_zeuslightning",
       "revision": 181479,
       "parts": [
