@@ -1,8 +1,94 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_head_U_blessedheadpiece",
+      "revision": 73775,
+      "parts": [
+        {
+          "id": 6842,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_blessedtoga",
+      "revision": 73775,
+      "parts": [
+        {
+          "id": 6838,
+          "type": "ch"
+        },
+        {
+          "id": 6838,
+          "type": "ls"
+        },
+        {
+          "id": 6838,
+          "type": "rs"
+        },
+        {
+          "id": 6839,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_blessedtoga",
+      "revision": 73775,
+      "parts": [
+        {
+          "id": 6836,
+          "type": "ch"
+        },
+        {
+          "id": 6836,
+          "type": "ls"
+        },
+        {
+          "id": 6836,
+          "type": "rs"
+        },
+        {
+          "id": 6837,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_blessedcape",
+      "revision": 73775,
+      "parts": [
+        {
+          "id": 6843,
+          "type": "cc"
+        },
+        {
+          "id": 6843,
+          "type": "lc"
+        },
+        {
+          "id": 6843,
+          "type": "rc"
+        },
+        {
+          "id": 6844,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_blessedsandals",
+      "revision": 73775,
+      "parts": [
+        {
+          "id": 6841,
+          "type": "sh"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_zeuslightning",
-      "revision": 73762,
+      "revision": 73775,
       "parts": [
         {
           "id": 6873,
@@ -109,16 +195,6 @@
         },
         {
           "id": 10001487,
-          "type": "ca"
-        }
-      ]
-    },
-    {
-      "id": "acc_chest_U_zeuslightning",
-      "revision": 73762,
-      "parts": [
-        {
-          "id": 6873,
           "type": "ca"
         }
       ]
