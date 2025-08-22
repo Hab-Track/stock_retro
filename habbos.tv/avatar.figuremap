@@ -1,6 +1,127 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_GuitarraColgable",
+      "parts": [
+        {
+          "id": 30001526,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_WadoIchimonji",
+      "parts": [
+        {
+          "id": 30001522,
+          "type": "fa"
+        },
+        {
+          "id": 30001523,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_Makima",
+      "parts": [
+        {
+          "id": 181476,
+          "type": "hr"
+        },
+        {
+          "id": 181477,
+          "type": "hr"
+        },
+        {
+          "id": 181478,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_PeinadoUta",
+      "parts": [
+        {
+          "id": 30001524,
+          "type": "hr"
+        },
+        {
+          "id": 30001525,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_Gorra24KMagic",
+      "parts": [
+        {
+          "id": 30001528,
+          "type": "ha"
+        },
+        {
+          "id": 30001529,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_AnorakEdo",
+      "parts": [
+        {
+          "id": 181480,
+          "type": "cc"
+        },
+        {
+          "id": 181480,
+          "type": "lc"
+        },
+        {
+          "id": 181480,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_Chopper",
+      "parts": [
+        {
+          "id": 30001525,
+          "type": "lc"
+        },
+        {
+          "id": 30001525,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_PelucheKumashi",
+      "parts": [
+        {
+          "id": 30001523,
+          "type": "cc"
+        },
+        {
+          "id": 30001523,
+          "type": "lc"
+        },
+        {
+          "id": 30001523,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_BottesCowboy",
+      "parts": [
+        {
+          "id": 181475,
+          "type": "sh"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_MochilaTricolor",
       "parts": [
         {
