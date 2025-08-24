@@ -7,6 +7,7 @@
   "habbopages.url": "${url.prefix}/",
   "group.homepage.url": "${url.prefix}/groups/%groupid%/id",
   "notification.hotel.event.title": "Event Alert",
+  "hotel.purchase.buy.max": 1000,
   "guide.help.alpha.groupid": 0,
   "chat.viewer.height.percentage": 0.4,
   "widget.dimmer.colorwheel": false,
