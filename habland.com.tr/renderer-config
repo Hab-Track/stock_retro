@@ -5,7 +5,7 @@
   "image.library.url": "${flash.asset.url}/c_images/",
   "hof.furni.url": "${flash.asset.url}/dcr/hof_furni",
   "images.url": "${asset.url}/images",
-  "gamedata.url": "${asset.url}/gamedata",
+  "gamedata.url": "${asset.url}/nitro-assets/gamedata",
   "sounds.url": "${asset.url}/sounds/%sample%.mp3",
   "external.texts.url": [
     "${gamedata.url}/ExternalTexts.json",
