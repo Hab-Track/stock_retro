@@ -31,7 +31,7 @@
   "system.log.debug": true,
   "system.log.warn": false,
   "system.log.error": true,
-  "system.log.events": true,
+  "system.log.events": false,
   "system.log.packets": true,
   "system.fps.animation": 24,
   "system.fps.max": 60,
