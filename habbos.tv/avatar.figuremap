@@ -1,6 +1,91 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_nftbowandquiver",
+      "parts": [
+        {
+          "id": 6883,
+          "type": "ca"
+        },
+        {
+          "id": 6884,
+          "type": "ca"
+        },
+        {
+          "id": 6885,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftbowandquiver2",
+      "parts": [
+        {
+          "id": 6886,
+          "type": "ca"
+        },
+        {
+          "id": 6887,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "face_U_goddesseyesslim",
+      "parts": [
+        {
+          "id": 6890,
+          "type": "fc"
+        },
+        {
+          "id": 6891,
+          "type": "fc"
+        },
+        {
+          "id": 6891,
+          "type": "ey"
+        },
+        {
+          "id": 6892,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_footlocker",
+      "parts": [
+        {
+          "id": 6864,
+          "type": "ch"
+        },
+        {
+          "id": 6864,
+          "type": "ls"
+        },
+        {
+          "id": 6864,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_footlocker",
+      "parts": [
+        {
+          "id": 6863,
+          "type": "ch"
+        },
+        {
+          "id": 6863,
+          "type": "ls"
+        },
+        {
+          "id": 6863,
+          "type": "rs"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_GuitarraColgable",
       "parts": [
         {
