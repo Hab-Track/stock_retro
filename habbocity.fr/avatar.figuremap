@@ -1,6 +1,20 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_diablotionku",
+      "revision": 181642,
+      "parts": [
+        {
+          "id": 181642,
+          "type": "lc"
+        },
+        {
+          "id": 181642,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_capedelink",
       "revision": 181641,
       "parts": [
@@ -51,45 +65,23 @@
       ]
     },
     {
-      "id": "jacket_U_cuistodinguerie",
-      "revision": 181636,
-      "parts": [
-        {
-          "id": 181636,
-          "type": "cc"
-        },
-        {
-          "id": 181636,
-          "type": "lc"
-        },
-        {
-          "id": 181636,
-          "type": "rc"
-        },
-        {
-          "id": 181637,
-          "type": "cc"
-        }
-      ]
-    },
-    {
       "id": "jacket_U_Capalaterale",
-      "revision": 181634,
+      "revision": 181639,
       "parts": [
         {
-          "id": 181634,
+          "id": 181639,
           "type": "cc"
         },
         {
-          "id": 181634,
+          "id": 181639,
           "type": "lc"
         },
         {
-          "id": 181634,
+          "id": 181639,
           "type": "rc"
         },
         {
-          "id": 181635,
+          "id": 181640,
           "type": "cc"
         }
       ]
