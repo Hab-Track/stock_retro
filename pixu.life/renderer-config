@@ -1,7 +1,7 @@
 ﻿{
   "socket.url": "wss://secure.pixu.life",
-  "asset.url": "https://assets.pixu.life/nitro/nitro-assets",
-  "flash.asset.url": "https://assets.pixu.life/flash",
+  "asset.url": "https://assets.habverse.net/nitro/nitro-assets",
+  "flash.asset.url": "https://assets.habverse.net/flash",
   "image.library.url": "${flash.asset.url}/c_images/",
   "hof.furni.url": "${flash.asset.url}/dcr/hof_furni",
   "images.url": "${asset.url}/images",
