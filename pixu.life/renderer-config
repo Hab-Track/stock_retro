@@ -1,5 +1,5 @@
 ﻿{
-  "socket.url": "wss://secure.pixu.life",
+  "socket.url": "wss://secure.habverse.net",
   "asset.url": "https://assets.habverse.net/nitro/nitro-assets",
   "flash.asset.url": "https://assets.habverse.net/flash",
   "image.library.url": "${flash.asset.url}/c_images/",
@@ -28,7 +28,7 @@
   "furni.rotation.bounce.steps": 20,
   "furni.rotation.bounce.height": 0.0625,
   "enable.avatar.arrow": false,
-  "system.log.debug": true,
+  "system.log.debug": false,
   "system.log.warn": false,
   "system.log.error": true,
   "system.log.events": false,
