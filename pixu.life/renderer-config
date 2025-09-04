@@ -1,5 +1,5 @@
 ﻿{
-  "socket.url": "wss://secure.habverse.net",
+  "socket.url": "wss://vps-8a5e29d1.tail5db6d7.ts.net",
   "asset.url": "https://assets.habverse.net/nitro/nitro-assets",
   "flash.asset.url": "https://assets.habverse.net/flash",
   "image.library.url": "${flash.asset.url}/c_images/",
@@ -32,7 +32,7 @@
   "system.log.warn": false,
   "system.log.error": true,
   "system.log.events": false,
-  "system.log.packets": true,
+  "system.log.packets": false,
   "system.fps.animation": 24,
   "system.fps.max": 60,
   "system.pong.manually": true,
