@@ -1,6 +1,50 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_head_U_MinatoCol",
+      "revision": 181645,
+      "parts": [
+        {
+          "id": 181645,
+          "type": "he"
+        },
+        {
+          "id": 181646,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_MinatoJacket",
+      "revision": 181643,
+      "parts": [
+        {
+          "id": 181643,
+          "type": "cc"
+        },
+        {
+          "id": 181643,
+          "type": "lc"
+        },
+        {
+          "id": 181643,
+          "type": "rc"
+        },
+        {
+          "id": 181644,
+          "type": "cc"
+        },
+        {
+          "id": 181644,
+          "type": "lc"
+        },
+        {
+          "id": 181644,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_diablotionku",
       "revision": 181642,
       "parts": [
