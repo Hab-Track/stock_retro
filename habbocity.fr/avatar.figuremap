@@ -131,6 +131,28 @@
       ]
     },
     {
+      "id": "jacket_U_cuistodinguerie",
+      "revision": 181636,
+      "parts": [
+        {
+          "id": 181636,
+          "type": "cc"
+        },
+        {
+          "id": 181636,
+          "type": "lc"
+        },
+        {
+          "id": 181636,
+          "type": "rc"
+        },
+        {
+          "id": 181637,
+          "type": "cc"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_derudasiles",
       "revision": 181631,
       "parts": [
@@ -2653,8 +2675,16 @@
           "type": "hr"
         },
         {
+          "id": 181372,
+          "type": "hrb"
+        },
+        {
           "id": 181373,
           "type": "hr"
+        },
+        {
+          "id": 181373,
+          "type": "hrb"
         }
       ]
     },
@@ -3090,7 +3120,7 @@
       "parts": [
         {
           "id": 181322,
-          "type": "cc"
+          "type": "ch"
         },
         {
           "id": 181322,
@@ -3108,7 +3138,7 @@
       "parts": [
         {
           "id": 181321,
-          "type": "cc"
+          "type": "ch"
         },
         {
           "id": 181321,
@@ -3126,7 +3156,7 @@
       "parts": [
         {
           "id": 181320,
-          "type": "cc"
+          "type": "ch"
         },
         {
           "id": 181320,
@@ -3144,7 +3174,7 @@
       "parts": [
         {
           "id": 181319,
-          "type": "cc"
+          "type": "ch"
         },
         {
           "id": 181319,
@@ -3162,7 +3192,7 @@
       "parts": [
         {
           "id": 181318,
-          "type": "cc"
+          "type": "ch"
         },
         {
           "id": 181318,
@@ -3180,7 +3210,7 @@
       "parts": [
         {
           "id": 181317,
-          "type": "cc"
+          "type": "ch"
         },
         {
           "id": 181317,
