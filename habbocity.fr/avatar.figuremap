@@ -1,6 +1,88 @@
 ﻿{
   "libraries": [
     {
+      "id": "hair_U_animeboyhair1",
+      "revision": 181655,
+      "parts": [
+        {
+          "id": 181655,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftsmileyface",
+      "revision": 181653,
+      "parts": [
+        {
+          "id": 2,
+          "type": "hd"
+        },
+        {
+          "id": 1,
+          "type": "bd"
+        },
+        {
+          "id": 1,
+          "type": "lh"
+        },
+        {
+          "id": 1,
+          "type": "rh"
+        },
+        {
+          "id": 6781,
+          "type": "fc"
+        },
+        {
+          "id": 6783,
+          "type": "fc"
+        },
+        {
+          "id": 6782,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "face_U_goddesseyes",
+      "revision": 181651,
+      "parts": [
+        {
+          "id": 2,
+          "type": "hd"
+        },
+        {
+          "id": 1,
+          "type": "bd"
+        },
+        {
+          "id": 1,
+          "type": "lh"
+        },
+        {
+          "id": 1,
+          "type": "rh"
+        },
+        {
+          "id": 6778,
+          "type": "fc"
+        },
+        {
+          "id": 6779,
+          "type": "fc"
+        },
+        {
+          "id": 6780,
+          "type": "fc"
+        },
+        {
+          "id": 6779,
+          "type": "ey"
+        }
+      ]
+    },
+    {
       "id": "acc_face_U_AnbuMistMask4",
       "revision": 181650,
       "parts": [
