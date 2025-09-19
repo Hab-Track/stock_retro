@@ -1,6 +1,152 @@
 ﻿{
   "libraries": [
     {
+      "id": "face_U_nftsilvereyes",
+      "revision": 181679,
+      "parts": [
+        {
+          "id": 2,
+          "type": "hd"
+        },
+        {
+          "id": 1,
+          "type": "bd"
+        },
+        {
+          "id": 1,
+          "type": "lh"
+        },
+        {
+          "id": 1,
+          "type": "rh"
+        },
+        {
+          "id": 6894,
+          "type": "fc"
+        },
+        {
+          "id": 6896,
+          "type": "fc"
+        },
+        {
+          "id": 6895,
+          "type": "ey"
+        },
+        {
+          "id": 6896,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nfthobbyhorse1",
+      "revision": 181678,
+      "parts": [
+        {
+          "id": 181678,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nfthobbyhorse2",
+      "revision": 181677,
+      "parts": [
+        {
+          "id": 181677,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nfthobbyhorse3",
+      "revision": 181676,
+      "parts": [
+        {
+          "id": 181676,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftombrecut1",
+      "revision": 181673,
+      "parts": [
+        {
+          "id": 181673,
+          "type": "hr"
+        },
+        {
+          "id": 181673,
+          "type": "hrb"
+        },
+        {
+          "id": 181674,
+          "type": "hr"
+        },
+        {
+          "id": 181674,
+          "type": "hrb"
+        },
+        {
+          "id": 181675,
+          "type": "hr"
+        },
+        {
+          "id": 181675,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftombrecut2",
+      "revision": 181670,
+      "parts": [
+        {
+          "id": 181670,
+          "type": "hr"
+        },
+        {
+          "id": 181670,
+          "type": "hrb"
+        },
+        {
+          "id": 181671,
+          "type": "hr"
+        },
+        {
+          "id": 181671,
+          "type": "hrb"
+        },
+        {
+          "id": 181672,
+          "type": "hr"
+        },
+        {
+          "id": 181672,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftcakeoutfit",
+      "revision": 181667,
+      "parts": [
+        {
+          "id": 181667,
+          "type": "cc"
+        },
+        {
+          "id": 181668,
+          "type": "cc"
+        },
+        {
+          "id": 181669,
+          "type": "cc"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_nftbowandquiver2",
       "revision": 181665,
       "parts": [
