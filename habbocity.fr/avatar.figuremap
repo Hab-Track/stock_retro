@@ -1,6 +1,216 @@
 ﻿{
   "libraries": [
     {
+      "id": "trousers_U_scruffyjeans",
+      "revision": 181701,
+      "parts": [
+        {
+          "id": 181701,
+          "type": "lg"
+        },
+        {
+          "id": 181702,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_scruffyplaidshirt",
+      "revision": 181698,
+      "parts": [
+        {
+          "id": 181698,
+          "type": "ch"
+        },
+        {
+          "id": 181698,
+          "type": "ls"
+        },
+        {
+          "id": 181698,
+          "type": "rs"
+        },
+        {
+          "id": 181699,
+          "type": "ch"
+        },
+        {
+          "id": 181699,
+          "type": "ls"
+        },
+        {
+          "id": 181699,
+          "type": "rs"
+        },
+        {
+          "id": 181700,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_scruffyplaidshirt",
+      "revision": 181695,
+      "parts": [
+        {
+          "id": 181695,
+          "type": "ch"
+        },
+        {
+          "id": 181695,
+          "type": "ls"
+        },
+        {
+          "id": 181695,
+          "type": "rs"
+        },
+        {
+          "id": 181696,
+          "type": "ch"
+        },
+        {
+          "id": 181696,
+          "type": "ls"
+        },
+        {
+          "id": 181696,
+          "type": "rs"
+        },
+        {
+          "id": 181697,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_shroomie",
+      "revision": 181692,
+      "parts": [
+        {
+          "id": 181692,
+          "type": "lc"
+        },
+        {
+          "id": 181692,
+          "type": "rc"
+        },
+        {
+          "id": 181693,
+          "type": "lc"
+        },
+        {
+          "id": 181693,
+          "type": "rc"
+        },
+        {
+          "id": 181694,
+          "type": "lc"
+        },
+        {
+          "id": 181694,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftbiohazardjacket",
+      "revision": 181690,
+      "parts": [
+        {
+          "id": 181690,
+          "type": "cc"
+        },
+        {
+          "id": 181690,
+          "type": "lc"
+        },
+        {
+          "id": 181690,
+          "type": "rc"
+        },
+        {
+          "id": 181691,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_mushroomcape",
+      "revision": 181688,
+      "parts": [
+        {
+          "id": 181688,
+          "type": "cc"
+        },
+        {
+          "id": 181688,
+          "type": "lc"
+        },
+        {
+          "id": 181688,
+          "type": "rc"
+        },
+        {
+          "id": 181689,
+          "type": "cc"
+        },
+        {
+          "id": 181689,
+          "type": "lc"
+        },
+        {
+          "id": 181689,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_nftflashlight",
+      "revision": 181686,
+      "parts": [
+        {
+          "id": 181686,
+          "type": "wa"
+        },
+        {
+          "id": 181687,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_nftfungalinfection",
+      "revision": 181684,
+      "parts": [
+        {
+          "id": 181684,
+          "type": "ea"
+        },
+        {
+          "id": 181685,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_medbackpack",
+      "revision": 181681,
+      "parts": [
+        {
+          "id": 181681,
+          "type": "ca"
+        },
+        {
+          "id": 181682,
+          "type": "ca"
+        },
+        {
+          "id": 181683,
+          "type": "ca"
+        }
+      ]
+    },
+    {
       "id": "face_U_nftsilvereyes",
       "revision": 181679,
       "parts": [
