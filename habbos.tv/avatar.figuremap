@@ -1,6 +1,142 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_nfthobbyhorse1",
+      "parts": [
+        {
+          "id": 6920,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nfthobbyhorse2",
+      "parts": [
+        {
+          "id": 6921,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nfthobbyhorse3",
+      "parts": [
+        {
+          "id": 6922,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftsilvereyes",
+      "parts": [
+        {
+          "id": 6894,
+          "type": "fc"
+        },
+        {
+          "id": 6895,
+          "type": "ey"
+        },
+        {
+          "id": 6896,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftsilvereyes2",
+      "parts": [
+        {
+          "id": 6897,
+          "type": "fc"
+        },
+        {
+          "id": 6898,
+          "type": "ey"
+        },
+        {
+          "id": 6899,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftombrecut1",
+      "parts": [
+        {
+          "id": 6900,
+          "type": "hr"
+        },
+        {
+          "id": 6900,
+          "type": "hrb"
+        },
+        {
+          "id": 6901,
+          "type": "hr"
+        },
+        {
+          "id": 6901,
+          "type": "hrb"
+        },
+        {
+          "id": 6902,
+          "type": "hr"
+        },
+        {
+          "id": 6902,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftombrecut2",
+      "parts": [
+        {
+          "id": 6903,
+          "type": "hr"
+        },
+        {
+          "id": 6903,
+          "type": "hrb"
+        },
+        {
+          "id": 6904,
+          "type": "hr"
+        },
+        {
+          "id": 6904,
+          "type": "hrb"
+        },
+        {
+          "id": 6905,
+          "type": "hr"
+        },
+        {
+          "id": 6905,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftcakeoutfit",
+      "parts": [
+        {
+          "id": 6923,
+          "type": "cc"
+        },
+        {
+          "id": 6924,
+          "type": "cc"
+        },
+        {
+          "id": 6925,
+          "type": "cc"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_sepr",
       "parts": [
         {
