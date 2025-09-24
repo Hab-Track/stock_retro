@@ -1,6 +1,143 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_backkatana",
+      "parts": [
+        {
+          "id": 6806,
+          "type": "ca"
+        },
+        {
+          "id": 6807,
+          "type": "ca"
+        },
+        {
+          "id": 6808,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_mouldytoastbackpack",
+      "parts": [
+        {
+          "id": 6809,
+          "type": "ca"
+        },
+        {
+          "id": 6810,
+          "type": "ca"
+        },
+        {
+          "id": 6811,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_survivalbackpack",
+      "parts": [
+        {
+          "id": 6812,
+          "type": "ca"
+        },
+        {
+          "id": 6813,
+          "type": "ca"
+        },
+        {
+          "id": 6814,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_respirator",
+      "parts": [
+        {
+          "id": 6815,
+          "type": "fa"
+        },
+        {
+          "id": 6816,
+          "type": "fa"
+        },
+        {
+          "id": 6817,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_bandagedhead",
+      "parts": [
+        {
+          "id": 6818,
+          "type": "he"
+        },
+        {
+          "id": 6819,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_fungushead",
+      "parts": [
+        {
+          "id": 6774,
+          "type": "he"
+        },
+        {
+          "id": 6775,
+          "type": "he"
+        },
+        {
+          "id": 6776,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_bandagedtorso",
+      "parts": [
+        {
+          "id": 6820,
+          "type": "wa"
+        },
+        {
+          "id": 6821,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_huntingknifebelt",
+      "parts": [
+        {
+          "id": 6771,
+          "type": "wa"
+        },
+        {
+          "id": 6772,
+          "type": "wa"
+        },
+        {
+          "id": 6773,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_muddyfeet",
+      "parts": [
+        {
+          "id": 6777,
+          "type": "sh"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_medbackpack",
       "parts": [
         {
