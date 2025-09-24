@@ -225,11 +225,11 @@
     },
     "images": {
       "background": "",
-      "background.colour": "url(https://imgur.com/B0H9HmH.png)",
+      "background.colour": "url(/assets/images/hotelview-bg.png)",
       "sun": "${asset.url}/images/reception/sun.png",
       "drape": "",
-      "left": "https://imgur.com/ue6hqZH.png",
-      "right": "https://imgur.com/RmHPaIK.png",
+      "left": "/assets/images/hotelview-left.png",
+      "right": "/assets/images/hotelview-right.png",
       "right.repeat": ""
     }
   },
