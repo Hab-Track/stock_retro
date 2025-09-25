@@ -1,6 +1,152 @@
 ﻿{
   "libraries": [
     {
+      "id": "shoes_U_muddyfeet",
+      "revision": 181725,
+      "parts": [
+        {
+          "id": 181725,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_huntingknifebelt",
+      "revision": 181722,
+      "parts": [
+        {
+          "id": 181722,
+          "type": "wa"
+        },
+        {
+          "id": 181723,
+          "type": "wa"
+        },
+        {
+          "id": 181724,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_bandagedtorso",
+      "revision": 181720,
+      "parts": [
+        {
+          "id": 181720,
+          "type": "wa"
+        },
+        {
+          "id": 181721,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_fungushead",
+      "revision": 181717,
+      "parts": [
+        {
+          "id": 181717,
+          "type": "he"
+        },
+        {
+          "id": 181718,
+          "type": "he"
+        },
+        {
+          "id": 181719,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_bandagedhead",
+      "revision": 181715,
+      "parts": [
+        {
+          "id": 181715,
+          "type": "he"
+        },
+        {
+          "id": 181716,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_respirator",
+      "revision": 181712,
+      "parts": [
+        {
+          "id": 181712,
+          "type": "fa"
+        },
+        {
+          "id": 181713,
+          "type": "fa"
+        },
+        {
+          "id": 181714,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_survivalbackpack",
+      "revision": 181709,
+      "parts": [
+        {
+          "id": 181709,
+          "type": "ca"
+        },
+        {
+          "id": 181710,
+          "type": "ca"
+        },
+        {
+          "id": 181711,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_mouldytoastbackpack",
+      "revision": 181706,
+      "parts": [
+        {
+          "id": 181706,
+          "type": "ca"
+        },
+        {
+          "id": 181707,
+          "type": "ca"
+        },
+        {
+          "id": 181708,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_backkatana",
+      "revision": 181703,
+      "parts": [
+        {
+          "id": 181703,
+          "type": "ca"
+        },
+        {
+          "id": 181704,
+          "type": "ca"
+        },
+        {
+          "id": 181705,
+          "type": "ca"
+        }
+      ]
+    },
+    {
       "id": "trousers_U_scruffyjeans",
       "revision": 181701,
       "parts": [
