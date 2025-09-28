@@ -1,12 +1,12 @@
 ﻿{
   "socket.url": "wss://nitro.habland.com.tr:2096",
-  "asset.url": "https://habland.com.tr/nitro-assets",
+  "asset.url": "https://habland.com.tr",
   "flash.asset.url": "https://habland.com.tr/swf",
   "image.library.url": "${flash.asset.url}/c_images/",
   "hof.furni.url": "${flash.asset.url}/dcr/hof_furni",
-  "images.url": "${asset.url}/images",
-  "gamedata.url": "${asset.url}/nitro-assets/gamedata",
-  "sounds.url": "${asset.url}/sounds/%sample%.mp3",
+  "images.url": "${asset.url}/nitro-assets//images",
+  "gamedata.url": "https://habland.com.tr/nitro-assets/gamedata",
+  "sounds.url": "${asset.url}/nitro-assets//sounds/%sample%.mp3",
   "external.texts.url": [
     "${gamedata.url}/ExternalTexts.json",
     "${gamedata.url}/UITexts.json"
@@ -18,12 +18,12 @@
   "avatar.figuredata.url": "${gamedata.url}/FigureData.json",
   "avatar.figuremap.url": "${gamedata.url}/FigureMap.json",
   "avatar.effectmap.url": "${gamedata.url}/EffectMap.json",
-  "avatar.asset.url": "${asset.url}/bundled/figureNew/%libname%.nitro",
-  "avatar.asset.effect.url": "${asset.url}/bundled/effect/%libname%.nitro",
-  "furni.asset.url": "${asset.url}/bundled/furniture/%libname%.nitro",
+  "avatar.asset.url": "${asset.url}/nitro-assets//bundled/figureNew/%libname%.nitro",
+  "avatar.asset.effect.url": "${asset.url}/nitro-assets//bundled/effect/%libname%.nitro",
+  "furni.asset.url": "${asset.url}/nitro-assets//bundled/furniture/%libname%.nitro",
   "furni.asset.icon.url": "${hof.furni.url}/icons/%libname%%param%_icon.png",
-  "pet.asset.url": "${asset.url}/bundled/pet/%libname%.nitro",
-  "generic.asset.url": "${asset.url}/bundled/generic/%libname%.nitro",
+  "pet.asset.url": "${asset.url}/nitro-assets//bundled/pet/%libname%.nitro",
+  "generic.asset.url": "${asset.url}/nitro-assets//bundled/generic/%libname%.nitro",
   "badge.asset.url": "${image.library.url}album1584/%badgename%.gif",
   "furni.rotation.bounce.steps": 20,
   "furni.rotation.bounce.height": 0.0625,
@@ -575,9 +575,9 @@
     "dragondog"
   ],
   "preload.assets.urls": [
-    "${asset.url}/bundled/generic/avatar_additions.nitro",
-    "${asset.url}/bundled/generic/group_badge.nitro",
-    "${asset.url}/bundled/generic/floor_editor.nitro",
+    "${asset.url}/nitro-assets//bundled/generic/avatar_additions.nitro",
+    "${asset.url}/nitro-assets//bundled/generic/group_badge.nitro",
+    "${asset.url}/nitro-assets//bundled/generic/floor_editor.nitro",
     "${images.url}/loading_icon.png",
     "${images.url}/clear_icon.png",
     "${images.url}/big_arrow.png"
