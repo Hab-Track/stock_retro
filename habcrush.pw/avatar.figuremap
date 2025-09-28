@@ -81595,6 +81595,20 @@
     {
       "parts": [
         {
+          "id": 6865,
+          "type": "ha"
+        },
+        {
+          "id": 6866,
+          "type": "ha"
+        }
+      ],
+      "id": "hat_U_autumnberet",
+      "revision": 74027
+    },
+    {
+      "parts": [
+        {
           "id": 6774,
           "type": "he"
         },
@@ -81851,6 +81865,50 @@
       ],
       "id": "jacket_U_shroomie",
       "revision": 74002
+    },
+    {
+      "parts": [
+        {
+          "id": 6867,
+          "type": "cc"
+        },
+        {
+          "id": 6867,
+          "type": "lc"
+        },
+        {
+          "id": 6867,
+          "type": "rc"
+        },
+        {
+          "id": 6868,
+          "type": "cc"
+        }
+      ],
+      "id": "jacket_M_autumnjacket",
+      "revision": 74027
+    },
+    {
+      "parts": [
+        {
+          "id": 6869,
+          "type": "cc"
+        },
+        {
+          "id": 6869,
+          "type": "lc"
+        },
+        {
+          "id": 6869,
+          "type": "rc"
+        },
+        {
+          "id": 6870,
+          "type": "cc"
+        }
+      ],
+      "id": "jacket_F_autumnjacket",
+      "revision": 74027
     },
     {
       "parts": [
