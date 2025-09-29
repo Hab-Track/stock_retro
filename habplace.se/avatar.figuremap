@@ -95,6 +95,16 @@
     {
       "parts": [
         {
+          "id": 9966208,
+          "type": "ha"
+        }
+      ],
+      "id": "hat_U_rainhat",
+      "revision": 65168
+    },
+    {
+      "parts": [
+        {
           "id": 2093,
           "type": "ha"
         },
@@ -345,6 +355,16 @@
       ],
       "id": "Shoes_F_Schoolshoes",
       "revision": 26275
+    },
+    {
+      "parts": [
+        {
+          "id": 9965217,
+          "type": "sh"
+        }
+      ],
+      "id": "shoes_U_rainboots",
+      "revision": 65168
     },
     {
       "parts": [
@@ -971,6 +991,24 @@
       ],
       "id": "jacket_U_jaquetaquadri",
       "revision": 156943
+    },
+    {
+      "parts": [
+        {
+          "id": 9965211,
+          "type": "cc"
+        },
+        {
+          "id": 9965211,
+          "type": "lc"
+        },
+        {
+          "id": 9965211,
+          "type": "rc"
+        }
+      ],
+      "id": "jacket_U_raincoat",
+      "revision": 65168
     },
     {
       "parts": [
