@@ -1,6 +1,6 @@
 ﻿{
-  "websocket.external.url": "wss://socket.hobbaz.es:8443",
-  "socket.url": "wss://socket.hobbaz.es:2096",
+  "websocket.external.url": "wss://hobbaz.hanarchy.net/b",
+  "socket.url": "wss://hobbaz.hanarchy.net",
   "asset.url": "https://cdn.hobbaz.es",
   "image.library.url": "${asset.url}/c_images/",
   "hof.furni.url": "${asset.url}/dcr/hof_furni",
@@ -8,15 +8,15 @@
   "gamedata.url": "${asset.url}/gamedata",
   "sounds.url": "${asset.url}/sounds/%sample%.mp3",
   "external.texts.url": [
-    "${gamedata.url}/ExternalTexts.json?v=1.2",
-    "${gamedata.url}/UITexts.json?V=1.6"
+    "${gamedata.url}/ExternalTexts.json",
+    "${gamedata.url}/UITexts.json"
   ],
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
-  "furnidata.url": "${gamedata.url}/FurnitureDatamin.json?V=3.7",
+  "furnidata.url": "${gamedata.url}/FurnitureDatamin.json",
   "productdata.url": "${gamedata.url}/ProductData.json",
   "avatar.actions.url": "${gamedata.url}/HabboAvatarActions.json",
-  "avatar.figuredata.url": "${gamedata.url}/FigureData.json?V=1.2",
-  "avatar.figuremap.url": "${gamedata.url}/FigureMap.json?V=1.2",
+  "avatar.figuredata.url": "${gamedata.url}/FigureData.json",
+  "avatar.figuremap.url": "${gamedata.url}/FigureMap.json",
   "avatar.effectmap.url": "${gamedata.url}/EffectMap.json",
   "avatar.asset.url": "${asset.url}/bundled/figure/%libname%.nitro",
   "avatar.asset.effect.url": "${asset.url}/bundled/effect/%libname%.nitro",
