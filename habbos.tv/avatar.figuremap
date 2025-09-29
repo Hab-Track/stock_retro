@@ -1,6 +1,77 @@
 ﻿{
   "libraries": [
     {
+      "id": "hat_U_autumnberet",
+      "parts": [
+        {
+          "id": 6865,
+          "type": "ha"
+        },
+        {
+          "id": 6866,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_autumnjacket",
+      "parts": [
+        {
+          "id": 6869,
+          "type": "cc"
+        },
+        {
+          "id": 6869,
+          "type": "lc"
+        },
+        {
+          "id": 6869,
+          "type": "rc"
+        },
+        {
+          "id": 6870,
+          "type": "cc"
+        },
+        {
+          "id": 6870,
+          "type": "lc"
+        },
+        {
+          "id": 6870,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_autumnjacket",
+      "parts": [
+        {
+          "id": 6867,
+          "type": "cc"
+        },
+        {
+          "id": 6867,
+          "type": "lc"
+        },
+        {
+          "id": 6867,
+          "type": "rc"
+        },
+        {
+          "id": 6868,
+          "type": "cc"
+        },
+        {
+          "id": 6868,
+          "type": "lc"
+        },
+        {
+          "id": 6868,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_backkatana",
       "parts": [
         {
