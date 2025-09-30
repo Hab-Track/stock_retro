@@ -1013,6 +1013,24 @@
     {
       "parts": [
         {
+          "id": 5050,
+          "type": "cc"
+        },
+        {
+          "id": 5050,
+          "type": "lc"
+        },
+        {
+          "id": 5050,
+          "type": "rc"
+        }
+      ],
+      "id": "jacket_U_mummyjewelry",
+      "revision": 65168
+    },
+    {
+      "parts": [
+        {
           "id": 156882882,
           "type": "ch"
         },
@@ -1783,6 +1801,24 @@
       ],
       "id": "acc_head_U_flowercrown2",
       "revision": 33228
+    },
+    {
+      "parts": [
+        {
+          "id": 10001043,
+          "type": "he"
+        },
+        {
+          "id": 10001044,
+          "type": "he"
+        },
+        {
+          "id": 10001045,
+          "type": "he"
+        }
+      ],
+      "id": "acc_head_U_tv25auradeagua",
+      "revision": 65168
     },
     {
       "parts": [
@@ -13015,6 +13051,16 @@
       ],
       "id": "acc_chest_U_floralbag",
       "revision": 64951
+    },
+    {
+      "parts": [
+        {
+          "id": 2147483647,
+          "type": "ca"
+        }
+      ],
+      "id": "acc_chest_U_miubodychain",
+      "revision": 65168
     },
     {
       "parts": [
