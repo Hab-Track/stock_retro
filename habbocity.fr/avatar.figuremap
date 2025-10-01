@@ -1,6 +1,102 @@
 ﻿{
   "libraries": [
     {
+      "id": "face_U_nftskeleton",
+      "revision": 181732,
+      "parts": [
+        {
+          "id": 6961,
+          "type": "hd"
+        },
+        {
+          "id": 6961,
+          "type": "bd"
+        },
+        {
+          "id": 6961,
+          "type": "lh"
+        },
+        {
+          "id": 6961,
+          "type": "rh"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_autumnberet",
+      "revision": 181730,
+      "parts": [
+        {
+          "id": 181730,
+          "type": "ha"
+        },
+        {
+          "id": 181731,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_autumnjacket",
+      "revision": 181728,
+      "parts": [
+        {
+          "id": 181728,
+          "type": "cc"
+        },
+        {
+          "id": 181728,
+          "type": "lc"
+        },
+        {
+          "id": 181728,
+          "type": "rc"
+        },
+        {
+          "id": 181729,
+          "type": "cc"
+        },
+        {
+          "id": 181729,
+          "type": "lc"
+        },
+        {
+          "id": 181729,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_autumnjacket",
+      "revision": 181726,
+      "parts": [
+        {
+          "id": 181726,
+          "type": "cc"
+        },
+        {
+          "id": 181726,
+          "type": "lc"
+        },
+        {
+          "id": 181726,
+          "type": "rc"
+        },
+        {
+          "id": 181727,
+          "type": "cc"
+        },
+        {
+          "id": 181727,
+          "type": "lc"
+        },
+        {
+          "id": 181727,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "shoes_U_muddyfeet",
       "revision": 181725,
       "parts": [
