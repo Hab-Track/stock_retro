@@ -26040,7 +26040,7 @@
     },
     {
       "id": "face_U_nftbrighteyes2",
-      "revision": 70368,
+      "revision": 74041,
       "parts": [
         {
           "id": 5197,
@@ -26562,7 +26562,7 @@
     },
     {
       "id": "face_U_nftbrighteyes",
-      "revision": 70368,
+      "revision": 74041,
       "parts": [
         {
           "id": 5194,
@@ -26922,7 +26922,7 @@
     },
     {
       "id": "face_U_nftvivideyes2",
-      "revision": 70368,
+      "revision": 74041,
       "parts": [
         {
           "id": 5203,
@@ -27452,7 +27452,7 @@
     },
     {
       "id": "face_U_nftvivideyes",
-      "revision": 70368,
+      "revision": 74041,
       "parts": [
         {
           "id": 5200,
@@ -36622,7 +36622,7 @@
     },
     {
       "id": "face_U_nftantagonist",
-      "revision": 72807,
+      "revision": 74041,
       "parts": [
         {
           "id": 6305,
@@ -36852,7 +36852,7 @@
     },
     {
       "id": "face_U_nftcartoonhero",
-      "revision": 72812,
+      "revision": 74041,
       "parts": [
         {
           "id": 6299,
@@ -36870,7 +36870,7 @@
     },
     {
       "id": "face_U_nftcartoonheroine2",
-      "revision": 72829,
+      "revision": 74041,
       "parts": [
         {
           "id": 6522,
@@ -36888,7 +36888,7 @@
     },
     {
       "id": "face_U_nftantagonist2",
-      "revision": 72829,
+      "revision": 74041,
       "parts": [
         {
           "id": 6525,
@@ -36906,7 +36906,7 @@
     },
     {
       "id": "face_U_nftcartoonheroine",
-      "revision": 72812,
+      "revision": 74041,
       "parts": [
         {
           "id": 6302,
@@ -36924,7 +36924,7 @@
     },
     {
       "id": "face_U_nftcartoonhero2",
-      "revision": 72829,
+      "revision": 74041,
       "parts": [
         {
           "id": 6519,
@@ -41404,7 +41404,7 @@
     },
     {
       "id": "face_U_nftsilvereyes",
-      "revision": 73940,
+      "revision": 74041,
       "parts": [
         {
           "id": 6894,
@@ -41514,7 +41514,7 @@
     },
     {
       "id": "face_U_nftsilvereyes2",
-      "revision": 73941,
+      "revision": 74041,
       "parts": [
         {
           "id": 6897,
@@ -41929,6 +41929,28 @@
         {
           "id": 6868,
           "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftskeleton",
+      "revision": 74044,
+      "parts": [
+        {
+          "id": 6961,
+          "type": "hd"
+        },
+        {
+          "id": 6961,
+          "type": "bd"
+        },
+        {
+          "id": 6961,
+          "type": "lh"
+        },
+        {
+          "id": 6961,
+          "type": "rh"
         }
       ]
     },
