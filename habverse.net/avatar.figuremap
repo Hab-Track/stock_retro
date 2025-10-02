@@ -1,24 +1,6 @@
 ﻿{
   "libraries": [
     {
-      "id": "jacket_U_raincoat",
-      "revision": 9965211,
-      "parts": [
-        {
-          "id": 9965211,
-          "type": "cc"
-        },
-        {
-          "id": 9965211,
-          "type": "lc"
-        },
-        {
-          "id": 9965211,
-          "type": "rc"
-        }
-      ]
-    },
-    {
       "id": "jacket_F_autumnjacket",
       "revision": 6869,
       "parts": [
@@ -45,6 +27,84 @@
         {
           "id": 6870,
           "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_MeetGalaDress",
+      "revision": 181359,
+      "parts": [
+        {
+          "id": 181359,
+          "type": "ch"
+        },
+        {
+          "id": 181359,
+          "type": "ls"
+        },
+        {
+          "id": 181359,
+          "type": "rs"
+        },
+        {
+          "id": 181360,
+          "type": "ch"
+        },
+        {
+          "id": 181361,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_CuerpoPinguino",
+      "revision": 30001500,
+      "parts": [
+        {
+          "id": 30001500,
+          "type": "ch"
+        },
+        {
+          "id": 30001500,
+          "type": "ls"
+        },
+        {
+          "id": 30001500,
+          "type": "rs"
+        },
+        {
+          "id": 30001501,
+          "type": "ch"
+        },
+        {
+          "id": 30001501,
+          "type": "ls"
+        },
+        {
+          "id": 30001501,
+          "type": "rs"
+        },
+        {
+          "id": 30001502,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_raincoat",
+      "revision": 9965211,
+      "parts": [
+        {
+          "id": 9965211,
+          "type": "cc"
+        },
+        {
+          "id": 9965211,
+          "type": "lc"
+        },
+        {
+          "id": 9965211,
+          "type": "rc"
         }
       ]
     },
@@ -4152,31 +4212,6 @@
         {
           "id": 181434,
           "type": "rs"
-        }
-      ]
-    },
-    {
-      "id": "shirt_F_MeetGalaDress",
-      "parts": [
-        {
-          "id": 181359,
-          "type": "ch"
-        },
-        {
-          "id": 181359,
-          "type": "ls"
-        },
-        {
-          "id": 181359,
-          "type": "rs"
-        },
-        {
-          "id": 181360,
-          "type": "ch"
-        },
-        {
-          "id": 181361,
-          "type": "ch"
         }
       ]
     },
@@ -9147,39 +9182,6 @@
         {
           "id": 181446,
           "type": "rc"
-        }
-      ]
-    },
-    {
-      "id": "shirt_U_CuerpoPinguino",
-      "parts": [
-        {
-          "id": 30001500,
-          "type": "ch"
-        },
-        {
-          "id": 30001500,
-          "type": "ls"
-        },
-        {
-          "id": 30001500,
-          "type": "rs"
-        },
-        {
-          "id": 30001501,
-          "type": "ch"
-        },
-        {
-          "id": 30001501,
-          "type": "ls"
-        },
-        {
-          "id": 30001501,
-          "type": "rs"
-        },
-        {
-          "id": 30001502,
-          "type": "ch"
         }
       ]
     },
