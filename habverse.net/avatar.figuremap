@@ -1,6 +1,84 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_raincoat",
+      "revision": 9965211,
+      "parts": [
+        {
+          "id": 9965211,
+          "type": "cc"
+        },
+        {
+          "id": 9965211,
+          "type": "lc"
+        },
+        {
+          "id": 9965211,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_autumnjacket",
+      "revision": 6869,
+      "parts": [
+        {
+          "id": 6869,
+          "type": "cc"
+        },
+        {
+          "id": 6869,
+          "type": "lc"
+        },
+        {
+          "id": 6869,
+          "type": "rc"
+        },
+        {
+          "id": 6870,
+          "type": "lc"
+        },
+        {
+          "id": 6870,
+          "type": "rc"
+        },
+        {
+          "id": 6870,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_autumnjacket",
+      "revision": 6867,
+      "parts": [
+        {
+          "id": 6867,
+          "type": "cc"
+        },
+        {
+          "id": 6867,
+          "type": "lc"
+        },
+        {
+          "id": 6867,
+          "type": "rc"
+        },
+        {
+          "id": 6868,
+          "type": "lc"
+        },
+        {
+          "id": 6868,
+          "type": "rc"
+        },
+        {
+          "id": 6868,
+          "type": "cc"
+        }
+      ]
+    },
+    {
       "id": "hat_U_rainhat",
       "revision": 9966208,
       "parts": [
