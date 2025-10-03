@@ -1,6 +1,28 @@
 ﻿{
   "libraries": [
     {
+      "id": "face_U_nftskeleton",
+      "revision": 74044,
+      "parts": [
+        {
+          "id": 6961,
+          "type": "hd"
+        },
+        {
+          "id": 6961,
+          "type": "bd"
+        },
+        {
+          "id": 6961,
+          "type": "lh"
+        },
+        {
+          "id": 6961,
+          "type": "rh"
+        }
+      ]
+    },
+    {
       "id": "jacket_F_autumnjacket",
       "revision": 6869,
       "parts": [
@@ -27,32 +49,6 @@
         {
           "id": 6870,
           "type": "cc"
-        }
-      ]
-    },
-    {
-      "id": "shirt_F_MeetGalaDress",
-      "revision": 181359,
-      "parts": [
-        {
-          "id": 181359,
-          "type": "ch"
-        },
-        {
-          "id": 181359,
-          "type": "ls"
-        },
-        {
-          "id": 181359,
-          "type": "rs"
-        },
-        {
-          "id": 181360,
-          "type": "ch"
-        },
-        {
-          "id": 181361,
-          "type": "ch"
         }
       ]
     },
@@ -86,6 +82,32 @@
         },
         {
           "id": 30001502,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_MeetGalaDress",
+      "revision": 181359,
+      "parts": [
+        {
+          "id": 181359,
+          "type": "ch"
+        },
+        {
+          "id": 181359,
+          "type": "ls"
+        },
+        {
+          "id": 181359,
+          "type": "rs"
+        },
+        {
+          "id": 181360,
+          "type": "ch"
+        },
+        {
+          "id": 181361,
           "type": "ch"
         }
       ]
