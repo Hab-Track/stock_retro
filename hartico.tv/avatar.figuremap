@@ -1,6 +1,614 @@
 ﻿{
   "libraries": [
     {
+      "id": "face_U_nftskeleton",
+      "parts": [
+        {
+          "id": 6961,
+          "type": "bd"
+        },
+        {
+          "id": 6961,
+          "type": "hd"
+        },
+        {
+          "id": 6961,
+          "type": "rh"
+        },
+        {
+          "id": 6961,
+          "type": "lh"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_autumnberet",
+      "parts": [
+        {
+          "id": 6865,
+          "type": "ha"
+        },
+        {
+          "id": 6866,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_autumnjacket",
+      "parts": [
+        {
+          "id": 6869,
+          "type": "cc"
+        },
+        {
+          "id": 6869,
+          "type": "lc"
+        },
+        {
+          "id": 6869,
+          "type": "rc"
+        },
+        {
+          "id": 6870,
+          "type": "cc"
+        },
+        {
+          "id": 6870,
+          "type": "lc"
+        },
+        {
+          "id": 6870,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_autumnjacket",
+      "parts": [
+        {
+          "id": 6867,
+          "type": "cc"
+        },
+        {
+          "id": 6867,
+          "type": "lc"
+        },
+        {
+          "id": 6867,
+          "type": "rc"
+        },
+        {
+          "id": 6868,
+          "type": "cc"
+        },
+        {
+          "id": 6868,
+          "type": "lc"
+        },
+        {
+          "id": 6868,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_backkatana",
+      "parts": [
+        {
+          "id": 6806,
+          "type": "ca"
+        },
+        {
+          "id": 6807,
+          "type": "ca"
+        },
+        {
+          "id": 6808,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_mouldytoastbackpack",
+      "parts": [
+        {
+          "id": 6809,
+          "type": "ca"
+        },
+        {
+          "id": 6810,
+          "type": "ca"
+        },
+        {
+          "id": 6811,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_survivalbackpack",
+      "parts": [
+        {
+          "id": 6812,
+          "type": "ca"
+        },
+        {
+          "id": 6813,
+          "type": "ca"
+        },
+        {
+          "id": 6814,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_respirator",
+      "parts": [
+        {
+          "id": 6815,
+          "type": "fa"
+        },
+        {
+          "id": 6816,
+          "type": "fa"
+        },
+        {
+          "id": 6817,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_bandagedhead",
+      "parts": [
+        {
+          "id": 6818,
+          "type": "he"
+        },
+        {
+          "id": 6819,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_fungushead",
+      "parts": [
+        {
+          "id": 6774,
+          "type": "he"
+        },
+        {
+          "id": 6775,
+          "type": "he"
+        },
+        {
+          "id": 6776,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_bandagedtorso",
+      "parts": [
+        {
+          "id": 6820,
+          "type": "wa"
+        },
+        {
+          "id": 6821,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_huntingknifebelt",
+      "parts": [
+        {
+          "id": 6771,
+          "type": "wa"
+        },
+        {
+          "id": 6772,
+          "type": "wa"
+        },
+        {
+          "id": 6773,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_muddyfeet",
+      "parts": [
+        {
+          "id": 6777,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_medbackpack",
+      "parts": [
+        {
+          "id": 6791,
+          "type": "ca"
+        },
+        {
+          "id": 6792,
+          "type": "ca"
+        },
+        {
+          "id": 6793,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_nftfungalinfection",
+      "parts": [
+        {
+          "id": 6926,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftwarpaint",
+      "parts": [
+        {
+          "id": 6927,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftwarpaint2",
+      "parts": [
+        {
+          "id": 6956,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_nftflashlight",
+      "parts": [
+        {
+          "id": 6930,
+          "type": "wa"
+        },
+        {
+          "id": 6931,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_mushroomcape",
+      "parts": [
+        {
+          "id": 6787,
+          "type": "cc"
+        },
+        {
+          "id": 6787,
+          "type": "lc"
+        },
+        {
+          "id": 6787,
+          "type": "rc"
+        },
+        {
+          "id": 6788,
+          "type": "cc"
+        },
+        {
+          "id": 6788,
+          "type": "lc"
+        },
+        {
+          "id": 6788,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftbiohazardjacket",
+      "parts": [
+        {
+          "id": 6928,
+          "type": "cc"
+        },
+        {
+          "id": 6928,
+          "type": "lc"
+        },
+        {
+          "id": 6928,
+          "type": "rc"
+        },
+        {
+          "id": 6929,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_shroomie",
+      "parts": [
+        {
+          "id": 6803,
+          "type": "cc"
+        },
+        {
+          "id": 6803,
+          "type": "lc"
+        },
+        {
+          "id": 6803,
+          "type": "rc"
+        },
+        {
+          "id": 6804,
+          "type": "cc"
+        },
+        {
+          "id": 6804,
+          "type": "lc"
+        },
+        {
+          "id": 6804,
+          "type": "rc"
+        },
+        {
+          "id": 6805,
+          "type": "cc"
+        },
+        {
+          "id": 6805,
+          "type": "lc"
+        },
+        {
+          "id": 6805,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_scruffyplaidshirt",
+      "parts": [
+        {
+          "id": 6909,
+          "type": "ch"
+        },
+        {
+          "id": 6909,
+          "type": "ls"
+        },
+        {
+          "id": 6909,
+          "type": "rs"
+        },
+        {
+          "id": 6910,
+          "type": "ch"
+        },
+        {
+          "id": 6910,
+          "type": "ls"
+        },
+        {
+          "id": 6910,
+          "type": "rs"
+        },
+        {
+          "id": 6911,
+          "type": "ch"
+        },
+        {
+          "id": 6911,
+          "type": "ls"
+        },
+        {
+          "id": 6911,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_scruffyplaidshirt",
+      "parts": [
+        {
+          "id": 6906,
+          "type": "ch"
+        },
+        {
+          "id": 6906,
+          "type": "ls"
+        },
+        {
+          "id": 6906,
+          "type": "rs"
+        },
+        {
+          "id": 6907,
+          "type": "ch"
+        },
+        {
+          "id": 6907,
+          "type": "ls"
+        },
+        {
+          "id": 6907,
+          "type": "rs"
+        },
+        {
+          "id": 6908,
+          "type": "ch"
+        },
+        {
+          "id": 6908,
+          "type": "ls"
+        },
+        {
+          "id": 6908,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_scruffyjeans",
+      "parts": [
+        {
+          "id": 6789,
+          "type": "lg"
+        },
+        {
+          "id": 6790,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nfthobbyhorse1",
+      "parts": [
+        {
+          "id": 6920,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nfthobbyhorse2",
+      "parts": [
+        {
+          "id": 6921,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nfthobbyhorse3",
+      "parts": [
+        {
+          "id": 6922,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftsilvereyes",
+      "parts": [
+        {
+          "id": 6894,
+          "type": "fc"
+        },
+        {
+          "id": 6895,
+          "type": "ey"
+        },
+        {
+          "id": 6896,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftsilvereyes2",
+      "parts": [
+        {
+          "id": 6897,
+          "type": "fc"
+        },
+        {
+          "id": 6898,
+          "type": "ey"
+        },
+        {
+          "id": 6899,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftombrecut1",
+      "parts": [
+        {
+          "id": 6900,
+          "type": "hr"
+        },
+        {
+          "id": 6900,
+          "type": "hrb"
+        },
+        {
+          "id": 6901,
+          "type": "hr"
+        },
+        {
+          "id": 6901,
+          "type": "hrb"
+        },
+        {
+          "id": 6902,
+          "type": "hr"
+        },
+        {
+          "id": 6902,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftombrecut2",
+      "parts": [
+        {
+          "id": 6903,
+          "type": "hr"
+        },
+        {
+          "id": 6903,
+          "type": "hrb"
+        },
+        {
+          "id": 6904,
+          "type": "hr"
+        },
+        {
+          "id": 6904,
+          "type": "hrb"
+        },
+        {
+          "id": 6905,
+          "type": "hr"
+        },
+        {
+          "id": 6905,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftcakeoutfit",
+      "parts": [
+        {
+          "id": 6923,
+          "type": "cc"
+        },
+        {
+          "id": 6924,
+          "type": "cc"
+        },
+        {
+          "id": 6925,
+          "type": "cc"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_sepr",
       "parts": [
         {
