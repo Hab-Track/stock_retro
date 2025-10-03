@@ -1,6 +1,50 @@
 ﻿{
   "libraries": [
     {
+      "id": "hat_U_autumnberet",
+      "revision": 6865,
+      "parts": [
+        {
+          "id": 6865,
+          "type": "ha"
+        },
+        {
+          "id": 6866,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_mushroomcape",
+      "revision": 6787,
+      "parts": [
+        {
+          "id": 6787,
+          "type": "lc"
+        },
+        {
+          "id": 6787,
+          "type": "cc"
+        },
+        {
+          "id": 6787,
+          "type": "rc"
+        },
+        {
+          "id": 6788,
+          "type": "lc"
+        },
+        {
+          "id": 6788,
+          "type": "cc"
+        },
+        {
+          "id": 6788,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "face_U_nftskeleton",
       "revision": 74044,
       "parts": [
