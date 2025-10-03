@@ -1,6 +1,142 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_F_hellokittysuit",
+      "revision": 50121,
+      "parts": [
+        {
+          "id": 50121,
+          "type": "ch"
+        },
+        {
+          "id": 50121,
+          "type": "ls"
+        },
+        {
+          "id": 50121,
+          "type": "rs"
+        },
+        {
+          "id": 50122,
+          "type": "ch"
+        },
+        {
+          "id": 50122,
+          "type": "ls"
+        },
+        {
+          "id": 50122,
+          "type": "rs"
+        },
+        {
+          "id": 50123,
+          "type": "ch"
+        },
+        {
+          "id": 50123,
+          "type": "ls"
+        },
+        {
+          "id": 50123,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "hat_F_hellokittyhead",
+      "revision": 50119,
+      "parts": [
+        {
+          "id": 50119,
+          "type": "ha"
+        },
+        {
+          "id": 50120,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_M_deardanielhead",
+      "revision": 50115,
+      "parts": [
+        {
+          "id": 50115,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_deardanielbody",
+      "revision": 50116,
+      "parts": [
+        {
+          "id": 50116,
+          "type": "ch"
+        },
+        {
+          "id": 50116,
+          "type": "ls"
+        },
+        {
+          "id": 50116,
+          "type": "rs"
+        },
+        {
+          "id": 50117,
+          "type": "ch"
+        },
+        {
+          "id": 50117,
+          "type": "ls"
+        },
+        {
+          "id": 50117,
+          "type": "rs"
+        },
+        {
+          "id": 50118,
+          "type": "ch"
+        },
+        {
+          "id": 50118,
+          "type": "ls"
+        },
+        {
+          "id": 50118,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_hellokittyhair",
+      "revision": 50124,
+      "parts": [
+        {
+          "id": 50124,
+          "type": "hr"
+        },
+        {
+          "id": 50125,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_hellokittyears",
+      "revision": 50126,
+      "parts": [
+        {
+          "id": 50126,
+          "type": "he"
+        },
+        {
+          "id": 50127,
+          "type": "he"
+        }
+      ]
+    },
+    {
       "id": "hat_U_autumnberet",
       "revision": 6865,
       "parts": [
