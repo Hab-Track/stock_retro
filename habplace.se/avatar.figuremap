@@ -45683,6 +45683,92 @@
           "type": "hd"
         }
       ]
+    },
+    {
+      "id": "jacket_U_nftsack",
+      "revision": 90007,
+      "parts": [
+        {
+          "id": 6312,
+          "type": "rc"
+        },
+        {
+          "id": 6312,
+          "type": "cc"
+        },
+        {
+          "id": 6312,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "face_F_nftscarface",
+      "revision": 56765,
+      "parts": [
+        {
+          "id": 6605,
+          "type": "fc"
+        },
+        {
+          "id": 6606,
+          "type": "ey"
+        },
+        {
+          "id": 6606,
+          "type": "fc"
+        },
+        {
+          "id": 1,
+          "type": "hd"
+        },
+        {
+          "id": 1,
+          "type": "bd"
+        },
+        {
+          "id": 1,
+          "type": "lh"
+        },
+        {
+          "id": 1,
+          "type": "rh"
+        }
+      ]
+    },
+    {
+      "id": "face_M_nftscarface",
+      "revision": 58511,
+      "parts": [
+        {
+          "id": 6601,
+          "type": "fc"
+        },
+        {
+          "id": 6602,
+          "type": "ey"
+        },
+        {
+          "id": 6602,
+          "type": "fc"
+        },
+        {
+          "id": 1,
+          "type": "hd"
+        },
+        {
+          "id": 1,
+          "type": "bd"
+        },
+        {
+          "id": 1,
+          "type": "lh"
+        },
+        {
+          "id": 1,
+          "type": "rh"
+        }
+      ]
     }
   ]
 }
