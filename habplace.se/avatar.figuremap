@@ -35935,15 +35935,15 @@
     {
       "parts": [
         {
-          "id": 10000007,
+          "id": 2342113,
           "type": "hr"
         },
         {
-          "id": 10000007,
+          "id": 2342114,
           "type": "hrb"
         }
       ],
-      "id": "hair_F_lbuns",
+      "id": "hair_U_hairtest",
       "revision": 65168
     },
     {
@@ -46917,6 +46917,160 @@
         {
           "id": 5722842,
           "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bunshair",
+      "revision": 36216,
+      "parts": [
+        {
+          "id": 2342113,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_MeowPurrhair",
+      "revision": 21468,
+      "parts": [
+        {
+          "id": 83276991,
+          "type": "hr"
+        },
+        {
+          "id": 83276992,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_TojiHair",
+      "revision": 37021,
+      "parts": [
+        {
+          "id": 181372,
+          "type": "hr"
+        },
+        {
+          "id": 181373,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_tv25peloZelda",
+      "revision": 12992,
+      "parts": [
+        {
+          "id": 10001088,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv25orejascinnamorol",
+      "revision": 49784,
+      "parts": [
+        {
+          "id": 10001037,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_KimonoSamuraiOscuro",
+      "revision": 89532,
+      "parts": [
+        {
+          "id": 20001551,
+          "type": "cc"
+        },
+        {
+          "id": 20001552,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv25abrigofurry",
+      "revision": 26941,
+      "parts": [
+        {
+          "id": 10001028,
+          "type": "cc"
+        },
+        {
+          "id": 10001029,
+          "type": "lc"
+        },
+        {
+          "id": 10001029,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv25abrigolalalal",
+      "revision": 98826,
+      "parts": [
+        {
+          "id": 10001099,
+          "type": "cc"
+        },
+        {
+          "id": 10001099,
+          "type": "lc"
+        },
+        {
+          "id": 10001099,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv25americanacaida",
+      "revision": 72247,
+      "parts": [
+        {
+          "id": 10001026,
+          "type": "cc"
+        },
+        {
+          "id": 10001027,
+          "type": "lc"
+        },
+        {
+          "id": 10001027,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv25capasemcoisa",
+      "revision": 27515,
+      "parts": [
+        {
+          "id": 10001089,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv25silladeruedas",
+      "revision": 38672,
+      "parts": [
+        {
+          "id": 10001022,
+          "type": "cc"
+        },
+        {
+          "id": 10001023,
+          "type": "cc"
+        },
+        {
+          "id": 10001024,
+          "type": "cc"
         }
       ]
     }
