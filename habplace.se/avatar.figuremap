@@ -45957,7 +45957,7 @@
       ]
     },
     {
-      "id": "trousers_U_faldacolegio",
+      "id": "trousers_U_faldacolegio1",
       "revision": 97100,
       "parts": [
         {
@@ -46311,6 +46311,488 @@
         {
           "id": 10001078,
           "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_phoenixforce",
+      "revision": 50538,
+      "parts": [
+        {
+          "id": 21474907,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_olhospossuidos",
+      "revision": 74997,
+      "parts": [
+        {
+          "id": 21474891,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_bandagens",
+      "revision": 23521,
+      "parts": [
+        {
+          "id": 21474904,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_bocasangrenta",
+      "revision": 49549,
+      "parts": [
+        {
+          "id": 21474900,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_bocasangrentaa",
+      "revision": 84087,
+      "parts": [
+        {
+          "id": 21474901,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_mascaradarkchylde",
+      "revision": 97277,
+      "parts": [
+        {
+          "id": 21474892,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_chifredemoniaco",
+      "revision": 25331,
+      "parts": [
+        {
+          "id": 21474872,
+          "type": "he"
+        },
+        {
+          "id": 21474873,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_energia",
+      "revision": 26061,
+      "parts": [
+        {
+          "id": 21474860,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tiaranoivaa",
+      "revision": 77854,
+      "parts": [
+        {
+          "id": 21474843,
+          "type": "he"
+        },
+        {
+          "id": 21474844,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tiaranoivah",
+      "revision": 60993,
+      "parts": [
+        {
+          "id": 21474841,
+          "type": "ha"
+        },
+        {
+          "id": 21474842,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv25aurafloral",
+      "revision": 91230,
+      "parts": [
+        {
+          "id": 10000947,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv25auraforest",
+      "revision": 43667,
+      "parts": [
+        {
+          "id": 10000948,
+          "type": "he"
+        },
+        {
+          "id": 10000949,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv25auraniebla",
+      "revision": 67047,
+      "parts": [
+        {
+          "id": 10000993,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv25auraviento",
+      "revision": 54740,
+      "parts": [
+        {
+          "id": 10000992,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_vinhas",
+      "revision": 73927,
+      "parts": [
+        {
+          "id": 21474898,
+          "type": "he"
+        },
+        {
+          "id": 21474899,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_rabomorlock",
+      "revision": 47426,
+      "parts": [
+        {
+          "id": 21474874,
+          "type": "wa"
+        },
+        {
+          "id": 21474875,
+          "type": "wa"
+        },
+        {
+          "id": 21474876,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_raboneyaphem",
+      "revision": 99400,
+      "parts": [
+        {
+          "id": 21474870,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_cassbardihair",
+      "revision": 55210,
+      "parts": [
+        {
+          "id": 488049,
+          "type": "hr"
+        },
+        {
+          "id": 488049,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_aguachapeu",
+      "revision": 97903,
+      "parts": [
+        {
+          "id": 21474881,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_aguacorpo",
+      "revision": 36647,
+      "parts": [
+        {
+          "id": 21474882,
+          "type": "cc"
+        },
+        {
+          "id": 21474883,
+          "type": "lc"
+        },
+        {
+          "id": 21474883,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_aguaperna",
+      "revision": 23063,
+      "parts": [
+        {
+          "id": 21474884,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_archapeu",
+      "revision": 58342,
+      "parts": [
+        {
+          "id": 21474877,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_arcorpo",
+      "revision": 62973,
+      "parts": [
+        {
+          "id": 21474878,
+          "type": "cc"
+        },
+        {
+          "id": 21474879,
+          "type": "lc"
+        },
+        {
+          "id": 21474879,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_arperna",
+      "revision": 52702,
+      "parts": [
+        {
+          "id": 21474880,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_casskleberhat",
+      "revision": 41424,
+      "parts": [
+        {
+          "id": 488029,
+          "type": "ha"
+        },
+        {
+          "id": 488030,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_chapeudragao",
+      "revision": 40570,
+      "parts": [
+        {
+          "id": 21474889,
+          "type": "ha"
+        },
+        {
+          "id": 21474890,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_braceletes",
+      "revision": 54760,
+      "parts": [
+        {
+          "id": 21474903,
+          "type": "lc"
+        },
+        {
+          "id": 21474903,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_terrachapeu",
+      "revision": 78818,
+      "parts": [
+        {
+          "id": 21474885,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_terracorpo",
+      "revision": 46275,
+      "parts": [
+        {
+          "id": 21474886,
+          "type": "cc"
+        },
+        {
+          "id": 21474887,
+          "type": "lc"
+        },
+        {
+          "id": 21474887,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_terraperna",
+      "revision": 87265,
+      "parts": [
+        {
+          "id": 21474888,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_luvasbandagem",
+      "revision": 33599,
+      "parts": [
+        {
+          "id": 21474902,
+          "type": "lc"
+        },
+        {
+          "id": 21474902,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_mantolendario",
+      "revision": 56923,
+      "parts": [
+        {
+          "id": 21474893,
+          "type": "cc"
+        },
+        {
+          "id": 21474893,
+          "type": "lc"
+        },
+        {
+          "id": 21474893,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_kimonoreal",
+      "revision": 22450,
+      "parts": [
+        {
+          "id": 21474871,
+          "type": "ch"
+        },
+        {
+          "id": 21474871,
+          "type": "ls"
+        },
+        {
+          "id": 21474871,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_uniformemasc",
+      "revision": 40245,
+      "parts": [
+        {
+          "id": 21474894,
+          "type": "ch"
+        },
+        {
+          "id": 21474894,
+          "type": "ls"
+        },
+        {
+          "id": 21474894,
+          "type": "rs"
+        },
+        {
+          "id": 21474895,
+          "type": "ch"
+        },
+        {
+          "id": 21474895,
+          "type": "ls"
+        },
+        {
+          "id": 21474895,
+          "type": "rs"
+        },
+        {
+          "id": 21474896,
+          "type": "ch"
+        },
+        {
+          "id": 21474896,
+          "type": "ls"
+        },
+        {
+          "id": 21474896,
+          "type": "rs"
+        },
+        {
+          "id": 21474897,
+          "type": "ls"
+        },
+        {
+          "id": 21474897,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_saiagala",
+      "revision": 77088,
+      "parts": [
+        {
+          "id": 21474905,
+          "type": "lg"
+        },
+        {
+          "id": 21474906,
+          "type": "lg"
         }
       ]
     }
