@@ -72137,6 +72137,48 @@
           "type": "fc"
         }
       ]
+    },
+    {
+      "id": "clothing_cassmeratiara",
+      "revision": 998788953,
+      "parts": [
+        {
+          "id": 48808800,
+          "type": "ha"
+        },
+        {
+          "id": 48808900,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_cassmeratiarav2",
+      "revision": 998788954,
+      "parts": [
+        {
+          "id": 488090,
+          "type": "he"
+        },
+        {
+          "id": 488091,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_cassmeratiara",
+      "revision": 998788955,
+      "parts": [
+        {
+          "id": 488088,
+          "type": "ha"
+        },
+        {
+          "id": 488089,
+          "type": "ha"
+        }
+      ]
     }
   ]
 }
