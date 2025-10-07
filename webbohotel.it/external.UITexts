@@ -55,7 +55,7 @@
   "notification.hotel.event.alert": "Evento",
   "notification.hotel.event.linkTitle": "Vai a: %ROOMNAME%",
   "notification.hotel.event.linkUrl": "event:navigator/goto/%ROOMID%",
-  "notification.hotel.event.message": "<div style='padding: 10px; border-radius: 5px; max-height: 100px; max-width: 260px;'><div style='width: 238px;'>In <b>Webbo</b> c'è una nuova attività!<br><br>L'attività segnalata si chiama: <br> <b>%MESSAGE%<b/></div><br>-<b>%USERNAME%</b><div style='background: url(https://avatar.webbohotel.it/figure/%LOOK%&direction=4&head_direction=3&gesture=spk&img_format=gif), #fff; background-repeat: no-repeat; height: 63px; width: 63px; margin-top: -5px; border: 1px solid #000; background-position: -4px -22px; border-radius: 6px; float: right;'></div>",
+  "notification.hotel.event.message": "<div style='padding: 10px; border-radius: 5px; max-height: 100px; max-width: 260px;'><div style='width: 238px;'>In <b>Webbo</b> c'è una nuova attività!<br><br>L'attività segnalata si chiama: <br> <b>%MESSAGE%<b/></div><br>-<b>%USERNAME%</b><div style='background: url(https://imager.habbo.network/?figure=%LOOK%&direction=4&head_direction=3&gesture=spk&img_format=gif), #fff; background-repeat: no-repeat; height: 63px; width: 63px; margin-top: -5px; border: 1px solid #000; background-position: -4px -22px; border-radius: 6px; float: right;'></div>",
   "extendedprofile.created": "Creato il:",
   "extendedprofile.last.login": "Ultimo accesso:",
   "extendedprofile.achievementscore": "Punti Impresa:",
