@@ -1,6 +1,98 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_ChainWings",
+      "revision": 181739,
+      "parts": [
+        {
+          "id": 181739,
+          "type": "ca"
+        },
+        {
+          "id": 181740,
+          "type": "ca"
+        },
+        {
+          "id": 181741,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_PrettySkullBag",
+      "revision": 181738,
+      "parts": [
+        {
+          "id": 181738,
+          "type": "cc"
+        },
+        {
+          "id": 181738,
+          "type": "lc"
+        },
+        {
+          "id": 181738,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_CapucheChiick",
+      "revision": 181736,
+      "parts": [
+        {
+          "id": 181736,
+          "type": "ha"
+        },
+        {
+          "id": 181737,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_ChickSweat",
+      "revision": 181733,
+      "parts": [
+        {
+          "id": 181733,
+          "type": "cc"
+        },
+        {
+          "id": 181733,
+          "type": "lc"
+        },
+        {
+          "id": 181733,
+          "type": "rc"
+        },
+        {
+          "id": 181734,
+          "type": "cc"
+        },
+        {
+          "id": 181734,
+          "type": "lc"
+        },
+        {
+          "id": 181734,
+          "type": "rc"
+        },
+        {
+          "id": 181735,
+          "type": "cc"
+        },
+        {
+          "id": 181735,
+          "type": "lc"
+        },
+        {
+          "id": 181735,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "face_U_nftskeleton",
       "revision": 181732,
       "parts": [
