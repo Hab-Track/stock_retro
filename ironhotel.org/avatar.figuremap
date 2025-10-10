@@ -72179,6 +72179,28 @@
           "type": "ha"
         }
       ]
+    },
+    {
+      "id": "face_U_nftskeleton",
+      "revision": 998788956,
+      "parts": [
+        {
+          "id": 6961,
+          "type": "hd"
+        },
+        {
+          "id": 6961,
+          "type": "bd"
+        },
+        {
+          "id": 6961,
+          "type": "lh"
+        },
+        {
+          "id": 6961,
+          "type": "rh"
+        }
+      ]
     }
   ]
 }
