@@ -1,6 +1,44 @@
 ﻿{
   "libraries": [
     {
+      "id": "hair_U_pelofer",
+      "revision": 99000158,
+      "parts": [
+        {
+          "id": 9933,
+          "type": "hr"
+        },
+        {
+          "id": 9933,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_peloferdobl",
+      "revision": 9900160,
+      "parts": [
+        {
+          "id": 9935,
+          "type": "hr"
+        },
+        {
+          "id": 9936,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_ferhabblummullet",
+      "revision": 7,
+      "parts": [
+        {
+          "id": 330002,
+          "type": "hr"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_MochilaTricolor",
       "parts": [
         {
