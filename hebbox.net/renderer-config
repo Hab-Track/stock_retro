@@ -9,42 +9,43 @@
   "sounds.url": "${asset.url}/sounds/%sample%.mp3",
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
   "external.texts.es": [
-    "${gamedata.url}/lang/ES/ExternalTexts.json?v=31",
-    "${gamedata.url}/Badges.json"
+    "${gamedata.url}/lang/ES/ExternalTexts.json",
+    "${gamedata.url}/Badges.json",
+    "https://hebbox.net/getbadges"
   ],
   "external.texts.en": [
-    "${gamedata.url}/lang/EN/ExternalTexts.json?v1",
+    "${gamedata.url}/lang/EN/ExternalTexts.json",
     "${gamedata.url}/lang/EN/UITexts.json",
     "${gamedata.url}/Badges.json"
   ],
   "external.texts.pt": [
-    "${gamedata.url}/lang/PT/ExternalTexts.json?v",
+    "${gamedata.url}/lang/PT/ExternalTexts.json",
     "${gamedata.url}/lang/PT/UITexts.json",
     "${gamedata.url}/Badges.json"
   ],
   "external.texts.fr": [
-    "${gamedata.url}/lang/FR/ExternalTexts.json?v",
+    "${gamedata.url}/lang/FR/ExternalTexts.json",
     "${gamedata.url}/lang/FR/UITexts.json",
     "${gamedata.url}/Badges.json"
   ],
   "external.texts.it": [
-    "${gamedata.url}/lang/IT/ExternalTexts.json?v",
+    "${gamedata.url}/lang/IT/ExternalTexts.json",
     "${gamedata.url}/lang/IT/UITexts.json",
     "${gamedata.url}/Badges.json"
   ],
-  "furnidata.url": "${gamedata.url}/FDv5.json?v=12",
+  "furnidata.url": "${gamedata.url}/FDv5.json",
   "productdata.url": "${gamedata.url}/ProductData.json",
   "avatar.actions.url": "${gamedata.url}/AvatarActions.json",
-  "avatar.figuredata.url": "https://nitro.hebbox.net/gamedata/FigureDataAlfre.json?v=2312",
-  "avatar.figuremap.url": "https://nitro.hebbox.net/gamedata/FigureMapAlfre.json?v=2312",
-  "avatar.asset.url": "https://nitro.hebbox.net/bundled/figure_alfre/%libname%.nitro?v=1321",
-  "avatar.effectmap.url": "${gamedata.url}/EffectMap.json?2",
-  "avatar.asset.effect.url": "${cnd.url}/bundled/effect/%libname%.nitro?1",
-  "furni.asset.url": "${cnd.url}/bundled/furniture//%libname%.nitro?v=1",
-  "furni.asset.icon.url": "${hof.furni.url}//icons/%libname%%param%_icon.png?v=1",
+  "avatar.figuredata.url": "https://nitro.hebbox.net/gamedata/FigureDataAlfre.json",
+  "avatar.figuremap.url": "https://nitro.hebbox.net/gamedata/FigureMapAlfre.json",
+  "avatar.asset.url": "https://nitro.hebbox.net/bundled/figure_alfre/%libname%.nitro",
+  "avatar.effectmap.url": "${gamedata.url}/EffectMap.json",
+  "avatar.asset.effect.url": "${cnd.url}/bundled/effect/%libname%.nitro",
+  "furni.asset.url": "${cnd.url}/bundled/furniture//%libname%.nitro",
+  "furni.asset.icon.url": "${hof.furni.url}//icons/%libname%%param%_icon.png",
   "pet.asset.url": "${cnd.url}/bundled/pet/%libname%.nitro",
   "generic.asset.url": "${cnd.url}/bundled/generic/%libname%.nitro",
-  "badge.asset.url": "https://nitro.hebbox.net/c_images/album1584/%badgename%.gif?1",
+  "badge.asset.url": "https://nitro.hebbox.net/c_images/album1584/%badgename%.gif",
   "furni.rotation.bounce.steps": 20,
   "furni.rotation.bounce.height": 0.0625,
   "enable.avatar.arrow": false,
