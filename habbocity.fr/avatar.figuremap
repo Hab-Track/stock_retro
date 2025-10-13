@@ -1,6 +1,66 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_U_RobeEtoile",
+      "revision": 181745,
+      "parts": [
+        {
+          "id": 181745,
+          "type": "ch"
+        },
+        {
+          "id": 181745,
+          "type": "ls"
+        },
+        {
+          "id": 181745,
+          "type": "rs"
+        },
+        {
+          "id": 181746,
+          "type": "ch"
+        },
+        {
+          "id": 181746,
+          "type": "ls"
+        },
+        {
+          "id": 181746,
+          "type": "rs"
+        },
+        {
+          "id": 181747,
+          "type": "ch"
+        },
+        {
+          "id": 181747,
+          "type": "ls"
+        },
+        {
+          "id": 181747,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_MasqueOni",
+      "revision": 181742,
+      "parts": [
+        {
+          "id": 181742,
+          "type": "fa"
+        },
+        {
+          "id": 181743,
+          "type": "fa"
+        },
+        {
+          "id": 181744,
+          "type": "fa"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_ChainWings",
       "revision": 181739,
       "parts": [
