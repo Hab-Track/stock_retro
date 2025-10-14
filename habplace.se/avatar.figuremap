@@ -47927,6 +47927,92 @@
           "type": "rc"
         }
       ]
+    },
+    {
+      "id": "face_U_nftsleepless",
+      "revision": 13159,
+      "parts": [
+        {
+          "id": 5572,
+          "type": "fc"
+        },
+        {
+          "id": 5573,
+          "type": "ey"
+        },
+        {
+          "id": 5574,
+          "type": "fc"
+        },
+        {
+          "id": 5574,
+          "type": "ey"
+        },
+        {
+          "id": 1,
+          "type": "hd"
+        },
+        {
+          "id": 1,
+          "type": "bd"
+        },
+        {
+          "id": 1,
+          "type": "lh"
+        },
+        {
+          "id": 1,
+          "type": "rh"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_axeiedoscar4",
+      "revision": 31163,
+      "parts": [
+        {
+          "id": 180035,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftsleepless2",
+      "revision": 15770,
+      "parts": [
+        {
+          "id": 5575,
+          "type": "fc"
+        },
+        {
+          "id": 5576,
+          "type": "ey"
+        },
+        {
+          "id": 5577,
+          "type": "fc"
+        },
+        {
+          "id": 5577,
+          "type": "ey"
+        },
+        {
+          "id": 4,
+          "type": "hd"
+        },
+        {
+          "id": 1,
+          "type": "bd"
+        },
+        {
+          "id": 1,
+          "type": "lh"
+        },
+        {
+          "id": 1,
+          "type": "rh"
+        }
+      ]
     }
   ]
 }
