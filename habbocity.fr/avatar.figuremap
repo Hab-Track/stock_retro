@@ -1,6 +1,48 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_U_StarlightVest",
+      "revision": 181749,
+      "parts": [
+        {
+          "id": 181749,
+          "type": "ch"
+        },
+        {
+          "id": 181749,
+          "type": "ls"
+        },
+        {
+          "id": 181749,
+          "type": "rs"
+        },
+        {
+          "id": 181750,
+          "type": "ch"
+        },
+        {
+          "id": 181750,
+          "type": "ls"
+        },
+        {
+          "id": 181750,
+          "type": "rs"
+        },
+        {
+          "id": 181751,
+          "type": "ch"
+        },
+        {
+          "id": 181751,
+          "type": "rs"
+        },
+        {
+          "id": 181751,
+          "type": "ls"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_StarlightSceptre",
       "revision": 181748,
       "parts": [
@@ -13041,16 +13083,6 @@
         {
           "id": 156744,
           "type": "ca"
-        }
-      ]
-    },
-    {
-      "id": "acc_print_U_Soraka",
-      "revision": 156745,
-      "parts": [
-        {
-          "id": 156745,
-          "type": "cp"
         }
       ]
     },
