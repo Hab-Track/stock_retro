@@ -1,6 +1,50 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_F_classicstarshirt",
+      "revision": 181754,
+      "parts": [
+        {
+          "id": 181752,
+          "type": "ch"
+        },
+        {
+          "id": 1,
+          "type": "ls"
+        },
+        {
+          "id": 1,
+          "type": "rs"
+        },
+        {
+          "id": 181753,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_classicstarshirt",
+      "revision": 181752,
+      "parts": [
+        {
+          "id": 181752,
+          "type": "ch"
+        },
+        {
+          "id": 2,
+          "type": "ls"
+        },
+        {
+          "id": 2,
+          "type": "rs"
+        },
+        {
+          "id": 181753,
+          "type": "ch"
+        }
+      ]
+    },
+    {
       "id": "shirt_U_StarlightVest",
       "revision": 181749,
       "parts": [
