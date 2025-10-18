@@ -1,0 +1,1954 @@
+﻿{
+  "effects": [
+    {
+      "id": "dance.1",
+      "lib": "Dance1",
+      "revision": 59200,
+      "type": "dance"
+    },
+    {
+      "id": "dance.3",
+      "lib": "Dance3",
+      "revision": 59200,
+      "type": "dance"
+    },
+    {
+      "id": "dance.2",
+      "lib": "Dance2",
+      "revision": 59200,
+      "type": "dance"
+    },
+    {
+      "id": "dance.4",
+      "lib": "Dance4",
+      "revision": 59200,
+      "type": "dance"
+    },
+    {
+      "id": "1",
+      "lib": "Spotlight",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "2",
+      "lib": "Heal",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "3",
+      "lib": "UFOblue",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "4",
+      "lib": "Twinkle",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "5",
+      "lib": "Torch",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "6",
+      "lib": "Jetpack",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "7",
+      "lib": "Butterflies",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "8",
+      "lib": "Fireflies",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "9",
+      "lib": "Love",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "10",
+      "lib": "Flies",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "11",
+      "lib": "XRay",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "12",
+      "lib": "Ice",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "13",
+      "lib": "Ghost",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "14",
+      "lib": "HoverboardPink",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "15",
+      "lib": "HoverboardYellow",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "16",
+      "lib": "Microphone",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "17",
+      "lib": "UFOpink",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "18",
+      "lib": "UFOyellow",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "19",
+      "lib": "Carpolice",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "20",
+      "lib": "Carambulance",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "21",
+      "lib": "Cardollar",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "22",
+      "lib": "Cartopfuel",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "23",
+      "lib": "TotemMan",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "24",
+      "lib": "TotemMerdragon",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "25",
+      "lib": "TotemEagle",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "26",
+      "lib": "TotemMix",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "27",
+      "lib": "Viking",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "28",
+      "lib": "Splash",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "29",
+      "lib": "Swimming",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "30",
+      "lib": "Wade",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "31",
+      "lib": "Cheetos",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "32",
+      "lib": "DespicableMe",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "33",
+      "lib": "BBRed",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "34",
+      "lib": "BBgreen",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "35",
+      "lib": "BBblue",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "36",
+      "lib": "BByellow",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "37",
+      "lib": "Wadeinswamp",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "38",
+      "lib": "IceSkatingboys",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "39",
+      "lib": "IceSkatinggirls",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "40",
+      "lib": "ESred",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "41",
+      "lib": "ESgreen",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "42",
+      "lib": "ESblue",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "43",
+      "lib": "ESyellow",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "44",
+      "lib": "Sims",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "45",
+      "lib": "TaggedIceSkatingboys",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "46",
+      "lib": "TaggedIceSkatinggirls",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "47",
+      "lib": "Megamind",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "48",
+      "lib": "CarDoggy",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "49",
+      "lib": "ESredUntouchable",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "50",
+      "lib": "ESgreenUntouchable",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "51",
+      "lib": "ESblueUntouchable",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "52",
+      "lib": "ESyellowUntouchable",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "53",
+      "lib": "Easterchicks",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "54",
+      "lib": "Easterbunny",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "55",
+      "lib": "RollerSkatingboys",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "56",
+      "lib": "RollerSkatinggirls",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "57",
+      "lib": "TaggedRollerSkatingboys",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "58",
+      "lib": "TaggedRollerSkatinggirls",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "59",
+      "lib": "SunnyDelight",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "60",
+      "lib": "Rango",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "61",
+      "lib": "DisneyChannelEffect1",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "62",
+      "lib": "DisneyChannelEffect2",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "63",
+      "lib": "DisneyChannelEffect3",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "64",
+      "lib": "Candle",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "65",
+      "lib": "mobile0800",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "66",
+      "lib": "DisneyWizardsofWaverly",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "67",
+      "lib": "RioParrot",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "68",
+      "lib": "eastertagging",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "69",
+      "lib": "Volkswagen",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "70",
+      "lib": "KungfuPanda",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "71",
+      "lib": "Skateboard1",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "72",
+      "lib": "Skateboard2",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "73",
+      "lib": "ChupaChups",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "74",
+      "lib": "Lei1",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "75",
+      "lib": "Lei2",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "76",
+      "lib": "Lei3",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "77",
+      "lib": "Riding",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "78",
+      "lib": "Perry",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "79",
+      "lib": "AlienMask",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "80",
+      "lib": "GiantMouth",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "81",
+      "lib": "SwampCreatureMask",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "82",
+      "lib": "InkBlotMask",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "83",
+      "lib": "MimeMask",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "84",
+      "lib": "MummyMask",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "85",
+      "lib": "PumpkinMask",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "86",
+      "lib": "ScarecrowMask",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "87",
+      "lib": "WolfMask",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "88",
+      "lib": "ZombieMask",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "89",
+      "lib": "BackKnife",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "90",
+      "lib": "ButteryflyWings1",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "91",
+      "lib": "FairyWings1",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "92",
+      "lib": "GhostSheet",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "93",
+      "lib": "Headless",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "94",
+      "lib": "LiisuTruck",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "95",
+      "lib": "Snowwarred",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "96",
+      "lib": "Snowwarblue",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "97",
+      "lib": "Snowboardplch",
+      "revision": 59660,
+      "type": "fx"
+    },
+    {
+      "id": "98",
+      "lib": "SnowstormCrosshair",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "99",
+      "lib": "Niko",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "100",
+      "lib": "Dragon",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "102",
+      "lib": "Staff",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "103",
+      "lib": "RidingSaddle2",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "104",
+      "lib": "Pie",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "105",
+      "lib": "Dubbelfrisss",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "106",
+      "lib": "BlueTorch",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "107",
+      "lib": "PlastoPodChair",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "108",
+      "lib": "Ninjadisappear",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "109",
+      "lib": "Medal1",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "110",
+      "lib": "Medal2",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "111",
+      "lib": "Medal3",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "112",
+      "lib": "SpiderMan",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "113",
+      "lib": "Raincloud",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "114",
+      "lib": "StrongArms",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "115",
+      "lib": "Ringmaster",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "116",
+      "lib": "Fly",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "117",
+      "lib": "Executioner",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "118",
+      "lib": "Evilclown",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "119",
+      "lib": "DarkAlienMask",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "120",
+      "lib": "GiantMouth2",
+      "revision": 59254,
+      "type": "fx"
+    },
+    {
+      "id": "121",
+      "lib": "SwampCreatureMask2",
+      "revision": 59254,
+      "type": "fx"
+    },
+    {
+      "id": "122",
+      "lib": "InkBlotMask2",
+      "revision": 59254,
+      "type": "fx"
+    },
+    {
+      "id": "123",
+      "lib": "MimeMask2",
+      "revision": 59254,
+      "type": "fx"
+    },
+    {
+      "id": "124",
+      "lib": "Mummy2Mask",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "125",
+      "lib": "FrostPumpkinMask",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "126",
+      "lib": "ScarecrowMask2",
+      "revision": 59254,
+      "type": "fx"
+    },
+    {
+      "id": "127",
+      "lib": "EvilWolfMask",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "128",
+      "lib": "ZombieMask2",
+      "revision": 59254,
+      "type": "fx"
+    },
+    {
+      "id": "129",
+      "lib": "BackKnife2",
+      "revision": 59254,
+      "type": "fx"
+    },
+    {
+      "id": "130",
+      "lib": "ButteryflyWings2",
+      "revision": 59254,
+      "type": "fx"
+    },
+    {
+      "id": "131",
+      "lib": "FairyWings2",
+      "revision": 59254,
+      "type": "fx"
+    },
+    {
+      "id": "132",
+      "lib": "GlowingGhostSheet",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "133",
+      "lib": "Headless2",
+      "revision": 59256,
+      "type": "fx"
+    },
+    {
+      "id": "134",
+      "lib": "SnakeBody",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "135",
+      "lib": "PuppetMaster",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "136",
+      "lib": "BackwalkingShoes",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "137",
+      "lib": "GoldSpotlight",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "138",
+      "lib": "GoldenGlasses",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "139",
+      "lib": "GoldMicrophone",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "140",
+      "lib": "HabnamDance",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "141",
+      "lib": "Flowermask",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "142",
+      "lib": "Goatmask",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "143",
+      "lib": "Feathermask1",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "144",
+      "lib": "Feathermask2",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "145",
+      "lib": "Feathermask3",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "146",
+      "lib": "Feathermask4",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "147",
+      "lib": "Peacock1Mask",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "148",
+      "lib": "Peacock2Mask",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "149",
+      "lib": "Peacock3Mask",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "150",
+      "lib": "Peacock4Mask",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "151",
+      "lib": "Goatmask2",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "152",
+      "lib": "Goatmask3",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "153",
+      "lib": "Flowermask2",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "154",
+      "lib": "MassiveEgg",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "155",
+      "lib": "bcrystal",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "156",
+      "lib": "gcrystal",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "157",
+      "lib": "Pimple",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "158",
+      "lib": "Pinata",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "159",
+      "lib": "Barrel",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "160",
+      "lib": "PirateCaptain",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "161",
+      "lib": "PirateCrew",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "162",
+      "lib": "PirateSword",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "163",
+      "lib": "HeadOnTheGround",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "164",
+      "lib": "PirateGun",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "165",
+      "lib": "SpinningThumbsUp",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "166",
+      "lib": "Goblin",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "167",
+      "lib": "Mutant",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "168",
+      "lib": "SpinningHeats",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "169",
+      "lib": "Slimed",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "170",
+      "lib": "Duck",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "171",
+      "lib": "SpaceBunny",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "172",
+      "lib": "RedViking",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "173",
+      "lib": "GreenViking",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "174",
+      "lib": "HoverboardGreen",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "175",
+      "lib": "RedAirplane",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "176",
+      "lib": "BlueAirplane",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "177",
+      "lib": "TarandFeather",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "178",
+      "lib": "Ambassador",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "179",
+      "lib": "Luchador",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "180",
+      "lib": "DayoftheDead",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "181",
+      "lib": "DayoftheDead2",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "182",
+      "lib": "CyberpunkGun",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "183",
+      "lib": "FossilHammer",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "184",
+      "lib": "SplashEvil",
+      "revision": 59791,
+      "type": "fx"
+    },
+    {
+      "id": "185",
+      "lib": "SwimEvil",
+      "revision": 59733,
+      "type": "fx"
+    },
+    {
+      "id": "186",
+      "lib": "MagicWand",
+      "revision": 60704,
+      "type": "fx"
+    },
+    {
+      "id": "187",
+      "lib": "Bot",
+      "revision": 60559,
+      "type": "fx"
+    },
+    {
+      "id": "188",
+      "lib": "CameraBot",
+      "revision": 61736,
+      "type": "fx"
+    },
+    {
+      "id": "189",
+      "lib": "MobileDisco",
+      "revision": 61750,
+      "type": "fx"
+    },
+    {
+      "id": "190",
+      "lib": "MobileDisco2",
+      "revision": 61750,
+      "type": "fx"
+    },
+    {
+      "id": "191",
+      "lib": "Hoverplank",
+      "revision": 61800,
+      "type": "fx"
+    },
+    {
+      "id": "192",
+      "lib": "WateringCan",
+      "revision": 61861,
+      "type": "fx"
+    },
+    {
+      "id": "193",
+      "lib": "TrampolineJump",
+      "revision": 62089,
+      "type": "fx"
+    },
+    {
+      "id": "194",
+      "lib": "Treadmill",
+      "revision": 62149,
+      "type": "fx"
+    },
+    {
+      "id": "195",
+      "lib": "CrossTrainer",
+      "revision": 62352,
+      "type": "fx"
+    },
+    {
+      "id": "196",
+      "lib": "LightTorch",
+      "revision": 62457,
+      "type": "fx"
+    },
+    {
+      "id": "197",
+      "lib": "Flycarpet",
+      "revision": 63334,
+      "type": "fx"
+    },
+    {
+      "id": "200",
+      "lib": "MagicDildo",
+      "revision": 60704,
+      "type": "fx"
+    },
+    {
+      "id": "500",
+      "lib": "BigSpn",
+      "revision": 90000,
+      "type": "fx"
+    },
+    {
+      "id": "501",
+      "lib": "SmallS",
+      "revision": 90000,
+      "type": "fx"
+    },
+    {
+      "id": "502",
+      "lib": "BigJmp",
+      "revision": 90000,
+      "type": "fx"
+    },
+    {
+      "id": "503",
+      "lib": "SmallJ",
+      "revision": 90000,
+      "type": "fx"
+    },
+    {
+      "id": "504",
+      "lib": "Hoverplan1",
+      "revision": 90000,
+      "type": "fx"
+    },
+    {
+      "id": "505",
+      "lib": "Hoverplan2",
+      "revision": 90000,
+      "type": "fx"
+    },
+    {
+      "id": "506",
+      "lib": "Hoverplan3",
+      "revision": 90000,
+      "type": "fx"
+    },
+    {
+      "id": "507",
+      "lib": "Hoverplan4",
+      "revision": 1337,
+      "type": "fx"
+    },
+    {
+      "id": "508",
+      "lib": "Hoverplan4",
+      "revision": 90000,
+      "type": "fx"
+    },
+    {
+      "id": "509",
+      "lib": "Trampoline360",
+      "revision": 90000,
+      "type": "fx"
+    },
+    {
+      "id": "540",
+      "lib": "HoloRP666Gun",
+      "revision": 62175,
+      "type": "fx"
+    },
+    {
+      "id": "525",
+      "lib": "HoloRPPolice",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "577",
+      "lib": "DeagleCP",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "582",
+      "lib": "TotemDark",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "585",
+      "lib": "GlockCP",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "586",
+      "lib": "Void",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "590",
+      "lib": "Cuf",
+      "revision": 60559,
+      "type": "fx"
+    },
+    {
+      "id": "593",
+      "lib": "FishingRod",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "546",
+      "lib": "PickaxeRok",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "595",
+      "lib": "DrugLeafOk",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "596",
+      "lib": "Tax",
+      "revision": 60559,
+      "type": "fx"
+    },
+    {
+      "id": "597",
+      "lib": "Squad",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "598",
+      "lib": "Bus",
+      "revision": 60559,
+      "type": "fx"
+    },
+    {
+      "id": "599",
+      "lib": "Ambul",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "600",
+      "lib": "MedicalKit",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "601",
+      "lib": "Sur",
+      "revision": 60559,
+      "type": "fx"
+    },
+    {
+      "id": "602",
+      "lib": "Explodisappear",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "512",
+      "lib": "Neg",
+      "revision": 90000,
+      "type": "fx"
+    },
+    {
+      "id": "906",
+      "lib": "HoloESCrangeESC",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "832",
+      "lib": "MGPi1",
+      "revision": 90000,
+      "type": "fx"
+    },
+    {
+      "id": "904",
+      "lib": "HoloOROrangeM16",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "666",
+      "lib": "PirateEspda",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "667",
+      "lib": "MachadoOuro",
+      "revision": 90000,
+      "type": "fx"
+    },
+    {
+      "id": "668",
+      "lib": "MachadoVerm",
+      "revision": 90000,
+      "type": "fx"
+    },
+    {
+      "id": "669",
+      "lib": "PiratSangue",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "671",
+      "lib": "KatanaByxhp",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "672",
+      "lib": "FacaDePaoRP",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "673",
+      "lib": "EspadaLonga",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "700",
+      "lib": "PSword1",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "996",
+      "lib": "VaraDePesc3",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "997",
+      "lib": "VaraDePesc2",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "998",
+      "lib": "VaraDePesca",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "999",
+      "lib": "Armastestex",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "1003",
+      "lib": "acc_pants_8srt",
+      "revision": 62457,
+      "type": "fx"
+    },
+    {
+      "id": "1004",
+      "lib": "acc_pants_9srt",
+      "revision": 62457,
+      "type": "fx"
+    },
+    {
+      "id": "1005",
+      "lib": "molhand",
+      "revision": 62457,
+      "type": "fx"
+    },
+    {
+      "id": "591",
+      "lib": "Bat",
+      "revision": 60559,
+      "type": "fx"
+    },
+    {
+      "id": "583",
+      "lib": "Ak47CP",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "587",
+      "lib": "Ak48CP",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "588",
+      "lib": "Ak49CP",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "589",
+      "lib": "Ak50CP",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "603",
+      "lib": "Ak51CP",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "518",
+      "lib": "M16CP",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "519",
+      "lib": "AWPCP",
+      "revision": 1337,
+      "type": "fx"
+    },
+    {
+      "id": "520",
+      "lib": "AWPRP",
+      "revision": 1337,
+      "type": "fx"
+    },
+    {
+      "id": "522",
+      "lib": "P90CP",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "584",
+      "lib": "G36CP",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "578",
+      "lib": "G37CP",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "575",
+      "lib": "AKM01",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "576",
+      "lib": "AKM02",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "579",
+      "lib": "AKM03",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "592",
+      "lib": "CyberstunGun",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "716",
+      "lib": "CyberstuyGun",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "717",
+      "lib": "CyberstucGun",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "718",
+      "lib": "CyberstupGun",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "677",
+      "lib": "CyberpunkGuc",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "101",
+      "lib": "BangGun",
+      "revision": 59220,
+      "type": "fx"
+    },
+    {
+      "id": "949",
+      "lib": "Administration",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "924",
+      "lib": "Aide",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "1049",
+      "lib": "Developer",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "1551",
+      "lib": "HabboRPGunFlame",
+      "type": "fx",
+      "revision": 59200
+    },
+    {
+      "id": "1553",
+      "lib": "HabboRPGunRaio",
+      "type": "fx",
+      "revision": 59200
+    },
+    {
+      "id": "1554",
+      "lib": "HabboRPGunIce",
+      "type": "fx",
+      "revision": 59200
+    },
+    {
+      "id": "1559",
+      "lib": "HabboRPGunTigre",
+      "type": "fx",
+      "revision": 59200
+    },
+    {
+      "id": "1560",
+      "lib": "HabboRPGunGosma",
+      "type": "fx",
+      "revision": 59200
+    },
+    {
+      "id": "1561",
+      "lib": "HabboRPGunMatrix",
+      "type": "fx",
+      "revision": 59200
+    },
+    {
+      "id": "6005",
+      "lib": "HabboRPGunIon",
+      "type": "fx",
+      "revision": 59200
+    },
+    {
+      "id": "1562",
+      "lib": "HabboRPGunPrincess",
+      "type": "fx",
+      "revision": 59200
+    },
+    {
+      "id": "650",
+      "lib": "FFScooter2",
+      "revision": 20230525,
+      "type": "fx"
+    },
+    {
+      "id": "649",
+      "lib": "FFScooter1",
+      "revision": 20230525,
+      "type": "fx"
+    },
+    {
+      "id": "651",
+      "lib": "FFScooter3",
+      "revision": 20230525,
+      "type": "fx"
+    },
+    {
+      "id": "7210",
+      "lib": "AWPCP2",
+      "revision": 1337,
+      "type": "fx"
+    },
+    {
+      "id": "6007",
+      "lib": "HabboRPGunPrincessHeart",
+      "type": "fx",
+      "revision": 59200
+    },
+    {
+      "id": "191",
+      "lib": "Hoverplank",
+      "revision": 61800,
+      "type": "fx"
+    },
+    {
+      "id": "539",
+      "lib": "Incarceramus",
+      "revision": 1337,
+      "type": "fx"
+    },
+    {
+      "id": "532",
+      "lib": "FFScooter4",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "533",
+      "lib": "FFScooter5",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "534",
+      "lib": "FFScooter6",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "535",
+      "lib": "FFScooter7",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "635",
+      "lib": "CocktailMolotov",
+      "revision": 20230419,
+      "type": "fx"
+    },
+    {
+      "id": "7211",
+      "lib": "HabboRPGunFlamengo",
+      "revision": 1337,
+      "type": "fx"
+    },
+    {
+      "id": "7212",
+      "lib": "HabboRPGunCelestial",
+      "revision": 1337,
+      "type": "fx"
+    },
+    {
+      "id": "7213",
+      "lib": "HabboRPGunSakura",
+      "revision": 1337,
+      "type": "fx"
+    },
+    {
+      "id": "7214",
+      "lib": "HabboRPGunNerf",
+      "revision": 1337,
+      "type": "fx"
+    },
+    {
+      "id": "7215",
+      "lib": "HabboRPGunNetuno",
+      "revision": 1337,
+      "type": "fx"
+    },
+    {
+      "id": "1050",
+      "lib": "CEO",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "1051",
+      "lib": "Gerente",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "1052",
+      "lib": "Administrador",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "1053",
+      "lib": "Moderador",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "1054",
+      "lib": "Embaixador",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "1055",
+      "lib": "Jornalista",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "1056",
+      "lib": "PromotorEventos",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "7216",
+      "lib": "HabboRPGunLoud",
+      "revision": 1337,
+      "type": "fx"
+    },
+    {
+      "id": "1057",
+      "lib": "Pacifico",
+      "revision": 1337,
+      "type": "fx"
+    },
+    {
+      "id": "7217",
+      "lib": "HabboRPGunWarden",
+      "revision": 1337,
+      "type": "fx"
+    },
+    {
+      "id": "7218",
+      "lib": "HabboRPGunKuromi",
+      "revision": 1337,
+      "type": "fx"
+    },
+    {
+      "id": "712",
+      "lib": "Executionew",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "675",
+      "lib": "Executionep",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "676",
+      "lib": "Executioneo",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "713",
+      "lib": "Executionbg",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "714",
+      "lib": "PirateSwort",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "719",
+      "lib": "PirateSworp",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "708",
+      "lib": "PirateSworg",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "674",
+      "lib": "SamuraiSwoo",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "672",
+      "lib": "ButterKnife",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "682",
+      "lib": "SwordAlmigf",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "678",
+      "lib": "SwordAlmigh",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "679",
+      "lib": "SwordAlmigo",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "681",
+      "lib": "CyberstufGun",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "5587",
+      "lib": "PinkpunkGun",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "1341",
+      "lib": "FreezeStunGun",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "1342",
+      "lib": "RedArmyStunGun",
+      "revision": 59200,
+      "type": "fx"
+    },
+    {
+      "id": "511",
+      "lib": "BlackpunkGun",
+      "revision": 1337,
+      "type": "fx"
+    },
+    {
+      "id": "2000",
+      "lib": "CarTaxi",
+      "revision": 59200,
+      "type": "fx"
+    }
+  ]
+}
