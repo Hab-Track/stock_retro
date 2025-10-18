@@ -72201,6 +72201,106 @@
           "type": "rh"
         }
       ]
+    },
+    {
+      "id": "acc_chest_U_casssupermancrestv1",
+      "revision": 998788957,
+      "parts": [
+        {
+          "id": 488092,
+          "type": "ca"
+        },
+        {
+          "id": 488093,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_casssupermancrestv2",
+      "revision": 998788958,
+      "parts": [
+        {
+          "id": 488094,
+          "type": "cp"
+        },
+        {
+          "id": 488095,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_casssupergirlcape",
+      "revision": 998788959,
+      "parts": [
+        {
+          "id": 488098,
+          "type": "cc"
+        },
+        {
+          "id": 488099,
+          "type": "lc"
+        },
+        {
+          "id": 488099,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_casssupermancape",
+      "revision": 998788960,
+      "parts": [
+        {
+          "id": 488096,
+          "type": "cc"
+        },
+        {
+          "id": 488097,
+          "type": "lc"
+        },
+        {
+          "id": 488097,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_casssupermancapev2",
+      "revision": 998788961,
+      "parts": [
+        {
+          "id": 488202,
+          "type": "cc"
+        },
+        {
+          "id": 488203,
+          "type": "lc"
+        },
+        {
+          "id": 488203,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_casssupergirlcapev2",
+      "revision": 998788962,
+      "parts": [
+        {
+          "id": 488200,
+          "type": "cc"
+        },
+        {
+          "id": 488201,
+          "type": "lc"
+        },
+        {
+          "id": 488201,
+          "type": "rc"
+        }
+      ]
     }
   ]
 }
