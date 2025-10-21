@@ -1,6 +1,204 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_yellowaisha",
+      "revision": 181787,
+      "parts": [
+        {
+          "id": 181787,
+          "type": "cc"
+        },
+        {
+          "id": 181787,
+          "type": "lc"
+        },
+        {
+          "id": 181787,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftumbrella",
+      "revision": 181780,
+      "parts": [
+        {
+          "id": 181780,
+          "type": "cc"
+        },
+        {
+          "id": 181780,
+          "type": "lc"
+        },
+        {
+          "id": 181780,
+          "type": "rc"
+        },
+        {
+          "id": 181781,
+          "type": "cc"
+        },
+        {
+          "id": 181781,
+          "type": "lc"
+        },
+        {
+          "id": 181781,
+          "type": "rc"
+        },
+        {
+          "id": 181782,
+          "type": "cc"
+        },
+        {
+          "id": 181782,
+          "type": "lc"
+        },
+        {
+          "id": 181782,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_shoyruhat",
+      "revision": 181777,
+      "parts": [
+        {
+          "id": 181777,
+          "type": "ha"
+        },
+        {
+          "id": 181778,
+          "type": "ha"
+        },
+        {
+          "id": 181779,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_lupehat",
+      "revision": 181774,
+      "parts": [
+        {
+          "id": 181774,
+          "type": "ha"
+        },
+        {
+          "id": 181775,
+          "type": "ha"
+        },
+        {
+          "id": 181776,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_kougrahat",
+      "revision": 181771,
+      "parts": [
+        {
+          "id": 181771,
+          "type": "ha"
+        },
+        {
+          "id": 181772,
+          "type": "ha"
+        },
+        {
+          "id": 181773,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_eyriehat",
+      "revision": 181768,
+      "parts": [
+        {
+          "id": 181768,
+          "type": "ha"
+        },
+        {
+          "id": 181769,
+          "type": "ha"
+        },
+        {
+          "id": 181770,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_cybunnyhat",
+      "revision": 181765,
+      "parts": [
+        {
+          "id": 181765,
+          "type": "ha"
+        },
+        {
+          "id": 181766,
+          "type": "ha"
+        },
+        {
+          "id": 181767,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_aishahat",
+      "revision": 181762,
+      "parts": [
+        {
+          "id": 181762,
+          "type": "ha"
+        },
+        {
+          "id": 181763,
+          "type": "ha"
+        },
+        {
+          "id": 181764,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftrockstar",
+      "revision": 181761,
+      "parts": [
+        {
+          "id": 181761,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_illusenwings",
+      "revision": 181760,
+      "parts": [
+        {
+          "id": 181760,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_fyorawings",
+      "revision": 181759,
+      "parts": [
+        {
+          "id": 181759,
+          "type": "ca"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_NochkaBackpack",
       "revision": 181757,
       "parts": [
