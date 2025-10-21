@@ -48013,6 +48013,34 @@
           "type": "rh"
         }
       ]
+    },
+    {
+      "id": "hat_U_drinkhat",
+      "revision": 47664,
+      "parts": [
+        {
+          "id": 4383,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_gilety",
+      "revision": 45433,
+      "parts": [
+        {
+          "id": 4737,
+          "type": "lc"
+        },
+        {
+          "id": 4737,
+          "type": "cc"
+        },
+        {
+          "id": 4737,
+          "type": "rc"
+        }
+      ]
     }
   ]
 }
