@@ -1,15 +1,278 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_eye_U_Rinko",
+      "parts": [
+        {
+          "id": 2147483647,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_BadBunnySombrero",
+      "parts": [
+        {
+          "id": 80000004,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_fyorawings",
+      "parts": [
+        {
+          "id": 6932,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_illusenwings",
+      "parts": [
+        {
+          "id": 6949,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftrockstar",
+      "parts": [
+        {
+          "id": 6971,
+          "type": "ca"
+        },
+        {
+          "id": 6972,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_fyoratiara",
+      "parts": [
+        {
+          "id": 6933,
+          "type": "he"
+        },
+        {
+          "id": 6934,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_aishahat",
+      "parts": [
+        {
+          "id": 6942,
+          "type": "ha"
+        },
+        {
+          "id": 6943,
+          "type": "ha"
+        },
+        {
+          "id": 6944,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_cybunnyhat",
+      "parts": [
+        {
+          "id": 6950,
+          "type": "ha"
+        },
+        {
+          "id": 6951,
+          "type": "ha"
+        },
+        {
+          "id": 6952,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_eyriehat",
+      "parts": [
+        {
+          "id": 6965,
+          "type": "ha"
+        },
+        {
+          "id": 6966,
+          "type": "ha"
+        },
+        {
+          "id": 6967,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_kougrahat",
+      "parts": [
+        {
+          "id": 6962,
+          "type": "ha"
+        },
+        {
+          "id": 6963,
+          "type": "ha"
+        },
+        {
+          "id": 6964,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_lupehat",
+      "parts": [
+        {
+          "id": 6945,
+          "type": "ha"
+        },
+        {
+          "id": 6946,
+          "type": "ha"
+        },
+        {
+          "id": 6947,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_shoyruhat",
+      "parts": [
+        {
+          "id": 6953,
+          "type": "ha"
+        },
+        {
+          "id": 6954,
+          "type": "ha"
+        },
+        {
+          "id": 6955,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftumbrella",
+      "parts": [
+        {
+          "id": 6958,
+          "type": "cc"
+        },
+        {
+          "id": 6958,
+          "type": "lc"
+        },
+        {
+          "id": 6958,
+          "type": "rc"
+        },
+        {
+          "id": 6959,
+          "type": "cc"
+        },
+        {
+          "id": 6959,
+          "type": "lc"
+        },
+        {
+          "id": 6959,
+          "type": "rc"
+        },
+        {
+          "id": 6960,
+          "type": "cc"
+        },
+        {
+          "id": 6960,
+          "type": "lc"
+        },
+        {
+          "id": 6960,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftumbrella2",
+      "parts": [
+        {
+          "id": 6968,
+          "type": "cc"
+        },
+        {
+          "id": 6968,
+          "type": "lc"
+        },
+        {
+          "id": 6968,
+          "type": "rc"
+        },
+        {
+          "id": 6969,
+          "type": "cc"
+        },
+        {
+          "id": 6969,
+          "type": "lc"
+        },
+        {
+          "id": 6969,
+          "type": "rc"
+        },
+        {
+          "id": 6970,
+          "type": "cc"
+        },
+        {
+          "id": 6970,
+          "type": "lc"
+        },
+        {
+          "id": 6970,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_yellowaisha",
+      "parts": [
+        {
+          "id": 6893,
+          "type": "cc"
+        },
+        {
+          "id": 6893,
+          "type": "lc"
+        },
+        {
+          "id": 6893,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "acc_eye_U_ButtonEyes",
       "parts": [
         {
           "id": 546666,
-          "type": "ca"
+          "type": "ea"
         },
         {
           "id": 546667,
-          "type": "ca"
+          "type": "ea"
         }
       ]
     },
