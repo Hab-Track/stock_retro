@@ -1,6 +1,48 @@
 ﻿{
   "libraries": [
     {
+      "id": "face_U_cyborgfacecolor",
+      "revision": 181789,
+      "parts": [
+        {
+          "id": 1,
+          "type": "bd"
+        },
+        {
+          "id": 1,
+          "type": "lh"
+        },
+        {
+          "id": 1,
+          "type": "rh"
+        },
+        {
+          "id": 181789,
+          "type": "hd"
+        },
+        {
+          "id": 181790,
+          "type": "hd"
+        },
+        {
+          "id": 181791,
+          "type": "ey"
+        },
+        {
+          "id": 181792,
+          "type": "ey"
+        },
+        {
+          "id": 181793,
+          "type": "fc"
+        },
+        {
+          "id": 181794,
+          "type": "fc"
+        }
+      ]
+    },
+    {
       "id": "acc_head_U_skullclip",
       "revision": 181788,
       "parts": [
