@@ -1,6 +1,84 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_face_U_Cuchillo",
+      "revision": 181808,
+      "parts": [
+        {
+          "id": 181808,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_FaceMomoshiki",
+      "revision": 181807,
+      "parts": [
+        {
+          "id": 181807,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_CuernosMomoshiki",
+      "revision": 181806,
+      "parts": [
+        {
+          "id": 181806,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_SkullClip",
+      "revision": 181805,
+      "parts": [
+        {
+          "id": 181805,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_MascaraPumpky",
+      "revision": 181804,
+      "parts": [
+        {
+          "id": 181804,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_DemonMask",
+      "revision": 181801,
+      "parts": [
+        {
+          "id": 181801,
+          "type": "ea"
+        },
+        {
+          "id": 181802,
+          "type": "ea"
+        },
+        {
+          "id": 181803,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_CabezaCalbazan",
+      "revision": 181800,
+      "parts": [
+        {
+          "id": 181800,
+          "type": "ha"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_nftutility",
       "révision": 181797,
       "parts": [
