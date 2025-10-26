@@ -1,6 +1,24 @@
 ﻿{
   "libraries": [
     {
+      "id": "hat_U_CasqNoch",
+      "revision": 181810,
+      "parts": [
+        {
+          "id": 181810,
+          "type": "ha"
+        },
+        {
+          "id": 181811,
+          "type": "ha"
+        },
+        {
+          "id": 181812,
+          "type": "ha"
+        }
+      ]
+    },
+    {
       "id": "acc_face_U_Cuchillo",
       "revision": 181808,
       "parts": [
