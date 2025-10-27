@@ -35,7 +35,7 @@
   "system.log.warn": false,
   "system.log.error": false,
   "system.log.events": false,
-  "system.log.packets": true,
+  "system.log.packets": false,
   "system.fps.animation": 24,
   "system.fps.max": 60,
   "system.pong.manually": true,
