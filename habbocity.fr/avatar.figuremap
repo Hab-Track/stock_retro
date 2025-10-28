@@ -1,20 +1,120 @@
 ﻿{
   "libraries": [
     {
-      "id": "hat_U_CasqNoch",
+      "id": "acc_head_U_OrejerasMyMelody",
+      "revision": 181823,
+      "parts": [
+        {
+          "id": 181823,
+          "type": "he"
+        },
+        {
+          "id": 181824,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_OrejerasKuromi",
+      "revision": 181821,
+      "parts": [
+        {
+          "id": 181821,
+          "type": "he"
+        },
+        {
+          "id": 181822,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_OrejerasCinnamoroll",
+      "revision": 181819,
+      "parts": [
+        {
+          "id": 181819,
+          "type": "he"
+        },
+        {
+          "id": 181820,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_LentesHelloKitty",
+      "revision": 181818,
+      "parts": [
+        {
+          "id": 181818,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_DigipetMelody",
+      "revision": 181816,
+      "parts": [
+        {
+          "id": 181816,
+          "type": "ca"
+        },
+        {
+          "id": 181817,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_DigipetKuromi",
+      "revision": 181814,
+      "parts": [
+        {
+          "id": 181814,
+          "type": "ca"
+        },
+        {
+          "id": 181815,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_DigipetHelloKitty",
+      "revision": 181812,
+      "parts": [
+        {
+          "id": 181812,
+          "type": "ca"
+        },
+        {
+          "id": 181813,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_DigipetBadtzMary",
       "revision": 181810,
       "parts": [
         {
           "id": 181810,
-          "type": "ha"
+          "type": "ca"
         },
         {
           "id": 181811,
-          "type": "ha"
-        },
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_CasqNoch",
+      "revision": 181809,
+      "parts": [
         {
-          "id": 181812,
-          "type": "ha"
+          "id": 181809,
+          "type": "he"
         }
       ]
     },
