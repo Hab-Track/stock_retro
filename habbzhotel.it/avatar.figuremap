@@ -82825,6 +82825,56 @@
           "type": "rh"
         }
       ]
+    },
+    {
+      "id": "shirt_M_bbnapoli",
+      "revision": 73756,
+      "parts": [
+        {
+          "id": 5236372,
+          "type": "ch"
+        },
+        {
+          "id": 5236372,
+          "type": "ls"
+        },
+        {
+          "id": 5236372,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_Duckduck",
+      "revision": 73756,
+      "parts": [
+        {
+          "id": 5123234,
+          "type": "ch"
+        },
+        {
+          "id": 5123234,
+          "type": "ls"
+        },
+        {
+          "id": 5123234,
+          "type": "rs"
+        },
+        {
+          "id": 5123235,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_ghostface",
+      "revision": 73756,
+      "parts": [
+        {
+          "id": 1337610,
+          "type": "ha"
+        }
+      ]
     }
   ]
 }
