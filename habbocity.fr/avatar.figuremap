@@ -1,6 +1,44 @@
 ﻿{
   "libraries": [
     {
+      "id": "hat_U_CasquettNoch",
+      "revision": 181829,
+      "parts": [
+        {
+          "id": 181829,
+          "type": "ha"
+        },
+        {
+          "id": 181830,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_FemaleHeartsPrint",
+      "revision": 181827,
+      "parts": [
+        {
+          "id": 181827,
+          "type": "cp"
+        },
+        {
+          "id": 181828,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_Pendientessstelar",
+      "revision": 181826,
+      "parts": [
+        {
+          "id": 181826,
+          "type": "he"
+        }
+      ]
+    },
+    {
       "id": "hat_U_CustomEkel",
       "revision": 181825,
       "parts": [
