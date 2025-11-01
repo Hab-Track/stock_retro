@@ -1,6 +1,1087 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_EspadaBerserker",
+      "parts": [
+        {
+          "id": 60000032,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_FrascoCeremonial",
+      "parts": [
+        {
+          "id": 60000026,
+          "type": "ca"
+        },
+        {
+          "id": 60000027,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftutility",
+      "parts": [
+        {
+          "id": 6973,
+          "type": "ca"
+        },
+        {
+          "id": 6974,
+          "type": "ca"
+        },
+        {
+          "id": 6975,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_DemonMask",
+      "parts": [
+        {
+          "id": 90000022,
+          "type": "ea"
+        },
+        {
+          "id": 90000023,
+          "type": "ea"
+        },
+        {
+          "id": 90000024,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_FaceMomoshiki",
+      "parts": [
+        {
+          "id": 60000030,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_MascaraPumpky",
+      "parts": [
+        {
+          "id": 60000031,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_CuernosMomoshiki",
+      "parts": [
+        {
+          "id": 60000029,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_FlecoMakima",
+      "parts": [
+        {
+          "id": 60000033,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_rainycloud",
+      "parts": [
+        {
+          "id": 12564583,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_SkullClip",
+      "parts": [
+        {
+          "id": 90000031,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_draculaHair",
+      "parts": [
+        {
+          "id": 883662837,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_ladyfrankensteinHair",
+      "parts": [
+        {
+          "id": 883662838,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_MyLove",
+      "parts": [
+        {
+          "id": 60000040,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_PeloMomoshiki",
+      "parts": [
+        {
+          "id": 60000028,
+          "type": "hr"
+        },
+        {
+          "id": 60000028,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_CabezaCalabaza",
+      "parts": [
+        {
+          "id": 90000032,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_ScarecrowMask",
+      "parts": [
+        {
+          "id": 90000022,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_CamisetaCortaTR",
+      "parts": [
+        {
+          "id": 70000011,
+          "type": "cc"
+        },
+        {
+          "id": 70000011,
+          "type": "lc"
+        },
+        {
+          "id": 70000011,
+          "type": "rc"
+        },
+        {
+          "id": 70000012,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_CamisetaLargaTR",
+      "parts": [
+        {
+          "id": 70000009,
+          "type": "cc"
+        },
+        {
+          "id": 70000009,
+          "type": "lc"
+        },
+        {
+          "id": 70000009,
+          "type": "rc"
+        },
+        {
+          "id": 70000010,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_ghostsuit",
+      "parts": [
+        {
+          "id": 883662836,
+          "type": "cc"
+        },
+        {
+          "id": 883662836,
+          "type": "lc"
+        },
+        {
+          "id": 883662836,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_magicwandi",
+      "parts": [
+        {
+          "id": 883662839,
+          "type": "rc"
+        },
+        {
+          "id": 883662840,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_SkullBag",
+      "parts": [
+        {
+          "id": 90000033,
+          "type": "rc"
+        },
+        {
+          "id": 90000033,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_KimonoDevika",
+      "parts": [
+        {
+          "id": 60000041,
+          "type": "ch"
+        },
+        {
+          "id": 60000041,
+          "type": "rs"
+        },
+        {
+          "id": 60000041,
+          "type": "ls"
+        },
+        {
+          "id": 60000042,
+          "type": "ch"
+        },
+        {
+          "id": 60000043,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_Rinko",
+      "parts": [
+        {
+          "id": 2147483647,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_BadBunnySombrero",
+      "parts": [
+        {
+          "id": 80000004,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_fyorawings",
+      "parts": [
+        {
+          "id": 6932,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_illusenwings",
+      "parts": [
+        {
+          "id": 6949,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftrockstar",
+      "parts": [
+        {
+          "id": 6971,
+          "type": "ca"
+        },
+        {
+          "id": 6972,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_fyoratiara",
+      "parts": [
+        {
+          "id": 6933,
+          "type": "he"
+        },
+        {
+          "id": 6934,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_aishahat",
+      "parts": [
+        {
+          "id": 6942,
+          "type": "ha"
+        },
+        {
+          "id": 6943,
+          "type": "ha"
+        },
+        {
+          "id": 6944,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_cybunnyhat",
+      "parts": [
+        {
+          "id": 6950,
+          "type": "ha"
+        },
+        {
+          "id": 6951,
+          "type": "ha"
+        },
+        {
+          "id": 6952,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_eyriehat",
+      "parts": [
+        {
+          "id": 6965,
+          "type": "ha"
+        },
+        {
+          "id": 6966,
+          "type": "ha"
+        },
+        {
+          "id": 6967,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_kougrahat",
+      "parts": [
+        {
+          "id": 6962,
+          "type": "ha"
+        },
+        {
+          "id": 6963,
+          "type": "ha"
+        },
+        {
+          "id": 6964,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_lupehat",
+      "parts": [
+        {
+          "id": 6945,
+          "type": "ha"
+        },
+        {
+          "id": 6946,
+          "type": "ha"
+        },
+        {
+          "id": 6947,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_shoyruhat",
+      "parts": [
+        {
+          "id": 6953,
+          "type": "ha"
+        },
+        {
+          "id": 6954,
+          "type": "ha"
+        },
+        {
+          "id": 6955,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftumbrella",
+      "parts": [
+        {
+          "id": 6958,
+          "type": "cc"
+        },
+        {
+          "id": 6958,
+          "type": "lc"
+        },
+        {
+          "id": 6958,
+          "type": "rc"
+        },
+        {
+          "id": 6959,
+          "type": "cc"
+        },
+        {
+          "id": 6959,
+          "type": "lc"
+        },
+        {
+          "id": 6959,
+          "type": "rc"
+        },
+        {
+          "id": 6960,
+          "type": "cc"
+        },
+        {
+          "id": 6960,
+          "type": "lc"
+        },
+        {
+          "id": 6960,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftumbrella2",
+      "parts": [
+        {
+          "id": 6968,
+          "type": "cc"
+        },
+        {
+          "id": 6968,
+          "type": "lc"
+        },
+        {
+          "id": 6968,
+          "type": "rc"
+        },
+        {
+          "id": 6969,
+          "type": "cc"
+        },
+        {
+          "id": 6969,
+          "type": "lc"
+        },
+        {
+          "id": 6969,
+          "type": "rc"
+        },
+        {
+          "id": 6970,
+          "type": "cc"
+        },
+        {
+          "id": 6970,
+          "type": "lc"
+        },
+        {
+          "id": 6970,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_yellowaisha",
+      "parts": [
+        {
+          "id": 6893,
+          "type": "cc"
+        },
+        {
+          "id": 6893,
+          "type": "lc"
+        },
+        {
+          "id": 6893,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_ButtonEyes",
+      "parts": [
+        {
+          "id": 546666,
+          "type": "ea"
+        },
+        {
+          "id": 546667,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_ArmaPaintball",
+      "parts": [
+        {
+          "id": 70000005,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_M_HausLoddyMakeUp",
+      "parts": [
+        {
+          "id": 88689656,
+          "type": "ea"
+        },
+        {
+          "id": 88689657,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_M_LoddysLabial",
+      "parts": [
+        {
+          "id": 8866588,
+          "type": "fa"
+        },
+        {
+          "id": 8866589,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_CascodeCombate",
+      "parts": [
+        {
+          "id": 70000004,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_Ryuk",
+      "parts": [
+        {
+          "id": 70000008,
+          "type": "rc"
+        },
+        {
+          "id": 70000008,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_CamisetaCamuflaje",
+      "parts": [
+        {
+          "id": 70000007,
+          "type": "ch"
+        },
+        {
+          "id": 70000007,
+          "type": "rs"
+        },
+        {
+          "id": 70000007,
+          "type": "ls"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_PantalonCamuflaje",
+      "parts": [
+        {
+          "id": 70000006,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_batbackpack",
+      "parts": [
+        {
+          "id": 1147483643,
+          "type": "ca"
+        },
+        {
+          "id": 1147483644,
+          "type": "ca"
+        },
+        {
+          "id": 1147483644,
+          "type": "lc"
+        },
+        {
+          "id": 1147483644,
+          "type": "rc"
+        },
+        {
+          "id": 1147483645,
+          "type": "ca"
+        },
+        {
+          "id": 1147483645,
+          "type": "lc"
+        },
+        {
+          "id": 1147483645,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_DigipetHellokitty",
+      "parts": [
+        {
+          "id": 80000022,
+          "type": "ca"
+        },
+        {
+          "id": 80000023,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_DigipetBadtzMaru",
+      "parts": [
+        {
+          "id": 80000024,
+          "type": "ca"
+        },
+        {
+          "id": 80000025,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_QuoteLaAguja",
+      "parts": [
+        {
+          "id": 60000016,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_KatanaInfernal",
+      "parts": [
+        {
+          "id": 60000017,
+          "type": "ca"
+        },
+        {
+          "id": 60000018,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_AguijonPuro",
+      "parts": [
+        {
+          "id": 60000019,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv25mochilaaguacate",
+      "parts": [
+        {
+          "id": 50000007,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv25mochilapinguino",
+      "parts": [
+        {
+          "id": 50000004,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_MochilitaRappi",
+      "parts": [
+        {
+          "id": 10001152,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_heroocape",
+      "parts": [
+        {
+          "id": 773976726,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_TheGoat",
+      "parts": [
+        {
+          "id": 90000030,
+          "type": "cc"
+        },
+        {
+          "id": 90000030,
+          "type": "lc"
+        },
+        {
+          "id": 90000030,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_TheLamb",
+      "parts": [
+        {
+          "id": 90000029,
+          "type": "cc"
+        },
+        {
+          "id": 90000029,
+          "type": "lc"
+        },
+        {
+          "id": 90000029,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_peplumtopF",
+      "parts": [
+        {
+          "id": 1147483638,
+          "type": "ch"
+        },
+        {
+          "id": 1147483638,
+          "type": "ls"
+        },
+        {
+          "id": 1147483638,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_peplumtopM",
+      "parts": [
+        {
+          "id": 1147483639,
+          "type": "ch"
+        },
+        {
+          "id": 1147483639,
+          "type": "ls"
+        },
+        {
+          "id": 1147483639,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_TopAsimetrico",
+      "parts": [
+        {
+          "id": 90000012,
+          "type": "ch"
+        },
+        {
+          "id": 90000012,
+          "type": "ls"
+        },
+        {
+          "id": 90000012,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_CamisaMarineroOP",
+      "parts": [
+        {
+          "id": 60000014,
+          "type": "ch"
+        },
+        {
+          "id": 60000014,
+          "type": "ls"
+        },
+        {
+          "id": 60000014,
+          "type": "rs"
+        },
+        {
+          "id": 60000015,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_TopNani",
+      "parts": [
+        {
+          "id": 90000028,
+          "type": "ch"
+        },
+        {
+          "id": 90000028,
+          "type": "ls"
+        },
+        {
+          "id": 90000028,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_LentesHelloKitty",
+      "parts": [
+        {
+          "id": 90000020,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_Cuchillo",
+      "parts": [
+        {
+          "id": 90000025,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_CabezaHollow",
+      "parts": [
+        {
+          "id": 80000028,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_SombreroKasekage",
+      "parts": [
+        {
+          "id": 60000020,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_CascoNobleMedieval",
+      "parts": [
+        {
+          "id": 60000021,
+          "type": "ha"
+        },
+        {
+          "id": 60000022,
+          "type": "ha"
+        },
+        {
+          "id": 60000023,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_witchat",
+      "parts": [
+        {
+          "id": 808329486,
+          "type": "ha"
+        },
+        {
+          "id": 808329487,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_pumpkinlace",
+      "parts": [
+        {
+          "id": 1147483640,
+          "type": "he"
+        },
+        {
+          "id": 1147483641,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_FlequilloMochi",
+      "parts": [
+        {
+          "id": 80000026,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_M_ag01",
+      "parts": [
+        {
+          "id": 808329485,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_CurserClip",
+      "parts": [
+        {
+          "id": 90000027,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_YoriichiMark",
+      "parts": [
+        {
+          "id": 773976725,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_animeshortboyhair",
+      "parts": [
+        {
+          "id": 1147483647,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_PeinadoMochi",
+      "parts": [
+        {
+          "id": 80000027,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_PeloRegina",
+      "parts": [
+        {
+          "id": 90000019,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_FluttershyHair",
+      "parts": [
+        {
+          "id": 88329481,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_isword",
+      "parts": [
+        {
+          "id": 773976724,
+          "type": "lc"
+        },
+        {
+          "id": 773976724,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_PantalonStar",
+      "parts": [
+        {
+          "id": 90000026,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_pumpkinslipers",
+      "parts": [
+        {
+          "id": 1147483642,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_witchshoes",
+      "parts": [
+        {
+          "id": 808329482,
+          "type": "sh"
+        },
+        {
+          "id": 808329483,
+          "type": "sh"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_Ichimonji",
       "parts": [
         {
