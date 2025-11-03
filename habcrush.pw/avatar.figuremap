@@ -84149,6 +84149,50 @@
           "type": "sh"
         }
       ]
+    },
+    {
+      "id": "acc_chest_U_nftrockstar",
+      "revision": 85138,
+      "parts": [
+        {
+          "id": 6971,
+          "type": "ca"
+        },
+        {
+          "id": 6972,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftswordnshield",
+      "revision": 37308,
+      "parts": [
+        {
+          "id": 6978,
+          "type": "rc"
+        },
+        {
+          "id": 6978,
+          "type": "lc"
+        },
+        {
+          "id": 6979,
+          "type": "rc"
+        },
+        {
+          "id": 6979,
+          "type": "lc"
+        },
+        {
+          "id": 6980,
+          "type": "lc"
+        },
+        {
+          "id": 6980,
+          "type": "rc"
+        }
+      ]
     }
   ]
 }
