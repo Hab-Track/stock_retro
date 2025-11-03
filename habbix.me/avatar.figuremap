@@ -56493,6 +56493,88 @@
           "type": "cc"
         }
       ]
+    },
+    {
+      "id": "face_U_nftskeleton",
+      "revision": 74044,
+      "parts": [
+        {
+          "id": 6961,
+          "type": "hd"
+        },
+        {
+          "id": 6961,
+          "type": "bd"
+        },
+        {
+          "id": 6961,
+          "type": "lh"
+        },
+        {
+          "id": 6961,
+          "type": "rh"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_custom_998787622",
+      "revision": 0,
+      "parts": [
+        {
+          "id": 456340,
+          "type": "hr"
+        },
+        {
+          "id": 456341,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftfrecklesb",
+      "revision": 72566,
+      "parts": [
+        {
+          "id": 6225,
+          "type": "ey"
+        },
+        {
+          "id": 6226,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_custom_998787971",
+      "revision": 0,
+      "parts": [
+        {
+          "id": 456850,
+          "type": "hr"
+        },
+        {
+          "id": 456850,
+          "type": "hrb"
+        },
+        {
+          "id": 456851,
+          "type": "hr"
+        },
+        {
+          "id": 456851,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_custom_998788150",
+      "revision": 0,
+      "parts": [
+        {
+          "id": 457103,
+          "type": "lg"
+        }
+      ]
     }
   ]
 }
