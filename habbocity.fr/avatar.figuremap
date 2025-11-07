@@ -1,6 +1,146 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_nftswordnshield",
+      "revision": 181851,
+      "parts": [
+        {
+          "id": 181851,
+          "type": "cc"
+        },
+        {
+          "id": 181851,
+          "type": "lc"
+        },
+        {
+          "id": 181851,
+          "type": "rc"
+        },
+        {
+          "id": 181852,
+          "type": "cc"
+        },
+        {
+          "id": 181852,
+          "type": "lc"
+        },
+        {
+          "id": 181852,
+          "type": "rc"
+        },
+        {
+          "id": 181853,
+          "type": "cc"
+        },
+        {
+          "id": 181853,
+          "type": "lc"
+        },
+        {
+          "id": 181853,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_nftwizardsglasses",
+      "revision": 181850,
+      "parts": [
+        {
+          "id": 181850,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftwizardsbeard",
+      "revision": 181848,
+      "parts": [
+        {
+          "id": 181848,
+          "type": "fa"
+        },
+        {
+          "id": 181849,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftbighorns",
+      "revision": 181846,
+      "parts": [
+        {
+          "id": 181846,
+          "type": "he"
+        },
+        {
+          "id": 181847,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftwizardshat",
+      "revision": 181843,
+      "parts": [
+        {
+          "id": 181843,
+          "type": "ha"
+        },
+        {
+          "id": 181844,
+          "type": "ha"
+        },
+        {
+          "id": 181845,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_nftwizardsrobe",
+      "revision": 181840,
+      "parts": [
+        {
+          "id": 181840,
+          "type": "ch"
+        },
+        {
+          "id": 181840,
+          "type": "ls"
+        },
+        {
+          "id": 181840,
+          "type": "rs"
+        },
+        {
+          "id": 181841,
+          "type": "ch"
+        },
+        {
+          "id": 181841,
+          "type": "ls"
+        },
+        {
+          "id": 181841,
+          "type": "rs"
+        },
+        {
+          "id": 181842,
+          "type": "ch"
+        },
+        {
+          "id": 181842,
+          "type": "ls"
+        },
+        {
+          "id": 181842,
+          "type": "rs"
+        }
+      ]
+    },
+    {
       "id": "acc_head_U_auracelestial",
       "revision": 181839,
       "parts": [
