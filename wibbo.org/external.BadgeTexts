@@ -5071,8 +5071,14 @@
   "badge_desc_chibi_demone": "by. bull. ^^",
   "badge_name_BADCS05": "Cours de Sciences",
   "badge_desc_BADCS05": "prochain scientifique de la famille",
-  "badge_name_LID25": "Elixir empoisonné",
-  "badge_desc_LID25": "Un simple breuvage… aux conséquences éternelles.",
+  "badge_name_LID25": [
+    "Elixir empoisonné",
+    "Champignons du Lido"
+  ],
+  "badge_desc_LID25": [
+    "Un simple breuvage… aux conséquences éternelles.",
+    "Les récolteras-tu tous ?"
+  ],
   "badge_name_KNTXT": "KNTXT ",
   "badge_desc_KNTXT": "KNTXT | ˈkɒntɛkst | Techno concept hosted by Charlotte De Witte",
   "badge_name_TRIOMODO": "Trio d'équipe",
