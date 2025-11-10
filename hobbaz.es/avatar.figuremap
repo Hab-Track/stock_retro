@@ -1,6 +1,96 @@
 ﻿{
   "libraries": [
     {
+      "id": "hat_U_fergorralv",
+      "parts": [
+        {
+          "id": 33001001,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_fergorrolv",
+      "parts": [
+        {
+          "id": 33001002,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_fercamisetalv",
+      "parts": [
+        {
+          "id": 33001003,
+          "type": "ch"
+        },
+        {
+          "id": 33001003,
+          "type": "ls"
+        },
+        {
+          "id": 33001003,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_fercalzonalv",
+      "parts": [
+        {
+          "id": 33001004,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_feralmohadalv",
+      "parts": [
+        {
+          "id": 33001005,
+          "type": "cc"
+        },
+        {
+          "id": 33001005,
+          "type": "lc"
+        },
+        {
+          "id": 33001005,
+          "type": "rc"
+        },
+        {
+          "id": 33001006,
+          "type": "cc"
+        },
+        {
+          "id": 33001006,
+          "type": "lc"
+        },
+        {
+          "id": 33001006,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_ferabrigolv",
+      "parts": [
+        {
+          "id": 33001007,
+          "type": "cc"
+        },
+        {
+          "id": 33001008,
+          "type": "lc"
+        },
+        {
+          "id": 33001008,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "hair_U_pelofer",
       "revision": 99000158,
       "parts": [
