@@ -1,6 +1,49 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_fermochilalv",
+      "parts": [
+        {
+          "id": 33001013,
+          "type": "ca"
+        },
+        {
+          "id": 33001014,
+          "type": "ca"
+        },
+        {
+          "id": 33001015,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_fergafaslv",
+      "parts": [
+        {
+          "id": 33001016,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_fersudaderalv",
+      "parts": [
+        {
+          "id": 33001017,
+          "type": "ch"
+        },
+        {
+          "id": 33001017,
+          "type": "ls"
+        },
+        {
+          "id": 33001017,
+          "type": "rs"
+        }
+      ]
+    },
+    {
       "id": "trousers_U_ferpantalonlv",
       "parts": [
         {
