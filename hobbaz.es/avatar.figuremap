@@ -1,6 +1,49 @@
 ﻿{
   "libraries": [
     {
+      "id": "trousers_U_ferpantalonlv",
+      "parts": [
+        {
+          "id": 33001009,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_ferbolsolv",
+      "parts": [
+        {
+          "id": 33001010,
+          "type": "lc"
+        },
+        {
+          "id": 33001010,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_fercamisalv",
+      "parts": [
+        {
+          "id": 33001011,
+          "type": "ch"
+        },
+        {
+          "id": 33001011,
+          "type": "ls"
+        },
+        {
+          "id": 33001011,
+          "type": "rs"
+        },
+        {
+          "id": 33001012,
+          "type": "ch"
+        }
+      ]
+    },
+    {
       "id": "hat_U_fergorralv",
       "parts": [
         {
