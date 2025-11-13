@@ -3,12 +3,12 @@
     "wss://live-arena-1wyq3l0.habbix.me:2096"
   ],
   "asset.url": "https://images.habbix.me",
-  "cdn.url": "",
+  "cdn.url": "https://sandbox.habbix.me",
   "image.library.url": "https://images.habbix.me/c_images/",
   "images.url": "${asset.url}/images",
   "gamedata.url": "${asset.url}/habbix-asset-bundles/gamedata",
-  "sounds.url": "${asset.url}/sounds/%sample%.mp3",
-  "cdn.sounds.url": "${cdn.url}/sounds/%sample%.mp3",
+  "sounds.url": "https://images.habbix.me/sounds/%sample%.mp3",
+  "cdn.sounds.url": "https://images.habbix.me/sounds/%sample%.mp3",
   "external.texts.url": [
     "${gamedata.url}/habbix_texts.json",
     "${gamedata.url}/UITexts.json"
