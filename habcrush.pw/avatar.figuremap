@@ -84459,6 +84459,108 @@
           "type": "lc"
         }
       ]
+    },
+    {
+      "id": "acc_face_U_nftwizardsbeard2",
+      "revision": 48785,
+      "parts": [
+        {
+          "id": 7002,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_nftwizardsglasses",
+      "revision": 51381,
+      "parts": [
+        {
+          "id": 6999,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftwizardshaircut",
+      "revision": 21823,
+      "parts": [
+        {
+          "id": 6997,
+          "type": "hrb"
+        },
+        {
+          "id": 6997,
+          "type": "hr"
+        },
+        {
+          "id": 6998,
+          "type": "hrb"
+        },
+        {
+          "id": 6998,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftwizardshat",
+      "revision": 28349,
+      "parts": [
+        {
+          "id": 7003,
+          "type": "ha"
+        },
+        {
+          "id": 7004,
+          "type": "ha"
+        },
+        {
+          "id": 7005,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_nftwizardsrobe",
+      "revision": 26641,
+      "parts": [
+        {
+          "id": 7008,
+          "type": "ch"
+        },
+        {
+          "id": 7008,
+          "type": "ls"
+        },
+        {
+          "id": 7008,
+          "type": "rs"
+        },
+        {
+          "id": 7009,
+          "type": "ch"
+        },
+        {
+          "id": 7009,
+          "type": "ls"
+        },
+        {
+          "id": 7009,
+          "type": "rs"
+        },
+        {
+          "id": 7010,
+          "type": "ch"
+        },
+        {
+          "id": 7010,
+          "type": "ls"
+        },
+        {
+          "id": 7010,
+          "type": "rs"
+        }
+      ]
     }
   ]
 }
