@@ -1,6 +1,44 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_toninomattbabysleep",
+      "revision": 181892,
+      "parts": [
+        {
+          "id": 181892,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_NochkaEkelAiles",
+      "revision": 181890,
+      "parts": [
+        {
+          "id": 181890,
+          "type": "lc"
+        },
+        {
+          "id": 181890,
+          "type": "rc"
+        },
+        {
+          "id": 181891,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_NochkaSacados",
+      "revision": 181889,
+      "parts": [
+        {
+          "id": 181889,
+          "type": "ca"
+        }
+      ]
+    },
+    {
       "id": "hat_U_xmaspatch",
       "revision": 181888,
       "parts": [
