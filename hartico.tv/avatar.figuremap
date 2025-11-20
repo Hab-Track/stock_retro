@@ -1,7 +1,481 @@
 ﻿{
   "libraries": [
     {
-      "id": "acc_chest_U_Escopeta",
+      "id": "acc_chest_U_Girasol",
+      "parts": [
+        {
+          "id": 70000018,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_GuadanaTripleHoja",
+      "parts": [
+        {
+          "id": 60000057,
+          "type": "ca"
+        },
+        {
+          "id": 60000058,
+          "type": "ca"
+        },
+        {
+          "id": 60000059,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_MochilaGirasoles",
+      "parts": [
+        {
+          "id": 70000017,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_PuppyBoy",
+      "parts": [
+        {
+          "id": 110000012,
+          "type": "ca"
+        },
+        {
+          "id": 110000013,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_franjapatty",
+      "parts": [
+        {
+          "id": 21474916,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_ClipMariposa",
+      "parts": [
+        {
+          "id": 120000005,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_CabelloMinamoto",
+      "parts": [
+        {
+          "id": 110000001,
+          "type": "hr"
+        },
+        {
+          "id": 110000002,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_CabelloSephiroth",
+      "parts": [
+        {
+          "id": 110000014,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_Puppylove",
+      "parts": [
+        {
+          "id": 110000015,
+          "type": "hr"
+        },
+        {
+          "id": 110000016,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_CapuchaGirasol",
+      "parts": [
+        {
+          "id": 70000019,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_franjapatty",
+      "parts": [
+        {
+          "id": 21474915,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_Tridente",
+      "parts": [
+        {
+          "id": 110000006,
+          "type": "ha"
+        },
+        {
+          "id": 110000007,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_Hamtaro",
+      "parts": [
+        {
+          "id": 70000016,
+          "type": "cc"
+        },
+        {
+          "id": 70000016,
+          "type": "lc"
+        },
+        {
+          "id": 70000016,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_Momo",
+      "parts": [
+        {
+          "id": 70000015,
+          "type": "cc"
+        },
+        {
+          "id": 70000015,
+          "type": "lc"
+        },
+        {
+          "id": 70000015,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_PonchoGirasol",
+      "parts": [
+        {
+          "id": 70000020,
+          "type": "cc"
+        },
+        {
+          "id": 70000020,
+          "type": "lc"
+        },
+        {
+          "id": 70000020,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_CorsetAlondra",
+      "parts": [
+        {
+          "id": 120000003,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_TopDeportivonike",
+      "parts": [
+        {
+          "id": 110000008,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_TopLuna",
+      "parts": [
+        {
+          "id": 120000004,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_goldenhabubu",
+      "parts": [
+        {
+          "id": 6941,
+          "type": "ca"
+        },
+        {
+          "id": 6948,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_habubu",
+      "parts": [
+        {
+          "id": 6938,
+          "type": "ca"
+        },
+        {
+          "id": 6939,
+          "type": "ca"
+        },
+        {
+          "id": 6940,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_kittybag",
+      "parts": [
+        {
+          "id": 6917,
+          "type": "ca"
+        },
+        {
+          "id": 6918,
+          "type": "ca"
+        },
+        {
+          "id": 6919,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nystargarland1",
+      "parts": [
+        {
+          "id": 6981,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nystargarland2",
+      "parts": [
+        {
+          "id": 6982,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nystargarland3",
+      "parts": [
+        {
+          "id": 6983,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nystargarland4",
+      "parts": [
+        {
+          "id": 6984,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nystargarland5",
+      "parts": [
+        {
+          "id": 6985,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nystargarland6",
+      "parts": [
+        {
+          "id": 6986,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nystargarland7",
+      "parts": [
+        {
+          "id": 6987,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nystargarland8",
+      "parts": [
+        {
+          "id": 6988,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_snowflakenecklace",
+      "parts": [
+        {
+          "id": 6882,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftwizardsbeard2",
+      "parts": [
+        {
+          "id": 7002,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_fleeceheadwrap",
+      "parts": [
+        {
+          "id": 6912,
+          "type": "he"
+        },
+        {
+          "id": 6913,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_headlamp",
+      "parts": [
+        {
+          "id": 6935,
+          "type": "he"
+        },
+        {
+          "id": 6936,
+          "type": "he"
+        },
+        {
+          "id": 6937,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_polkadotbow",
+      "parts": [
+        {
+          "id": 6888,
+          "type": "he"
+        },
+        {
+          "id": 6889,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_icytipsponytail",
+      "parts": [
+        {
+          "id": 6879,
+          "type": "hr"
+        },
+        {
+          "id": 6879,
+          "type": "hrb"
+        },
+        {
+          "id": 6880,
+          "type": "hr"
+        },
+        {
+          "id": 6880,
+          "type": "hrb"
+        },
+        {
+          "id": 6881,
+          "type": "hr"
+        },
+        {
+          "id": 6881,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftwizardshat2",
+      "parts": [
+        {
+          "id": 7013,
+          "type": "ha"
+        },
+        {
+          "id": 7014,
+          "type": "ha"
+        },
+        {
+          "id": 7015,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_xmaspatch",
+      "parts": [
+        {
+          "id": 6957,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_polkadotmittens",
+      "parts": [
+        {
+          "id": 6876,
+          "type": "cc"
+        },
+        {
+          "id": 6876,
+          "type": "lc"
+        },
+        {
+          "id": 6876,
+          "type": "rc"
+        },
+        {
+          "id": 6877,
+          "type": "cc"
+        },
+        {
+          "id": 6877,
+          "type": "lc"
+        },
+        {
+          "id": 6877,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "tv_hobba_25_Escopeta",
       "parts": [
         {
           "id": 80000029,
