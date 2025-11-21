@@ -1,6 +1,384 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_EspadaShinai",
+      "parts": [
+        {
+          "id": 80000034,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_dogcollar",
+      "parts": [
+        {
+          "id": 559328671,
+          "type": "ca"
+        },
+        {
+          "id": 559328672,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_FireForceJacket",
+      "parts": [
+        {
+          "id": 90000042,
+          "type": "cc"
+        },
+        {
+          "id": 90000042,
+          "type": "lc"
+        },
+        {
+          "id": 90000042,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_CapaMinato",
+      "parts": [
+        {
+          "id": 60000044,
+          "type": "cc"
+        },
+        {
+          "id": 60000044,
+          "type": "lc"
+        },
+        {
+          "id": 60000044,
+          "type": "rc"
+        },
+        {
+          "id": 60000045,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_UniformeJapones",
+      "parts": [
+        {
+          "id": 90000039,
+          "type": "ch"
+        },
+        {
+          "id": 90000039,
+          "type": "ls"
+        },
+        {
+          "id": 90000039,
+          "type": "rs"
+        },
+        {
+          "id": 90000040,
+          "type": "ch"
+        },
+        {
+          "id": 90000041,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_Fuerte",
+      "parts": [
+        {
+          "id": 110000003,
+          "type": "ch"
+        },
+        {
+          "id": 110000003,
+          "type": "ls"
+        },
+        {
+          "id": 110000003,
+          "type": "rs"
+        },
+        {
+          "id": 110000004,
+          "type": "ch"
+        },
+        {
+          "id": 110000005,
+          "type": "ls"
+        },
+        {
+          "id": 110000005,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_MarcasSukuna",
+      "parts": [
+        {
+          "id": 60000048,
+          "type": "ch"
+        },
+        {
+          "id": 60000048,
+          "type": "ls"
+        },
+        {
+          "id": 60000048,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_FranelaCuelloV",
+      "parts": [
+        {
+          "id": 60000053,
+          "type": "ch"
+        },
+        {
+          "id": 60000053,
+          "type": "ls"
+        },
+        {
+          "id": 60000053,
+          "type": "rs"
+        },
+        {
+          "id": 60000054,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_cutelongshirtt",
+      "parts": [
+        {
+          "id": 559328676,
+          "type": "ch"
+        },
+        {
+          "id": 559328676,
+          "type": "ls"
+        },
+        {
+          "id": 559328676,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_Fuertote",
+      "parts": [
+        {
+          "id": 110000011,
+          "type": "ch"
+        },
+        {
+          "id": 110000011,
+          "type": "ls"
+        },
+        {
+          "id": 110000011,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_OjoConCicatriz",
+      "parts": [
+        {
+          "id": 60000055,
+          "type": "ea"
+        },
+        {
+          "id": 60000056,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "earring_U_silmiuearings",
+      "parts": [
+        {
+          "id": 54227646,
+          "type": "er"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_MarcasFacialesSukuna",
+      "parts": [
+        {
+          "id": 60000051,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_courtjesterhat",
+      "parts": [
+        {
+          "id": 54227641,
+          "type": "ha"
+        },
+        {
+          "id": 54227642,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_CapuchaPikachu",
+      "parts": [
+        {
+          "id": 60000052,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_CascoSelunita",
+      "parts": [
+        {
+          "id": 110000009,
+          "type": "ha"
+        },
+        {
+          "id": 110000010,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_DiademaLazoMaxi",
+      "parts": [
+        {
+          "id": 80000035,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_IconoCalavera",
+      "parts": [
+        {
+          "id": 80000036,
+          "type": "he"
+        },
+        {
+          "id": 80000037,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_IconoMyMelody",
+      "parts": [
+        {
+          "id": 80000038,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_CuellodeTogaMinato",
+      "parts": [
+        {
+          "id": 60000046,
+          "type": "he"
+        },
+        {
+          "id": 60000047,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_himmecuthairr",
+      "parts": [
+        {
+          "id": 559328673,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_EspadaKhopesh",
+      "parts": [
+        {
+          "id": 80000039,
+          "type": "lc"
+        },
+        {
+          "id": 80000039,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_GuadanaOri",
+      "parts": [
+        {
+          "id": 60000049,
+          "type": "lc"
+        },
+        {
+          "id": 60000049,
+          "type": "rc"
+        },
+        {
+          "id": 60000050,
+          "type": "lc"
+        },
+        {
+          "id": 60000050,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_pencil",
+      "parts": [
+        {
+          "id": 559328674,
+          "type": "lc"
+        },
+        {
+          "id": 559328674,
+          "type": "rc"
+        },
+        {
+          "id": 559328675,
+          "type": "lc"
+        },
+        {
+          "id": 559328675,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_Short",
+      "parts": [
+        {
+          "id": 54227645,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_nikotail",
+      "parts": [
+        {
+          "id": 559328677,
+          "type": "wa"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_Girasol",
       "parts": [
         {
@@ -475,7 +853,7 @@
       ]
     },
     {
-      "id": "tv_hobba_25_Escopeta",
+      "id": "acc_chest_U_Escopeta",
       "parts": [
         {
           "id": 80000029,
