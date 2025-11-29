@@ -1,5 +1,5 @@
 ﻿{
-  "socket.url": "wss://nabbo.hanarchy.net",
+  "socket.url": "wss://hotel.nabbo.es",
   "asset.url": "https://swfs.nabbo.es",
   "image.library.url": "https://swfs.nabbo.es/c_images//",
   "hof.furni.url": "https://swfs.nabbo.es/dcr/hof_furni",
@@ -13,16 +13,16 @@
   "external.texts.version": "8",
   "ui.texts.version": "8",
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
-  "furnidata.url": "${gamedata.url}/json/FurnitureData.json?v=65",
-  "productdata.url": "${gamedata.url}/json/ProductData.json?v=1",
-  "avatar.actions.url": "${gamedata.url}/json/HabboAvatarActions.json?v=1",
-  "avatar.figuredata.url": "${gamedata.url}/json/FigureData_new.json?v=2",
-  "avatar.figuremap.url": "${gamedata.url}/json/FigureMap_new.json?v=1",
-  "avatar.effectmap.url": "${gamedata.url}/json/EffectMap_new.json?v=4",
+  "furnidata.url": "${gamedata.url}/json/FurnitureData.json",
+  "productdata.url": "${gamedata.url}/json/ProductData.json",
+  "avatar.actions.url": "${gamedata.url}/json/HabboAvatarActions.json",
+  "avatar.figuredata.url": "${gamedata.url}/json/FigureData_new.json",
+  "avatar.figuremap.url": "${gamedata.url}/json/FigureMap_new.json",
+  "avatar.effectmap.url": "${gamedata.url}/json/EffectMap_new.json",
   "avatar.asset.url": "${asset.url}/figure_new/%libname%.nitro",
-  "avatar.asset.effect.url": "${asset.url}/effect_new/%libname%.nitro?2",
-  "furni.asset.url": "${asset.url}/furniture/%libname%.nitro?v=2",
-  "furni.asset.icon.url": "${hof.furni.url}/icons/%libname%%param%_icon.png?v=1",
+  "avatar.asset.effect.url": "${asset.url}/effect_new/%libname%.nitro",
+  "furni.asset.url": "${asset.url}/furniture/%libname%.nitro",
+  "furni.asset.icon.url": "${hof.furni.url}/icons/%libname%%param%_icon.png",
   "pet.asset.url": "${asset.url}/pet/%libname%.nitro",
   "generic.asset.url": "${asset.url}/generic/%libname%.nitro",
   "badge.asset.url": "${image.library.url}album1584/%badgename%.gif",
@@ -599,12 +599,5 @@
     "pkmvictinip",
     "elephants"
   ],
-  "preload.assets.urls": [
-    "${asset.url}/generic/avatar_additions.nitro",
-    "${asset.url}/generic/group_badge.nitro",
-    "${asset.url}/generic/floor_editor.nitro",
-    "${images.url}/loading_icon.png",
-    "${images.url}/clear_icon.png",
-    "${images.url}/big_arrow.png"
-  ]
+  "preload.assets.urls": []
 }
