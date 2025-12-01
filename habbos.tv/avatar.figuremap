@@ -1,6 +1,116 @@
 ﻿{
   "libraries": [
     {
+      "id": "face_U_blocked",
+      "parts": [
+        {
+          "id": 7039,
+          "type": "hd"
+        },
+        {
+          "id": 7039,
+          "type": "bd"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftregalblackcrown",
+      "parts": [
+        {
+          "id": 7029,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_pineapplehelmet",
+      "parts": [
+        {
+          "id": 7051,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_turkeyhat",
+      "parts": [
+        {
+          "id": 7052,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_F_bonnieface",
+      "parts": [
+        {
+          "id": 2147484,
+          "type": "fa"
+        },
+        {
+          "id": 2147485,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_F_bonniefacetwo",
+      "parts": [
+        {
+          "id": 2147486,
+          "type": "fa"
+        },
+        {
+          "id": 2147487,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_bonniesunglasses",
+      "parts": [
+        {
+          "id": 1234565,
+          "type": "fa"
+        },
+        {
+          "id": 1234566,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_bonniesquarehoops",
+      "parts": [
+        {
+          "id": 431256,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_neckalcechocker",
+      "parts": [
+        {
+          "id": 9872245,
+          "type": "ca"
+        },
+        {
+          "id": 9872246,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_sequintopbonnie",
+      "parts": [
+        {
+          "id": 8765666,
+          "type": "ch"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_EspadaShinai",
       "parts": [
         {
