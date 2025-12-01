@@ -1,7 +1,7 @@
 ﻿{
   "socket.url": "wss://nitro.habti.me",
-  "asset.url": "https://cdn.habti.me/nitro",
-  "flash.asset.url": "https://cdn.habti.me/flash",
+  "asset.url": "https://cdn.hablix.org/nitro",
+  "flash.asset.url": "https://cdn.hablix.org/flash",
   "image.library.url": "${flash.asset.url}/c_images/",
   "hof.furni.url": "${flash.asset.url}/dcr/hof_furni",
   "images.url": "${asset.url}/images",
