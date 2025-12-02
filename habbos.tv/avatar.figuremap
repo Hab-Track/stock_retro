@@ -1,6 +1,365 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_BurbujaMagica",
+      "parts": [
+        {
+          "id": 110000029,
+          "type": "ca"
+        },
+        {
+          "id": 110000030,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_ChaosEmeralds",
+      "parts": [
+        {
+          "id": 110000033,
+          "type": "ca"
+        },
+        {
+          "id": 110000034,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_Menacing",
+      "parts": [
+        {
+          "id": 110000017,
+          "type": "ca"
+        },
+        {
+          "id": 110000018,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_Tentacles",
+      "parts": [
+        {
+          "id": 110000021,
+          "type": "ca"
+        },
+        {
+          "id": 110000022,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_LovedOne",
+      "parts": [
+        {
+          "id": 110000019,
+          "type": "fa"
+        },
+        {
+          "id": 110000020,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_PurosSmoker",
+      "parts": [
+        {
+          "id": 70000022,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_CabelloTaijuShiba",
+      "parts": [
+        {
+          "id": 110000027,
+          "type": "hr"
+        },
+        {
+          "id": 110000028,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_FlecoMinamoto",
+      "parts": [
+        {
+          "id": 110000023,
+          "type": "hr"
+        },
+        {
+          "id": 110000024,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_MelenaMavuika",
+      "parts": [
+        {
+          "id": 110000025,
+          "type": "hr"
+        },
+        {
+          "id": 110000026,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_mendlerhair2v",
+      "parts": [
+        {
+          "id": 854367612,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_Plumbob",
+      "parts": [
+        {
+          "id": 110000037,
+          "type": "ha"
+        },
+        {
+          "id": 110000038,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_TatuajesShiba",
+      "parts": [
+        {
+          "id": 110000031,
+          "type": "cc"
+        },
+        {
+          "id": 110000032,
+          "type": "lc"
+        },
+        {
+          "id": 110000032,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_Umbreon",
+      "parts": [
+        {
+          "id": 70000021,
+          "type": "lc"
+        },
+        {
+          "id": 70000021,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_BrasierAsimetrico",
+      "parts": [
+        {
+          "id": 90000046,
+          "type": "ch"
+        },
+        {
+          "id": 90000046,
+          "type": "ls"
+        },
+        {
+          "id": 90000046,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_VestidoCoqueto",
+      "parts": [
+        {
+          "id": 110000035,
+          "type": "ch"
+        },
+        {
+          "id": 110000036,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_FaldaIdol",
+      "parts": [
+        {
+          "id": 90000044,
+          "type": "lg"
+        },
+        {
+          "id": 90000045,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftwinter25",
+      "parts": [
+        {
+          "id": 7058,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftxmaslollipop",
+      "parts": [
+        {
+          "id": 6274,
+          "type": "fa"
+        },
+        {
+          "id": 6275,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftwinter25",
+      "parts": [
+        {
+          "id": 7053,
+          "type": "ha"
+        },
+        {
+          "id": 7054,
+          "type": "ha"
+        },
+        {
+          "id": 7055,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_nftwinter25",
+      "parts": [
+        {
+          "id": 7065,
+          "type": "cc"
+        },
+        {
+          "id": 7065,
+          "type": "lc"
+        },
+        {
+          "id": 7065,
+          "type": "rc"
+        },
+        {
+          "id": 7066,
+          "type": "cc"
+        },
+        {
+          "id": 7066,
+          "type": "lc"
+        },
+        {
+          "id": 7066,
+          "type": "rc"
+        },
+        {
+          "id": 7067,
+          "type": "cc"
+        },
+        {
+          "id": 7067,
+          "type": "lc"
+        },
+        {
+          "id": 7067,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_nftwinter25",
+      "parts": [
+        {
+          "id": 7062,
+          "type": "cc"
+        },
+        {
+          "id": 7062,
+          "type": "lc"
+        },
+        {
+          "id": 7062,
+          "type": "rc"
+        },
+        {
+          "id": 7063,
+          "type": "cc"
+        },
+        {
+          "id": 7063,
+          "type": "lc"
+        },
+        {
+          "id": 7063,
+          "type": "rc"
+        },
+        {
+          "id": 7064,
+          "type": "cc"
+        },
+        {
+          "id": 7064,
+          "type": "lc"
+        },
+        {
+          "id": 7064,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_nftwinter25",
+      "parts": [
+        {
+          "id": 7059,
+          "type": "sh"
+        },
+        {
+          "id": 7060,
+          "type": "sh"
+        },
+        {
+          "id": 7061,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_nftwinter25",
+      "parts": [
+        {
+          "id": 7056,
+          "type": "lg"
+        },
+        {
+          "id": 7057,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "face_U_blocked",
       "parts": [
         {
