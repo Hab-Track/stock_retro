@@ -1,6 +1,40 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_waist_U_tvdoblecinto",
+      "revision": 181899,
+      "parts": [
+        {
+          "id": 181899,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_tvadidassamba",
+      "revision": 181898,
+      "parts": [
+        {
+          "id": 181898,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_pantamutanda",
+      "revision": 181896,
+      "parts": [
+        {
+          "id": 181896,
+          "type": "lg"
+        },
+        {
+          "id": 181897,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "hat_U_nftdenimcapp",
       "revision": 181895,
       "parts": [
