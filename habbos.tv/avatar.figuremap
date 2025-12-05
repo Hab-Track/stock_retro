@@ -1,6 +1,157 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_EspadaZenith",
+      "parts": [
+        {
+          "id": 110000049,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_masclupa",
+      "parts": [
+        {
+          "id": 21474919,
+          "type": "fa"
+        },
+        {
+          "id": 21474920,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_LazoCute",
+      "parts": [
+        {
+          "id": 90000052,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_EspadaShanks",
+      "parts": [
+        {
+          "id": 90000051,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_CabelloKasaneTeto",
+      "parts": [
+        {
+          "id": 110000041,
+          "type": "hr"
+        },
+        {
+          "id": 110000042,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_GalHair21",
+      "parts": [
+        {
+          "id": 6480,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_SueterOversize",
+      "parts": [
+        {
+          "id": 90000047,
+          "type": "cc"
+        },
+        {
+          "id": 90000047,
+          "type": "lc"
+        },
+        {
+          "id": 90000047,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_tirante",
+      "parts": [
+        {
+          "id": 10001106,
+          "type": "ch"
+        },
+        {
+          "id": 10001107,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_CamisaAbotonada",
+      "parts": [
+        {
+          "id": 90000048,
+          "type": "ch"
+        },
+        {
+          "id": 90000048,
+          "type": "ls"
+        },
+        {
+          "id": 90000048,
+          "type": "rs"
+        },
+        {
+          "id": 90000049,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_SudaderaNike",
+      "parts": [
+        {
+          "id": 120000007,
+          "type": "ch"
+        },
+        {
+          "id": 120000008,
+          "type": "ls"
+        },
+        {
+          "id": 120000008,
+          "type": "rs"
+        },
+        {
+          "id": 120000009,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_TopAsimetricoII",
+      "parts": [
+        {
+          "id": 90000050,
+          "type": "ch"
+        },
+        {
+          "id": 90000050,
+          "type": "ls"
+        },
+        {
+          "id": 90000050,
+          "type": "rs"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_Excalibur",
       "parts": [
         {
