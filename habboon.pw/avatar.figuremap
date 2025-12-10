@@ -17546,7 +17546,7 @@
     },
     {
       "id": "jacket_M_cyzipped",
-      "revision": 69383,
+      "revision": 74373,
       "parts": [
         {
           "id": 2653,
@@ -17916,7 +17916,7 @@
     },
     {
       "id": "jacket_F_cyzipped",
-      "revision": 62091,
+      "revision": 74373,
       "parts": [
         {
           "id": 2656,
@@ -42586,6 +42586,358 @@
       "parts": [
         {
           "id": 6988,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftregalblackcrown",
+      "revision": 74347,
+      "parts": [
+        {
+          "id": 7029,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "face_U_blocked",
+      "revision": 74420,
+      "parts": [
+        {
+          "id": 7039,
+          "type": "hd"
+        },
+        {
+          "id": 7039,
+          "type": "bd"
+        },
+        {
+          "id": 7039,
+          "type": "ey"
+        },
+        {
+          "id": 7039,
+          "type": "lh"
+        },
+        {
+          "id": 7039,
+          "type": "rh"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_turkeyhat",
+      "revision": 74365,
+      "parts": [
+        {
+          "id": 7052,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_pineapplehelmet",
+      "revision": 74367,
+      "parts": [
+        {
+          "id": 7051,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_nftwinter25",
+      "revision": 74381,
+      "parts": [
+        {
+          "id": 7056,
+          "type": "lg"
+        },
+        {
+          "id": 7057,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftwinter25",
+      "revision": 74381,
+      "parts": [
+        {
+          "id": 7053,
+          "type": "ha"
+        },
+        {
+          "id": 7054,
+          "type": "ha"
+        },
+        {
+          "id": 7055,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_nftwinter25",
+      "revision": 74382,
+      "parts": [
+        {
+          "id": 7065,
+          "type": "cc"
+        },
+        {
+          "id": 7067,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_nftwinter25",
+      "revision": 74385,
+      "parts": [
+        {
+          "id": 7062,
+          "type": "cc"
+        },
+        {
+          "id": 7062,
+          "type": "lc"
+        },
+        {
+          "id": 7062,
+          "type": "rc"
+        },
+        {
+          "id": 7063,
+          "type": "cc"
+        },
+        {
+          "id": 7064,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftwinter25",
+      "revision": 74417,
+      "parts": [
+        {
+          "id": 7058,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_nftwinter25",
+      "revision": 74381,
+      "parts": [
+        {
+          "id": 7059,
+          "type": "sh"
+        },
+        {
+          "id": 7060,
+          "type": "sh"
+        },
+        {
+          "id": 7061,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftxmaslollipop",
+      "revision": 74380,
+      "parts": [
+        {
+          "id": 6274,
+          "type": "fa"
+        },
+        {
+          "id": 6275,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftheartfacepaint",
+      "revision": 74425,
+      "parts": [
+        {
+          "id": 7024,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_F_nftxmasbonnieprint",
+      "revision": 74413,
+      "parts": [
+        {
+          "id": 7084,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nfthohohoprint",
+      "revision": 74413,
+      "parts": [
+        {
+          "id": 7019,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_M_nftrastasantaprint",
+      "revision": 74413,
+      "parts": [
+        {
+          "id": 7016,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_nftsatyr",
+      "revision": 74415,
+      "parts": [
+        {
+          "id": 7028,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_M_nftrudolphprint",
+      "revision": 74413,
+      "parts": [
+        {
+          "id": 7017,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nfthappy2026print",
+      "revision": 74413,
+      "parts": [
+        {
+          "id": 7025,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_M_nftxmasbonnieprint",
+      "revision": 74413,
+      "parts": [
+        {
+          "id": 7018,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nft2025santahat",
+      "revision": 74423,
+      "parts": [
+        {
+          "id": 7021,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_F_nftrudolphprint",
+      "revision": 74413,
+      "parts": [
+        {
+          "id": 7083,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftmerryxmasprint",
+      "revision": 74413,
+      "parts": [
+        {
+          "id": 7020,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftrudolphsnose",
+      "revision": 74413,
+      "parts": [
+        {
+          "id": 7022,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nft2026",
+      "revision": 74413,
+      "parts": [
+        {
+          "id": 7026,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftsnowmanbun",
+      "revision": 74415,
+      "parts": [
+        {
+          "id": 7086,
+          "type": "hr"
+        },
+        {
+          "id": 7086,
+          "type": "hrb"
+        },
+        {
+          "id": 7087,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftstarfacepaint",
+      "revision": 74425,
+      "parts": [
+        {
+          "id": 7023,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_F_nftrastasantaprint",
+      "revision": 74413,
+      "parts": [
+        {
+          "id": 7085,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_glitterwings",
+      "revision": 74424,
+      "parts": [
+        {
+          "id": 7011,
+          "type": "ca"
+        },
+        {
+          "id": 7012,
           "type": "ca"
         }
       ]
