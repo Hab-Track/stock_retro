@@ -210,12 +210,14 @@
       "slot.4.conf": {},
       "slot.5.widget": "",
       "slot.5.conf": {},
-      "slot.6.widget": "",
+      "slot.6.widget": "achievementcompetition_hall_of_fame",
       "slot.6.conf": {
-        "campaign": "habboFameComp"
+        "campaign": "2013-05-08 13:00,gamesmaker;2013-05-11 13:00"
       },
       "slot.7.widget": "",
-      "slot.7.conf": {}
+      "slot.7.conf": {
+        "campaign": ""
+      }
     },
     "images": {
       "background": "${asset.url}/images/reception/stretch_blue.png",
