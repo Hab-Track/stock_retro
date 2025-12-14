@@ -1,6 +1,402 @@
 ﻿{
   "libraries": [
     {
+      "id": "trousers_U_nftwinter25",
+      "revision": 181943,
+      "parts": [
+        {
+          "id": 181943,
+          "type": "lg"
+        },
+        {
+          "id": 181944,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_nftsatyr",
+      "revision": 181942,
+      "parts": [
+        {
+          "id": 181942,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_nftwinter25",
+      "revision": 181939,
+      "parts": [
+        {
+          "id": 181939,
+          "type": "sh"
+        },
+        {
+          "id": 181940,
+          "type": "sh"
+        },
+        {
+          "id": 181941,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_nftwinter25",
+      "revision": 181936,
+      "parts": [
+        {
+          "id": 181936,
+          "type": "cc"
+        },
+        {
+          "id": 181936,
+          "type": "lc"
+        },
+        {
+          "id": 181936,
+          "type": "rc"
+        },
+        {
+          "id": 181937,
+          "type": "cc"
+        },
+        {
+          "id": 181937,
+          "type": "lc"
+        },
+        {
+          "id": 181937,
+          "type": "rc"
+        },
+        {
+          "id": 181938,
+          "type": "cc"
+        },
+        {
+          "id": 181938,
+          "type": "lc"
+        },
+        {
+          "id": 181938,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_cyzipped",
+      "revision": 181933,
+      "parts": [
+        {
+          "id": 181933,
+          "type": "cc"
+        },
+        {
+          "id": 181933,
+          "type": "lc"
+        },
+        {
+          "id": 181933,
+          "type": "rc"
+        },
+        {
+          "id": 181934,
+          "type": "cc"
+        },
+        {
+          "id": 181934,
+          "type": "lc"
+        },
+        {
+          "id": 181934,
+          "type": "rc"
+        },
+        {
+          "id": 181935,
+          "type": "cc"
+        },
+        {
+          "id": 181935,
+          "type": "lc"
+        },
+        {
+          "id": 181935,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_cyzipped",
+      "revision": 181930,
+      "parts": [
+        {
+          "id": 181930,
+          "type": "cc"
+        },
+        {
+          "id": 181930,
+          "type": "lc"
+        },
+        {
+          "id": 181930,
+          "type": "rc"
+        },
+        {
+          "id": 181931,
+          "type": "cc"
+        },
+        {
+          "id": 181931,
+          "type": "lc"
+        },
+        {
+          "id": 181931,
+          "type": "rc"
+        },
+        {
+          "id": 181932,
+          "type": "cc"
+        },
+        {
+          "id": 181932,
+          "type": "lc"
+        },
+        {
+          "id": 181932,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_turkeyhat",
+      "revision": 181929,
+      "parts": [
+        {
+          "id": 181929,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_pineapplehelmet",
+      "revision": 181928,
+      "parts": [
+        {
+          "id": 181928,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftwinter25",
+      "revision": 181925,
+      "parts": [
+        {
+          "id": 181925,
+          "type": "ha"
+        },
+        {
+          "id": 181926,
+          "type": "ha"
+        },
+        {
+          "id": 181927,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftregalblackcrown",
+      "revision": 181924,
+      "parts": [
+        {
+          "id": 181924,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nft2025santahat",
+      "revision": 181923,
+      "parts": [
+        {
+          "id": 181923,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftsnowmanbun",
+      "revision": 181921,
+      "parts": [
+        {
+          "id": 181921,
+          "type": "hr"
+        },
+        {
+          "id": 181921,
+          "type": "hrb"
+        },
+        {
+          "id": 181922,
+          "type": "hr"
+        },
+        {
+          "id": 181922,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftmerryxmasprint",
+      "revision": 181920,
+      "parts": [
+        {
+          "id": 181920,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nfthohohoprint",
+      "revision": 181919,
+      "parts": [
+        {
+          "id": 181919,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nfthappy2026print",
+      "revision": 181918,
+      "parts": [
+        {
+          "id": 181918,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nft2026",
+      "revision": 181917,
+      "parts": [
+        {
+          "id": 181917,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_M_nftxmasbonnieprint",
+      "revision": 181916,
+      "parts": [
+        {
+          "id": 181916,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_M_nftrudolphprint",
+      "revision": 181915,
+      "parts": [
+        {
+          "id": 181915,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_M_nftrastasantaprint",
+      "revision": 181914,
+      "parts": [
+        {
+          "id": 181914,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_F_nftxmasbonnieprint",
+      "revision": 181913,
+      "parts": [
+        {
+          "id": 181913,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_F_nftrudolphprint",
+      "revision": 181912,
+      "parts": [
+        {
+          "id": 181912,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_F_nftrastasantaprint",
+      "revision": 181911,
+      "parts": [
+        {
+          "id": 181911,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftxmaslollipop",
+      "revision": 181909,
+      "parts": [
+        {
+          "id": 181909,
+          "type": "fa"
+        },
+        {
+          "id": 181910,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftwinter25",
+      "revision": 181908,
+      "parts": [
+        {
+          "id": 181908,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftrudolphsnose",
+      "revision": 181907,
+      "parts": [
+        {
+          "id": 181907,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_glitterwings",
+      "revision": 181905,
+      "parts": [
+        {
+          "id": 181905,
+          "type": "ca"
+        },
+        {
+          "id": 181906,
+          "type": "ca"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_MitracolorNochka",
       "revision": 181903,
       "parts": [
