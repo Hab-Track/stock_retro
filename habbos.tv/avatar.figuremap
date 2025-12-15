@@ -1,6 +1,509 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_Abejitas",
+      "parts": [
+        {
+          "id": 110000047,
+          "type": "ca"
+        },
+        {
+          "id": 110000048,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_Benihisago",
+      "parts": [
+        {
+          "id": 60000084,
+          "type": "ca"
+        },
+        {
+          "id": 60000085,
+          "type": "ca"
+        },
+        {
+          "id": 60000086,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_EspadaFiloMiau",
+      "parts": [
+        {
+          "id": 90000055,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_Hashibiras",
+      "parts": [
+        {
+          "id": 60000087,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_Kanabo",
+      "parts": [
+        {
+          "id": 110000043,
+          "type": "ca"
+        },
+        {
+          "id": 110000044,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_Kusanagi",
+      "parts": [
+        {
+          "id": 60000080,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_Shibuki",
+      "parts": [
+        {
+          "id": 60000081,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_FlecoSuzuya",
+      "parts": [
+        {
+          "id": 60000076,
+          "type": "he"
+        },
+        {
+          "id": 60000077,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_TirantesDePectoral",
+      "parts": [
+        {
+          "id": 60000082,
+          "type": "cp"
+        },
+        {
+          "id": 60000083,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_ColetasGyaru",
+      "parts": [
+        {
+          "id": 110000045,
+          "type": "hr"
+        },
+        {
+          "id": 110000046,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_PeinadoLumi",
+      "parts": [
+        {
+          "id": 60000078,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_BandaSasukeTheLast",
+      "parts": [
+        {
+          "id": 60000079,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_BoinaPompompurin",
+      "parts": [
+        {
+          "id": 110000061,
+          "type": "ha"
+        },
+        {
+          "id": 110000062,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_capuchechiick",
+      "parts": [
+        {
+          "id": 181736,
+          "type": "ha"
+        },
+        {
+          "id": 181737,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_CaraGyaru",
+      "parts": [
+        {
+          "id": 110000052,
+          "type": "ha"
+        },
+        {
+          "id": 110000053,
+          "type": "ha"
+        },
+        {
+          "id": 110000054,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_GorroZorro",
+      "parts": [
+        {
+          "id": 90000053,
+          "type": "ha"
+        },
+        {
+          "id": 90000054,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_ArmaduraSaiyan",
+      "parts": [
+        {
+          "id": 110000050,
+          "type": "cc"
+        },
+        {
+          "id": 110000050,
+          "type": "lc"
+        },
+        {
+          "id": 110000050,
+          "type": "rc"
+        },
+        {
+          "id": 110000051,
+          "type": "cc"
+        },
+        {
+          "id": 110000051,
+          "type": "lc"
+        },
+        {
+          "id": 110000051,
+          "type": "rc"
+        },
+        {
+          "id": 110000052,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_ChaquetaBlackDragon",
+      "parts": [
+        {
+          "id": 110000057,
+          "type": "cc"
+        },
+        {
+          "id": 110000057,
+          "type": "lc"
+        },
+        {
+          "id": 110000057,
+          "type": "rc"
+        },
+        {
+          "id": 110000058,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_chicksweat",
+      "parts": [
+        {
+          "id": 181733,
+          "type": "cc"
+        },
+        {
+          "id": 181733,
+          "type": "lc"
+        },
+        {
+          "id": 181733,
+          "type": "rc"
+        },
+        {
+          "id": 181734,
+          "type": "lc"
+        },
+        {
+          "id": 181734,
+          "type": "rc"
+        },
+        {
+          "id": 181735,
+          "type": "lc"
+        },
+        {
+          "id": 181735,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_Heartpurse",
+      "parts": [
+        {
+          "id": 3200,
+          "type": "lc"
+        },
+        {
+          "id": 3200,
+          "type": "rc"
+        },
+        {
+          "id": 4000,
+          "type": "lc"
+        },
+        {
+          "id": 4000,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_leatherjacket",
+      "parts": [
+        {
+          "id": 9000502,
+          "type": "cc"
+        },
+        {
+          "id": 9000502,
+          "type": "lc"
+        },
+        {
+          "id": 9000502,
+          "type": "rc"
+        },
+        {
+          "id": 9000503,
+          "type": "cc"
+        },
+        {
+          "id": 9000503,
+          "type": "lc"
+        },
+        {
+          "id": 9000503,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_PelucheKeroppi",
+      "parts": [
+        {
+          "id": 90000063,
+          "type": "cc"
+        },
+        {
+          "id": 90000063,
+          "type": "lc"
+        },
+        {
+          "id": 90000063,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_NikeSport",
+      "parts": [
+        {
+          "id": 120000012,
+          "type": "ch"
+        },
+        {
+          "id": 120000013,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_TopAdidas",
+      "parts": [
+        {
+          "id": 120000010,
+          "type": "ch"
+        },
+        {
+          "id": 120000011,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_CamisaStar",
+      "parts": [
+        {
+          "id": 90000058,
+          "type": "ch"
+        },
+        {
+          "id": 90000058,
+          "type": "ls"
+        },
+        {
+          "id": 90000058,
+          "type": "rs"
+        },
+        {
+          "id": 90000059,
+          "type": "ch"
+        },
+        {
+          "id": 90000059,
+          "type": "ls"
+        },
+        {
+          "id": 90000059,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_TopBicolor",
+      "parts": [
+        {
+          "id": 90000056,
+          "type": "ch"
+        },
+        {
+          "id": 90000057,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_TopGyaru",
+      "parts": [
+        {
+          "id": 110000059,
+          "type": "ch"
+        },
+        {
+          "id": 110000060,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_VestidoHimeGyaru",
+      "parts": [
+        {
+          "id": 110000055,
+          "type": "ch"
+        },
+        {
+          "id": 110000055,
+          "type": "ls"
+        },
+        {
+          "id": 110000055,
+          "type": "rs"
+        },
+        {
+          "id": 110000056,
+          "type": "ch"
+        },
+        {
+          "id": 110000056,
+          "type": "ls"
+        },
+        {
+          "id": 110000056,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_ducketpenguinbackpack",
+      "parts": [
+        {
+          "id": 7099,
+          "type": "ca"
+        },
+        {
+          "id": 7100,
+          "type": "ca"
+        },
+        {
+          "id": 7101,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_glitterwings",
+      "parts": [
+        {
+          "id": 7011,
+          "type": "ca"
+        },
+        {
+          "id": 7012,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_minielephant",
+      "parts": [
+        {
+          "id": 6992,
+          "type": "cc"
+        },
+        {
+          "id": 6992,
+          "type": "lc"
+        },
+        {
+          "id": 6992,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_EspadaZenith",
       "parts": [
         {
@@ -62341,19 +62844,6 @@
         },
         {
           "id": 7083,
-          "type": "cp"
-        }
-      ]
-    },
-    {
-      "id": "acc_print_U_numbe93",
-      "parts": [
-        {
-          "id": 7084,
-          "type": "cp"
-        },
-        {
-          "id": 7085,
           "type": "cp"
         }
       ]
