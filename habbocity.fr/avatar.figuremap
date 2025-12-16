@@ -1,6 +1,24 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_PelucheKeroppi",
+      "revision": 181946,
+      "parts": [
+        {
+          "id": 181946,
+          "type": "cc"
+        },
+        {
+          "id": 181946,
+          "type": "lc"
+        },
+        {
+          "id": 181946,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "acc_face_U_CityNobel",
       "revision": 181945,
       "parts": [
