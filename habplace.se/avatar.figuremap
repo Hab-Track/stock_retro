@@ -48743,6 +48743,38 @@
           "type": "lg"
         }
       ]
+    },
+    {
+      "id": "acc_chest_U_goldenhabubu",
+      "revision": 33835,
+      "parts": [
+        {
+          "id": 6941,
+          "type": "ca"
+        },
+        {
+          "id": 6948,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_habubu",
+      "revision": 72613,
+      "parts": [
+        {
+          "id": 6938,
+          "type": "ca"
+        },
+        {
+          "id": 6939,
+          "type": "ca"
+        },
+        {
+          "id": 6940,
+          "type": "ca"
+        }
+      ]
     }
   ]
 }
