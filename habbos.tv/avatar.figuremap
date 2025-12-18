@@ -1,6 +1,350 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_Bazuca",
+      "parts": [
+        {
+          "id": 80000054,
+          "type": "ca"
+        },
+        {
+          "id": 80000055,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_HachaThorfinn",
+      "parts": [
+        {
+          "id": 80000069,
+          "type": "ca"
+        },
+        {
+          "id": 80000070,
+          "type": "ca"
+        },
+        {
+          "id": 80000071,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_ChalecoCascanueces",
+      "parts": [
+        {
+          "id": 70000032,
+          "type": "ch"
+        },
+        {
+          "id": 70000032,
+          "type": "ls"
+        },
+        {
+          "id": 70000032,
+          "type": "rs"
+        },
+        {
+          "id": 70000033,
+          "type": "ch"
+        },
+        {
+          "id": 70000033,
+          "type": "ls"
+        },
+        {
+          "id": 70000033,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_TopCoquette",
+      "parts": [
+        {
+          "id": 80000059,
+          "type": "ch"
+        },
+        {
+          "id": 80000060,
+          "type": "ch"
+        },
+        {
+          "id": 80000061,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_KimonoMontsuki",
+      "parts": [
+        {
+          "id": 80000073,
+          "type": "ch"
+        },
+        {
+          "id": 80000073,
+          "type": "ls"
+        },
+        {
+          "id": 80000073,
+          "type": "rs"
+        },
+        {
+          "id": 80000074,
+          "type": "ch"
+        },
+        {
+          "id": 80000074,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_NarizRudolf",
+      "parts": [
+        {
+          "id": 70000025,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_MascaraKaneki",
+      "parts": [
+        {
+          "id": 80000057,
+          "type": "fa"
+        },
+        {
+          "id": 80000058,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_SombreroCascanueces",
+      "parts": [
+        {
+          "id": 70000031,
+          "type": "ha"
+        },
+        {
+          "id": 70000032,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_inosukeface",
+      "parts": [
+        {
+          "id": 338577124,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "face_U_Rostro_Grinch",
+      "parts": [
+        {
+          "id": 70000034,
+          "type": "hd"
+        },
+        {
+          "id": 70000034,
+          "type": "fc"
+        },
+        {
+          "id": 70000034,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_CuernosRudolf",
+      "parts": [
+        {
+          "id": 70000023,
+          "type": "he"
+        },
+        {
+          "id": 70000024,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_bunnyearsanm",
+      "parts": [
+        {
+          "id": 338577125,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_Arlequin",
+      "parts": [
+        {
+          "id": 80000065,
+          "type": "he"
+        },
+        {
+          "id": 80000066,
+          "type": "he"
+        },
+        {
+          "id": 80000067,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_PeloRastasModerno",
+      "parts": [
+        {
+          "id": 80000062,
+          "type": "hr"
+        },
+        {
+          "id": 80000063,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_TangHair2",
+      "parts": [
+        {
+          "id": 338577121,
+          "type": "hr"
+        },
+        {
+          "id": 338577122,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_PeinadoGyaru",
+      "parts": [
+        {
+          "id": 110000039,
+          "type": "hr"
+        },
+        {
+          "id": 110000040,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_mullethair",
+      "parts": [
+        {
+          "id": 338577120,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_GalletaJengibre",
+      "parts": [
+        {
+          "id": 70000030,
+          "type": "lc"
+        },
+        {
+          "id": 70000030,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_GranBastondeAzucar",
+      "parts": [
+        {
+          "id": 70000028,
+          "type": "lc"
+        },
+        {
+          "id": 70000028,
+          "type": "rc"
+        },
+        {
+          "id": 70000029,
+          "type": "lc"
+        },
+        {
+          "id": 70000029,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_pompompurin",
+      "parts": [
+        {
+          "id": 80000056,
+          "type": "lc"
+        },
+        {
+          "id": 80000056,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_PetChococat",
+      "parts": [
+        {
+          "id": 80000068,
+          "type": "lc"
+        },
+        {
+          "id": 80000068,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv25pantalonbombacha",
+      "parts": [
+        {
+          "id": 50000068,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_PantalonAnchoShein",
+      "parts": [
+        {
+          "id": 80000072,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_adidascampus",
+      "parts": [
+        {
+          "id": 100000027,
+          "type": "sh"
+        },
+        {
+          "id": 100000028,
+          "type": "sh"
+        },
+        {
+          "id": 100000029,
+          "type": "sh"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_Abejitas",
       "parts": [
         {
