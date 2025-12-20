@@ -1,6 +1,140 @@
 ﻿{
   "libraries": [
     {
+      "id": "face_U_nftpolarnight",
+      "revision": 181958,
+      "parts": [
+        {
+          "id": 7027,
+          "type": "hd"
+        },
+        {
+          "id": 7027,
+          "type": "bd"
+        },
+        {
+          "id": 7027,
+          "type": "lh"
+        },
+        {
+          "id": 7027,
+          "type": "rh"
+        },
+        {
+          "id": 7027,
+          "type": "fc"
+        },
+        {
+          "id": 7027,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_cnyhorsetail",
+      "revision": 181957,
+      "parts": [
+        {
+          "id": 181957,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nftshoulderdragon1",
+      "revision": 181955,
+      "parts": [
+        {
+          "id": 181955,
+          "type": "cc"
+        },
+        {
+          "id": 181955,
+          "type": "lc"
+        },
+        {
+          "id": 181955,
+          "type": "rc"
+        },
+        {
+          "id": 181956,
+          "type": "cc"
+        },
+        {
+          "id": 181956,
+          "type": "lc"
+        },
+        {
+          "id": 181956,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_minielephant",
+      "revision": 181954,
+      "parts": [
+        {
+          "id": 181954,
+          "type": "cc"
+        },
+        {
+          "id": 181954,
+          "type": "lc"
+        },
+        {
+          "id": 181954,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nfticaruscrown",
+      "revision": 181952,
+      "parts": [
+        {
+          "id": 181952,
+          "type": "ha"
+        },
+        {
+          "id": 181953,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_cnyhorseears",
+      "revision": 181950,
+      "parts": [
+        {
+          "id": 181950,
+          "type": "he"
+        },
+        {
+          "id": 181951,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_ducketpenguin",
+      "revision": 181947,
+      "parts": [
+        {
+          "id": 181947,
+          "type": "ca"
+        },
+        {
+          "id": 181948,
+          "type": "ca"
+        },
+        {
+          "id": 181949,
+          "type": "ca"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_PelucheKeroppi",
       "revision": 181946,
       "parts": [
