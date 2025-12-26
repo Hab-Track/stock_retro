@@ -49289,6 +49289,148 @@
           "type": "ha"
         }
       ]
+    },
+    {
+      "id": "hat_U_pineapplehelmet",
+      "revision": 56715,
+      "parts": [
+        {
+          "id": 7051,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_nftwinter25",
+      "revision": 15595,
+      "parts": [
+        {
+          "id": 7065,
+          "type": "cc"
+        },
+        {
+          "id": 7065,
+          "type": "lc"
+        },
+        {
+          "id": 7065,
+          "type": "rc"
+        },
+        {
+          "id": 7066,
+          "type": "cc"
+        },
+        {
+          "id": 7066,
+          "type": "lc"
+        },
+        {
+          "id": 7066,
+          "type": "rc"
+        },
+        {
+          "id": 7067,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_nftwinter25",
+      "revision": 13137,
+      "parts": [
+        {
+          "id": 7062,
+          "type": "cc"
+        },
+        {
+          "id": 7062,
+          "type": "lc"
+        },
+        {
+          "id": 7062,
+          "type": "rc"
+        },
+        {
+          "id": 7063,
+          "type": "cc"
+        },
+        {
+          "id": 7063,
+          "type": "rc"
+        },
+        {
+          "id": 7063,
+          "type": "lc"
+        },
+        {
+          "id": 7064,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_polkadotmittens",
+      "revision": 80697,
+      "parts": [
+        {
+          "id": 6876,
+          "type": "rc"
+        },
+        {
+          "id": 6876,
+          "type": "lc"
+        },
+        {
+          "id": 6877,
+          "type": "rc"
+        },
+        {
+          "id": 6877,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_nftwinter25",
+      "revision": 18284,
+      "parts": [
+        {
+          "id": 7059,
+          "type": "sh"
+        },
+        {
+          "id": 7060,
+          "type": "sh"
+        },
+        {
+          "id": 7061,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_nftsatyr",
+      "revision": 28704,
+      "parts": [
+        {
+          "id": 7028,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_nftwinter25",
+      "revision": 36049,
+      "parts": [
+        {
+          "id": 7056,
+          "type": "lg"
+        },
+        {
+          "id": 7057,
+          "type": "lg"
+        }
+      ]
     }
   ]
 }
