@@ -1,559 +1,349 @@
 ﻿{
   "libraries": [
     {
-      "id": "face_U_nftpolarnight",
-      "revision": 181958,
-      "parts": [
-        {
-          "id": 7027,
-          "type": "hd"
-        },
-        {
-          "id": 7027,
-          "type": "bd"
-        },
-        {
-          "id": 7027,
-          "type": "lh"
-        },
-        {
-          "id": 7027,
-          "type": "rh"
-        },
-        {
-          "id": 7027,
-          "type": "fc"
-        },
-        {
-          "id": 7027,
-          "type": "ey"
-        }
-      ]
-    },
-    {
-      "id": "acc_waist_U_cnyhorsetail",
-      "revision": 181957,
-      "parts": [
-        {
-          "id": 181957,
-          "type": "wa"
-        }
-      ]
-    },
-    {
-      "id": "jacket_U_nftshoulderdragon1",
-      "revision": 181955,
-      "parts": [
-        {
-          "id": 181955,
-          "type": "cc"
-        },
-        {
-          "id": 181955,
-          "type": "lc"
-        },
-        {
-          "id": 181955,
-          "type": "rc"
-        },
-        {
-          "id": 181956,
-          "type": "cc"
-        },
-        {
-          "id": 181956,
-          "type": "lc"
-        },
-        {
-          "id": 181956,
-          "type": "rc"
-        }
-      ]
-    },
-    {
-      "id": "jacket_U_minielephant",
-      "revision": 181954,
-      "parts": [
-        {
-          "id": 181954,
-          "type": "cc"
-        },
-        {
-          "id": 181954,
-          "type": "lc"
-        },
-        {
-          "id": 181954,
-          "type": "rc"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_nfticaruscrown",
-      "revision": 181952,
-      "parts": [
-        {
-          "id": 181952,
-          "type": "ha"
-        },
-        {
-          "id": 181953,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "acc_head_U_cnyhorseears",
-      "revision": 181950,
-      "parts": [
-        {
-          "id": 181950,
-          "type": "he"
-        },
-        {
-          "id": 181951,
-          "type": "he"
-        }
-      ]
-    },
-    {
-      "id": "acc_chest_U_ducketpenguin",
-      "revision": 181947,
-      "parts": [
-        {
-          "id": 181947,
-          "type": "ca"
-        },
-        {
-          "id": 181948,
-          "type": "ca"
-        },
-        {
-          "id": 181949,
-          "type": "ca"
-        }
-      ]
-    },
-    {
-      "id": "jacket_U_PelucheKeroppi",
+      "id": "acc_head_U_curseurpgm",
       "revision": 181946,
       "parts": [
         {
           "id": 181946,
-          "type": "cc"
-        },
-        {
-          "id": 181946,
-          "type": "lc"
-        },
-        {
-          "id": 181946,
-          "type": "rc"
+          "type": "he"
         }
       ]
     },
     {
-      "id": "acc_face_U_CityNobel",
+      "id": "acc_head_U_fleurchiquenttted",
       "revision": 181945,
       "parts": [
         {
           "id": 181945,
-          "type": "fa"
+          "type": "he"
         }
       ]
     },
     {
-      "id": "trousers_U_nftwinter25",
-      "revision": 181943,
+      "id": "acc_head_U_ANYAaccessoir",
+      "revision": 181944,
       "parts": [
         {
-          "id": 181943,
-          "type": "lg"
-        },
-        {
           "id": 181944,
-          "type": "lg"
+          "type": "he"
         }
       ]
     },
     {
-      "id": "trousers_U_nftsatyr",
+      "id": "acc_head_U_jiraiyabandeoo",
       "revision": 181942,
       "parts": [
         {
           "id": 181942,
-          "type": "lg"
+          "type": "he"
+        },
+        {
+          "id": 181943,
+          "type": "he"
         }
       ]
     },
     {
-      "id": "shoes_U_nftwinter25",
+      "id": "acc_face_U_lesfumeursmaa",
+      "revision": 181941,
+      "parts": [
+        {
+          "id": 181941,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_bufandatermique",
+      "revision": 181940,
+      "parts": [
+        {
+          "id": 181940,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_motogafassehh",
       "revision": 181939,
       "parts": [
         {
           "id": 181939,
-          "type": "sh"
-        },
-        {
-          "id": 181940,
-          "type": "sh"
-        },
-        {
-          "id": 181941,
-          "type": "sh"
+          "type": "ea"
         }
       ]
     },
     {
-      "id": "jacket_M_nftwinter25",
+      "id": "acc_eye_U_masquedemionak",
       "revision": 181936,
       "parts": [
         {
           "id": 181936,
-          "type": "cc"
-        },
-        {
-          "id": 181936,
-          "type": "lc"
-        },
-        {
-          "id": 181936,
-          "type": "rc"
+          "type": "ea"
         },
         {
           "id": 181937,
-          "type": "cc"
-        },
-        {
-          "id": 181937,
-          "type": "lc"
-        },
-        {
-          "id": 181937,
-          "type": "rc"
+          "type": "ea"
         },
         {
           "id": 181938,
-          "type": "cc"
-        },
-        {
-          "id": 181938,
-          "type": "lc"
-        },
-        {
-          "id": 181938,
-          "type": "rc"
+          "type": "ea"
         }
       ]
     },
     {
-      "id": "jacket_M_cyzipped",
+      "id": "acc_chest_U_violonmameh",
+      "revision": 181935,
+      "parts": [
+        {
+          "id": 181935,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tentaculebouffoning",
       "revision": 181933,
       "parts": [
         {
           "id": 181933,
-          "type": "cc"
-        },
-        {
-          "id": 181933,
-          "type": "lc"
-        },
-        {
-          "id": 181933,
-          "type": "rc"
+          "type": "ca"
         },
         {
           "id": 181934,
-          "type": "cc"
-        },
-        {
-          "id": 181934,
-          "type": "lc"
-        },
-        {
-          "id": 181934,
-          "type": "rc"
-        },
-        {
-          "id": 181935,
-          "type": "cc"
-        },
-        {
-          "id": 181935,
-          "type": "lc"
-        },
-        {
-          "id": 181935,
-          "type": "rc"
+          "type": "ca"
         }
       ]
     },
     {
-      "id": "jacket_F_cyzipped",
+      "id": "acc_chest_U_fusildassautmameh",
+      "revision": 181931,
+      "parts": [
+        {
+          "id": 181931,
+          "type": "ca"
+        },
+        {
+          "id": 181932,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_shisuinanik",
       "revision": 181930,
       "parts": [
         {
           "id": 181930,
-          "type": "cc"
-        },
-        {
-          "id": 181930,
-          "type": "lc"
-        },
-        {
-          "id": 181930,
-          "type": "rc"
-        },
-        {
-          "id": 181931,
-          "type": "cc"
-        },
-        {
-          "id": 181931,
-          "type": "lc"
-        },
-        {
-          "id": 181931,
-          "type": "rc"
-        },
-        {
-          "id": 181932,
-          "type": "cc"
-        },
-        {
-          "id": 181932,
-          "type": "lc"
-        },
-        {
-          "id": 181932,
-          "type": "rc"
+          "type": "ca"
         }
       ]
     },
     {
-      "id": "hat_U_turkeyhat",
-      "revision": 181929,
-      "parts": [
-        {
-          "id": 181929,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_pineapplehelmet",
+      "id": "acc_chest_U_menaciaks",
       "revision": 181928,
       "parts": [
         {
           "id": 181928,
-          "type": "ha"
+          "type": "ca"
+        },
+        {
+          "id": 181929,
+          "type": "ca"
         }
       ]
     },
     {
-      "id": "hat_U_nftwinter25",
+      "id": "acc_chest_U_kusanagisen",
+      "revision": 181927,
+      "parts": [
+        {
+          "id": 181927,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_kochoninou",
       "revision": 181925,
       "parts": [
         {
           "id": 181925,
-          "type": "ha"
+          "type": "ca"
         },
         {
           "id": 181926,
-          "type": "ha"
-        },
-        {
-          "id": 181927,
-          "type": "ha"
+          "type": "ca"
         }
       ]
     },
     {
-      "id": "hat_U_nftregalblackcrown",
+      "id": "acc_chest_U_HASBIRIAS",
       "revision": 181924,
       "parts": [
         {
           "id": 181924,
-          "type": "ha"
+          "type": "ca"
         }
       ]
     },
     {
-      "id": "hat_U_nft2025santahat",
+      "id": "acc_chest_U_lunechinaae",
       "revision": 181923,
       "parts": [
         {
           "id": 181923,
-          "type": "ha"
+          "type": "ca"
         }
       ]
     },
     {
-      "id": "hair_U_nftsnowmanbun",
+      "id": "acc_chest_U_espadonmama",
+      "revision": 181922,
+      "parts": [
+        {
+          "id": 181922,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_ekieuhjgg",
       "revision": 181921,
       "parts": [
         {
           "id": 181921,
-          "type": "hr"
-        },
-        {
-          "id": 181921,
-          "type": "hrb"
-        },
-        {
-          "id": 181922,
-          "type": "hr"
-        },
-        {
-          "id": 181922,
-          "type": "hrb"
+          "type": "ca"
         }
       ]
     },
     {
-      "id": "acc_print_U_nftmerryxmasprint",
+      "id": "acc_chest_U_shakalewa",
       "revision": 181920,
       "parts": [
         {
           "id": 181920,
-          "type": "cp"
+          "type": "ca"
         }
       ]
     },
     {
-      "id": "acc_print_U_nfthohohoprint",
-      "revision": 181919,
-      "parts": [
-        {
-          "id": 181919,
-          "type": "cp"
-        }
-      ]
-    },
-    {
-      "id": "acc_print_U_nfthappy2026print",
+      "id": "acc_chest_U_collierayoub",
       "revision": 181918,
       "parts": [
         {
           "id": 181918,
-          "type": "cp"
-        }
-      ]
-    },
-    {
-      "id": "acc_print_U_nft2026",
-      "revision": 181917,
-      "parts": [
+          "type": "ca"
+        },
         {
-          "id": 181917,
-          "type": "cp"
+          "id": 181919,
+          "type": "ca"
         }
       ]
     },
     {
-      "id": "acc_print_M_nftxmasbonnieprint",
+      "id": "acc_chest_U_emeraudeduchaos",
       "revision": 181916,
       "parts": [
         {
           "id": 181916,
-          "type": "cp"
-        }
-      ]
-    },
-    {
-      "id": "acc_print_M_nftrudolphprint",
-      "revision": 181915,
-      "parts": [
+          "type": "ca"
+        },
         {
-          "id": 181915,
-          "type": "cp"
+          "id": 181917,
+          "type": "ca"
         }
       ]
     },
     {
-      "id": "acc_print_M_nftrastasantaprint",
-      "revision": 181914,
-      "parts": [
-        {
-          "id": 181914,
-          "type": "cp"
-        }
-      ]
-    },
-    {
-      "id": "acc_print_F_nftxmasbonnieprint",
+      "id": "acc_chest_U_niketechfac",
       "revision": 181913,
       "parts": [
         {
           "id": 181913,
-          "type": "cp"
-        }
-      ]
-    },
-    {
-      "id": "acc_print_F_nftrudolphprint",
-      "revision": 181912,
-      "parts": [
+          "type": "ca"
+        },
         {
-          "id": 181912,
-          "type": "cp"
+          "id": 181914,
+          "type": "ca"
+        },
+        {
+          "id": 181915,
+          "type": "ca"
         }
       ]
     },
     {
-      "id": "acc_print_F_nftrastasantaprint",
+      "id": "acc_chest_U_elphabuh",
       "revision": 181911,
       "parts": [
         {
           "id": 181911,
-          "type": "cp"
+          "type": "ca"
+        },
+        {
+          "id": 181912,
+          "type": "ca"
         }
       ]
     },
     {
-      "id": "acc_face_U_nftxmaslollipop",
+      "id": "acc_chest_U_mamehh",
       "revision": 181909,
       "parts": [
         {
           "id": 181909,
-          "type": "fa"
+          "type": "ca"
         },
         {
           "id": 181910,
-          "type": "fa"
+          "type": "ca"
         }
       ]
     },
     {
-      "id": "acc_face_U_nftwinter25",
-      "revision": 181908,
+      "id": "acc_chest_U_sackwad",
+      "revision": 181906,
       "parts": [
         {
-          "id": 181908,
-          "type": "fa"
-        }
-      ]
-    },
-    {
-      "id": "acc_face_U_nftrudolphsnose",
-      "revision": 181907,
-      "parts": [
+          "id": 181906,
+          "type": "ca"
+        },
         {
           "id": 181907,
-          "type": "fa"
+          "type": "ca"
+        },
+        {
+          "id": 181907,
+          "type": "rc"
+        },
+        {
+          "id": 181908,
+          "type": "ca"
+        },
+        {
+          "id": 181908,
+          "type": "rc"
         }
       ]
     },
     {
-      "id": "acc_chest_U_glitterwings",
+      "id": "acc_chest_U_vailama",
       "revision": 181905,
       "parts": [
         {
           "id": 181905,
           "type": "ca"
-        },
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_HALOAI",
+      "revision": 181904,
+      "parts": [
         {
-          "id": 181906,
+          "id": 181904,
           "type": "ca"
         }
       ]
