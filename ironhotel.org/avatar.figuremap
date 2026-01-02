@@ -73578,11 +73578,11 @@
       "parts": [
         {
           "id": 10001225,
-          "type": "lg"
+          "type": "sh"
         },
         {
           "id": 10001226,
-          "type": "lg"
+          "type": "sh"
         }
       ]
     },
@@ -73644,7 +73644,7 @@
       "parts": [
         {
           "id": 559328673,
-          "type": "hr"
+          "type": "hrb"
         }
       ]
     },
@@ -73700,7 +73700,7 @@
         },
         {
           "id": 90000069,
-          "type": "hr"
+          "type": "hrb"
         },
         {
           "id": 90000070,
@@ -73708,7 +73708,7 @@
         },
         {
           "id": 90000070,
-          "type": "hr"
+          "type": "hrb"
         }
       ]
     },
@@ -74045,6 +74045,214 @@
         {
           "id": 100000007,
           "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv25jerseyAmericana",
+      "revision": 998789074,
+      "parts": [
+        {
+          "id": 50000028,
+          "type": "ch"
+        },
+        {
+          "id": 50000028,
+          "type": "ls"
+        },
+        {
+          "id": 50000028,
+          "type": "rs"
+        },
+        {
+          "id": 50000029,
+          "type": "ch"
+        },
+        {
+          "id": 50000029,
+          "type": "ls"
+        },
+        {
+          "id": 50000029,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv25abrigoNami",
+      "revision": 998789075,
+      "parts": [
+        {
+          "id": 50000044,
+          "type": "cc"
+        },
+        {
+          "id": 50000044,
+          "type": "lc"
+        },
+        {
+          "id": 50000044,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_sueternikevintage",
+      "revision": 998789076,
+      "parts": [
+        {
+          "id": 100000034,
+          "type": "ch"
+        },
+        {
+          "id": 100000034,
+          "type": "ls"
+        },
+        {
+          "id": 100000034,
+          "type": "rs"
+        },
+        {
+          "id": 100000035,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_GothLollita",
+      "revision": 998789077,
+      "parts": [
+        {
+          "id": 110000080,
+          "type": "ch"
+        },
+        {
+          "id": 110000080,
+          "type": "ls"
+        },
+        {
+          "id": 110000080,
+          "type": "rs"
+        },
+        {
+          "id": 110000097,
+          "type": "ch"
+        },
+        {
+          "id": 110000097,
+          "type": "ls"
+        },
+        {
+          "id": 110000097,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_TopHotSummer",
+      "revision": 998789078,
+      "parts": [
+        {
+          "id": 110000067,
+          "type": "ch"
+        },
+        {
+          "id": 110000068,
+          "type": "ch"
+        },
+        {
+          "id": 110000068,
+          "type": "ls"
+        },
+        {
+          "id": 110000068,
+          "type": "rs"
+        },
+        {
+          "id": 110000069,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_NikeDunkLow",
+      "revision": 998789079,
+      "parts": [
+        {
+          "id": 90000060,
+          "type": "sh"
+        },
+        {
+          "id": 90000061,
+          "type": "sh"
+        },
+        {
+          "id": 90000062,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_cabeloespetado",
+      "revision": 998789080,
+      "parts": [
+        {
+          "id": 338577120,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_26Ponytailtanjiro",
+      "revision": 998789081,
+      "parts": [
+        {
+          "id": 80000125,
+          "type": "hr"
+        },
+        {
+          "id": 80000126,
+          "type": "hr"
+        },
+        {
+          "id": 80000127,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_chanclasSommer1",
+      "revision": 998789082,
+      "parts": [
+        {
+          "id": 10001227,
+          "type": "sh"
+        },
+        {
+          "id": 10001228,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_sueternikevintage1",
+      "revision": 998789083,
+      "parts": [
+        {
+          "id": 100000036,
+          "type": "ch"
+        },
+        {
+          "id": 100000036,
+          "type": "ls"
+        },
+        {
+          "id": 100000036,
+          "type": "rs"
+        },
+        {
+          "id": 100000037,
+          "type": "ch"
         }
       ]
     }
