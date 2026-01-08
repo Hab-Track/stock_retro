@@ -42592,7 +42592,7 @@
     },
     {
       "id": "hat_U_nftregalblackcrown",
-      "revision": 74347,
+      "revision": 74489,
       "parts": [
         {
           "id": 7029,
@@ -42623,16 +42623,6 @@
         {
           "id": 7039,
           "type": "rh"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_turkeyhat",
-      "revision": 74365,
-      "parts": [
-        {
-          "id": 7052,
-          "type": "ha"
         }
       ]
     },
@@ -43148,7 +43138,7 @@
     },
     {
       "id": "acc_eye_U_nftheterochromia8",
-      "revision": 74475,
+      "revision": 74482,
       "parts": [
         {
           "id": 7131,
@@ -43312,7 +43302,7 @@
     },
     {
       "id": "hat_U_nfticaruscrown",
-      "revision": 74475,
+      "revision": 74480,
       "parts": [
         {
           "id": 7175,
@@ -43320,6 +43310,16 @@
         },
         {
           "id": 7176,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftturkeyhat",
+      "revision": 74486,
+      "parts": [
+        {
+          "id": 7052,
           "type": "ha"
         }
       ]
@@ -46193,6 +46193,16 @@
         {
           "id": 12,
           "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_turkeyhat",
+      "revision": 74365,
+      "parts": [
+        {
+          "id": 7052,
+          "type": "ha"
         }
       ]
     },
