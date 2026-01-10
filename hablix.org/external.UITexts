@@ -40,7 +40,7 @@
   "notification.hotel.event.message": "An event is happening right now! \n\n%MESSAGE% \n\n<b>- %USERNAME%</b>",
   "notification.hotel.alert.linkTitle": "Go to: %ROOMNAME%",
   "notification.hotel.event.title": "Event",
-  "notification.hotel.alert.imager": "https://imager.habti.me/?figure=%FIGURE%",
+  "notification.hotel.alert.imager": "https://imager.habti.me/?figure=%FIGURE%&direction=2&head_direction=3&action=wav&gesture=&size=m&headonly=0",
   "notification.hotel.alert.linkUrl": "event:navigator/goto/%ROOMID%",
   "notification.hotel.alert.link": "event:navigator/goto/%ROOMID%",
   "notification.hotel.alert.title": "Message from Hablix Staff",
