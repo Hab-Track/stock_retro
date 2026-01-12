@@ -83265,6 +83265,34 @@
           "type": "fa"
         }
       ]
+    },
+    {
+      "id": "acc_chest_U_pordelanigiaa",
+      "revision": 74228,
+      "parts": [
+        {
+          "id": 181279,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_abricotmiskine",
+      "revision": 74228,
+      "parts": [
+        {
+          "id": 181566,
+          "type": "cc"
+        },
+        {
+          "id": 181566,
+          "type": "lc"
+        },
+        {
+          "id": 181566,
+          "type": "rc"
+        }
+      ]
     }
   ]
 }
