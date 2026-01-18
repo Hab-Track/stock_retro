@@ -2,7 +2,8 @@
   "image.library.notifications.url": "${image.library.url}notifications/%image%.png",
   "achievements.images.url": "${image.library.url}Quests/%image%.png",
   "url.prefix": "https://habbo.gd",
-  "camera.url": "${url.prefix}/assets/camera",
+  "assets.url": "https://assets.habbo.gd",
+  "camera.url": "${assets.url}/assets/camera",
   "thumbnails.url": "${camera.url}/thumbnails/%thumbnail%.png",
   "habbopages.url": "${url.prefix}/",
   "group.homepage.url": "${url.prefix}/groups/%groupid%/id",
@@ -225,11 +226,11 @@
     },
     "images": {
       "background": "",
-      "background.colour": "url(/assets/images/hotelview-bg.png)",
+      "background.colour": "url(${assets.url}/assets/images/hotelview-bg.png)",
       "sun": "${asset.url}/images/reception/sun.png",
       "drape": "",
-      "left": "/assets/images/hotelview-left.png",
-      "right": "/assets/images/hotelview-right.png",
+      "left": "${assets.url}/assets/images/hotelview-left.png",
+      "right": "${assets.url}/assets/images/hotelview-right.png",
       "right.repeat": ""
     }
   },
