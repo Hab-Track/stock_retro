@@ -85417,6 +85417,92 @@
           "type": "rs"
         }
       ]
+    },
+    {
+      "id": "shirt_F_chiseledabs",
+      "revision": 91724,
+      "parts": [
+        {
+          "id": 7171,
+          "type": "ls"
+        },
+        {
+          "id": 7171,
+          "type": "ch"
+        },
+        {
+          "id": 7171,
+          "type": "rs"
+        },
+        {
+          "id": 7172,
+          "type": "ch"
+        },
+        {
+          "id": 7172,
+          "type": "rs"
+        },
+        {
+          "id": 7172,
+          "type": "ls"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_chiseledabs",
+      "revision": 68617,
+      "parts": [
+        {
+          "id": 7170,
+          "type": "ls"
+        },
+        {
+          "id": 7170,
+          "type": "ch"
+        },
+        {
+          "id": 7170,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_heartundies",
+      "revision": 24037,
+      "parts": [
+        {
+          "id": 7173,
+          "type": "lg"
+        },
+        {
+          "id": 7174,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_bedheadband",
+      "revision": 49684,
+      "parts": [
+        {
+          "id": 7153,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bedheadbun",
+      "revision": 88933,
+      "parts": [
+        {
+          "id": 7154,
+          "type": "hrb"
+        },
+        {
+          "id": 7154,
+          "type": "hr"
+        }
+      ]
     }
   ]
 }
