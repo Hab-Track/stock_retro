@@ -1,6 +1,34 @@
 ﻿{
   "libraries": [
     {
+      "id": "shoes_U_Capuchefondyuji",
+      "revision": 182046,
+      "parts": [
+        {
+          "id": 182046,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_YujiModuloCapuche",
+      "revision": 182044,
+      "parts": [
+        {
+          "id": 182044,
+          "type": "ha"
+        },
+        {
+          "id": 182045,
+          "type": "ha"
+        },
+        {
+          "id": 182046,
+          "type": "sh"
+        }
+      ]
+    },
+    {
       "id": "hair_U_PeinadoMochi",
       "revision": 182042,
       "parts": [
