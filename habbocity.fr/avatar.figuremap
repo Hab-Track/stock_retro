@@ -1,6 +1,40 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_face_U_JiraiyaPaint",
+      "revision": 182051,
+      "parts": [
+        {
+          "id": 182051,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_KimimaroPaint",
+      "revision": 182050,
+      "parts": [
+        {
+          "id": 182050,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_Eyes01Newface",
+      "revision": 182048,
+      "parts": [
+        {
+          "id": 182048,
+          "type": "ea"
+        },
+        {
+          "id": 182049,
+          "type": "ea"
+        }
+      ]
+    },
+    {
       "id": "acc_eye_U_SukunaMarks",
       "revision": 182047,
       "parts": [
