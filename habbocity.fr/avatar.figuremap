@@ -1,6 +1,36 @@
 ﻿{
   "libraries": [
     {
+      "id": "face_U_Rochet",
+      "revision": 182052,
+      "parts": [
+        {
+          "id": 182052,
+          "type": "hd"
+        },
+        {
+          "id": 182052,
+          "type": "bd"
+        },
+        {
+          "id": 182052,
+          "type": "lh"
+        },
+        {
+          "id": 182052,
+          "type": "rh"
+        },
+        {
+          "id": 182052,
+          "type": "fc"
+        },
+        {
+          "id": 182052,
+          "type": "ey"
+        }
+      ]
+    },
+    {
       "id": "acc_face_U_JiraiyaPaint",
       "revision": 182051,
       "parts": [
