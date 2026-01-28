@@ -1,6 +1,78 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_U_SamehadaSword2",
+      "revision": 182105,
+      "parts": [
+        {
+          "id": 182105,
+          "type": "ch"
+        },
+        {
+          "id": 182105,
+          "type": "ls"
+        },
+        {
+          "id": 182105,
+          "type": "rs"
+        },
+        {
+          "id": 182106,
+          "type": "ch"
+        },
+        {
+          "id": 182106,
+          "type": "ls"
+        },
+        {
+          "id": 182106,
+          "type": "rs"
+        },
+        {
+          "id": 182107,
+          "type": "ch"
+        },
+        {
+          "id": 182107,
+          "type": "ls"
+        },
+        {
+          "id": 182107,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_SamehadaSword",
+      "revision": 182102,
+      "parts": [
+        {
+          "id": 182102,
+          "type": "ca"
+        },
+        {
+          "id": 182103,
+          "type": "ca"
+        },
+        {
+          "id": 182104,
+          "type": "ca"
+        },
+        {
+          "id": 182105,
+          "type": "ls"
+        },
+        {
+          "id": 182106,
+          "type": "ls"
+        },
+        {
+          "id": 182107,
+          "type": "ls"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_AnorakEdo3",
       "revision": 182101,
       "parts": [
