@@ -1,6 +1,54 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_face_U_JiraiyaPaint2",
+      "revision": 182113,
+      "parts": [
+        {
+          "id": 182113,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_KashinPaint",
+      "revision": 182112,
+      "parts": [
+        {
+          "id": 182112,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_HashiramaPaint",
+      "revision": 182111,
+      "parts": [
+        {
+          "id": 182111,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_JabberHaircut",
+      "revision": 182108,
+      "parts": [
+        {
+          "id": 182108,
+          "type": "hr"
+        },
+        {
+          "id": 182109,
+          "type": "hr"
+        },
+        {
+          "id": 182110,
+          "type": "hr"
+        }
+      ]
+    },
+    {
       "id": "shirt_U_SamehadaSword2",
       "revision": 182105,
       "parts": [
