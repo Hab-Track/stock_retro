@@ -84309,6 +84309,90 @@
           "type": "ha"
         }
       ]
+    },
+    {
+      "id": "shirt_U_sharkonesie",
+      "revision": 74486,
+      "parts": [
+        {
+          "id": 7105,
+          "type": "ch"
+        },
+        {
+          "id": 7105,
+          "type": "ls"
+        },
+        {
+          "id": 7105,
+          "type": "rs"
+        },
+        {
+          "id": 7106,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_sharkonesiehead",
+      "revision": 74486,
+      "parts": [
+        {
+          "id": 7103,
+          "type": "ha"
+        },
+        {
+          "id": 7104,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_docinho",
+      "revision": 74486,
+      "parts": [
+        {
+          "id": 74538260,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_lindinha",
+      "revision": 74486,
+      "parts": [
+        {
+          "id": 74538261,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_florzinha",
+      "revision": 74486,
+      "parts": [
+        {
+          "id": 74538262,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftflyingheart",
+      "revision": 74486,
+      "parts": [
+        {
+          "id": 7198,
+          "type": "he"
+        },
+        {
+          "id": 7199,
+          "type": "he"
+        },
+        {
+          "id": 7200,
+          "type": "he"
+        }
+      ]
     }
   ]
 }
