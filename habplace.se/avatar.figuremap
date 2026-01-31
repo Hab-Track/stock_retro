@@ -50951,6 +50951,50 @@
           "type": "lg"
         }
       ]
+    },
+    {
+      "id": "hat_U_sharkonesiehead",
+      "revision": 11184,
+      "parts": [
+        {
+          "id": 7103,
+          "type": "ha"
+        },
+        {
+          "id": 7104,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_sharkonesie",
+      "revision": 74634,
+      "parts": [
+        {
+          "id": 7105,
+          "type": "ls"
+        },
+        {
+          "id": 7105,
+          "type": "ch"
+        },
+        {
+          "id": 7105,
+          "type": "rs"
+        },
+        {
+          "id": 7106,
+          "type": "ls"
+        },
+        {
+          "id": 7106,
+          "type": "ch"
+        },
+        {
+          "id": 7106,
+          "type": "rs"
+        }
+      ]
     }
   ]
 }
