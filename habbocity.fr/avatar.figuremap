@@ -1,6 +1,36 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_BgHarryPotter",
+      "revision": 182115,
+      "parts": [
+        {
+          "id": 182115,
+          "type": "cc"
+        },
+        {
+          "id": 182115,
+          "type": "lc"
+        },
+        {
+          "id": 182115,
+          "type": "rc"
+        },
+        {
+          "id": 182116,
+          "type": "cc"
+        },
+        {
+          "id": 182116,
+          "type": "lc"
+        },
+        {
+          "id": 182116,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "hat_U_MimikyuHat",
       "revision": 182114,
       "parts": [
