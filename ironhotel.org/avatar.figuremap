@@ -74993,24 +74993,6 @@
       "revision": 998789132,
       "parts": [
         {
-          "id": 7013,
-          "type": "ha"
-        },
-        {
-          "id": 7014,
-          "type": "ha"
-        },
-        {
-          "id": 7015,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_nftwizardshat2",
-      "revision": 998789133,
-      "parts": [
-        {
           "id": 7003,
           "type": "ha"
         },
@@ -75020,6 +75002,24 @@
         },
         {
           "id": 7005,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftwizardshat2",
+      "revision": 998789133,
+      "parts": [
+        {
+          "id": 7013,
+          "type": "ha"
+        },
+        {
+          "id": 7014,
+          "type": "ha"
+        },
+        {
+          "id": 7015,
           "type": "ha"
         }
       ]
@@ -75591,6 +75591,46 @@
         {
           "id": 7159,
           "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_jabberhaircut",
+      "revision": 998789159,
+      "parts": [
+        {
+          "id": 182108,
+          "type": "hr"
+        },
+        {
+          "id": 182109,
+          "type": "hr"
+        },
+        {
+          "id": 182110,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_guerenhaircut",
+      "revision": 998789160,
+      "parts": [
+        {
+          "id": 181461,
+          "type": "hr"
+        },
+        {
+          "id": 181461,
+          "type": "hrb"
+        },
+        {
+          "id": 181462,
+          "type": "hr"
+        },
+        {
+          "id": 181462,
+          "type": "hrb"
         }
       ]
     }
