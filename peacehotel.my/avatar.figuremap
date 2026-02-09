@@ -1,6 +1,24 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_ducketpenguinbackpack",
+      "revision": 12242,
+      "parts": [
+        {
+          "id": 7099,
+          "type": "ca"
+        },
+        {
+          "id": 7100,
+          "type": "ca"
+        },
+        {
+          "id": 7101,
+          "type": "ca"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_sk8board",
       "revision": 12018,
       "parts": [
