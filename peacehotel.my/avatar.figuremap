@@ -1,12 +1,212 @@
 ﻿{
   "libraries": [
     {
-      "id": "hat_U_tenderheart",
-      "revision": 11993,
+      "id": "hat_U_tendrehart",
+      "revision": 181316,
       "parts": [
         {
-          "id": 6712,
+          "id": 181316,
           "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tenderheart",
+      "revision": 181325,
+      "parts": [
+        {
+          "id": 50000114,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_cheerbear",
+      "revision": 181326,
+      "parts": [
+        {
+          "id": 50000111,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_funshinebear",
+      "revision": 181327,
+      "parts": [
+        {
+          "id": 1,
+          "type": "ha"
+        },
+        {
+          "id": 50000113,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_sharebear",
+      "revision": 181328,
+      "parts": [
+        {
+          "id": 50000115,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_goodluckbear",
+      "revision": 181329,
+      "parts": [
+        {
+          "id": 50000114,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_grumpybear",
+      "revision": 181330,
+      "parts": [
+        {
+          "id": 50000116,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_goodluckbear",
+      "revision": 181320,
+      "parts": [
+        {
+          "id": 6728,
+          "type": "ch"
+        },
+        {
+          "id": 6728,
+          "type": "ls"
+        },
+        {
+          "id": 6728,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tenderheart",
+      "revision": 181321,
+      "parts": [
+        {
+          "id": 6718,
+          "type": "ch"
+        },
+        {
+          "id": 6718,
+          "type": "ls"
+        },
+        {
+          "id": 6718,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_grumpybear",
+      "revision": 181322,
+      "parts": [
+        {
+          "id": 6721,
+          "type": "ch"
+        },
+        {
+          "id": 6721,
+          "type": "ls"
+        },
+        {
+          "id": 6721,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_sharebear",
+      "revision": 181323,
+      "parts": [
+        {
+          "id": 6720,
+          "type": "ch"
+        },
+        {
+          "id": 6720,
+          "type": "ls"
+        },
+        {
+          "id": 6720,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_cheerbear",
+      "revision": 181324,
+      "parts": [
+        {
+          "id": 6717,
+          "type": "ch"
+        },
+        {
+          "id": 6717,
+          "type": "ls"
+        },
+        {
+          "id": 6717,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_funshinebear",
+      "revision": 181313,
+      "parts": [
+        {
+          "id": 6719,
+          "type": "ch"
+        },
+        {
+          "id": 6719,
+          "type": "ls"
+        },
+        {
+          "id": 6719,
+          "type": "rs "
+        }
+      ]
+    },
+    {
+      "id": "hat_U_fungshineber",
+      "revision": 181312,
+      "parts": [
+        {
+          "id": 181312,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_funshinberer",
+      "revision": 181318,
+      "parts": [
+        {
+          "id": 181318,
+          "type": "cc"
+        },
+        {
+          "id": 181318,
+          "type": "lc"
+        },
+        {
+          "id": 181318,
+          "type": "rc"
         }
       ]
     },
@@ -36,16 +236,6 @@
       "parts": [
         {
           "id": 6714,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_funshinebear",
-      "revision": 11989,
-      "parts": [
-        {
-          "id": 6713,
           "type": "ha"
         }
       ]
@@ -110,24 +300,6 @@
         },
         {
           "id": 6721,
-          "type": "rc"
-        }
-      ]
-    },
-    {
-      "id": "jacket_U_goodluckbear",
-      "revision": 11996,
-      "parts": [
-        {
-          "id": 6728,
-          "type": "cc"
-        },
-        {
-          "id": 6728,
-          "type": "lc"
-        },
-        {
-          "id": 6728,
           "type": "rc"
         }
       ]
@@ -47437,16 +47609,6 @@
       ]
     },
     {
-      "id": "shirt_M_tshirt_angrybirds",
-      "revision": 220914,
-      "parts": [
-        {
-          "id": 6728,
-          "type": "ch"
-        }
-      ]
-    },
-    {
       "id": "shirt_F_hebbotop",
       "revision": 912006,
       "parts": [
@@ -56647,6 +56809,26 @@
           "type": "ha"
         },
         {
+          "id": 1337814,
+          "type": "ha"
+        },
+        {
+          "id": 1337815,
+          "type": "ha"
+        },
+        {
+          "id": 1337816,
+          "type": "ha"
+        },
+        {
+          "id": 1337817,
+          "type": "ha"
+        },
+        {
+          "id": 1337818,
+          "type": "ha"
+        },
+        {
           "id": 6743,
           "type": "ha"
         },
@@ -56663,11 +56845,7 @@
           "type": "ha"
         },
         {
-          "id": 6693,
-          "type": "ha"
-        },
-        {
-          "id": 1337817,
+          "id": 1337819,
           "type": "ha"
         }
       ]
