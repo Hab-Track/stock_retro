@@ -1,6 +1,182 @@
 ﻿{
   "libraries": [
     {
+      "id": "face_U_mannequin",
+      "revision": 182145,
+      "parts": [
+        {
+          "id": 7186,
+          "type": "hd"
+        },
+        {
+          "id": 7186,
+          "type": "bd"
+        },
+        {
+          "id": 7186,
+          "type": "lh"
+        },
+        {
+          "id": 7186,
+          "type": "rh"
+        },
+        {
+          "id": 7186,
+          "type": "fc"
+        },
+        {
+          "id": 7187,
+          "type": "fc"
+        },
+        {
+          "id": 7186,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_flowerheart",
+      "revision": 182142,
+      "parts": [
+        {
+          "id": 182142,
+          "type": "ca"
+        },
+        {
+          "id": 182143,
+          "type": "ca"
+        },
+        {
+          "id": 182144,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_snakeyscarf",
+      "revision": 182139,
+      "parts": [
+        {
+          "id": 182139,
+          "type": "ca"
+        },
+        {
+          "id": 182140,
+          "type": "ca"
+        },
+        {
+          "id": 182141,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_flowereye",
+      "revision": 182136,
+      "parts": [
+        {
+          "id": 182136,
+          "type": "ea"
+        },
+        {
+          "id": 182137,
+          "type": "ea"
+        },
+        {
+          "id": 182138,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_crfantasydemonhorns",
+      "revision": 182134,
+      "parts": [
+        {
+          "id": 182134,
+          "type": "he"
+        },
+        {
+          "id": 182135,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_fantasydemonhorns",
+      "revision": 182133,
+      "parts": [
+        {
+          "id": 182133,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_crfantasydemontail",
+      "revision": 182131,
+      "parts": [
+        {
+          "id": 182131,
+          "type": "wa"
+        },
+        {
+          "id": 182132,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_fantasydemontail",
+      "revision": 182130,
+      "parts": [
+        {
+          "id": 182130,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_flowerpothair",
+      "revision": 182127,
+      "parts": [
+        {
+          "id": 182127,
+          "type": "hr"
+        },
+        {
+          "id": 182127,
+          "type": "hrb"
+        },
+        {
+          "id": 182128,
+          "type": "hr"
+        },
+        {
+          "id": 182128,
+          "type": "hrb"
+        },
+        {
+          "id": 182129,
+          "type": "hr"
+        },
+        {
+          "id": 182129,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_flowerpot",
+      "revision": 182126,
+      "parts": [
+        {
+          "id": 182126,
+          "type": "ha"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_SukunaHeianArms2",
       "revision": 182124,
       "parts": [
