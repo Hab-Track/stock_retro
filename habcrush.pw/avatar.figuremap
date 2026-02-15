@@ -85637,6 +85637,232 @@
           "type": "lc"
         }
       ]
+    },
+    {
+      "id": "acc_chest_U_flowerheart",
+      "revision": 76367,
+      "parts": [
+        {
+          "id": 7180,
+          "type": "ca"
+        },
+        {
+          "id": 7181,
+          "type": "ca"
+        },
+        {
+          "id": 7182,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_snakeyscarf",
+      "revision": 23353,
+      "parts": [
+        {
+          "id": 7150,
+          "type": "ca"
+        },
+        {
+          "id": 7151,
+          "type": "ca"
+        },
+        {
+          "id": 7152,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_flowereye",
+      "revision": 69116,
+      "parts": [
+        {
+          "id": 7177,
+          "type": "ea"
+        },
+        {
+          "id": 7178,
+          "type": "ea"
+        },
+        {
+          "id": 7179,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_fantasydemonhorns",
+      "revision": 18190,
+      "parts": [
+        {
+          "id": 7224,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_fantasydemontail",
+      "revision": 93525,
+      "parts": [
+        {
+          "id": 7225,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_crownedfantasydemonhorns",
+      "revision": 47318,
+      "parts": [
+        {
+          "id": 7226,
+          "type": "he"
+        },
+        {
+          "id": 7227,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_crownedfantasydemontail",
+      "revision": 90329,
+      "parts": [
+        {
+          "id": 7228,
+          "type": "wa"
+        },
+        {
+          "id": 7229,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "face_U_mannequin",
+      "revision": 33144,
+      "parts": [
+        {
+          "id": 7186,
+          "type": "lh"
+        },
+        {
+          "id": 7186,
+          "type": "bd"
+        },
+        {
+          "id": 7186,
+          "type": "rh"
+        },
+        {
+          "id": 7186,
+          "type": "hd"
+        },
+        {
+          "id": 7186,
+          "type": "ey"
+        },
+        {
+          "id": 7186,
+          "type": "fc"
+        },
+        {
+          "id": 7187,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_flowerpothair",
+      "revision": 77962,
+      "parts": [
+        {
+          "id": 7204,
+          "type": "hrb"
+        },
+        {
+          "id": 7204,
+          "type": "hr"
+        },
+        {
+          "id": 7205,
+          "type": "hrb"
+        },
+        {
+          "id": 7205,
+          "type": "hr"
+        },
+        {
+          "id": 7206,
+          "type": "hrb"
+        },
+        {
+          "id": 7206,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_kittyplushie",
+      "revision": 86557,
+      "parts": [
+        {
+          "id": 7155,
+          "type": "mcr"
+        },
+        {
+          "id": 7155,
+          "type": "mc"
+        },
+        {
+          "id": 7155,
+          "type": "mcl"
+        },
+        {
+          "id": 7156,
+          "type": "mcr"
+        },
+        {
+          "id": 7156,
+          "type": "mc"
+        },
+        {
+          "id": 7156,
+          "type": "mcl"
+        },
+        {
+          "id": 7157,
+          "type": "mc"
+        },
+        {
+          "id": 7157,
+          "type": "mcl"
+        },
+        {
+          "id": 7157,
+          "type": "mcr"
+        }
+      ]
+    },
+    {
+      "id": "pet_U_robotcompanion",
+      "revision": 19243,
+      "parts": [
+        {
+          "id": 7208,
+          "type": "pt"
+        },
+        {
+          "id": 7208,
+          "type": "ptl"
+        },
+        {
+          "id": 7208,
+          "type": "ptr"
+        }
+      ]
     }
   ]
 }
