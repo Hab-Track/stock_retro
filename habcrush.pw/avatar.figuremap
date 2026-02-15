@@ -85863,6 +85863,46 @@
           "type": "ptr"
         }
       ]
+    },
+    {
+      "id": "hair_U_flowerpothair",
+      "revision": 55059,
+      "parts": [
+        {
+          "id": 7204,
+          "type": "hrb"
+        },
+        {
+          "id": 7204,
+          "type": "hr"
+        },
+        {
+          "id": 7205,
+          "type": "hrb"
+        },
+        {
+          "id": 7205,
+          "type": "hr"
+        },
+        {
+          "id": 7206,
+          "type": "hrb"
+        },
+        {
+          "id": 7206,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_flowerpot",
+      "revision": 92954,
+      "parts": [
+        {
+          "id": 7207,
+          "type": "ha"
+        }
+      ]
     }
   ]
 }
