@@ -10,8 +10,8 @@
     "${gamedata.url}/json/lang/ExternalTexts_en.json",
     "${gamedata.url}/json/lang/UITexts_en.json"
   ],
-  "external.texts.version": "8",
-  "ui.texts.version": "8",
+  "external.texts.version": "10",
+  "ui.texts.version": "10",
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
   "furnidata.url": "${gamedata.url}/json/FurnitureData.json",
   "productdata.url": "${gamedata.url}/json/ProductData.json",
