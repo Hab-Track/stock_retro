@@ -31363,7 +31363,7 @@
   "floor.plan.editor.live.preview": "Live Preview",
   "wiredfurni.params.selectconditions": "Seleziona Condizioni Wired",
   "wiredfurni.params.selectconditions.desc": "Clicca sulle condizioni wired nella stanza che vuoi controllare. La logica OR valuterà quante di queste sono soddisfatte.",
-  "wiredfurni.params.matchmode": "Modalità di Valutazione",
+  "wiredfurni.params.matchmode": "Modalità di corrispondenza",
   "wiredfurni.params.matchmode.atleastone": "Almeno una condizione è vera",
   "wiredfurni.params.matchmode.all": "Tutte le condizioni sono vere",
   "wiredfurni.params.matchmode.none": "Nessuna condizione è vera",
@@ -31415,5 +31415,7 @@
   "badge_name_FCL000": "Esperto di Wired",
   "badge_desc_FCL000": "Pronto per soccorrerti con i wired!",
   "badge_name_WP001": "Esperto di Wired",
-  "badge_desc_WP001": "Pronto a soccorrerti, quando necessario, con i wired!"
+  "badge_desc_WP001": "Pronto a soccorrerti, quando necessario, con i wired!",
+  "wiredfurni.params.matchmode.exact": "Corrispondenza Esatta",
+  "wiredfurni.params.matchmode.keyword": "Parola Chiave (contiene)"
 }
