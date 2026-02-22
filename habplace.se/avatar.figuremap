@@ -37933,11 +37933,19 @@
     {
       "parts": [
         {
-          "id": 6140,
-          "type": "ha"
+          "id": 6139,
+          "type": "mc"
+        },
+        {
+          "id": 6139,
+          "type": "mcl"
+        },
+        {
+          "id": 6139,
+          "type": "mcr"
         }
       ],
-      "id": "hat_U_nftrobotikcrown",
+      "id": "misc_U_nftsuitcase",
       "revision": 72241
     },
     {
@@ -38871,19 +38879,19 @@
     {
       "parts": [
         {
-          "id": 6233,
-          "type": "hr"
+          "id": 6235,
+          "type": "pt"
         },
         {
-          "id": 6233,
-          "type": "hrb"
+          "id": 6235,
+          "type": "ptl"
         },
         {
-          "id": 6234,
-          "type": "hr"
+          "id": 6235,
+          "type": "ptr"
         }
       ],
-      "id": "hair_U_nftmessycut",
+      "id": "pet_U_nftbabyrudolf",
       "revision": 72559
     },
     {
@@ -40831,19 +40839,19 @@
     {
       "parts": [
         {
-          "id": 6385,
-          "type": "hr"
+          "id": 6667,
+          "type": "pt"
         },
         {
-          "id": 6385,
-          "type": "hrb"
+          "id": 6667,
+          "type": "ptl"
         },
         {
-          "id": 6386,
-          "type": "hr"
+          "id": 6667,
+          "type": "ptr"
         }
       ],
-      "id": "hair_U_casualshorthair",
+      "id": "pet_U_bunnycompanion",
       "revision": 72999
     },
     {
@@ -43812,18 +43820,18 @@
       "parts": [
         {
           "id": 6729,
-          "type": "cc"
+          "type": "pt"
         },
         {
           "id": 6729,
-          "type": "lc"
+          "type": "ptl"
         },
         {
           "id": 6729,
-          "type": "rc"
+          "type": "ptr"
         }
       ],
-      "id": "jacket_U_unicorncompanion",
+      "id": "pet_U_unicorncompanion",
       "revision": 73513
     },
     {
@@ -51415,6 +51423,36 @@
         {
           "id": 6893,
           "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "pet_U_ghostfriend",
+      "revision": 47717,
+      "parts": [
+        {
+          "id": 5888,
+          "type": "pt"
+        },
+        {
+          "id": 5888,
+          "type": "ptl"
+        },
+        {
+          "id": 5888,
+          "type": "ptr"
+        },
+        {
+          "id": 5889,
+          "type": "pt"
+        },
+        {
+          "id": 5889,
+          "type": "ptl"
+        },
+        {
+          "id": 5889,
+          "type": "ptr"
         }
       ]
     }
