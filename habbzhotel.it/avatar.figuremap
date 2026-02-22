@@ -84819,6 +84819,48 @@
           "type": "mcr"
         }
       ]
+    },
+    {
+      "id": "shoes_U_chalheureuse",
+      "revision": 74620,
+      "parts": [
+        {
+          "id": 181327,
+          "type": "sh"
+        },
+        {
+          "id": 181328,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_JupeCourteColo",
+      "revision": 74620,
+      "parts": [
+        {
+          "id": 181064,
+          "type": "lg"
+        },
+        {
+          "id": 181065,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_toninomattclassictop",
+      "revision": 74620,
+      "parts": [
+        {
+          "id": 664444,
+          "type": "ch"
+        },
+        {
+          "id": 664445,
+          "type": "ch"
+        }
+      ]
     }
   ]
 }
