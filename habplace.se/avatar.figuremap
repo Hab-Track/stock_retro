@@ -37132,22 +37132,22 @@
       "parts": [
         {
           "id": 5450,
-          "type": "lc"
+          "type": "mcl"
         },
         {
           "id": 5450,
-          "type": "rc"
+          "type": "mcr"
         },
         {
           "id": 5451,
-          "type": "lc"
+          "type": "mcl"
         },
         {
           "id": 5452,
-          "type": "lc"
+          "type": "mcl"
         }
       ],
-      "id": "jacket_U_bunnyplushie",
+      "id": "misc_U_bunnyplushie",
       "revision": 71241
     },
     {
@@ -37324,26 +37324,26 @@
       "parts": [
         {
           "id": 5557,
-          "type": "cc"
+          "type": "mc"
         },
         {
           "id": 5557,
-          "type": "lc"
+          "type": "mcl"
         },
         {
           "id": 5557,
-          "type": "rc"
+          "type": "mcr"
         },
         {
           "id": 5558,
-          "type": "cc"
+          "type": "mc"
         },
         {
           "id": 5559,
-          "type": "cc"
+          "type": "mc"
         }
       ],
-      "id": "jacket_U_python",
+      "id": "misc_U_python",
       "revision": 72084
     },
     {
@@ -39474,22 +39474,22 @@
       "parts": [
         {
           "id": 6196,
-          "type": "cc"
+          "type": "pt"
         },
         {
           "id": 6196,
-          "type": "lc"
+          "type": "ptl"
         },
         {
           "id": 6196,
-          "type": "rc"
+          "type": "ptr"
         },
         {
           "id": 6197,
-          "type": "cc"
+          "type": "pt"
         }
       ],
-      "id": "jacket_U_goosefriend",
+      "id": "pet_U_goosefriend",
       "revision": 72622
     },
     {
@@ -40286,26 +40286,26 @@
       "parts": [
         {
           "id": 6447,
-          "type": "cc"
+          "type": "pt"
         },
         {
           "id": 6447,
-          "type": "lc"
+          "type": "ptl"
         },
         {
           "id": 6447,
-          "type": "rc"
+          "type": "ptr"
         },
         {
           "id": 6448,
-          "type": "cc"
+          "type": "pt"
         },
         {
           "id": 6449,
-          "type": "cc"
+          "type": "pt"
         }
       ],
-      "id": "jacket_U_teddycompanion",
+      "id": "pet_U_teddycompanion",
       "revision": 72818
     },
     {
@@ -45693,20 +45693,20 @@
       ]
     },
     {
-      "id": "jacket_U_nftsack",
+      "id": "misc_U_nftsack",
       "revision": 90007,
       "parts": [
         {
           "id": 6312,
-          "type": "rc"
+          "type": "mcr"
         },
         {
           "id": 6312,
-          "type": "cc"
+          "type": "mc"
         },
         {
           "id": 6312,
-          "type": "lc"
+          "type": "mcl"
         }
       ]
     },
@@ -49527,50 +49527,50 @@
       ]
     },
     {
-      "id": "jacket_U_nftshoulderdragon1",
+      "id": "pet_U_nftshoulderdragon1",
       "revision": 54707,
       "parts": [
         {
           "id": 7148,
-          "type": "cc"
+          "type": "pt"
         },
         {
           "id": 7148,
-          "type": "lc"
+          "type": "ptl"
         },
         {
           "id": 7148,
-          "type": "rc"
+          "type": "ptr"
         },
         {
           "id": 7149,
-          "type": "cc"
+          "type": "pt"
         },
         {
           "id": 7149,
-          "type": "lc"
+          "type": "ptl"
         },
         {
           "id": 7149,
-          "type": "rc"
+          "type": "ptr"
         }
       ]
     },
     {
-      "id": "jacket_U_minielephant",
+      "id": "pet_U_minielephant",
       "revision": 85391,
       "parts": [
         {
           "id": 6992,
-          "type": "cc"
+          "type": "pt"
         },
         {
           "id": 6992,
-          "type": "lc"
+          "type": "ptl"
         },
         {
           "id": 6992,
-          "type": "rc"
+          "type": "ptr"
         }
       ]
     },
