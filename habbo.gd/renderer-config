@@ -1,16 +1,22 @@
 ﻿{
-  "asset.url": "https://assets.habbo.gd/Nitro/assets",
-  "image.library.url": "https://assets.habbo.gd/Nitro/assets/c_images/",
-  "hof.furni.url": "https://assets.habbo.gd/Nitro/assets/dcr/hof_furni",
+  "socket.url": "wss://ops.habbo.gd/a",
+  "asset.url": "https://habbo.gd/client/assets",
+  "image.library.url": "https://habbo.gd/client/assets/c_images/",
+  "hof.furni.url": "https://habbo.gd/client/assets/dcr/hof_furni",
   "images.url": "${asset.url}/images",
   "gamedata.url": "${asset.url}/gamedata",
   "sounds.url": "${asset.url}/bundled/sounds/%sample%.mp3",
+  "external.texts.url": [
+    "${gamedata.url}/ExternalTexts.json",
+    "${gamedata.url}/BadgeTexts.json"
+  ],
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
+  "furnidata.url": "${gamedata.url}/FurnitureData.json",
   "productdata.url": "${gamedata.url}/ProductData.json",
   "avatar.actions.url": "${gamedata.url}/HabboAvatarActions.json",
-  "avatar.effectmap.url": "${gamedata.url}/EffectMap.json",
   "avatar.figuredata.url": "${gamedata.url}/FigureData.json",
   "avatar.figuremap.url": "${gamedata.url}/FigureMap.json",
+  "avatar.effectmap.url": "${gamedata.url}/EffectMap.json",
   "avatar.asset.url": "${asset.url}/bundled/figure/%libname%.nitro",
   "avatar.asset.effect.url": "${asset.url}/bundled/effect/%libname%.nitro",
   "furni.asset.url": "${asset.url}/bundled/furniture/%libname%.nitro",
@@ -18,6 +24,16 @@
   "pet.asset.url": "${asset.url}/bundled/pet/%libname%.nitro",
   "generic.asset.url": "${asset.url}/bundled/generic/%libname%.nitro",
   "badge.asset.url": "${image.library.url}album1584/%badgename%.gif",
+  "voice.ice.servers": [
+    {
+      "urls": [
+        "stun:stun.nextcloud.com:3478",
+        "stun:stun.l.google.com:19302",
+        "stun:stun.services.mozilla.com:3478",
+        "stun:stunserver.stunprotocol.org:3478"
+      ]
+    }
+  ],
   "furni.rotation.bounce.steps": 8,
   "furni.rotation.bounce.height": 0.0725,
   "enable.avatar.arrow": false,
