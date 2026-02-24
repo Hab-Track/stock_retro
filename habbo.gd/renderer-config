@@ -1,8 +1,8 @@
 ﻿{
-  "socket.url": "wss://ops.habbo.gd/a",
-  "asset.url": "https://habbo.gd/client/assets",
-  "image.library.url": "https://habbo.gd/client/assets/c_images/",
-  "hof.furni.url": "https://habbo.gd/client/assets/dcr/hof_furni",
+  "socket.url": "wss://game.habbo.gd",
+  "asset.url": "/client/assets",
+  "image.library.url": "/client/assets/c_images/",
+  "hof.furni.url": "/client/assets/dcr/hof_furni",
   "images.url": "${asset.url}/images",
   "gamedata.url": "${asset.url}/gamedata",
   "sounds.url": "${asset.url}/bundled/sounds/%sample%.mp3",
