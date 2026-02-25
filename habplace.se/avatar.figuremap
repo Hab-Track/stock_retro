@@ -50581,50 +50581,6 @@
       ]
     },
     {
-      "id": "hat_U_sharkonesiehead",
-      "revision": 97223,
-      "parts": [
-        {
-          "id": 7103,
-          "type": "ha"
-        },
-        {
-          "id": 7104,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "shirt_U_sharkonesie",
-      "revision": 40174,
-      "parts": [
-        {
-          "id": 7105,
-          "type": "ls"
-        },
-        {
-          "id": 7105,
-          "type": "ch"
-        },
-        {
-          "id": 7105,
-          "type": "rs"
-        },
-        {
-          "id": 7106,
-          "type": "ls"
-        },
-        {
-          "id": 7106,
-          "type": "ch"
-        },
-        {
-          "id": 7106,
-          "type": "rs"
-        }
-      ]
-    },
-    {
       "id": "acc_chest_U_plushiewings",
       "revision": 60398,
       "parts": [
@@ -50957,50 +50913,6 @@
         {
           "id": 7174,
           "type": "lg"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_sharkonesiehead",
-      "revision": 11184,
-      "parts": [
-        {
-          "id": 7103,
-          "type": "ha"
-        },
-        {
-          "id": 7104,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "shirt_U_sharkonesie",
-      "revision": 74634,
-      "parts": [
-        {
-          "id": 7105,
-          "type": "ls"
-        },
-        {
-          "id": 7105,
-          "type": "ch"
-        },
-        {
-          "id": 7105,
-          "type": "rs"
-        },
-        {
-          "id": 7106,
-          "type": "ls"
-        },
-        {
-          "id": 7106,
-          "type": "ch"
-        },
-        {
-          "id": 7106,
-          "type": "rs"
         }
       ]
     },
@@ -51453,6 +51365,50 @@
         {
           "id": 5889,
           "type": "ptr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_sharkonesiehead",
+      "revision": 96721,
+      "parts": [
+        {
+          "id": 7103,
+          "type": "ha"
+        },
+        {
+          "id": 7104,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_sharkonesie",
+      "revision": 21267,
+      "parts": [
+        {
+          "id": 7105,
+          "type": "ls"
+        },
+        {
+          "id": 7105,
+          "type": "ch"
+        },
+        {
+          "id": 7105,
+          "type": "rs"
+        },
+        {
+          "id": 7106,
+          "type": "ls"
+        },
+        {
+          "id": 7106,
+          "type": "ch"
+        },
+        {
+          "id": 7106,
+          "type": "rs"
         }
       ]
     }
