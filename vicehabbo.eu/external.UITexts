@@ -63,5 +63,10 @@
   "inventory.delete.amount": "Nombre",
   "inventory.delete.max_amount.button": "Max",
   "inventory.delete.confirm_delete.button": "Confirmer la suppression",
-  "inventory.furni.delete": "Supprimer le mobis"
+  "inventory.furni.delete": "Supprimer le mobis",
+  "navigator.roomsettings.allow_walk_through.state0": "Pas de traversement.",
+  "navigator.roomsettings.allow_walk_through.state1": "Peut traverser s'il n'y a pas d'autres chemins.",
+  "navigator.roomsettings.allow_walk_through.state2": "Peut traverser n'importe ou sauf sur la même case.",
+  "navigator.roomsettings.allow_walk_through.state3": "Peut se tenir debout sur la même case qu'un autre utilisateur.",
+  "navigator.roomsettings.allow_walk_through.state4": "Peut se tenir debout, s'asseoir et s'allonger sur la même case qu'un autre utilisateur."
 }
