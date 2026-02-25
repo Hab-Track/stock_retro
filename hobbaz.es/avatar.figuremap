@@ -61,7 +61,7 @@
       ]
     },
     {
-      "id": "shirt_M_fersudaderalv",
+      "id": "shirt_M_fercamisalv",
       "parts": [
         {
           "id": 33001011,
@@ -74,6 +74,10 @@
         {
           "id": 33001011,
           "type": "rs"
+        },
+        {
+          "id": 33001012,
+          "type": "ch"
         }
       ]
     },
