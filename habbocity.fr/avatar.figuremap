@@ -1,6 +1,36 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_U_NaoyaTop",
+      "revision": 182149,
+      "parts": [
+        {
+          "id": 182149,
+          "type": "ch"
+        },
+        {
+          "id": 182149,
+          "type": "ls"
+        },
+        {
+          "id": 182149,
+          "type": "rs"
+        },
+        {
+          "id": 182150,
+          "type": "ch"
+        },
+        {
+          "id": 182150,
+          "type": "ls"
+        },
+        {
+          "id": 182150,
+          "type": "rs"
+        }
+      ]
+    },
+    {
       "id": "acc_waist_U_CeinturePokeball",
       "revision": 182147,
       "parts": [
