@@ -1,6 +1,30 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_fyorawings",
+      "revision": 12183,
+      "parts": [
+        {
+          "id": 6932,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_fyoratiara",
+      "revision": 12182,
+      "parts": [
+        {
+          "id": 6933,
+          "type": "he"
+        },
+        {
+          "id": 6934,
+          "type": "he"
+        }
+      ]
+    },
+    {
       "id": "hair_U_pelodespeinado",
       "revision": 11916,
       "parts": [
@@ -23073,16 +23097,6 @@
         {
           "id": 4844,
           "type": "he"
-        }
-      ]
-    },
-    {
-      "id": "acc_eye_U_nftbookworm",
-      "revision": 10237,
-      "parts": [
-        {
-          "id": 4862,
-          "type": "ea"
         }
       ]
     },
