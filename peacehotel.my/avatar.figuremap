@@ -1,6 +1,604 @@
 ﻿{
   "libraries": [
     {
+      "id": "hair_U_pelodespeinado",
+      "revision": 11916,
+      "parts": [
+        {
+          "id": 80092820,
+          "type": "hr"
+        },
+        {
+          "id": 80092830,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_Shorthair",
+      "revision": 11898,
+      "parts": [
+        {
+          "id": 1337795,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_slickedpartedhair",
+      "revision": 11783,
+      "parts": [
+        {
+          "id": 6369,
+          "type": "hr"
+        },
+        {
+          "id": 6369,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bedheadbun",
+      "revision": 12264,
+      "parts": [
+        {
+          "id": 7154,
+          "type": "hr"
+        },
+        {
+          "id": 7154,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_TojiHair",
+      "revision": 12147,
+      "parts": [
+        {
+          "id": 181372,
+          "type": "hr"
+        },
+        {
+          "id": 181373,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_StraightMasc",
+      "revision": 11673,
+      "parts": [
+        {
+          "id": 1337755,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_slickedbackhair2",
+      "revision": 11826,
+      "parts": [
+        {
+          "id": 6450,
+          "type": "hr"
+        },
+        {
+          "id": 6450,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_RealBlackPower",
+      "revision": 12090,
+      "parts": [
+        {
+          "id": 1337825,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_F_leettt90pa",
+      "revision": 1337,
+      "parts": [
+        {
+          "id": 1970,
+          "type": "hr"
+        },
+        {
+          "id": 1970,
+          "type": "hrb"
+        },
+        {
+          "id": 1971,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_straightshort",
+      "revision": 11890,
+      "parts": [
+        {
+          "id": 1337786,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bratzcameronhair",
+      "revision": 11778,
+      "parts": [
+        {
+          "id": 6468,
+          "type": "hr"
+        },
+        {
+          "id": 6468,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_HitsugayaHaircut",
+      "revision": 12146,
+      "parts": [
+        {
+          "id": 181365,
+          "type": "hr"
+        },
+        {
+          "id": 181365,
+          "type": "hrb"
+        },
+        {
+          "id": 181366,
+          "type": "hr"
+        },
+        {
+          "id": 181366,
+          "type": "hrb"
+        },
+        {
+          "id": 181367,
+          "type": "hr"
+        },
+        {
+          "id": 181367,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_lowfadelacio",
+      "revision": 11931,
+      "parts": [
+        {
+          "id": 400965769,
+          "type": "hr"
+        },
+        {
+          "id": 400965770,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_MoicanoBranco",
+      "revision": 10498,
+      "parts": [
+        {
+          "id": 19004,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_RefonteSasukeFix",
+      "revision": 10849,
+      "parts": [
+        {
+          "id": 70100,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_axeiedolowtaper",
+      "revision": 11462,
+      "parts": [
+        {
+          "id": 180252,
+          "type": "hr"
+        },
+        {
+          "id": 180252,
+          "type": "hrb"
+        },
+        {
+          "id": 180253,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_CurlyTopHair",
+      "revision": 11897,
+      "parts": [
+        {
+          "id": 1337794,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_bearslippers",
+      "revision": 12099,
+      "parts": [
+        {
+          "id": 565480,
+          "type": "sh"
+        },
+        {
+          "id": 565481,
+          "type": "sh"
+        },
+        {
+          "id": 565482,
+          "type": "sh"
+        },
+        {
+          "id": 565483,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_SuperSneakers",
+      "revision": 12078,
+      "parts": [
+        {
+          "id": 48513475,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_fleeceheadwrap",
+      "revision": 12206,
+      "parts": [
+        {
+          "id": 6912,
+          "type": "he"
+        },
+        {
+          "id": 6913,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftsummer24cap",
+      "revision": 10945,
+      "parts": [
+        {
+          "id": 5859,
+          "type": "ha"
+        },
+        {
+          "id": 1337717,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_twintails",
+      "revision": 12073,
+      "parts": [
+        {
+          "id": 28599642,
+          "type": "hr"
+        },
+        {
+          "id": 28599643,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_casshalfdyedbangs",
+      "revision": 12110,
+      "parts": [
+        {
+          "id": 31126,
+          "type": "hr"
+        },
+        {
+          "id": 31126,
+          "type": "hrb"
+        },
+        {
+          "id": 31127,
+          "type": "hr"
+        },
+        {
+          "id": 31127,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_LimeHaircut",
+      "revision": 11905,
+      "parts": [
+        {
+          "id": 156940,
+          "type": "hr"
+        },
+        {
+          "id": 156940,
+          "type": "hrb"
+        },
+        {
+          "id": 156941,
+          "type": "hr"
+        },
+        {
+          "id": 156941,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_icytipsponytail",
+      "revision": 12211,
+      "parts": [
+        {
+          "id": 6879,
+          "type": "hr"
+        },
+        {
+          "id": 6879,
+          "type": "hrb"
+        },
+        {
+          "id": 6880,
+          "type": "hr"
+        },
+        {
+          "id": 6881,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_icytipsponytail",
+      "revision": 12211,
+      "parts": [
+        {
+          "id": 6879,
+          "type": "hr"
+        },
+        {
+          "id": 6879,
+          "type": "hrb"
+        },
+        {
+          "id": 6880,
+          "type": "hr"
+        },
+        {
+          "id": 6881,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_cassbardihair",
+      "revision": 12138,
+      "parts": [
+        {
+          "id": 488049,
+          "type": "hr"
+        },
+        {
+          "id": 488049,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_barbihairI",
+      "revision": 12072,
+      "parts": [
+        {
+          "id": 63299136,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_casssuetail",
+      "revision": 12097,
+      "parts": [
+        {
+          "id": 30117,
+          "type": "hr"
+        },
+        {
+          "id": 30117,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftstreetgirl",
+      "revision": 11291,
+      "parts": [
+        {
+          "id": 5682,
+          "type": "hr"
+        },
+        {
+          "id": 5682,
+          "type": "hrb"
+        },
+        {
+          "id": 5683,
+          "type": "hr"
+        },
+        {
+          "id": 5684,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_poolpartybraids",
+      "revision": 12039,
+      "parts": [
+        {
+          "id": 6677,
+          "type": "hr"
+        },
+        {
+          "id": 6677,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_Ichispikyhair",
+      "revision": 11867,
+      "parts": [
+        {
+          "id": 273649137,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_twotonedplaitedwavehair",
+      "revision": 11784,
+      "parts": [
+        {
+          "id": 6317,
+          "type": "hr"
+        },
+        {
+          "id": 6317,
+          "type": "hrb"
+        },
+        {
+          "id": 6318,
+          "type": "hr"
+        },
+        {
+          "id": 6319,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_MeowPurrhair",
+      "revision": 12077,
+      "parts": [
+        {
+          "id": 83276991,
+          "type": "hr"
+        },
+        {
+          "id": 83276992,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_chesscrown",
+      "revision": {
+        "id": 11853,
+        "gender": "U",
+        "club": 1,
+        "colorable": true,
+        "selectable": true,
+        "preselectable": false,
+        "sellable": false,
+        "parts": [
+          {
+            "id": 6627,
+            "type": "ha",
+            "colorable": true,
+            "index": 0,
+            "colorindex": 1
+          },
+          {
+            "id": 6628,
+            "type": "ha",
+            "colorable": false,
+            "index": 1,
+            "colorindex": 0
+          }
+        ]
+      },
+      "parts": [
+        {
+          "id": 6627,
+          "type": "ha"
+        },
+        {
+          "id": 6628,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_autumnberet",
+      "revision": 12178,
+      "parts": [
+        {
+          "id": 6865,
+          "type": "ha"
+        },
+        {
+          "id": 6866,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftdenimcap",
+      "revision": 12011,
+      "parts": [
+        {
+          "id": 6750,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_nftbookworm",
+      "revision": 10237,
+      "parts": [
+        {
+          "id": 4862,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_sabrinahair",
+      "revision": 11645,
+      "parts": [
+        {
+          "id": 50103,
+          "type": "hr"
+        }
+      ]
+    },
+    {
       "id": "acc_eye_U_blindfold_nft",
       "revision": 10354,
       "parts": [
