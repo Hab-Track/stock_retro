@@ -1,6 +1,34 @@
 ﻿{
   "libraries": [
     {
+      "id": "shoes_U_legwarmershoes",
+      "revision": 1337,
+      "parts": [
+        {
+          "id": 3242,
+          "type": "sh"
+        },
+        {
+          "id": 3243,
+          "type": "sh"
+        },
+        {
+          "id": 3244,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_blessedsandals",
+      "revision": 12285,
+      "parts": [
+        {
+          "id": 6841,
+          "type": "sh"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_fyorawings",
       "revision": 12183,
       "parts": [
