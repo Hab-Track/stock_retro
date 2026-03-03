@@ -517,15 +517,19 @@
     {
       "parts": [
         {
-          "id": 2583,
-          "type": "ca"
+          "id": 2609,
+          "type": "mc"
         },
         {
-          "id": 2584,
-          "type": "ca"
+          "id": 2609,
+          "type": "mcl"
+        },
+        {
+          "id": 2609,
+          "type": "mcr"
         }
       ],
-      "id": "acc_chest_U_beads",
+      "id": "misc_U_simpleglove",
       "revision": 56282
     },
     {
@@ -19814,18 +19818,18 @@
       "parts": [
         {
           "id": 4121,
-          "type": "cc"
+          "type": "mc"
         },
         {
           "id": 4121,
-          "type": "lc"
+          "type": "mcl"
         },
         {
           "id": 4121,
-          "type": "rc"
+          "type": "mcr"
         }
       ],
-      "id": "jacket_U_muaythai",
+      "id": "misc_U_muaythai",
       "revision": 66448
     },
     {
@@ -26225,15 +26229,23 @@
     {
       "parts": [
         {
-          "id": 5642,
-          "type": "sh"
+          "id": 5644,
+          "type": "mcr"
         },
         {
-          "id": 5643,
-          "type": "sh"
+          "id": 5644,
+          "type": "mcl"
+        },
+        {
+          "id": 5645,
+          "type": "mcr"
+        },
+        {
+          "id": 5646,
+          "type": "mcr"
         }
       ],
-      "id": "shoes_U_sb_boosters",
+      "id": "misc_U_sb_raygun",
       "revision": 71442
     },
     {
@@ -29021,11 +29033,19 @@
     {
       "parts": [
         {
-          "id": 5529,
-          "type": "ha"
+          "id": 5528,
+          "type": "mc"
+        },
+        {
+          "id": 5528,
+          "type": "mcl"
+        },
+        {
+          "id": 5528,
+          "type": "mcr"
         }
       ],
-      "id": "hat_U_nftgiftbox",
+      "id": "misc_U_nftgiftbox",
       "revision": 72128
     },
     {
@@ -34160,22 +34180,22 @@
       "parts": [
         {
           "id": 3527,
-          "type": "cc"
+          "type": "mc"
         },
         {
           "id": 3527,
-          "type": "lc"
+          "type": "mcl"
         },
         {
           "id": 3527,
-          "type": "rc"
+          "type": "mcr"
         },
         {
           "id": 3528,
-          "type": "cc"
+          "type": "mc"
         }
       ],
-      "id": "jacket_U_nordicscarf",
+      "id": "misc_U_nordicscarf",
       "revision": 65239
     },
     {
@@ -39009,19 +39029,23 @@
     {
       "parts": [
         {
-          "id": 6198,
-          "type": "he"
+          "id": 6202,
+          "type": "mc"
         },
         {
-          "id": 6199,
-          "type": "he"
+          "id": 6202,
+          "type": "mcl"
         },
         {
-          "id": 6200,
-          "type": "he"
+          "id": 6202,
+          "type": "mcr"
+        },
+        {
+          "id": 6203,
+          "type": "mc"
         }
       ],
-      "id": "acc_head_U_nftgoodvsevil2",
+      "id": "misc_U_nftbiglollipop",
       "revision": 72550
     },
     {
@@ -39038,22 +39062,22 @@
       "parts": [
         {
           "id": 6145,
-          "type": "cc"
+          "type": "mc"
         },
         {
           "id": 6145,
-          "type": "lc"
+          "type": "mcl"
         },
         {
           "id": 6145,
-          "type": "rc"
+          "type": "mcr"
         },
         {
           "id": 6146,
-          "type": "cc"
+          "type": "mc"
         }
       ],
-      "id": "jacket_U_dreamscarf",
+      "id": "misc_U_dreamscarf",
       "revision": 72572
     },
     {
@@ -44262,26 +44286,26 @@
       "parts": [
         {
           "id": 6722,
-          "type": "cc"
+          "type": "mc"
         },
         {
           "id": 6722,
-          "type": "lc"
+          "type": "mcl"
         },
         {
           "id": 6722,
-          "type": "rc"
+          "type": "mcr"
         },
         {
           "id": 6723,
-          "type": "cc"
+          "type": "mc"
         },
         {
           "id": 6724,
-          "type": "cc"
+          "type": "mc"
         }
       ],
-      "id": "jacket_U_patchlongscarf",
+      "id": "misc_U_patchlongscarf",
       "revision": 73689
     },
     {
@@ -44341,23 +44365,19 @@
     {
       "parts": [
         {
-          "id": 6900,
-          "type": "hr"
+          "id": 6923,
+          "type": "mc"
         },
         {
-          "id": 6900,
-          "type": "hrb"
+          "id": 6924,
+          "type": "mc"
         },
         {
-          "id": 6901,
-          "type": "hr"
-        },
-        {
-          "id": 6902,
-          "type": "hr"
+          "id": 6925,
+          "type": "mc"
         }
       ],
-      "id": "hair_U_nftombrecut1",
+      "id": "misc_U_nftcakeoutfit",
       "revision": 73940
     },
     {
@@ -51321,20 +51341,20 @@
       ]
     },
     {
-      "id": "jacket_U_yellowaisha",
+      "id": "pet_U_yellowaisha",
       "revision": 29925,
       "parts": [
         {
           "id": 6893,
-          "type": "cc"
+          "type": "pt"
         },
         {
           "id": 6893,
-          "type": "lc"
+          "type": "ptl"
         },
         {
           "id": 6893,
-          "type": "rc"
+          "type": "ptr"
         }
       ]
     },
