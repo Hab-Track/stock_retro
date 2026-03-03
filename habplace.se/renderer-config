@@ -7,22 +7,22 @@
   "gamedata.url": "${asset.url}/gamedata",
   "sounds.url": "${asset.url}/sounds/%sample%.mp3",
   "external.texts.url": [
-    "${gamedata.url}/ExternalTexts.json?date=07081",
-    "${gamedata.url}/UITexts.json?date=527"
+    "${gamedata.url}/ExternalTexts.json",
+    "${gamedata.url}/UITexts.json"
   ],
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
-  "furnidata.url": "${gamedata.url}/FurnitureData.json?date=07131",
-  "productdata.url": "${gamedata.url}/ProductData.json??date=0527",
-  "avatar.actions.url": "${gamedata.url}/HabboAvatarActions.json?date=0602",
-  "avatar.figuredata.url": "${gamedata.url}/FigureData.json??date=07091",
-  "avatar.figuremap.url": "${gamedata.url}/FigureMap.json??date=0710",
-  "avatar.effectmap.url": "${gamedata.url}/EffectMap.json??date=0527",
-  "avatar.asset.url": "${asset.url}/bundled/figure/%libname%.nitro?date=06022",
-  "avatar.asset.effect.url": "${asset.url}/bundled/effect/%libname%.nitro?v=8",
-  "furni.asset.url": "${asset.url}/bundled/furniture/%libname%.nitro?v=8",
+  "furnidata.url": "${gamedata.url}/FurnitureData.json",
+  "productdata.url": "${gamedata.url}/ProductData.json",
+  "avatar.actions.url": "${gamedata.url}/HabboAvatarActions.json",
+  "avatar.figuredata.url": "${gamedata.url}/FigureData.json",
+  "avatar.figuremap.url": "${gamedata.url}/FigureMap.json",
+  "avatar.effectmap.url": "${gamedata.url}/EffectMap.json",
+  "avatar.asset.url": "${asset.url}/bundled/figure/%libname%.nitro",
+  "avatar.asset.effect.url": "${asset.url}/bundled/effect/%libname%.nitro",
+  "furni.asset.url": "${asset.url}/bundled/furniture/%libname%.nitro",
   "furni.asset.icon.url": "${hof.furni.url}/icons/%libname%%param%_icon.png",
-  "pet.asset.url": "${asset.url}/bundled/pet/%libname%.nitro?v=7",
-  "generic.asset.url": "${asset.url}/bundled/generic/%libname%.nitro?v=7",
+  "pet.asset.url": "${asset.url}/bundled/pet/%libname%.nitro",
+  "generic.asset.url": "${asset.url}/bundled/generic/%libname%.nitro",
   "badge.asset.url": "${image.library.url}album1584/%badgename%.gif",
   "furni.rotation.bounce.steps": 20,
   "furni.rotation.bounce.height": 0.0625,
@@ -460,6 +460,24 @@
               },
               {
                 "partType": "cp"
+              },
+              {
+                "partType": "mc"
+              },
+              {
+                "partType": "mcl"
+              },
+              {
+                "partType": "mcr"
+              },
+              {
+                "partType": "pt"
+              },
+              {
+                "partType": "ptl"
+              },
+              {
+                "partType": "ptr"
               }
             ]
           },
@@ -513,6 +531,24 @@
               },
               {
                 "partType": "cp"
+              },
+              {
+                "partType": "mc"
+              },
+              {
+                "partType": "mcl"
+              },
+              {
+                "partType": "mcr"
+              },
+              {
+                "partType": "pt"
+              },
+              {
+                "partType": "ptl"
+              },
+              {
+                "partType": "ptr"
               }
             ]
           }
