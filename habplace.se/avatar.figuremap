@@ -50958,7 +50958,7 @@
     },
     {
       "id": "jacket_U_semlakropp",
-      "revision": 50242,
+      "revision": 12099,
       "parts": [
         {
           "id": 9564371,
@@ -51469,6 +51469,26 @@
         {
           "id": 7207,
           "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tortahatt",
+      "revision": 10752,
+      "parts": [
+        {
+          "id": 25367895,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tortakropp",
+      "revision": 90957,
+      "parts": [
+        {
+          "id": 95643859,
+          "type": "cc"
         }
       ]
     }
