@@ -1350,7 +1350,7 @@
   "roomcompetition.info.vote": "<u>Alle inzendingen bekijken</u>",
   "quests.dieter.1357738459952.hint": "Zeg je antwoord in een kamer.",
   "landing.view.val15haiku5.button": "Volg dit liefdesverhaal",
-  "navigator.embed.src": "${url.prefix}/room?id=%roomId%",
+  "navigator.embed.src": "${url.prefix}/room/%roomId%",
   "quests.xmas2013_19.guess.hint": "Er zijn cadeautjes verstopt in 10 objecten, verspreid in de Kerstman's Atelierkamer. Zoek 5 cadeautjes en ontvang de Sneeuwvlokken. Je hoeft alleen de namen van die items te noemen.",
   "roomevent_type_11": "Help Desk",
   "roomevent_type_10": "Rollenspel",
