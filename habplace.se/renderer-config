@@ -38,6 +38,7 @@
   "system.pong.interval.ms": 20000,
   "room.color.skip.transition": true,
   "room.landscapes.enabled": true,
+  "room.tools.auto.collapse.ms": 5000,
   "avatar.mandatory.libraries": [
     "bd:1",
     "li:0"
