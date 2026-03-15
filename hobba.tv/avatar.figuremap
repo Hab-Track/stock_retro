@@ -91949,10 +91949,476 @@
     },
     {
       "id": "hair_U_flequillodespeina2",
-      "revision": null,
+      "revision": 27272727,
       "parts": [
         {
           "id": 10001127,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_squirtle",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 40000007,
+          "type": "lc"
+        },
+        {
+          "id": 40000007,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_tv26mikushirt",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 40000005,
+          "type": "ch"
+        },
+        {
+          "id": 40000005,
+          "type": "ls"
+        },
+        {
+          "id": 40000005,
+          "type": "rs"
+        },
+        {
+          "id": 40000006,
+          "type": "ch"
+        },
+        {
+          "id": 40000006,
+          "type": "ls"
+        },
+        {
+          "id": 40000006,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv26GorroGlassy",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 80000189,
+          "type": "ha"
+        },
+        {
+          "id": 80000190,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv26GorroMimikyu",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 80000191,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv26RifleScar",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 80000192,
+          "type": "ca"
+        },
+        {
+          "id": 80000193,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv26BastonFrieren",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 80000194,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv26backbunny",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 80000195,
+          "type": "ca"
+        },
+        {
+          "id": 80000196,
+          "type": "ca"
+        },
+        {
+          "id": 80000197,
+          "type": "ca"
+        },
+        {
+          "id": 80000198,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv26HachaVikinga",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 130000020,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv26EspadasDelCaos",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 130000024,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26HoodieStussy",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 156908,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26VestidoTanita",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 60000110,
+          "type": "ch"
+        },
+        {
+          "id": 60000111,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_26ColmillodeAcero",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 60000112,
+          "type": "ca"
+        },
+        {
+          "id": 60000113,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_26HachaMeiMei",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 60000114,
+          "type": "ca"
+        },
+        {
+          "id": 60000115,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_26FlecoInuyasha",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 60000116,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26HoodieStussyGirl",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 60000117,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_AlgodonAzucarado",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 50000194,
+          "type": "cc"
+        },
+        {
+          "id": 50000194,
+          "type": "lc"
+        },
+        {
+          "id": 50000194,
+          "type": "rc"
+        },
+        {
+          "id": 50000195,
+          "type": "cc"
+        },
+        {
+          "id": 50000195,
+          "type": "lc"
+        },
+        {
+          "id": 50000195,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_EspadaGlobo",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 50000196,
+          "type": "cc"
+        },
+        {
+          "id": 50000196,
+          "type": "lc"
+        },
+        {
+          "id": 50000196,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_PerroGlobo",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 50000197,
+          "type": "cc"
+        },
+        {
+          "id": 50000197,
+          "type": "lc"
+        },
+        {
+          "id": 50000197,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_ManzanaAcaramelada",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 50000198,
+          "type": "ha"
+        },
+        {
+          "id": 50000199,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26VestidoDeGala",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 90000107,
+          "type": "ch"
+        },
+        {
+          "id": 90000107,
+          "type": "ls"
+        },
+        {
+          "id": 90000107,
+          "type": "rs"
+        },
+        {
+          "id": 90000108,
+          "type": "ch"
+        },
+        {
+          "id": 90000108,
+          "type": "ls"
+        },
+        {
+          "id": 90000108,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_26CascoMasterChief",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 90000110,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_26EspadaDeHueso",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 90000111,
+          "type": "ca"
+        },
+        {
+          "id": 90000112,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26TopNani2",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 90000109,
+          "type": "ch"
+        },
+        {
+          "id": 90000109,
+          "type": "ls"
+        },
+        {
+          "id": 90000109,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26TopMimida",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 110000200,
+          "type": "ch"
+        },
+        {
+          "id": 110000201,
+          "type": "ch"
+        },
+        {
+          "id": 110000202,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26TopCorrea",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 110000205,
+          "type": "cc"
+        },
+        {
+          "id": 110000206,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26ChaquetaGambito",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 110000057,
+          "type": "cc"
+        },
+        {
+          "id": 110000057,
+          "type": "lc"
+        },
+        {
+          "id": 110000057,
+          "type": "rc"
+        },
+        {
+          "id": 110000058,
+          "type": "lc"
+        },
+        {
+          "id": 110000058,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_26ArmaduraGambito",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 110000207,
+          "type": "ch"
+        },
+        {
+          "id": 110000207,
+          "type": "ls"
+        },
+        {
+          "id": 110000207,
+          "type": "rs"
+        },
+        {
+          "id": 110000208,
+          "type": "ch"
+        },
+        {
+          "id": 110000209,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_26DetallesArmGambito",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 110000210,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_26PeinadoBlackCat",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": 110000211,
+          "type": "hr"
+        },
+        {
+          "id": 110000212,
           "type": "hr"
         }
       ]
