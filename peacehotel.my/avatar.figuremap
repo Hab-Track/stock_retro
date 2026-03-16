@@ -1,6 +1,54 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_waist_U_fantasydemontail",
+      "revision": 12309,
+      "parts": [
+        {
+          "id": 7225,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_crownedfantasydemontail",
+      "revision": 12308,
+      "parts": [
+        {
+          "id": 7228,
+          "type": "wa"
+        },
+        {
+          "id": 7229,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_fantasydemonhorns",
+      "revision": 12307,
+      "parts": [
+        {
+          "id": 7224,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_crownedfantasydemonhorns",
+      "revision": 12306,
+      "parts": [
+        {
+          "id": 7226,
+          "type": "he"
+        },
+        {
+          "id": 7227,
+          "type": "he"
+        }
+      ]
+    },
+    {
       "id": "acc_head_U_nftmoon",
       "revision": 12310,
       "parts": [
