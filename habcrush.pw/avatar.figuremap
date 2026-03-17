@@ -86339,6 +86339,152 @@
           "type": "rs"
         }
       ]
+    },
+    {
+      "id": "acc_chest_U_leafbrooch",
+      "revision": 43161,
+      "parts": [
+        {
+          "id": 7183,
+          "type": "ca"
+        },
+        {
+          "id": 7184,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_elvenearring",
+      "revision": 90561,
+      "parts": [
+        {
+          "id": 7185,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_longbraidedelvenhair",
+      "revision": 45154,
+      "parts": [
+        {
+          "id": 7081,
+          "type": "hrb"
+        },
+        {
+          "id": 7081,
+          "type": "hr"
+        },
+        {
+          "id": 7082,
+          "type": "hrb"
+        },
+        {
+          "id": 7082,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_shortelvenhair",
+      "revision": 99210,
+      "parts": [
+        {
+          "id": 7079,
+          "type": "hrb"
+        },
+        {
+          "id": 7079,
+          "type": "hr"
+        },
+        {
+          "id": 7080,
+          "type": "hrb"
+        },
+        {
+          "id": 7080,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_elvenbasiccape",
+      "revision": 32822,
+      "parts": [
+        {
+          "id": 7070,
+          "type": "lc"
+        },
+        {
+          "id": 7070,
+          "type": "cc"
+        },
+        {
+          "id": 7070,
+          "type": "rc"
+        },
+        {
+          "id": 7071,
+          "type": "lc"
+        },
+        {
+          "id": 7071,
+          "type": "cc"
+        },
+        {
+          "id": 7071,
+          "type": "rc"
+        },
+        {
+          "id": 7072,
+          "type": "lc"
+        },
+        {
+          "id": 7072,
+          "type": "cc"
+        },
+        {
+          "id": 7072,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_elvendress",
+      "revision": 65718,
+      "parts": [
+        {
+          "id": 7030,
+          "type": "ch"
+        },
+        {
+          "id": 7031,
+          "type": "ch"
+        },
+        {
+          "id": 7032,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_elvendress",
+      "revision": 46860,
+      "parts": [
+        {
+          "id": 7033,
+          "type": "ch"
+        },
+        {
+          "id": 7034,
+          "type": "ch"
+        },
+        {
+          "id": 7035,
+          "type": "ch"
+        }
+      ]
     }
   ]
 }
