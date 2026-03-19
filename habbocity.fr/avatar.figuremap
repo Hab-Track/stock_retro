@@ -1,6 +1,64 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_face_U_FrankMustache",
+      "revision": 182156,
+      "parts": [
+        {
+          "id": 182156,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_FrankHat",
+      "revision": 182155,
+      "parts": [
+        {
+          "id": 182155,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_FrankTrousers",
+      "revision": 182154,
+      "parts": [
+        {
+          "id": 182154,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_FrankVesteLayer",
+      "revision": 182152,
+      "parts": [
+        {
+          "id": 182152,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_FrankJacket",
+      "revision": 182153,
+      "parts": [
+        {
+          "id": 182153,
+          "type": "cc"
+        },
+        {
+          "id": 182153,
+          "type": "lc"
+        },
+        {
+          "id": 182153,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "shirt_U_NaoyaTop",
       "revision": 182149,
       "parts": [
