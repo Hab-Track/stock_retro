@@ -1,6 +1,40 @@
 ﻿{
   "libraries": [
     {
+      "id": "face_F_PiaprikaFace",
+      "revision": 182158,
+      "parts": [
+        {
+          "id": 1,
+          "type": "bd"
+        },
+        {
+          "id": 1,
+          "type": "lh"
+        },
+        {
+          "id": 1,
+          "type": "rh"
+        },
+        {
+          "id": 182158,
+          "type": "hd"
+        },
+        {
+          "id": 182159,
+          "type": "fc"
+        },
+        {
+          "id": 182159,
+          "type": "ey"
+        },
+        {
+          "id": 182158,
+          "type": "fc"
+        }
+      ]
+    },
+    {
       "id": "trousers_U_FrankTrousers",
       "revision": 182157,
       "parts": [
