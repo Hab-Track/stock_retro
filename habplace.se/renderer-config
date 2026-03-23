@@ -28,7 +28,7 @@
   "furni.rotation.bounce.height": 0.0625,
   "enable.avatar.arrow": false,
   "system.log.debug": true,
-  "system.log.warn": false,
+  "system.log.warn": true,
   "system.log.error": true,
   "system.log.events": false,
   "system.log.packets": false,
