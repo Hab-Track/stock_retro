@@ -7,8 +7,8 @@
   "gamedata.url": "${asset.url}/gamedata",
   "sounds.url": "${asset.url}/sounds/%sample%.mp3",
   "external.texts.url": "${gamedata.url}/json/ExternalTexts.json",
-  "external.texts.version": "12",
-  "ui.texts.version": "12",
+  "external.texts.version": "14",
+  "ui.texts.version": "14",
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
   "furnidata.url": "${gamedata.url}/json/FurnitureData.json",
   "productdata.url": "${gamedata.url}/json/ProductData.json",
@@ -596,6 +596,5 @@
     "pkmvictinip",
     "elephants"
   ],
-  "preload.assets.urls": [],
-  "gamedata": "https://swfs3.nabbo.es"
+  "preload.assets.urls": []
 }
