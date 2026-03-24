@@ -76277,6 +76277,204 @@
           "type": "rs"
         }
       ]
+    },
+    {
+      "id": "hair_U_cassuetailnobang",
+      "revision": 998789208,
+      "parts": [
+        {
+          "id": 488253,
+          "type": "hr"
+        },
+        {
+          "id": 488253,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_casspigtailsnobang",
+      "revision": 998789209,
+      "parts": [
+        {
+          "id": 488254,
+          "type": "hr"
+        },
+        {
+          "id": 488254,
+          "type": "hrb"
+        },
+        {
+          "id": 488255,
+          "type": "hr"
+        },
+        {
+          "id": 488255,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_casstaylorcardigan",
+      "revision": 998789210,
+      "parts": [
+        {
+          "id": 488240,
+          "type": "cc"
+        },
+        {
+          "id": 488240,
+          "type": "lc"
+        },
+        {
+          "id": 488240,
+          "type": "rc"
+        },
+        {
+          "id": 488241,
+          "type": "cc"
+        },
+        {
+          "id": 488241,
+          "type": "lc"
+        },
+        {
+          "id": 488241,
+          "type": "rc"
+        },
+        {
+          "id": 488242,
+          "type": "cc"
+        },
+        {
+          "id": 488242,
+          "type": "lc"
+        },
+        {
+          "id": 488242,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_casstaylorcardigan2",
+      "revision": 998789211,
+      "parts": [
+        {
+          "id": 488243,
+          "type": "cc"
+        },
+        {
+          "id": 488243,
+          "type": "lc"
+        },
+        {
+          "id": 488243,
+          "type": "rc"
+        },
+        {
+          "id": 488244,
+          "type": "cc"
+        },
+        {
+          "id": 488244,
+          "type": "lc"
+        },
+        {
+          "id": 488244,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_cassglobskin121332",
+      "revision": 998789212,
+      "parts": [
+        {
+          "id": 231443432,
+          "type": "ch"
+        },
+        {
+          "id": 432342342342,
+          "type": "ls"
+        },
+        {
+          "id": 48824534234234240,
+          "type": "rs"
+        },
+        {
+          "id": 488244324323426,
+          "type": "ch"
+        },
+        {
+          "id": 48824724234242,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_cassglobhelm",
+      "revision": 998789213,
+      "parts": [
+        {
+          "id": 488248,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_cassglobeyes",
+      "revision": 998789214,
+      "parts": [
+        {
+          "id": 488249,
+          "type": "he"
+        },
+        {
+          "id": 488250,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_cassglobeyesv2",
+      "revision": 998789215,
+      "parts": [
+        {
+          "id": 488251,
+          "type": "ea"
+        },
+        {
+          "id": 488252,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_cassglobskin",
+      "revision": 998789216,
+      "parts": [
+        {
+          "id": 488245,
+          "type": "ch"
+        },
+        {
+          "id": 488245,
+          "type": "ls"
+        },
+        {
+          "id": 488245,
+          "type": "rs"
+        },
+        {
+          "id": 488246,
+          "type": "ch"
+        },
+        {
+          "id": 488247,
+          "type": "ch"
+        }
+      ]
     }
   ]
 }
