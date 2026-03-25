@@ -1,6 +1,216 @@
 ﻿{
   "libraries": [
     {
+      "id": "face_U_placeholder",
+      "revision": 998786964,
+      "parts": [
+        {
+          "id": 4697,
+          "type": "bd"
+        },
+        {
+          "id": 4697,
+          "type": "hd"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftgold2",
+      "revision": 11728,
+      "parts": [
+        {
+          "id": 6518,
+          "type": "hd"
+        },
+        {
+          "id": 6518,
+          "type": "ey"
+        },
+        {
+          "id": 6518,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftgold1",
+      "revision": 11727,
+      "parts": [
+        {
+          "id": 6517,
+          "type": "hd"
+        },
+        {
+          "id": 6517,
+          "type": "bd"
+        },
+        {
+          "id": 6517,
+          "type": "ey"
+        },
+        {
+          "id": 6517,
+          "type": "lh"
+        },
+        {
+          "id": 6517,
+          "type": "rh"
+        },
+        {
+          "id": 6517,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftsilver2",
+      "revision": 11726,
+      "parts": [
+        {
+          "id": 6516,
+          "type": "hd"
+        },
+        {
+          "id": 6516,
+          "type": "ey"
+        },
+        {
+          "id": 6516,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftsilver1",
+      "revision": 11725,
+      "parts": [
+        {
+          "id": 6515,
+          "type": "hd"
+        },
+        {
+          "id": 6515,
+          "type": "bd"
+        },
+        {
+          "id": 6515,
+          "type": "ey"
+        },
+        {
+          "id": 6515,
+          "type": "lh"
+        },
+        {
+          "id": 6515,
+          "type": "rh"
+        },
+        {
+          "id": 6515,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftbronze2",
+      "revision": 11724,
+      "parts": [
+        {
+          "id": 6514,
+          "type": "hd"
+        },
+        {
+          "id": 6514,
+          "type": "ey"
+        },
+        {
+          "id": 6514,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftbronze1",
+      "revision": 11723,
+      "parts": [
+        {
+          "id": 6513,
+          "type": "hd"
+        },
+        {
+          "id": 6513,
+          "type": "bd"
+        },
+        {
+          "id": 6513,
+          "type": "ey"
+        },
+        {
+          "id": 6513,
+          "type": "lh"
+        },
+        {
+          "id": 6513,
+          "type": "rh"
+        },
+        {
+          "id": 6513,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftskeleton",
+      "revision": 12181,
+      "parts": [
+        {
+          "id": 6961,
+          "type": "hd"
+        },
+        {
+          "id": 6961,
+          "type": "bd"
+        },
+        {
+          "id": 6961,
+          "type": "lh"
+        },
+        {
+          "id": 6961,
+          "type": "rh"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftpolarnight",
+      "revision": 12246,
+      "parts": [
+        {
+          "id": 7027,
+          "type": "hd"
+        },
+        {
+          "id": 7027,
+          "type": "bd"
+        },
+        {
+          "id": 7027,
+          "type": "ey"
+        },
+        {
+          "id": 7027,
+          "type": "lh"
+        },
+        {
+          "id": 7027,
+          "type": "rh"
+        },
+        {
+          "id": 7027,
+          "type": "fc"
+        }
+      ]
+    },
+    {
       "id": "acc_waist_U_fantasydemontail",
       "revision": 12309,
       "parts": [
