@@ -76533,6 +76533,132 @@
           "type": "hrb"
         }
       ]
+    },
+    {
+      "id": "jacket_U_elvenleafcape",
+      "revision": 998789220,
+      "parts": [
+        {
+          "id": 7036,
+          "type": "cc"
+        },
+        {
+          "id": 7036,
+          "type": "lc"
+        },
+        {
+          "id": 7036,
+          "type": "rc"
+        },
+        {
+          "id": 7037,
+          "type": "cc"
+        },
+        {
+          "id": 7037,
+          "type": "lc"
+        },
+        {
+          "id": 7037,
+          "type": "rc"
+        },
+        {
+          "id": 7038,
+          "type": "cc"
+        },
+        {
+          "id": 7038,
+          "type": "lc"
+        },
+        {
+          "id": 7038,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_elvendress",
+      "revision": 998789221,
+      "parts": [
+        {
+          "id": 7030,
+          "type": "rs"
+        },
+        {
+          "id": 7030,
+          "type": "ls"
+        },
+        {
+          "id": 7030,
+          "type": "ch"
+        },
+        {
+          "id": 7031,
+          "type": "ch"
+        },
+        {
+          "id": 7031,
+          "type": "rs"
+        },
+        {
+          "id": 7031,
+          "type": "ls"
+        },
+        {
+          "id": 7032,
+          "type": "ch"
+        },
+        {
+          "id": 7032,
+          "type": "rs"
+        },
+        {
+          "id": 7032,
+          "type": "ls"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_elvendress",
+      "revision": 998789222,
+      "parts": [
+        {
+          "id": 7033,
+          "type": "ch"
+        },
+        {
+          "id": 7033,
+          "type": "ls"
+        },
+        {
+          "id": 7033,
+          "type": "rs"
+        },
+        {
+          "id": 7034,
+          "type": "ch"
+        },
+        {
+          "id": 7034,
+          "type": "ls"
+        },
+        {
+          "id": 7034,
+          "type": "rs"
+        },
+        {
+          "id": 7035,
+          "type": "ch"
+        },
+        {
+          "id": 7035,
+          "type": "rs"
+        },
+        {
+          "id": 7035,
+          "type": "ls"
+        }
+      ]
     }
   ]
 }
