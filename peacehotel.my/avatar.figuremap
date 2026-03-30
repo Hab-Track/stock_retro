@@ -1,6 +1,50 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_M_mrareshirt",
+      "revision": 74885,
+      "parts": [
+        {
+          "id": 7286,
+          "type": "ch"
+        },
+        {
+          "id": 7286,
+          "type": "ls"
+        },
+        {
+          "id": 7286,
+          "type": "rs"
+        },
+        {
+          "id": 7287,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_mrareshirt",
+      "revision": 74883,
+      "parts": [
+        {
+          "id": 7284,
+          "type": "ch"
+        },
+        {
+          "id": 7284,
+          "type": "ls"
+        },
+        {
+          "id": 7284,
+          "type": "rs"
+        },
+        {
+          "id": 7285,
+          "type": "ch"
+        }
+      ]
+    },
+    {
       "id": "shirt_M_mltdshirt",
       "revision": 74875,
       "parts": [
