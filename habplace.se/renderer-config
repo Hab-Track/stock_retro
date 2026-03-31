@@ -6,6 +6,8 @@
   "images.url": "${asset.url}/images",
   "gamedata.url": "${asset.url}/gamedata",
   "sounds.url": "${asset.url}/sounds/%sample%.mp3",
+  "bugreport.submit.url": "https://habplace.se/bug-reports/nitro/submit",
+  "bugreport.csrf.url": "https://habplace.se/sanctum/csrf-cookie",
   "external.texts.url": [
     "${gamedata.url}/ExternalTexts.json",
     "${gamedata.url}/UITexts.json"
