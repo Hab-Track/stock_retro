@@ -51599,6 +51599,38 @@
           "type": "sh"
         }
       ]
+    },
+    {
+      "id": "pet_U_wisp",
+      "revision": 60396,
+      "parts": [
+        {
+          "id": 7097,
+          "type": "ptr"
+        },
+        {
+          "id": 7097,
+          "type": "ptl"
+        }
+      ]
+    },
+    {
+      "id": "pet_U_robotcompanion",
+      "revision": 76138,
+      "parts": [
+        {
+          "id": 7208,
+          "type": "pt"
+        },
+        {
+          "id": 7208,
+          "type": "ptl"
+        },
+        {
+          "id": 7208,
+          "type": "ptr"
+        }
+      ]
     }
   ]
 }
