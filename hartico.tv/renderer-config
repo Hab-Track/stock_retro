@@ -614,6 +614,7 @@
     "${asset.url}/bundled/generic/floor_editor.nitro",
     "${images.url}/loading_icon.png",
     "${images.url}/clear_icon.png",
-    "${images.url}/big_arrow.png"
+    "${images.url}/big_arrow.png",
+    "${asset.url}/bundled/generic/neighbor3.nitro"
   ]
 }
