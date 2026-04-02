@@ -86602,7 +86602,7 @@
     },
     {
       "id": "face_U_nftelvenface",
-      "revision": 38011,
+      "revision": 92883,
       "parts": [
         {
           "id": 7328,
@@ -86636,7 +86636,7 @@
     },
     {
       "id": "face_U_nftelvenface2",
-      "revision": 33935,
+      "revision": 54564,
       "parts": [
         {
           "id": 7331,
@@ -87417,6 +87417,70 @@
         {
           "id": 7338,
           "type": "ey"
+        },
+        {
+          "id": 1,
+          "type": "hd"
+        },
+        {
+          "id": 1,
+          "type": "bd"
+        },
+        {
+          "id": 1,
+          "type": "lh"
+        },
+        {
+          "id": 1,
+          "type": "rh"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftelvenface",
+      "revision": 92883,
+      "parts": [
+        {
+          "id": 7328,
+          "type": "fc"
+        },
+        {
+          "id": 7329,
+          "type": "ey"
+        },
+        {
+          "id": 7330,
+          "type": "fc"
+        },
+        {
+          "id": 1,
+          "type": "hd"
+        },
+        {
+          "id": 1,
+          "type": "bd"
+        },
+        {
+          "id": 1,
+          "type": "lh"
+        },
+        {
+          "id": 1,
+          "type": "rh"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftelvenfaceb",
+      "revision": 59393,
+      "parts": [
+        {
+          "id": 7334,
+          "type": "ey"
+        },
+        {
+          "id": 7335,
+          "type": "fc"
         },
         {
           "id": 1,
