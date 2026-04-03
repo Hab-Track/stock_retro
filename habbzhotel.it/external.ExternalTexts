@@ -15779,9 +15779,12 @@
   "handitem1106": "Pallone da Calcio",
   "handitem1107": "Arco Astrale",
   "handitem1108": "Virvontavitsa",
+  "handitem1110": "Telefono Mattonella",
   "handitem1115": "Cacao",
   "handitem1116": "Anatroccolo Rosa",
   "handitem1117": "Coltello",
+  "handitem1119": "Anello di Diamante",
+  "handitem1120": "Lama di Diamante",
   "hccenter.breakdown.creditsspent": "%credits% credits spent",
   "hccenter.breakdown.infolink": "Breakdown",
   "hccenter.breakdown.paydayfactor.percent": "+ %percent%% as HC Payday Credits",
@@ -31474,5 +31477,13 @@
   "badge_desc_NLB74": "Complimenti hai hackerato il sistema informativo di un.... BUS?",
   "badge_name_NL662": "Dado Fortunato",
   "badge_desc_NL662": "hai più fortuna che donne!",
-  "badge_desc_IT235": "Ti trollo e nemmeno te ne rendi conto... pivello!"
+  "badge_desc_IT235": "Ti trollo e nemmeno te ne rendi conto... pivello!",
+  "creditfurni.description.credits": "Questo furno vale %value% crediti.",
+  "creditfurni.description.credits.one": "Questo furno vale %value% credito.",
+  "creditfurni.description.diamonds": "Questo furno vale %value% diamanti.",
+  "creditfurni.description.diamonds.one": "Questo furno vale %value% diamante.",
+  "creditfurni.description.pixels": "Questo furno vale %value% duckets.",
+  "creditfurni.description.pixels.one": "Questo furno vale %value% ducket.",
+  "creditfurni.description.points": "Questo furno vale %value% punti.",
+  "creditfurni.description.points.one": "Questo furno vale %value% punto."
 }
