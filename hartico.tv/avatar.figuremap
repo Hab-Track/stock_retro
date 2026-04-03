@@ -1,6 +1,131 @@
 ﻿{
   "libraries": [
     {
+      "id": "hat_U_26CascoBillyKid",
+      "parts": [
+        {
+          "id": 110000263,
+          "type": "ha"
+        },
+        {
+          "id": 110000264,
+          "type": "ha"
+        },
+        {
+          "id": 110000265,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26TopSilken",
+      "parts": [
+        {
+          "id": 110000261,
+          "type": "ch"
+        },
+        {
+          "id": 110000262,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_fishnets",
+      "parts": [
+        {
+          "id": 6454,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_fishnetsshoes",
+      "parts": [
+        {
+          "id": 7358,
+          "type": "sh"
+        },
+        {
+          "id": 7359,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_cassglobskin",
+      "parts": [
+        {
+          "id": 488245,
+          "type": "ch"
+        },
+        {
+          "id": 488245,
+          "type": "ls"
+        },
+        {
+          "id": 488245,
+          "type": "rs"
+        },
+        {
+          "id": 488246,
+          "type": "ch"
+        },
+        {
+          "id": 488247,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_cassglobhelm",
+      "parts": [
+        {
+          "id": 488248,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_cassglobeyes",
+      "parts": [
+        {
+          "id": 488249,
+          "type": "he"
+        },
+        {
+          "id": 488250,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_cassglobeyesv2",
+      "parts": [
+        {
+          "id": 488251,
+          "type": "ea"
+        },
+        {
+          "id": 488252,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26AccVLadyDimitrescu",
+      "parts": [
+        {
+          "id": 110000249,
+          "type": "ls"
+        },
+        {
+          "id": 110000249,
+          "type": "rs"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_tv26Chimuelo",
       "parts": [
         {
