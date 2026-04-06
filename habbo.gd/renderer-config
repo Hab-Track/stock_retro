@@ -45,7 +45,7 @@
   "system.fps.animation": 24,
   "system.fps.max": 60,
   "system.pong.manually": true,
-  "system.pong.interval.ms": 20000,
+  "system.pong.interval.ms": 10000,
   "room.color.skip.transition": true,
   "room.landscapes.enabled": true,
   "avatar.mandatory.libraries": [
