@@ -46,6 +46,7 @@
   "system.fps.max": 60,
   "system.pong.manually": true,
   "system.pong.interval.ms": 10000,
+  "system.pong.interval.hidden.ms": 5000,
   "system.pong.worker": true,
   "room.color.skip.transition": true,
   "room.landscapes.enabled": true,
