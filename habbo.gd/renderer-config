@@ -1,5 +1,5 @@
 ﻿{
-  "socket.url": "wss://ops.habbo.gd",
+  "socket.url": "wss://ops.habbo.gd:8888",
   "asset.url": "/client/assets",
   "image.library.url": "/client/assets/c_images/",
   "hof.furni.url": "/client/assets/dcr/hof_furni",
@@ -45,9 +45,7 @@
   "system.fps.animation": 24,
   "system.fps.max": 60,
   "system.pong.manually": true,
-  "system.pong.interval.ms": 10000,
-  "system.pong.interval.hidden.ms": 3000,
-  "system.pong.worker": true,
+  "system.pong.interval.ms": 20000,
   "room.color.skip.transition": true,
   "room.landscapes.enabled": true,
   "avatar.mandatory.libraries": [
