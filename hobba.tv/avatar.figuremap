@@ -8725,16 +8725,6 @@
       ]
     },
     {
-      "id": "trousers_U_armyskirt",
-      "revision": 369007,
-      "parts": [
-        {
-          "id": 3408,
-          "type": "lg"
-        }
-      ]
-    },
-    {
       "id": "trousers_U_military",
       "revision": 5883407,
       "parts": [
@@ -9919,24 +9909,6 @@
         {
           "id": 2714,
           "type": "cc"
-        }
-      ]
-    },
-    {
-      "id": "jacket_M_military",
-      "revision": 5848207,
-      "parts": [
-        {
-          "id": 3405,
-          "type": "cc"
-        },
-        {
-          "id": 3405,
-          "type": "lc"
-        },
-        {
-          "id": 3405,
-          "type": "rc"
         }
       ]
     },
@@ -82496,24 +82468,6 @@
         {
           "id": 7010,
           "type": "ch"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_penguinhat",
-      "revision": 74273,
-      "parts": [
-        {
-          "id": 6914,
-          "type": "ha"
-        },
-        {
-          "id": 6915,
-          "type": "ha"
-        },
-        {
-          "id": 6916,
-          "type": "ha"
         }
       ]
     },
