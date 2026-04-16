@@ -39932,7 +39932,11 @@
   "events.title": "Pågående event",
   "events.goto": "Gå till event",
   "official.events.hosting": "håller ett event!",
-  "": "",
   "badge_desc_TBW78": "Tillfrisknande & Sinnesro",
-  "badge_name_TBW78": "6 Månader"
+  "badge_name_TBW78": "6 Månader",
+  "wiredfurni.params.dice.trigger_mode": "Select triggering roll:",
+  "wiredfurni.params.anyvalue": "Any roll",
+  "wiredfurni.params.specificvalue": "Specific roll",
+  "wiredfurni.params.dicevalue": "Dice value: %value%",
+  "wiredfurni.finish": "Finish"
 }
