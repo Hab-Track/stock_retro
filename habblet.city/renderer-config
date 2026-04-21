@@ -1,11 +1,22 @@
 ﻿{
+  "socket.url": "wss://proxy.habblet.city",
   "asset.url": "https://images.habblet.city/habblet-asset-bundles",
   "image.library.url": "https://images.habblet.city/c_images/",
   "hof.furni.url": "https://images.habblet.city/library/hof_furni",
   "images.url": "https://images.habblet.city/images",
-  "gamedata.url": "https://www.habblet.city/gamedata",
+  "gamedata.url": "https://images.habblet.city/habblet-asset-bundles/gamedata",
   "sounds.url": "${asset.url}/sounds/%sample%.mp3",
+  "external.texts.url": [
+    "${gamedata.url}/habblet_texts.json",
+    "${gamedata.url}/UITexts.json"
+  ],
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
+  "furnidata.url": "${gamedata.url}/habblet_furni.json",
+  "productdata.url": "${gamedata.url}/habblet_produ.json",
+  "avatar.actions.url": "${gamedata.url}/avatar/AvatarActions.json",
+  "avatar.figuredata.url": "${gamedata.url}/avatar/FigureData.json",
+  "avatar.figuremap.url": "${gamedata.url}/avatar/FigureMap.json",
+  "avatar.effectmap.url": "${gamedata.url}/avatar/EffectMap.json",
   "avatar.asset.url": "${asset.url}/libraries/figure/%libname%.nitro",
   "avatar.asset.effect.url": "${asset.url}/libraries/effect/%libname%.nitro",
   "furni.asset.url": "${asset.url}/libraries/furniture/%libname%.nitro",
