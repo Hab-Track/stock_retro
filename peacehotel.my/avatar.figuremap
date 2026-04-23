@@ -1,6 +1,102 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_head_U_countingsheep",
+      "revision": 12350,
+      "parts": [
+        {
+          "id": 7209,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "face_U_iridescentskin1",
+      "revision": 12351,
+      "parts": [
+        {
+          "id": 7323,
+          "type": "hd"
+        },
+        {
+          "id": 7323,
+          "type": "bd"
+        },
+        {
+          "id": 7323,
+          "type": "ey"
+        },
+        {
+          "id": 7323,
+          "type": "lh"
+        },
+        {
+          "id": 7323,
+          "type": "rh"
+        },
+        {
+          "id": 7323,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_iridescentrainhood",
+      "revision": 12352,
+      "parts": [
+        {
+          "id": 7295,
+          "type": "ha"
+        },
+        {
+          "id": 7296,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_iridescentraincoat",
+      "revision": 12353,
+      "parts": [
+        {
+          "id": 7297,
+          "type": "cc"
+        },
+        {
+          "id": 7297,
+          "type": "lc"
+        },
+        {
+          "id": 7297,
+          "type": "rc"
+        },
+        {
+          "id": 7298,
+          "type": "cc"
+        },
+        {
+          "id": 7298,
+          "type": "lc"
+        },
+        {
+          "id": 7298,
+          "type": "rc"
+        },
+        {
+          "id": 7299,
+          "type": "cc"
+        },
+        {
+          "id": 7299,
+          "type": "lc"
+        },
+        {
+          "id": 7299,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "shirt_M_mrareshirt",
       "revision": 74885,
       "parts": [
@@ -2586,7 +2682,7 @@
         },
         {
           "id": 6719,
-          "type": "rs "
+          "type": "rs"
         }
       ]
     },
