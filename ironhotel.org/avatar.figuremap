@@ -79365,6 +79365,82 @@
           "type": "ca"
         }
       ]
+    },
+    {
+      "id": "acc_chest_U_cassmeraharness",
+      "revision": 998789391,
+      "parts": [
+        {
+          "id": 488264,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_cassmeraharness2",
+      "revision": 998789392,
+      "parts": [
+        {
+          "id": 488265,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_cassmerabelt",
+      "revision": 998789393,
+      "parts": [
+        {
+          "id": 488262,
+          "type": "wa"
+        },
+        {
+          "id": 488263,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_cassmerapants",
+      "revision": 998789394,
+      "parts": [
+        {
+          "id": 488261,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_cassmeratop",
+      "revision": 998789395,
+      "parts": [
+        {
+          "id": 488260,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_cassmeragloves",
+      "revision": 998789396,
+      "parts": [
+        {
+          "id": 488266,
+          "type": "lc"
+        },
+        {
+          "id": 488266,
+          "type": "rc"
+        },
+        {
+          "id": 488267,
+          "type": "lc"
+        },
+        {
+          "id": 488267,
+          "type": "rc"
+        }
+      ]
     }
   ]
 }
