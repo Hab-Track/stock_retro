@@ -51606,6 +51606,10 @@
       "parts": [
         {
           "id": 7097,
+          "type": "pt"
+        },
+        {
+          "id": 7097,
           "type": "ptr"
         },
         {
@@ -51745,6 +51749,2198 @@
         {
           "id": 80000198,
           "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_ducketbearbag",
+      "revision": 17481,
+      "parts": [
+        {
+          "id": 7214,
+          "type": "ca"
+        },
+        {
+          "id": 7215,
+          "type": "ca"
+        },
+        {
+          "id": 7216,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_flowerheart",
+      "revision": 81956,
+      "parts": [
+        {
+          "id": 7180,
+          "type": "ca"
+        },
+        {
+          "id": 7181,
+          "type": "ca"
+        },
+        {
+          "id": 7182,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_leafbrooch",
+      "revision": 22288,
+      "parts": [
+        {
+          "id": 7183,
+          "type": "ca"
+        },
+        {
+          "id": 7184,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftpopcorn",
+      "revision": 66170,
+      "parts": [
+        {
+          "id": 7243,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_nftpopcorn",
+      "revision": 95264,
+      "parts": [
+        {
+          "id": 7242,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nftsoda",
+      "revision": 38786,
+      "parts": [
+        {
+          "id": 7241,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_nftsoda",
+      "revision": 44612,
+      "parts": [
+        {
+          "id": 7240,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_snakeyscarf",
+      "revision": 60117,
+      "parts": [
+        {
+          "id": 7150,
+          "type": "ca"
+        },
+        {
+          "id": 7151,
+          "type": "ca"
+        },
+        {
+          "id": 7152,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_vinewings",
+      "revision": 49892,
+      "parts": [
+        {
+          "id": 7249,
+          "type": "ca"
+        },
+        {
+          "id": 7250,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_flowereye",
+      "revision": 37881,
+      "parts": [
+        {
+          "id": 7177,
+          "type": "ea"
+        },
+        {
+          "id": 7178,
+          "type": "ea"
+        },
+        {
+          "id": 7179,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_nftrollerskatershades",
+      "revision": 82474,
+      "parts": [
+        {
+          "id": 7396,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_nfttintedglasses",
+      "revision": 15205,
+      "parts": [
+        {
+          "id": 7346,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nfthollywoodsmile",
+      "revision": 51262,
+      "parts": [
+        {
+          "id": 7244,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_roboface",
+      "revision": 73865,
+      "parts": [
+        {
+          "id": 7349,
+          "type": "fa"
+        },
+        {
+          "id": 7350,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_scruffystylebeard",
+      "revision": 11183,
+      "parts": [
+        {
+          "id": 7247,
+          "type": "fa"
+        },
+        {
+          "id": 7248,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_scruffystyle",
+      "revision": 17133,
+      "parts": [
+        {
+          "id": 7245,
+          "type": "hrb"
+        },
+        {
+          "id": 7245,
+          "type": "hr"
+        },
+        {
+          "id": 7246,
+          "type": "hrb"
+        },
+        {
+          "id": 7246,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_crownedfantasydemonhorns",
+      "revision": 67229,
+      "parts": [
+        {
+          "id": 7226,
+          "type": "he"
+        },
+        {
+          "id": 7227,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_crownedfantasydemontail",
+      "revision": 40142,
+      "parts": [
+        {
+          "id": 7228,
+          "type": "wa"
+        },
+        {
+          "id": 7229,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_elfearslong",
+      "revision": 61818,
+      "parts": [
+        {
+          "id": 7068,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_elfearsmedium",
+      "revision": 92221,
+      "parts": [
+        {
+          "id": 7069,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_elvenearring",
+      "revision": 13354,
+      "parts": [
+        {
+          "id": 7185,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_fantasydemonhorns",
+      "revision": 16892,
+      "parts": [
+        {
+          "id": 7224,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_fantasydemontail",
+      "revision": 10868,
+      "parts": [
+        {
+          "id": 7225,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_flowerantlers",
+      "revision": 16456,
+      "parts": [
+        {
+          "id": 7040,
+          "type": "he"
+        },
+        {
+          "id": 7041,
+          "type": "he"
+        },
+        {
+          "id": 7042,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_leafantlers",
+      "revision": 48148,
+      "parts": [
+        {
+          "id": 7043,
+          "type": "he"
+        },
+        {
+          "id": 7044,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftledhorns",
+      "revision": 96530,
+      "parts": [
+        {
+          "id": 7343,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftledhorns2",
+      "revision": 92296,
+      "parts": [
+        {
+          "id": 7341,
+          "type": "he"
+        },
+        {
+          "id": 7342,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftmoon",
+      "revision": 47832,
+      "parts": [
+        {
+          "id": 7203,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_spider",
+      "revision": 48181,
+      "parts": [
+        {
+          "id": 7236,
+          "type": "he"
+        },
+        {
+          "id": 7237,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_triangularearrings",
+      "revision": 21687,
+      "parts": [
+        {
+          "id": 7238,
+          "type": "he"
+        },
+        {
+          "id": 7239,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_crchatter",
+      "revision": 95806,
+      "parts": [
+        {
+          "id": 5758,
+          "type": "cp"
+        },
+        {
+          "id": 7257,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_crdance",
+      "revision": 88763,
+      "parts": [
+        {
+          "id": 7259,
+          "type": "cp"
+        },
+        {
+          "id": 7260,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_crfilm",
+      "revision": 56583,
+      "parts": [
+        {
+          "id": 7261,
+          "type": "cp"
+        },
+        {
+          "id": 7262,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_crmic",
+      "revision": 75766,
+      "parts": [
+        {
+          "id": 7263,
+          "type": "cp"
+        },
+        {
+          "id": 7264,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_crphoto",
+      "revision": 16799,
+      "parts": [
+        {
+          "id": 7255,
+          "type": "cp"
+        },
+        {
+          "id": 7256,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_elvenlamp",
+      "revision": 67917,
+      "parts": [
+        {
+          "id": 7045,
+          "type": "wa"
+        },
+        {
+          "id": 7046,
+          "type": "wa"
+        },
+        {
+          "id": 7047,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_elvensatchel",
+      "revision": 11110,
+      "parts": [
+        {
+          "id": 7088,
+          "type": "wa"
+        },
+        {
+          "id": 7089,
+          "type": "wa"
+        },
+        {
+          "id": 7090,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "face_U_iridescentskin1",
+      "revision": 83596,
+      "parts": [
+        {
+          "id": 7323,
+          "type": "lh"
+        },
+        {
+          "id": 7323,
+          "type": "bd"
+        },
+        {
+          "id": 7323,
+          "type": "rh"
+        },
+        {
+          "id": 7323,
+          "type": "hd"
+        },
+        {
+          "id": 7323,
+          "type": "ey"
+        },
+        {
+          "id": 7323,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_iridescentskin2",
+      "revision": 92020,
+      "parts": [
+        {
+          "id": 7324,
+          "type": "lh"
+        },
+        {
+          "id": 7324,
+          "type": "bd"
+        },
+        {
+          "id": 7324,
+          "type": "rh"
+        },
+        {
+          "id": 7324,
+          "type": "hd"
+        },
+        {
+          "id": 7324,
+          "type": "ey"
+        },
+        {
+          "id": 7324,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_mannequin",
+      "revision": 48899,
+      "parts": [
+        {
+          "id": 7186,
+          "type": "lh"
+        },
+        {
+          "id": 7186,
+          "type": "bd"
+        },
+        {
+          "id": 7186,
+          "type": "rh"
+        },
+        {
+          "id": 7186,
+          "type": "hd"
+        },
+        {
+          "id": 7186,
+          "type": "ey"
+        },
+        {
+          "id": 7186,
+          "type": "fc"
+        },
+        {
+          "id": 7187,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftelvenface",
+      "revision": 98708,
+      "parts": [
+        {
+          "id": 7328,
+          "type": "fc"
+        },
+        {
+          "id": 7329,
+          "type": "ey"
+        },
+        {
+          "id": 7330,
+          "type": "fc"
+        },
+        {
+          "id": 1,
+          "type": "hd"
+        },
+        {
+          "id": 1,
+          "type": "bd"
+        },
+        {
+          "id": 1,
+          "type": "lh"
+        },
+        {
+          "id": 1,
+          "type": "rh"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftelvenfaceb",
+      "revision": 73590,
+      "parts": [
+        {
+          "id": 7334,
+          "type": "ey"
+        },
+        {
+          "id": 7335,
+          "type": "fc"
+        },
+        {
+          "id": 1,
+          "type": "hd"
+        },
+        {
+          "id": 1,
+          "type": "bd"
+        },
+        {
+          "id": 1,
+          "type": "lh"
+        },
+        {
+          "id": 1,
+          "type": "rh"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_bouncyafro",
+      "revision": 73169,
+      "parts": [
+        {
+          "id": 7292,
+          "type": "hrb"
+        },
+        {
+          "id": 7292,
+          "type": "hr"
+        },
+        {
+          "id": 7293,
+          "type": "hrb"
+        },
+        {
+          "id": 7293,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_heartbuns",
+      "revision": 81156,
+      "parts": [
+        {
+          "id": 7322,
+          "type": "hrb"
+        },
+        {
+          "id": 7322,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_longbraidedelvenhair",
+      "revision": 99714,
+      "parts": [
+        {
+          "id": 7081,
+          "type": "hrb"
+        },
+        {
+          "id": 7081,
+          "type": "hr"
+        },
+        {
+          "id": 7082,
+          "type": "hrb"
+        },
+        {
+          "id": 7082,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftrollerdisco1",
+      "revision": 74840,
+      "parts": [
+        {
+          "id": 7381,
+          "type": "hrb"
+        },
+        {
+          "id": 7381,
+          "type": "hr"
+        },
+        {
+          "id": 7382,
+          "type": "hrb"
+        },
+        {
+          "id": 7382,
+          "type": "hr"
+        },
+        {
+          "id": 7383,
+          "type": "hrb"
+        },
+        {
+          "id": 7383,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftrollerdisco2",
+      "revision": 90096,
+      "parts": [
+        {
+          "id": 7384,
+          "type": "hrb"
+        },
+        {
+          "id": 7384,
+          "type": "hr"
+        },
+        {
+          "id": 7385,
+          "type": "hrb"
+        },
+        {
+          "id": 7385,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_nftrollerdisco3",
+      "revision": 48700,
+      "parts": [
+        {
+          "id": 7386,
+          "type": "hrb"
+        },
+        {
+          "id": 7386,
+          "type": "hr"
+        },
+        {
+          "id": 7387,
+          "type": "hrb"
+        },
+        {
+          "id": 7387,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_shortelvenhair",
+      "revision": 70213,
+      "parts": [
+        {
+          "id": 7079,
+          "type": "hrb"
+        },
+        {
+          "id": 7079,
+          "type": "hr"
+        },
+        {
+          "id": 7080,
+          "type": "hrb"
+        },
+        {
+          "id": 7080,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_iridescentrainhood",
+      "revision": 92249,
+      "parts": [
+        {
+          "id": 7295,
+          "type": "ha"
+        },
+        {
+          "id": 7296,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_iridescentraincoat",
+      "revision": 92201,
+      "parts": [
+        {
+          "id": 7297,
+          "type": "lc"
+        },
+        {
+          "id": 7297,
+          "type": "cc"
+        },
+        {
+          "id": 7297,
+          "type": "rc"
+        },
+        {
+          "id": 7298,
+          "type": "cc"
+        },
+        {
+          "id": 7298,
+          "type": "lc"
+        },
+        {
+          "id": 7298,
+          "type": "rc"
+        },
+        {
+          "id": 7299,
+          "type": "lc"
+        },
+        {
+          "id": 7299,
+          "type": "cc"
+        },
+        {
+          "id": 7299,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_mduckhat",
+      "revision": 32834,
+      "parts": [
+        {
+          "id": 7277,
+          "type": "ha"
+        },
+        {
+          "id": 7278,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tigeronesiehead",
+      "revision": 52850,
+      "parts": [
+        {
+          "id": 7233,
+          "type": "ha"
+        },
+        {
+          "id": 7234,
+          "type": "ha"
+        },
+        {
+          "id": 7235,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tigeronesie",
+      "revision": 63617,
+      "parts": [
+        {
+          "id": 7230,
+          "type": "ls"
+        },
+        {
+          "id": 7230,
+          "type": "ch"
+        },
+        {
+          "id": 7230,
+          "type": "rs"
+        },
+        {
+          "id": 7231,
+          "type": "ch"
+        },
+        {
+          "id": 7231,
+          "type": "ls"
+        },
+        {
+          "id": 7231,
+          "type": "rs"
+        },
+        {
+          "id": 7232,
+          "type": "ch"
+        },
+        {
+          "id": 7232,
+          "type": "ls"
+        },
+        {
+          "id": 7232,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_mhoodieicons",
+      "revision": 38623,
+      "parts": [
+        {
+          "id": 7306,
+          "type": "lc"
+        },
+        {
+          "id": 7306,
+          "type": "rc"
+        },
+        {
+          "id": 7306,
+          "type": "cc"
+        },
+        {
+          "id": 7307,
+          "type": "cc"
+        },
+        {
+          "id": 7307,
+          "type": "rc"
+        },
+        {
+          "id": 7307,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_mhoodieicons",
+      "revision": 32162,
+      "parts": [
+        {
+          "id": 7308,
+          "type": "lc"
+        },
+        {
+          "id": 7308,
+          "type": "rc"
+        },
+        {
+          "id": 7308,
+          "type": "cc"
+        },
+        {
+          "id": 7309,
+          "type": "cc"
+        },
+        {
+          "id": 7309,
+          "type": "rc"
+        },
+        {
+          "id": 7309,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_msweatshirtrooms",
+      "revision": 52923,
+      "parts": [
+        {
+          "id": 7312,
+          "type": "cc"
+        },
+        {
+          "id": 7312,
+          "type": "lc"
+        },
+        {
+          "id": 7312,
+          "type": "rc"
+        },
+        {
+          "id": 7313,
+          "type": "cc"
+        },
+        {
+          "id": 7313,
+          "type": "rc"
+        },
+        {
+          "id": 7313,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_msweatshirtrooms",
+      "revision": 14045,
+      "parts": [
+        {
+          "id": 7310,
+          "type": "cc"
+        },
+        {
+          "id": 7310,
+          "type": "lc"
+        },
+        {
+          "id": 7310,
+          "type": "rc"
+        },
+        {
+          "id": 7311,
+          "type": "cc"
+        },
+        {
+          "id": 7311,
+          "type": "rc"
+        },
+        {
+          "id": 7311,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_croppedhoodie",
+      "revision": 67243,
+      "parts": [
+        {
+          "id": 7272,
+          "type": "lc"
+        },
+        {
+          "id": 7272,
+          "type": "cc"
+        },
+        {
+          "id": 7272,
+          "type": "rc"
+        },
+        {
+          "id": 7273,
+          "type": "cc"
+        },
+        {
+          "id": 7273,
+          "type": "lc"
+        },
+        {
+          "id": 7273,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_elvenleafcape",
+      "revision": 94586,
+      "parts": [
+        {
+          "id": 7036,
+          "type": "cc"
+        },
+        {
+          "id": 7036,
+          "type": "rc"
+        },
+        {
+          "id": 7036,
+          "type": "lc"
+        },
+        {
+          "id": 7037,
+          "type": "rc"
+        },
+        {
+          "id": 7037,
+          "type": "lc"
+        },
+        {
+          "id": 7038,
+          "type": "cc"
+        },
+        {
+          "id": 7038,
+          "type": "rc"
+        },
+        {
+          "id": 7038,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_elvendress",
+      "revision": 29146,
+      "parts": [
+        {
+          "id": 7030,
+          "type": "ch"
+        },
+        {
+          "id": 7031,
+          "type": "ch"
+        },
+        {
+          "id": 7032,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_elvendress",
+      "revision": 75199,
+      "parts": [
+        {
+          "id": 7033,
+          "type": "ch"
+        },
+        {
+          "id": 7034,
+          "type": "ch"
+        },
+        {
+          "id": 7035,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_boombox",
+      "revision": 15758,
+      "parts": [
+        {
+          "id": 7325,
+          "type": "mcr"
+        },
+        {
+          "id": 7325,
+          "type": "mc"
+        },
+        {
+          "id": 7325,
+          "type": "mcl"
+        },
+        {
+          "id": 7326,
+          "type": "mcr"
+        },
+        {
+          "id": 7326,
+          "type": "mc"
+        },
+        {
+          "id": 7326,
+          "type": "mcl"
+        },
+        {
+          "id": 7327,
+          "type": "mcr"
+        },
+        {
+          "id": 7327,
+          "type": "mc"
+        },
+        {
+          "id": 7327,
+          "type": "mcl"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_keychainegg",
+      "revision": 91646,
+      "parts": [
+        {
+          "id": 1,
+          "type": "mcr"
+        },
+        {
+          "id": 7268,
+          "type": "mc"
+        },
+        {
+          "id": 7268,
+          "type": "mcl"
+        },
+        {
+          "id": 7268,
+          "type": "mcr"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_keychainshark",
+      "revision": 61632,
+      "parts": [
+        {
+          "id": 7270,
+          "type": "mc"
+        },
+        {
+          "id": 7270,
+          "type": "mcl"
+        },
+        {
+          "id": 7270,
+          "type": "mcr"
+        },
+        {
+          "id": 7271,
+          "type": "mc"
+        },
+        {
+          "id": 7271,
+          "type": "mcl"
+        },
+        {
+          "id": 7271,
+          "type": "mcr"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_keychaintoast",
+      "revision": 56265,
+      "parts": [
+        {
+          "id": 1,
+          "type": "mcr"
+        },
+        {
+          "id": 7269,
+          "type": "mc"
+        },
+        {
+          "id": 7269,
+          "type": "mcl"
+        },
+        {
+          "id": 7269,
+          "type": "mcr"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_nftkeytar",
+      "revision": 94100,
+      "parts": [
+        {
+          "id": 7388,
+          "type": "mc"
+        },
+        {
+          "id": 7388,
+          "type": "mcl"
+        },
+        {
+          "id": 7388,
+          "type": "mcr"
+        },
+        {
+          "id": 7389,
+          "type": "mc"
+        },
+        {
+          "id": 7389,
+          "type": "mcl"
+        },
+        {
+          "id": 7389,
+          "type": "mcr"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_nftledbracelet",
+      "revision": 10040,
+      "parts": [
+        {
+          "id": 7343,
+          "type": "mcr"
+        },
+        {
+          "id": 7343,
+          "type": "mcl"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_nftledbracelet2",
+      "revision": 39066,
+      "parts": [
+        {
+          "id": 7344,
+          "type": "mcr"
+        },
+        {
+          "id": 7344,
+          "type": "mcl"
+        },
+        {
+          "id": 7345,
+          "type": "mcr"
+        },
+        {
+          "id": 7345,
+          "type": "mcl"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_nftmusicalnotes",
+      "revision": 57383,
+      "parts": [
+        {
+          "id": 7347,
+          "type": "mcr"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_nftwarhammer",
+      "revision": 80190,
+      "parts": [
+        {
+          "id": 7351,
+          "type": "mcr"
+        },
+        {
+          "id": 7351,
+          "type": "mcl"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_nftyoyo",
+      "revision": 80760,
+      "parts": [
+        {
+          "id": 7348,
+          "type": "mc"
+        },
+        {
+          "id": 7348,
+          "type": "mcl"
+        },
+        {
+          "id": 7348,
+          "type": "mcr"
+        }
+      ]
+    },
+    {
+      "id": "pet_U_nftsquirrel",
+      "revision": 50917,
+      "parts": [
+        {
+          "id": 7339,
+          "type": "pt"
+        },
+        {
+          "id": 7339,
+          "type": "ptl"
+        },
+        {
+          "id": 7339,
+          "type": "ptr"
+        }
+      ]
+    },
+    {
+      "id": "pet_U_toucan",
+      "revision": 29599,
+      "parts": [
+        {
+          "id": 7221,
+          "type": "ptr"
+        },
+        {
+          "id": 7221,
+          "type": "pt"
+        },
+        {
+          "id": 7221,
+          "type": "ptl"
+        },
+        {
+          "id": 7222,
+          "type": "ptr"
+        },
+        {
+          "id": 7222,
+          "type": "pt"
+        },
+        {
+          "id": 7222,
+          "type": "ptl"
+        },
+        {
+          "id": 7223,
+          "type": "ptr"
+        },
+        {
+          "id": 7223,
+          "type": "pt"
+        },
+        {
+          "id": 7223,
+          "type": "ptl"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_controller",
+      "revision": 54087,
+      "parts": [
+        {
+          "id": 6995,
+          "type": "ls"
+        },
+        {
+          "id": 6995,
+          "type": "ch"
+        },
+        {
+          "id": 6995,
+          "type": "rs"
+        },
+        {
+          "id": 6996,
+          "type": "ch"
+        },
+        {
+          "id": 6996,
+          "type": "rs"
+        },
+        {
+          "id": 6996,
+          "type": "ls"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_controller",
+      "revision": 99205,
+      "parts": [
+        {
+          "id": 6993,
+          "type": "ls"
+        },
+        {
+          "id": 6993,
+          "type": "ch"
+        },
+        {
+          "id": 6993,
+          "type": "rs"
+        },
+        {
+          "id": 6994,
+          "type": "ch"
+        },
+        {
+          "id": 6994,
+          "type": "ls"
+        },
+        {
+          "id": 6994,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_creatorhoodie",
+      "revision": 22967,
+      "parts": [
+        {
+          "id": 7253,
+          "type": "rs"
+        },
+        {
+          "id": 7253,
+          "type": "ls"
+        },
+        {
+          "id": 7253,
+          "type": "ch"
+        },
+        {
+          "id": 7254,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_creatorhoodie",
+      "revision": 74801,
+      "parts": [
+        {
+          "id": 7251,
+          "type": "rs"
+        },
+        {
+          "id": 7251,
+          "type": "ls"
+        },
+        {
+          "id": 7251,
+          "type": "ch"
+        },
+        {
+          "id": 7252,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_duckethoneyshirt",
+      "revision": 22962,
+      "parts": [
+        {
+          "id": 7212,
+          "type": "ls"
+        },
+        {
+          "id": 7212,
+          "type": "ch"
+        },
+        {
+          "id": 7212,
+          "type": "rs"
+        },
+        {
+          "id": 7213,
+          "type": "ls"
+        },
+        {
+          "id": 7213,
+          "type": "ch"
+        },
+        {
+          "id": 7213,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_duckethoneyshirt",
+      "revision": 10350,
+      "parts": [
+        {
+          "id": 7210,
+          "type": "ls"
+        },
+        {
+          "id": 7210,
+          "type": "ch"
+        },
+        {
+          "id": 7210,
+          "type": "rs"
+        },
+        {
+          "id": 7211,
+          "type": "ls"
+        },
+        {
+          "id": 7211,
+          "type": "ch"
+        },
+        {
+          "id": 7211,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_elvenmithriltop",
+      "revision": 93235,
+      "parts": [
+        {
+          "id": 7094,
+          "type": "ls"
+        },
+        {
+          "id": 7094,
+          "type": "ch"
+        },
+        {
+          "id": 7094,
+          "type": "rs"
+        },
+        {
+          "id": 7095,
+          "type": "ch"
+        },
+        {
+          "id": 7095,
+          "type": "rs"
+        },
+        {
+          "id": 7095,
+          "type": "ls"
+        },
+        {
+          "id": 7096,
+          "type": "ls"
+        },
+        {
+          "id": 7096,
+          "type": "ch"
+        },
+        {
+          "id": 7096,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_elvenmithriltop",
+      "revision": 37210,
+      "parts": [
+        {
+          "id": 7091,
+          "type": "ls"
+        },
+        {
+          "id": 7091,
+          "type": "ch"
+        },
+        {
+          "id": 7091,
+          "type": "rs"
+        },
+        {
+          "id": 7092,
+          "type": "ch"
+        },
+        {
+          "id": 7092,
+          "type": "rs"
+        },
+        {
+          "id": 7092,
+          "type": "ls"
+        },
+        {
+          "id": 7093,
+          "type": "ls"
+        },
+        {
+          "id": 7093,
+          "type": "ch"
+        },
+        {
+          "id": 7093,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_elvenbasiccape",
+      "revision": 77137,
+      "parts": [
+        {
+          "id": 7070,
+          "type": "lc"
+        },
+        {
+          "id": 7070,
+          "type": "cc"
+        },
+        {
+          "id": 7070,
+          "type": "rc"
+        },
+        {
+          "id": 7071,
+          "type": "lc"
+        },
+        {
+          "id": 7071,
+          "type": "cc"
+        },
+        {
+          "id": 7071,
+          "type": "rc"
+        },
+        {
+          "id": 7072,
+          "type": "lc"
+        },
+        {
+          "id": 7072,
+          "type": "cc"
+        },
+        {
+          "id": 7072,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_elventunic",
+      "revision": 74509,
+      "parts": [
+        {
+          "id": 7076,
+          "type": "ls"
+        },
+        {
+          "id": 7076,
+          "type": "ch"
+        },
+        {
+          "id": 7076,
+          "type": "rs"
+        },
+        {
+          "id": 7077,
+          "type": "ls"
+        },
+        {
+          "id": 7077,
+          "type": "ch"
+        },
+        {
+          "id": 7077,
+          "type": "rs"
+        },
+        {
+          "id": 7078,
+          "type": "ls"
+        },
+        {
+          "id": 7078,
+          "type": "ch"
+        },
+        {
+          "id": 7078,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_elventunic",
+      "revision": 92106,
+      "parts": [
+        {
+          "id": 7073,
+          "type": "ls"
+        },
+        {
+          "id": 7073,
+          "type": "ch"
+        },
+        {
+          "id": 7073,
+          "type": "rs"
+        },
+        {
+          "id": 7074,
+          "type": "ls"
+        },
+        {
+          "id": 7074,
+          "type": "ch"
+        },
+        {
+          "id": 7074,
+          "type": "rs"
+        },
+        {
+          "id": 7075,
+          "type": "ls"
+        },
+        {
+          "id": 7075,
+          "type": "ch"
+        },
+        {
+          "id": 7075,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_mhandshirt",
+      "revision": 99163,
+      "parts": [
+        {
+          "id": 7280,
+          "type": "rs"
+        },
+        {
+          "id": 7280,
+          "type": "ls"
+        },
+        {
+          "id": 7280,
+          "type": "ch"
+        },
+        {
+          "id": 7281,
+          "type": "rs"
+        },
+        {
+          "id": 7281,
+          "type": "ls"
+        },
+        {
+          "id": 7281,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_mhandshirt",
+      "revision": 25502,
+      "parts": [
+        {
+          "id": 7282,
+          "type": "rs"
+        },
+        {
+          "id": 7282,
+          "type": "ls"
+        },
+        {
+          "id": 7282,
+          "type": "ch"
+        },
+        {
+          "id": 7283,
+          "type": "rs"
+        },
+        {
+          "id": 7283,
+          "type": "ls"
+        },
+        {
+          "id": 7283,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_mltdshirt",
+      "revision": 55672,
+      "parts": [
+        {
+          "id": 7288,
+          "type": "rs"
+        },
+        {
+          "id": 7288,
+          "type": "ls"
+        },
+        {
+          "id": 7288,
+          "type": "ch"
+        },
+        {
+          "id": 7289,
+          "type": "rs"
+        },
+        {
+          "id": 7289,
+          "type": "ls"
+        },
+        {
+          "id": 7289,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_mltdshirt",
+      "revision": 57073,
+      "parts": [
+        {
+          "id": 7290,
+          "type": "rs"
+        },
+        {
+          "id": 7290,
+          "type": "ls"
+        },
+        {
+          "id": 7290,
+          "type": "ch"
+        },
+        {
+          "id": 7291,
+          "type": "rs"
+        },
+        {
+          "id": 7291,
+          "type": "ls"
+        },
+        {
+          "id": 7291,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_mrareshirt",
+      "revision": 49576,
+      "parts": [
+        {
+          "id": 7284,
+          "type": "rs"
+        },
+        {
+          "id": 7284,
+          "type": "ls"
+        },
+        {
+          "id": 7284,
+          "type": "ch"
+        },
+        {
+          "id": 7285,
+          "type": "rs"
+        },
+        {
+          "id": 7285,
+          "type": "ls"
+        },
+        {
+          "id": 7285,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_mrareshirt",
+      "revision": 39869,
+      "parts": [
+        {
+          "id": 7286,
+          "type": "rs"
+        },
+        {
+          "id": 7286,
+          "type": "ls"
+        },
+        {
+          "id": 7286,
+          "type": "ch"
+        },
+        {
+          "id": 7287,
+          "type": "rs"
+        },
+        {
+          "id": 7287,
+          "type": "ls"
+        },
+        {
+          "id": 7287,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_mteeduck",
+      "revision": 27708,
+      "parts": [
+        {
+          "id": 7316,
+          "type": "rs"
+        },
+        {
+          "id": 7316,
+          "type": "ls"
+        },
+        {
+          "id": 7316,
+          "type": "ch"
+        },
+        {
+          "id": 7317,
+          "type": "rs"
+        },
+        {
+          "id": 7317,
+          "type": "ls"
+        },
+        {
+          "id": 7317,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_mteeduck",
+      "revision": 53742,
+      "parts": [
+        {
+          "id": 7314,
+          "type": "rs"
+        },
+        {
+          "id": 7314,
+          "type": "ls"
+        },
+        {
+          "id": 7314,
+          "type": "ch"
+        },
+        {
+          "id": 7315,
+          "type": "rs"
+        },
+        {
+          "id": 7315,
+          "type": "ls"
+        },
+        {
+          "id": 7315,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_mteeduckgang",
+      "revision": 25713,
+      "parts": [
+        {
+          "id": 7320,
+          "type": "rs"
+        },
+        {
+          "id": 7320,
+          "type": "ls"
+        },
+        {
+          "id": 7320,
+          "type": "ch"
+        },
+        {
+          "id": 7321,
+          "type": "rs"
+        },
+        {
+          "id": 7321,
+          "type": "ls"
+        },
+        {
+          "id": 7321,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_mteeduckgang",
+      "revision": 72892,
+      "parts": [
+        {
+          "id": 7318,
+          "type": "rs"
+        },
+        {
+          "id": 7318,
+          "type": "ls"
+        },
+        {
+          "id": 7318,
+          "type": "ch"
+        },
+        {
+          "id": 7319,
+          "type": "rs"
+        },
+        {
+          "id": 7319,
+          "type": "ls"
+        },
+        {
+          "id": 7319,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_fishnets",
+      "revision": 18748,
+      "parts": [
+        {
+          "id": 6454,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_fishnetsshoes",
+      "revision": 59138,
+      "parts": [
+        {
+          "id": 7358,
+          "type": "sh"
+        },
+        {
+          "id": 7359,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_fishnetsskirt",
+      "revision": 94363,
+      "parts": [
+        {
+          "id": 7274,
+          "type": "lg"
+        },
+        {
+          "id": 7275,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_longelvenhair",
+      "revision": 80725,
+      "parts": [
+        {
+          "id": 7098,
+          "type": "hrb"
+        },
+        {
+          "id": 7098,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "shoe_U_mixandmatchskates",
+      "revision": 43235,
+      "parts": [
+        {
+          "id": 7303,
+          "type": "sh"
+        },
+        {
+          "id": 7304,
+          "type": "sh"
+        },
+        {
+          "id": 7305,
+          "type": "sh"
         }
       ]
     }
