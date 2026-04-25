@@ -65513,6 +65513,152 @@
           "type": "cc"
         }
       ]
+    },
+    {
+      "id": "shirt_M_creatorhoodie",
+      "revision": 1777140402,
+      "parts": [
+        {
+          "id": 7251,
+          "type": "rs"
+        },
+        {
+          "id": 7251,
+          "type": "ls"
+        },
+        {
+          "id": 7251,
+          "type": "ch"
+        },
+        {
+          "id": 7252,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_creatorhoodie",
+      "revision": 1777140402,
+      "parts": [
+        {
+          "id": 7253,
+          "type": "rs"
+        },
+        {
+          "id": 7253,
+          "type": "ls"
+        },
+        {
+          "id": 7253,
+          "type": "ch"
+        },
+        {
+          "id": 7254,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv25starOverall",
+      "revision": 1777145488,
+      "parts": [
+        {
+          "id": 50000047,
+          "type": "ch"
+        },
+        {
+          "id": 50000047,
+          "type": "ls"
+        },
+        {
+          "id": 50000047,
+          "type": "rs"
+        },
+        {
+          "id": 50000048,
+          "type": "ch"
+        },
+        {
+          "id": 50000049,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26PelucheHelloKitty",
+      "revision": 1777146545,
+      "parts": [
+        {
+          "id": 90000097,
+          "type": "lc"
+        },
+        {
+          "id": 90000097,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_26BurbujasMagicas",
+      "revision": 1777149596,
+      "parts": [
+        {
+          "id": 110000220,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_CarteraAlmeja",
+      "revision": 1777149975,
+      "parts": [
+        {
+          "id": 10001224,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_longelvenhair",
+      "revision": 1777150377,
+      "parts": [
+        {
+          "id": 7098,
+          "type": "hrb"
+        },
+        {
+          "id": 7098,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_PelucheWoody",
+      "revision": 1777151223,
+      "parts": [
+        {
+          "id": 30001491,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_teacuphead",
+      "revision": 1777152371,
+      "parts": [
+        {
+          "id": 6629,
+          "type": "ha"
+        },
+        {
+          "id": 6630,
+          "type": "ha"
+        },
+        {
+          "id": 6631,
+          "type": "ha"
+        }
+      ]
     }
   ]
 }
