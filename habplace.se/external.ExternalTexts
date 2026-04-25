@@ -39952,5 +39952,7 @@
   "memenu.settings.disable.commandspopup": "Inaktivera kommando pop-up",
   "events.alert.simple": "Ett nytt Event har börjat: (%room%)!",
   "events.simple.goto": "Gå dit",
-  "events.simple.ignore": "Ignorera"
+  "events.simple.ignore": "Ignorera",
+  "room.confirm.pick_wired": "Vill du verkligen ta upp alla wired från rummet?",
+  "room.confirm.rollback": "Är du säker på att du vill återställa rummet? Alla ändringar sedan senaste omladdningen försvinner!"
 }
