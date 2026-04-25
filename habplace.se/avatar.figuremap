@@ -51711,6 +51711,42 @@
           "type": "lg"
         }
       ]
+    },
+    {
+      "id": "hat_U_bunnyearscap",
+      "revision": 76876,
+      "parts": [
+        {
+          "id": 337719419,
+          "type": "ha"
+        },
+        {
+          "id": 337719420,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_backbunny",
+      "revision": 38193,
+      "parts": [
+        {
+          "id": 80000195,
+          "type": "ca"
+        },
+        {
+          "id": 80000196,
+          "type": "ca"
+        },
+        {
+          "id": 80000197,
+          "type": "ca"
+        },
+        {
+          "id": 80000198,
+          "type": "ca"
+        }
+      ]
     }
   ]
 }
