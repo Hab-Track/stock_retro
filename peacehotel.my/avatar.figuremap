@@ -65560,7 +65560,7 @@
     },
     {
       "id": "shirt_U_tv25starOverall",
-      "revision": 1777145488,
+      "revision": 1777203964,
       "parts": [
         {
           "id": 50000047,
@@ -65685,6 +65685,362 @@
         {
           "id": 10001171,
           "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_firewings",
+      "revision": 1777200327,
+      "parts": [
+        {
+          "id": 2199483,
+          "type": "he"
+        },
+        {
+          "id": 2199484,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv26ConoDerretido",
+      "revision": 1777200554,
+      "parts": [
+        {
+          "id": 50000204,
+          "type": "ha"
+        },
+        {
+          "id": 50000205,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_cassmonkeyface",
+      "revision": 1777200703,
+      "parts": [
+        {
+          "id": 488057,
+          "type": "fa"
+        },
+        {
+          "id": 488058,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv25vendasfaciales",
+      "revision": 1777200874,
+      "parts": [
+        {
+          "id": 10001129,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv24sleepypillow",
+      "revision": 1777201096,
+      "parts": [
+        {
+          "id": 10000727,
+          "type": "cc"
+        },
+        {
+          "id": 10000728,
+          "type": "cc"
+        },
+        {
+          "id": 10000729,
+          "type": "lc"
+        },
+        {
+          "id": 10000729,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_tv26PeinadoMelena90s",
+      "revision": 1777201504,
+      "parts": [
+        {
+          "id": 130000018,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26CapaBoltonV2",
+      "revision": 1777201543,
+      "parts": [
+        {
+          "id": 110000181,
+          "type": "cc"
+        },
+        {
+          "id": 110000181,
+          "type": "lc"
+        },
+        {
+          "id": 110000181,
+          "type": "rc"
+        },
+        {
+          "id": 110000182,
+          "type": "cc"
+        },
+        {
+          "id": 110000182,
+          "type": "lc"
+        },
+        {
+          "id": 110000182,
+          "type": "rc"
+        },
+        {
+          "id": 110000183,
+          "type": "cc"
+        },
+        {
+          "id": 110000183,
+          "type": "lc"
+        },
+        {
+          "id": 110000183,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_uniformfix",
+      "revision": 1777202765,
+      "parts": [
+        {
+          "id": 10000161,
+          "type": "cc"
+        },
+        {
+          "id": 10000162,
+          "type": "cc"
+        },
+        {
+          "id": 10000163,
+          "type": "lc"
+        },
+        {
+          "id": 10000163,
+          "type": "rc"
+        },
+        {
+          "id": 10000164,
+          "type": "lc"
+        },
+        {
+          "id": 10000164,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_PurosSmoker",
+      "revision": 1777202799,
+      "parts": [
+        {
+          "id": 70000022,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26tvChaquetaAcolchad",
+      "revision": 1777202942,
+      "parts": [
+        {
+          "id": 80000157,
+          "type": "cc"
+        },
+        {
+          "id": 80000157,
+          "type": "lc"
+        },
+        {
+          "id": 80000157,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_uniform",
+      "revision": 1777203231,
+      "parts": [
+        {
+          "id": 10000161,
+          "type": "cc"
+        },
+        {
+          "id": 10000162,
+          "type": "cc"
+        },
+        {
+          "id": 10000163,
+          "type": "lc"
+        },
+        {
+          "id": 10000163,
+          "type": "rc"
+        },
+        {
+          "id": 10000164,
+          "type": "lc"
+        },
+        {
+          "id": 10000164,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tigeronesiehead",
+      "revision": 1777203496,
+      "parts": [
+        {
+          "id": 7233,
+          "type": "ha"
+        },
+        {
+          "id": 7234,
+          "type": "ha"
+        },
+        {
+          "id": 7235,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tigeronesie",
+      "revision": 1777203498,
+      "parts": [
+        {
+          "id": 7230,
+          "type": "ls"
+        },
+        {
+          "id": 7230,
+          "type": "ch"
+        },
+        {
+          "id": 7230,
+          "type": "rs"
+        },
+        {
+          "id": 7231,
+          "type": "ch"
+        },
+        {
+          "id": 7231,
+          "type": "ls"
+        },
+        {
+          "id": 7231,
+          "type": "rs"
+        },
+        {
+          "id": 7232,
+          "type": "ch"
+        },
+        {
+          "id": 7232,
+          "type": "ls"
+        },
+        {
+          "id": 7232,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_tv25chanclasNinja",
+      "revision": 1777209598,
+      "parts": [
+        {
+          "id": 50000104,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_cassmadaoshieldv2",
+      "revision": 1777209778,
+      "parts": [
+        {
+          "id": 488016,
+          "type": "lc"
+        },
+        {
+          "id": 488016,
+          "type": "rc"
+        },
+        {
+          "id": 488017,
+          "type": "lc"
+        },
+        {
+          "id": 488017,
+          "type": "rc"
+        },
+        {
+          "id": 488018,
+          "type": "lc"
+        },
+        {
+          "id": 488018,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_vinewings",
+      "revision": 1777210008,
+      "parts": [
+        {
+          "id": 7249,
+          "type": "ca"
+        },
+        {
+          "id": 7250,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_nfthobbyhorse2",
+      "revision": 1777210840,
+      "parts": [
+        {
+          "id": 6921,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv25onesie",
+      "revision": 1777211393,
+      "parts": [
+        {
+          "id": 50000050,
+          "type": "ch"
+        },
+        {
+          "id": 50000050,
+          "type": "ls"
+        },
+        {
+          "id": 50000050,
+          "type": "rs"
         }
       ]
     }
