@@ -16968,10 +16968,10 @@
     },
     {
       "id": "acc_head_U_haloheart",
-      "revision": 10712,
+      "revision": 1777192750,
       "parts": [
         {
-          "id": 10000260,
+          "id": 100000270,
           "type": "he"
         }
       ]
@@ -65657,6 +65657,34 @@
         {
           "id": 6631,
           "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_bandagedhead",
+      "revision": 1777187464,
+      "parts": [
+        {
+          "id": 6818,
+          "type": "he"
+        },
+        {
+          "id": 6819,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv25colorburger",
+      "revision": 1777193162,
+      "parts": [
+        {
+          "id": 10001170,
+          "type": "ch"
+        },
+        {
+          "id": 10001171,
+          "type": "ch"
         }
       ]
     }
