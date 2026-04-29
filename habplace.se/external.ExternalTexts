@@ -40003,5 +40003,19 @@
   "infostand.branding.offset_z": "Z",
   "infostand.branding.drag": "Drag to change X/Y",
   "infostand.branding.advanced": "Advanced",
-  "infostand.button.edit": "Furni Editor"
+  "infostand.button.edit": "Furni Editor",
+  "mentions.title": "Omnämningar",
+  "mentions.dismiss_all": "RENSA",
+  "mentions.follow": "Följ",
+  "mentions.dismiss": "Ta bort",
+  "mentions.time.second": "%amount% sekund sedan",
+  "mentions.time.seconds": "%amount% sekunder sedan",
+  "mentions.time.minute": "%amount% minut sedan",
+  "mentions.time.minutes": "%amount% minuter sedan",
+  "mentions.time.hour": "%amount% timme sedan",
+  "mentions.time.hours": "%amount% timmar sedan",
+  "mentions.time.day": "%amount% dag sedan",
+  "mentions.time.days": "%amount% dagar sedan",
+  "memenu.settings.other.mentions.enabled": "Tillåt omnämningar",
+  "inventory.trading.hover_item": "Håll muspekaren över ett föremål"
 }
