@@ -21448,18 +21448,18 @@
     },
     {
       "id": "hat_U_icecreamoutfit",
-      "revision": 10390,
+      "revision": 1777479475,
       "parts": [
+        {
+          "id": 5001,
+          "type": "ha"
+        },
         {
           "id": 4999,
           "type": "ha"
         },
         {
           "id": 5000,
-          "type": "ha"
-        },
-        {
-          "id": 5001,
           "type": "ha"
         }
       ]
@@ -21488,23 +21488,23 @@
     },
     {
       "id": "shirt_M_icecreamoutfit",
-      "revision": 10388,
+      "revision": 1777479475,
       "parts": [
         {
           "id": 5002,
           "type": "ch"
         },
         {
-          "id": 5002,
+          "id": 5003,
           "type": "ls"
-        },
-        {
-          "id": 5002,
-          "type": "rs"
         },
         {
           "id": 5003,
           "type": "ch"
+        },
+        {
+          "id": 5003,
+          "type": "rs"
         }
       ]
     },
@@ -66284,6 +66284,16 @@
       "parts": [
         {
           "id": 10001192,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv24mochilahuella",
+      "revision": 1777479530,
+      "parts": [
+        {
+          "id": 10000763,
           "type": "ca"
         }
       ]
