@@ -40019,5 +40019,21 @@
   "memenu.settings.other.mentions.enabled": "Tillåt omnämningar",
   "inventory.trading.hover_item": "Håll muspekaren över ett föremål",
   "badge_desc_WCC45": "Självklart firat på Habplace!",
-  "badge_name_WCC45": "Valborg 2026"
+  "badge_name_WCC45": "Valborg 2026",
+  "inventory.furni.byroom": "Möbler per rum",
+  "inventory.furni.byroom.room_name": "Rumsnamn",
+  "inventory.furni.byroom.owner": "Ägare:",
+  "inventory.furni.byroom.unknown_owner": "Okänd ägare",
+  "inventory.furni.byroom.room_fallback": "Rum %roomId%",
+  "inventory.furni.byroom.item_count.one": "%count% möbel",
+  "inventory.furni.byroom.item_count": "%count% möbler",
+  "inventory.furni.byroom.select_room": "Välj ett rum",
+  "inventory.furni.byroom.loading": "Laddar möbler per rum...",
+  "inventory.furni.byroom.error": "Det går inte att lasta möbler per rum just nu.",
+  "inventory.furni.byroom.empty": "Du har inga möbler placerade i några rum.",
+  "inventory.furni.byroom.visit_room": "Besök rum",
+  "inventory.furni.byroom.room_info": "Rumsinformation",
+  "inventory.furni.byroom.items": "Möbler:",
+  "avatareditor.color.mode.preset": "Standard",
+  "avatareditor.color.mode.custom": "Custom"
 }
