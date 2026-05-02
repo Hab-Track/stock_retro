@@ -23508,6 +23508,8 @@
   "handitem804": "Monster Original",
   "handitem805": "Norrlands Guld",
   "handitem806": "Coca-Cola",
+  "handitem1807": "Vete",
+  "handitem1808": "Majskolv",
   "Hand item1000": "rose",
   "handitem1000": "ros",
   "Hand item1001": "black rose",
@@ -37327,6 +37329,7 @@
   "room.error.type_limit": "Du har nått gränsen för hur många av detta du kan placera i rummet.",
   "room.error.wired.delayed_events_cap": "Frank kan inte hålla koll längre! För många utdröjda wired effects är aktiva i rummet.",
   "room.error.wired.execution_cap": "Frank får panik! För många wired executions, denna wired-setup kanske slutar fungera.",
+  "room.error.plugin_move": "Kan inte placera föremålet här",
   "room.history.button.back.tooltip": "Gå till förra rummet i historiken",
   "room.history.button.forward.tooltip": "Gå till nästa rum i historiken",
   "room.history.button.tooltip": "Visa rumhistorik",
@@ -40076,5 +40079,8 @@
   "wiredfurni.match.neg_test_y": "Check if Y position NOT matches",
   "wiredfurni.match.neg_test_z": "Check if height NOT matches",
   "wiredfurni.match.neg_test_state": "Check if state NOT matches",
-  "wiredfurni.match.neg_test_rot": "Check if rotation NOT matches"
+  "wiredfurni.match.neg_test_rot": "Check if rotation NOT matches",
+  "wiredfurni.params.bubble_alert.image": "Image URL",
+  "wiredfurni.params.bubble_alert.image.placeholder": "image.png",
+  "wiredfurni.params.bubble_alert.user_only": "Only show to triggering user"
 }
