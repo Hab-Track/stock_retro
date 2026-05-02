@@ -40064,5 +40064,17 @@
   "wiredfurni.condmove.move_target.help": "Select where furnis will be moved to",
   "wiredfurni.match.use_conditions": "Check against conditions",
   "wiredfurni.conditionaltoggle.options.exclude_state_list": "Exclude toggle states",
-  "wiredfurni.conditionaltoggle.options.exclude_state_list.placeholder": "Example: 1, 2, 3"
+  "wiredfurni.conditionaltoggle.options.exclude_state_list.placeholder": "Example: 1, 2, 3",
+  "infostand.interactions.rotate": "Rotera",
+  "wiredfurni.match.test_x": "Check if X position matches",
+  "wiredfurni.match.test_y": "Check if Y position matches",
+  "wiredfurni.match.test_z": "Check if height matches",
+  "wiredfurni.match.test_state": "Check if state matches",
+  "wiredfurni.match.test_rot": "Check if rotation matches",
+  "wiredfurni.match.negated_conditions": "Negated Conditions",
+  "wiredfurni.match.neg_test_x": "Check if X position NOT matches",
+  "wiredfurni.match.neg_test_y": "Check if Y position NOT matches",
+  "wiredfurni.match.neg_test_z": "Check if height NOT matches",
+  "wiredfurni.match.neg_test_state": "Check if state NOT matches",
+  "wiredfurni.match.neg_test_rot": "Check if rotation NOT matches"
 }
