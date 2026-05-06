@@ -1,6 +1,6 @@
 ﻿{
-  "socket.url": "wss://ws2.nabbo.es",
   "socket.url.backup": "wss://ws.nabbo.es",
+  "socket.url": "wss://ws2.nabbo.es",
   "asset.url": "https://swfs.nabbo.es",
   "image.library.url": "https://swfs.nabbo.es/c_images//",
   "hof.furni.url": "https://swfs.nabbo.es/dcr/hof_furni",
@@ -30,11 +30,11 @@
   "furni.rotation.bounce.steps": 20,
   "furni.rotation.bounce.height": 0.0625,
   "enable.avatar.arrow": false,
-  "system.log.debug": true,
+  "system.log.debug": false,
   "system.log.warn": true,
   "system.log.error": true,
-  "system.log.events": true,
-  "system.log.packets": true,
+  "system.log.events": false,
+  "system.log.packets": false,
   "system.fps.animation": 24,
   "system.fps.max": 60,
   "system.pong.manually": true,
@@ -42,8 +42,7 @@
   "room.color.skip.transition": true,
   "room.landscapes.enabled": true,
   "avatar.mandatory.libraries": [
-    "bd:1",
-    "li:0"
+    "bd:1"
   ],
   "avatar.mandatory.effect.libraries": [
     "dance.1",
