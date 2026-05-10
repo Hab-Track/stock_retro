@@ -1,6 +1,154 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_U_vestidodecuadros",
+      "revision": 182172,
+      "parts": [
+        {
+          "id": 182172,
+          "type": "ch"
+        },
+        {
+          "id": 182173,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_topdecuadros",
+      "revision": 182171,
+      "parts": [
+        {
+          "id": 182171,
+          "type": "ch"
+        },
+        {
+          "id": 182172,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_suetercaido",
+      "revision": 182170,
+      "parts": [
+        {
+          "id": 182170,
+          "type": "ch"
+        },
+        {
+          "id": 182170,
+          "type": "ls"
+        },
+        {
+          "id": 182170,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_patyshirt3",
+      "revision": 182169,
+      "parts": [
+        {
+          "id": 182169,
+          "type": "ch"
+        },
+        {
+          "id": 182170,
+          "type": "ch"
+        },
+        {
+          "id": 182169,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_Duckduck",
+      "revision": 182168,
+      "parts": [
+        {
+          "id": 182168,
+          "type": "ch"
+        },
+        {
+          "id": 182168,
+          "type": "ls"
+        },
+        {
+          "id": 182168,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_leetpok",
+      "revision": 182167,
+      "parts": [
+        {
+          "id": 182167,
+          "type": "ch"
+        },
+        {
+          "id": 182168,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_animalprintshirt",
+      "revision": 182166,
+      "parts": [
+        {
+          "id": 182166,
+          "type": "ch"
+        },
+        {
+          "id": 182166,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_BearMountXueze",
+      "revision": 182165,
+      "parts": [
+        {
+          "id": 182165,
+          "type": "lg"
+        },
+        {
+          "id": 182166,
+          "type": "lg"
+        },
+        {
+          "id": 182167,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_japanskirt",
+      "revision": 182164,
+      "parts": [
+        {
+          "id": 182164,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv24shortscalentador",
+      "revision": 182163,
+      "parts": [
+        {
+          "id": 182163,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "acc_chest_U_sacrequin",
       "revision": 182162,
       "parts": [
