@@ -1,6 +1,6 @@
 ﻿{
-  "socket.url.backup": "wss://ws.nabbo.es",
-  "socket.url": "wss://ws2.nabbo.es",
+  "socket.url.backup": "wss://ws2.nabbo.es",
+  "socket.url": "wss://ws.nabbo.es",
   "asset.url": "https://swfs.nabbo.es",
   "image.library.url": "https://swfs.nabbo.es/c_images//",
   "hof.furni.url": "https://swfs.nabbo.es/dcr/hof_furni",
@@ -43,6 +43,9 @@
   "room.landscapes.enabled": true,
   "avatar.mandatory.libraries": [
     "bd:1"
+  ],
+  "avatar.async.libraries": [
+    "li:0"
   ],
   "avatar.mandatory.effect.libraries": [
     "dance.1",
