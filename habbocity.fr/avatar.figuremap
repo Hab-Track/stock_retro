@@ -1,6 +1,16 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_Caterpie",
+      "revision": 182185,
+      "parts": [
+        {
+          "id": 182185,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "hat_U_nftstrawberrycap",
       "revision": 182184,
       "parts": [
@@ -2879,6 +2889,16 @@
         {
           "id": 181897,
           "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftdenimcap",
+      "revision": 181895,
+      "parts": [
+        {
+          "id": 181895,
+          "type": "ha"
         }
       ]
     },
@@ -7515,16 +7535,6 @@
         {
           "id": 181394,
           "type": "hrb"
-        }
-      ]
-    },
-    {
-      "id": "hat_U_nftdenimcap",
-      "revision": 181392,
-      "parts": [
-        {
-          "id": 181392,
-          "type": "ha"
         }
       ]
     },
