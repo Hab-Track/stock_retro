@@ -12264,7 +12264,7 @@
     },
     {
       "id": "acc_waist_U_dragontail",
-      "revision": 11042,
+      "revision": 1778935065,
       "parts": [
         {
           "id": 5374,
@@ -12300,7 +12300,7 @@
     },
     {
       "id": "acc_head_U_cnydragonhorns",
-      "revision": 11040,
+      "revision": 1778935064,
       "parts": [
         {
           "id": 5372,
@@ -62464,7 +62464,7 @@
     },
     {
       "id": "hat_U_duckmask_nft",
-      "revision": 990000921,
+      "revision": 1778935978,
       "parts": [
         {
           "id": 4262,
@@ -62474,7 +62474,7 @@
     },
     {
       "id": "hat_U_fishmonster_nft",
-      "revision": 990000922,
+      "revision": 1778935929,
       "parts": [
         {
           "id": 4254,
@@ -63536,7 +63536,7 @@
     },
     {
       "id": "hat_U_rooster_nft",
-      "revision": 990000986,
+      "revision": 1778935863,
       "parts": [
         {
           "id": 4255,
@@ -66611,6 +66611,48 @@
         {
           "id": 60000036,
           "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_AlasConCadenas",
+      "revision": 1778935109,
+      "parts": [
+        {
+          "id": 60000063,
+          "type": "ca"
+        },
+        {
+          "id": 60000064,
+          "type": "ca"
+        },
+        {
+          "id": 60000065,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv25auraEstrellas",
+      "revision": 1778935345,
+      "parts": [
+        {
+          "id": 10001182,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_Momo",
+      "revision": 1778936364,
+      "parts": [
+        {
+          "id": 70000015,
+          "type": "lc"
+        },
+        {
+          "id": 70000015,
+          "type": "rc"
         }
       ]
     }
