@@ -1,6 +1,32 @@
 ﻿{
   "libraries": [
     {
+      "id": "pet_U_mysticdragon",
+      "revision": 182186,
+      "parts": [
+        {
+          "id": 182186,
+          "type": "cc"
+        },
+        {
+          "id": 182186,
+          "type": "lc"
+        },
+        {
+          "id": 182186,
+          "type": "rc"
+        },
+        {
+          "id": 182187,
+          "type": "cc"
+        },
+        {
+          "id": 182188,
+          "type": "cc"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_Caterpie",
       "revision": 182185,
       "parts": [
