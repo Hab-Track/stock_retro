@@ -79513,6 +79513,34 @@
           "type": "hrb"
         }
       ]
+    },
+    {
+      "id": "acc_chest_U_casstheuszod2",
+      "revision": 998789399,
+      "parts": [
+        {
+          "id": 488328,
+          "type": "ca"
+        },
+        {
+          "id": 488329,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_casstheuszod",
+      "revision": 998789400,
+      "parts": [
+        {
+          "id": 488326,
+          "type": "cp"
+        },
+        {
+          "id": 488327,
+          "type": "cp"
+        }
+      ]
     }
   ]
 }
