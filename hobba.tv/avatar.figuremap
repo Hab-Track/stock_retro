@@ -95006,6 +95006,100 @@
           "type": "ch"
         }
       ]
+    },
+    {
+      "id": "acc_eye_U_shakirafanglasses",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "50000265",
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_shakiravipglasses",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "50000266",
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_AABRIGA",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "50000268",
+          "type": "cc"
+        },
+        {
+          "id": "50000268",
+          "type": "lc"
+        },
+        {
+          "id": "50000268",
+          "type": "rc"
+        },
+        {
+          "id": "50000272",
+          "type": "lc"
+        },
+        {
+          "id": "50000273",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_shakirafanhair",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "50000264",
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_shakhair",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "50000267",
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_LOBSHIRT",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "50000274",
+          "type": "ch"
+        },
+        {
+          "id": "50000274",
+          "type": "ls"
+        },
+        {
+          "id": "50000274",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_shakprint",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "50000268",
+          "type": "cp"
+        }
+      ]
     }
   ]
 }
