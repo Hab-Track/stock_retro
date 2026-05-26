@@ -121830,6 +121830,59 @@
       ]
     },
     {
+      "id": "hh_human_acc_waist",
+      "parts": [
+        {
+          "id": 1,
+          "type": "wa"
+        },
+        {
+          "id": 2,
+          "type": "wa"
+        },
+        {
+          "id": 3,
+          "type": "wa"
+        },
+        {
+          "id": 4,
+          "type": "wa"
+        },
+        {
+          "id": 5,
+          "type": "wa"
+        },
+        {
+          "id": 6,
+          "type": "wa"
+        },
+        {
+          "id": 7,
+          "type": "wa"
+        },
+        {
+          "id": 8,
+          "type": "wa"
+        },
+        {
+          "id": 9,
+          "type": "wa"
+        },
+        {
+          "id": 10,
+          "type": "wa"
+        },
+        {
+          "id": 11,
+          "type": "wa"
+        },
+        {
+          "id": 12,
+          "type": "wa"
+        }
+      ]
+    },
+    {
       "id": "hh_human_50_fx",
       "parts": [
         {
@@ -122673,6 +122726,167 @@
       ]
     },
     {
+      "id": "hh_human_hair",
+      "parts": [
+        {
+          "id": 1,
+          "type": "hr"
+        },
+        {
+          "id": 1,
+          "type": "hrb"
+        },
+        {
+          "id": 2,
+          "type": "hr"
+        },
+        {
+          "id": 3,
+          "type": "hr"
+        },
+        {
+          "id": 4,
+          "type": "hr"
+        },
+        {
+          "id": 5,
+          "type": "hr"
+        },
+        {
+          "id": 6,
+          "type": "hr"
+        },
+        {
+          "id": 8,
+          "type": "hr"
+        },
+        {
+          "id": 9,
+          "type": "hr"
+        },
+        {
+          "id": 10,
+          "type": "hr"
+        },
+        {
+          "id": 11,
+          "type": "hr"
+        },
+        {
+          "id": 16,
+          "type": "hr"
+        },
+        {
+          "id": 17,
+          "type": "hr"
+        },
+        {
+          "id": 18,
+          "type": "hr"
+        },
+        {
+          "id": 19,
+          "type": "hr"
+        },
+        {
+          "id": 20,
+          "type": "hr"
+        },
+        {
+          "id": 23,
+          "type": "hr"
+        },
+        {
+          "id": 24,
+          "type": "hr"
+        },
+        {
+          "id": 26,
+          "type": "hr"
+        },
+        {
+          "id": 27,
+          "type": "hr"
+        },
+        {
+          "id": 28,
+          "type": "hr"
+        },
+        {
+          "id": 29,
+          "type": "hr"
+        },
+        {
+          "id": 30,
+          "type": "hr"
+        },
+        {
+          "id": 31,
+          "type": "hr"
+        },
+        {
+          "id": 33,
+          "type": "hr"
+        },
+        {
+          "id": 34,
+          "type": "hr"
+        },
+        {
+          "id": 35,
+          "type": "hr"
+        },
+        {
+          "id": 36,
+          "type": "hr"
+        },
+        {
+          "id": 200,
+          "type": "hr"
+        },
+        {
+          "id": 201,
+          "type": "hr"
+        },
+        {
+          "id": 202,
+          "type": "hr"
+        },
+        {
+          "id": 203,
+          "type": "hr"
+        },
+        {
+          "id": 501,
+          "type": "hr"
+        },
+        {
+          "id": 503,
+          "type": "hr"
+        },
+        {
+          "id": 504,
+          "type": "hr"
+        },
+        {
+          "id": 506,
+          "type": "hr"
+        },
+        {
+          "id": 507,
+          "type": "hr"
+        },
+        {
+          "id": 508,
+          "type": "hr"
+        },
+        {
+          "id": 509,
+          "type": "hr"
+        }
+      ]
+    },
+    {
       "id": "hh_pets",
       "parts": [
         {
@@ -122811,6 +123025,119 @@
       ]
     },
     {
+      "id": "hh_human_hats",
+      "parts": [
+        {
+          "id": 1,
+          "type": "ha"
+        },
+        {
+          "id": 2,
+          "type": "ha"
+        },
+        {
+          "id": 3,
+          "type": "ha"
+        },
+        {
+          "id": 4,
+          "type": "ha"
+        },
+        {
+          "id": 5,
+          "type": "ha"
+        },
+        {
+          "id": 6,
+          "type": "ha"
+        },
+        {
+          "id": 7,
+          "type": "ha"
+        },
+        {
+          "id": 8,
+          "type": "ha"
+        },
+        {
+          "id": 9,
+          "type": "ha"
+        },
+        {
+          "id": 10,
+          "type": "ha"
+        },
+        {
+          "id": 11,
+          "type": "ha"
+        },
+        {
+          "id": 12,
+          "type": "ha"
+        },
+        {
+          "id": 13,
+          "type": "ha"
+        },
+        {
+          "id": 14,
+          "type": "ha"
+        },
+        {
+          "id": 15,
+          "type": "ha"
+        },
+        {
+          "id": 16,
+          "type": "ha"
+        },
+        {
+          "id": 17,
+          "type": "ha"
+        },
+        {
+          "id": 18,
+          "type": "ha"
+        },
+        {
+          "id": 19,
+          "type": "ha"
+        },
+        {
+          "id": 20,
+          "type": "ha"
+        },
+        {
+          "id": 21,
+          "type": "ha"
+        },
+        {
+          "id": 22,
+          "type": "ha"
+        },
+        {
+          "id": 23,
+          "type": "ha"
+        },
+        {
+          "id": 24,
+          "type": "ha"
+        },
+        {
+          "id": 25,
+          "type": "ha"
+        },
+        {
+          "id": 26,
+          "type": "ha"
+        },
+        {
+          "id": 27,
+          "type": "ha"
+        }
+      ]
+    },
+    {
       "id": "hh_human_50_leg",
       "parts": [
         {
@@ -122821,6 +123148,43 @@
     },
     {
       "id": "hh_human_50_shoe",
+      "parts": [
+        {
+          "id": 1,
+          "type": "sh"
+        },
+        {
+          "id": 2,
+          "type": "sh"
+        },
+        {
+          "id": 3,
+          "type": "sh"
+        },
+        {
+          "id": 4,
+          "type": "sh"
+        },
+        {
+          "id": 5,
+          "type": "sh"
+        },
+        {
+          "id": 6,
+          "type": "sh"
+        },
+        {
+          "id": 7,
+          "type": "sh"
+        },
+        {
+          "id": 8,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "hh_human_shoe",
       "parts": [
         {
           "id": 1,
@@ -123077,6 +123441,51 @@
       ]
     },
     {
+      "id": "hh_human_acc_head",
+      "parts": [
+        {
+          "id": 1,
+          "type": "he"
+        },
+        {
+          "id": 2,
+          "type": "he"
+        },
+        {
+          "id": 3,
+          "type": "he"
+        },
+        {
+          "id": 4,
+          "type": "he"
+        },
+        {
+          "id": 5,
+          "type": "he"
+        },
+        {
+          "id": 6,
+          "type": "he"
+        },
+        {
+          "id": 7,
+          "type": "he"
+        },
+        {
+          "id": 8,
+          "type": "he"
+        },
+        {
+          "id": 9,
+          "type": "he"
+        },
+        {
+          "id": 10,
+          "type": "he"
+        }
+      ]
+    },
+    {
       "id": "hh_pets_50",
       "parts": [
         {
@@ -123100,6 +123509,35 @@
     },
     {
       "id": "hh_human_50_acc_eye",
+      "parts": [
+        {
+          "id": 1,
+          "type": "ea"
+        },
+        {
+          "id": 2,
+          "type": "ea"
+        },
+        {
+          "id": 3,
+          "type": "ea"
+        },
+        {
+          "id": 4,
+          "type": "ea"
+        },
+        {
+          "id": 5,
+          "type": "ea"
+        },
+        {
+          "id": 6,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "hh_human_acc_eye",
       "parts": [
         {
           "id": 1,
@@ -124097,6 +124535,26 @@
       "id": "hh_human_body",
       "parts": [
         {
+          "id": 1,
+          "type": "bd"
+        },
+        {
+          "id": 1,
+          "type": "rh"
+        },
+        {
+          "id": 1,
+          "type": "lh"
+        },
+        {
+          "id": 1,
+          "type": "hd"
+        },
+        {
+          "id": 1,
+          "type": "sd"
+        },
+        {
           "id": 2,
           "type": "hd"
         },
@@ -124107,6 +124565,10 @@
         {
           "id": 4,
           "type": "hd"
+        },
+        {
+          "id": 999,
+          "type": "bd"
         }
       ]
     },
