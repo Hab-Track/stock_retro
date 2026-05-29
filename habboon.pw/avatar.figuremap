@@ -44619,6 +44619,130 @@
       ]
     },
     {
+      "id": "misc_U_nftrollerskate",
+      "revision": 75163,
+      "parts": [
+        {
+          "id": 7415,
+          "type": "mc"
+        },
+        {
+          "id": 7415,
+          "type": "mcl"
+        },
+        {
+          "id": 7415,
+          "type": "mcr"
+        },
+        {
+          "id": 7416,
+          "type": "mc"
+        },
+        {
+          "id": 7417,
+          "type": "mc"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftflowerearrings",
+      "revision": 75173,
+      "parts": [
+        {
+          "id": 7429,
+          "type": "he"
+        },
+        {
+          "id": 7430,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_ducketcropshirt",
+      "revision": 75166,
+      "parts": [
+        {
+          "id": 7461,
+          "type": "ch"
+        },
+        {
+          "id": 7462,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftbronzejunglemask",
+      "revision": 75189,
+      "parts": [
+        {
+          "id": 7420,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "face_F_roxieface",
+      "revision": 75199,
+      "parts": [
+        {
+          "id": 7467,
+          "type": "hd"
+        },
+        {
+          "id": 7468,
+          "type": "fc"
+        },
+        {
+          "id": 7469,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "misc_F_roxiephone",
+      "revision": 75190,
+      "parts": [
+        {
+          "id": 7471,
+          "type": "mc"
+        },
+        {
+          "id": 7471,
+          "type": "mcl"
+        },
+        {
+          "id": 7471,
+          "type": "mcr"
+        }
+      ]
+    },
+    {
+      "id": "trousers_F_roxieskirt",
+      "revision": 75194,
+      "parts": [
+        {
+          "id": 7473,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "hair_F_roxiehair",
+      "revision": 75190,
+      "parts": [
+        {
+          "id": 7470,
+          "type": "hr"
+        },
+        {
+          "id": 7470,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
       "id": "face_U_nftelvenface2b",
       "revision": 74880,
       "parts": [
@@ -45038,14 +45162,14 @@
     },
     {
       "id": "acc_print_U_crchatter",
-      "revision": 74908,
+      "revision": 75200,
       "parts": [
         {
-          "id": 5758,
+          "id": 7257,
           "type": "cp"
         },
         {
-          "id": 7257,
+          "id": 7258,
           "type": "cp"
         }
       ]
@@ -45823,6 +45947,202 @@
         {
           "id": 7346,
           "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_refereewhistle",
+      "revision": 75113,
+      "parts": [
+        {
+          "id": 7401,
+          "type": "ca"
+        },
+        {
+          "id": 7402,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_fb26",
+      "revision": 75141,
+      "parts": [
+        {
+          "id": 7403,
+          "type": "ch"
+        },
+        {
+          "id": 7403,
+          "type": "ls"
+        },
+        {
+          "id": 7403,
+          "type": "rs"
+        },
+        {
+          "id": 7404,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_fb2026",
+      "revision": 75169,
+      "parts": [
+        {
+          "id": 7418,
+          "type": "sh"
+        },
+        {
+          "id": 7419,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_fb26",
+      "revision": 75141,
+      "parts": [
+        {
+          "id": 7405,
+          "type": "ch"
+        },
+        {
+          "id": 7405,
+          "type": "ls"
+        },
+        {
+          "id": 7405,
+          "type": "rs"
+        },
+        {
+          "id": 7406,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_fbb26",
+      "revision": 75147,
+      "parts": [
+        {
+          "id": 7407,
+          "type": "lg"
+        },
+        {
+          "id": 7408,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "pet_U_nftlittlemonkey",
+      "revision": 75173,
+      "parts": [
+        {
+          "id": 7425,
+          "type": "pt"
+        },
+        {
+          "id": 7425,
+          "type": "ptl"
+        },
+        {
+          "id": 7425,
+          "type": "ptr"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_nfttreasurechest",
+      "revision": 75173,
+      "parts": [
+        {
+          "id": 7423,
+          "type": "mc"
+        },
+        {
+          "id": 7423,
+          "type": "mcl"
+        },
+        {
+          "id": 7423,
+          "type": "mcr"
+        },
+        {
+          "id": 7424,
+          "type": "mc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_ducketcropshirt",
+      "revision": 75178,
+      "parts": [
+        {
+          "id": 7459,
+          "type": "ch"
+        },
+        {
+          "id": 7459,
+          "type": "ls"
+        },
+        {
+          "id": 7459,
+          "type": "rs"
+        },
+        {
+          "id": 7460,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftgoldjunglemask",
+      "revision": 75189,
+      "parts": [
+        {
+          "id": 7422,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftsilverjunglemask",
+      "revision": 75189,
+      "parts": [
+        {
+          "id": 7421,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_roxieshirt",
+      "revision": 75194,
+      "parts": [
+        {
+          "id": 7472,
+          "type": "ch"
+        },
+        {
+          "id": 7472,
+          "type": "ls"
+        },
+        {
+          "id": 7472,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_F_roxiepuds",
+      "revision": 75190,
+      "parts": [
+        {
+          "id": 7466,
+          "type": "he"
         }
       ]
     },
