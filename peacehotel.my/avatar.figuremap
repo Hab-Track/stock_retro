@@ -66699,6 +66699,80 @@
           "type": "cc"
         }
       ]
+    },
+    {
+      "id": "jacket_U_adorablepetshark",
+      "revision": 1780539874,
+      "parts": [
+        {
+          "id": 7474,
+          "type": "rc"
+        },
+        {
+          "id": 7474,
+          "type": "lc"
+        },
+        {
+          "id": 7474,
+          "type": "cc"
+        },
+        {
+          "id": 7475,
+          "type": "lc"
+        },
+        {
+          "id": 7475,
+          "type": "cc"
+        },
+        {
+          "id": 7475,
+          "type": "rc"
+        },
+        {
+          "id": 7476,
+          "type": "lc"
+        },
+        {
+          "id": 7476,
+          "type": "cc"
+        },
+        {
+          "id": 7476,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "cc_U_adorablepetshark",
+      "revision": 1780540949,
+      "parts": [
+        {
+          "id": 7474,
+          "type": "cc"
+        },
+        {
+          "id": 7475,
+          "type": "cc"
+        },
+        {
+          "id": 7476,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_Ryuk",
+      "revision": 1780541870,
+      "parts": [
+        {
+          "id": 70000008,
+          "type": "lc"
+        },
+        {
+          "id": 70000008,
+          "type": "rc"
+        }
+      ]
     }
   ]
 }
