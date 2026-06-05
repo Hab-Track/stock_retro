@@ -40400,5 +40400,14 @@
   "decoration.tool.error.select_stack": "Välj en stapel först.",
   "decoration.tool.error.select_furni": "Välj en möbel först.",
   "decoration.tool.error.choose_placement_tile": "Välj först en ruta att placera på.",
-  "decoration.tool.error.choose_duplicate_source": "Välj inventarie eller butik innan du placerar en kopia."
+  "decoration.tool.error.choose_duplicate_source": "Välj inventarie eller butik innan du placerar en kopia.",
+  "inventory.inspect.title": "Inventory for %username%",
+  "inventory.inspect.empty.furni.title": "No furni",
+  "inventory.inspect.empty.furni.desc": "This inventory has no furni.",
+  "inventory.inspect.empty.bots.title": "No bots",
+  "inventory.inspect.empty.bots.desc": "This inventory has no bots.",
+  "inventory.inspect.empty.pets.title": "No pets",
+  "inventory.inspect.empty.pets.desc": "This inventory has no pets.",
+  "inventory.inspect.empty.badges.title": "No badges",
+  "inventory.inspect.empty.badges.desc": "This inventory has no badges."
 }
