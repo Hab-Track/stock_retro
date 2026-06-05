@@ -66150,7 +66150,7 @@
     },
     {
       "id": "acc_chest_U_tv26backbunny",
-      "revision": 1777215965,
+      "revision": 1780633114,
       "parts": [
         {
           "id": 80000195,
@@ -66744,7 +66744,7 @@
     },
     {
       "id": "cc_U_adorablepetshark",
-      "revision": 1780540949,
+      "revision": 1780632955,
       "parts": [
         {
           "id": 7474,
@@ -66762,7 +66762,7 @@
     },
     {
       "id": "jacket_U_Ryuk",
-      "revision": 1780541870,
+      "revision": 1780633011,
       "parts": [
         {
           "id": 70000008,
@@ -66789,6 +66789,254 @@
         {
           "id": 7223,
           "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "pet_U_mysticdragon",
+      "revision": 1780626077,
+      "parts": [
+        {
+          "id": 7048,
+          "type": "ptr"
+        },
+        {
+          "id": 7048,
+          "type": "ptl"
+        },
+        {
+          "id": 7048,
+          "type": "pt"
+        },
+        {
+          "id": 7049,
+          "type": "ptr"
+        },
+        {
+          "id": 7049,
+          "type": "ptl"
+        },
+        {
+          "id": 7049,
+          "type": "pt"
+        },
+        {
+          "id": 7050,
+          "type": "ptr"
+        },
+        {
+          "id": 7050,
+          "type": "ptl"
+        },
+        {
+          "id": 7050,
+          "type": "pt"
+        },
+        {
+          "id": 7049,
+          "type": "cpt"
+        },
+        {
+          "id": 7050,
+          "type": "cpt"
+        }
+      ]
+    },
+    {
+      "id": "cc_U_mysticdragon",
+      "revision": 1780628056,
+      "parts": [
+        {
+          "id": 7048,
+          "type": "cc"
+        },
+        {
+          "id": 7049,
+          "type": "cc"
+        },
+        {
+          "id": 7050,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_clubpenguinbag",
+      "revision": 1780632224,
+      "parts": [
+        {
+          "id": 8374692,
+          "type": "ca"
+        },
+        {
+          "id": 8374693,
+          "type": "ca"
+        },
+        {
+          "id": 821932139,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_happyoctoplush",
+      "revision": 1780632575,
+      "parts": [
+        {
+          "id": 7412,
+          "type": "ha"
+        },
+        {
+          "id": 7413,
+          "type": "ha"
+        },
+        {
+          "id": 7414,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_angryoctoplush",
+      "revision": 1780632634,
+      "parts": [
+        {
+          "id": 7409,
+          "type": "ha"
+        },
+        {
+          "id": 7410,
+          "type": "ha"
+        },
+        {
+          "id": 7411,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_Caterpie",
+      "revision": 1780632735,
+      "parts": [
+        {
+          "id": 60000131,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_pochacco",
+      "revision": 1780632769,
+      "parts": [
+        {
+          "id": 10001119,
+          "type": "rc"
+        },
+        {
+          "id": 10001120,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_SteamPunkArm",
+      "revision": 1780632813,
+      "parts": [
+        {
+          "id": 10001358,
+          "type": "lc"
+        },
+        {
+          "id": 10001358,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_TojiWorm",
+      "revision": 1780632842,
+      "parts": [
+        {
+          "id": 10001420,
+          "type": "cc"
+        },
+        {
+          "id": 10001420,
+          "type": "lc"
+        },
+        {
+          "id": 10001420,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv25capaKid",
+      "revision": 1780632885,
+      "parts": [
+        {
+          "id": 10001191,
+          "type": "cc"
+        },
+        {
+          "id": 10001191,
+          "type": "lc"
+        },
+        {
+          "id": 10001191,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv25capaZelda",
+      "revision": 1780633040,
+      "parts": [
+        {
+          "id": 10001086,
+          "type": "cc"
+        },
+        {
+          "id": 10001087,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv26demogorgon",
+      "revision": 1780633075,
+      "parts": [
+        {
+          "id": 80000282,
+          "type": "cc"
+        },
+        {
+          "id": 80000282,
+          "type": "lc"
+        },
+        {
+          "id": 80000282,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv26GuadanaDeHuesos",
+      "revision": 1780633156,
+      "parts": [
+        {
+          "id": 80000281,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv26PantalonJen",
+      "revision": 1780633200,
+      "parts": [
+        {
+          "id": 160000023,
+          "type": "lg"
         }
       ]
     }
