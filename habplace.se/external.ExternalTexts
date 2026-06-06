@@ -40410,8 +40410,10 @@
   "inventory.inspect.empty.pets.desc": "This inventory has no pets.",
   "inventory.inspect.empty.badges.title": "No badges",
   "inventory.inspect.empty.badges.desc": "This inventory has no badges.",
-  "wiredfurni.hidden_tag.tag": "Hidden tag",
-  "wiredfurni.hidden_tag.persistence": "Persistence",
+  "wiredfurni.hidden_tag.tag": "Hidden tag:",
+  "wiredfurni.hidden_tag.persistence": "Persistence:",
   "wiredfurni.hidden_tag.persistence.temporary": "Temporary",
-  "wiredfurni.hidden_tag.persistence.permanent": "Permanent"
+  "wiredfurni.hidden_tag.persistence.permanent": "Permanent",
+  "wiredfurni.teleport.target.any": "Any selected furni",
+  "wiredfurni.teleport.target.empty": "Non-occupied furni only"
 }
