@@ -64362,7 +64362,7 @@
     },
     {
       "id": "acc_head_U_leavesgreen_nft",
-      "revision": 67110,
+      "revision": 1781059869,
       "parts": [
         {
           "id": 4324,
@@ -67089,6 +67089,36 @@
         {
           "id": 7435,
           "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftgoldjunglemask",
+      "revision": 1781057882,
+      "parts": [
+        {
+          "id": 7422,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftsilverjunglemask",
+      "revision": 1781058455,
+      "parts": [
+        {
+          "id": 7421,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftbronzejunglemask",
+      "revision": 1781058490,
+      "parts": [
+        {
+          "id": 7420,
+          "type": "fa"
         }
       ]
     }
