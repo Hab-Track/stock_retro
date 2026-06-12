@@ -54033,6 +54033,98 @@
           "type": "pt"
         }
       ]
+    },
+    {
+      "id": "shoes_U_fb2026",
+      "revision": 69475,
+      "parts": [
+        {
+          "id": 1,
+          "type": "sh"
+        },
+        {
+          "id": 7418,
+          "type": "sh"
+        },
+        {
+          "id": 7419,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_fbb26",
+      "revision": 16651,
+      "parts": [
+        {
+          "id": 7407,
+          "type": "lg"
+        },
+        {
+          "id": 7408,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_fb26",
+      "revision": 33458,
+      "parts": [
+        {
+          "id": 7405,
+          "type": "ls"
+        },
+        {
+          "id": 7405,
+          "type": "ch"
+        },
+        {
+          "id": 7405,
+          "type": "rs"
+        },
+        {
+          "id": 7406,
+          "type": "ls"
+        },
+        {
+          "id": 7406,
+          "type": "ch"
+        },
+        {
+          "id": 7406,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_fb26",
+      "revision": 51267,
+      "parts": [
+        {
+          "id": 7403,
+          "type": "ls"
+        },
+        {
+          "id": 7403,
+          "type": "ch"
+        },
+        {
+          "id": 7403,
+          "type": "rs"
+        },
+        {
+          "id": 7404,
+          "type": "ls"
+        },
+        {
+          "id": 7404,
+          "type": "ch"
+        },
+        {
+          "id": 7404,
+          "type": "rs"
+        }
+      ]
     }
   ]
 }
