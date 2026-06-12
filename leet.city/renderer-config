@@ -25,6 +25,7 @@
   "system.fps.animation": 24,
   "system.fps.max": 24,
   "system.dispatcher.log": false,
+  "system.header": 4096,
   "system.packet.log": false,
   "system.pong.manually": true,
   "system.pong.interval.ms": 20000,
