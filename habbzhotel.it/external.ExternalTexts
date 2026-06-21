@@ -14474,7 +14474,7 @@
   "furni.petpackage.confirm": "Choose this name",
   "furni.petpackage.open": "Give a name for your pet:",
   "furni.petpackage": "Dai un nome al cucciolo",
-  "furni.random_teleport.name": "Hopper",
+  "furni.random_teleport.name": "Senza Meta!",
   "furni.selector.my.items": "My items",
   "furni_valentines_lovelock_desc": "Show off your friendship to the world!",
   "furni_valentines_lovelock_name": "Love Lock",
@@ -30651,7 +30651,7 @@
   "widget.memenu.wave": "Saluta",
   "widget.monsterplant_seed.button.use": "Plant",
   "widget.poll.title": "Poll",
-  "widget.random_teleport.button.use": "Start exploring!",
+  "widget.random_teleport.button.use": "Affidati al destino...",
   "widgets.chatbubble.respect": "%username% ha ricevuto un rispetto da %sender%!",
   "widgets.chatinput.default": "Clicca qui per chattare...",
   "widgets.chatinput.mode.remind.noobie": "Puoi scrivere qui per mandare un messaggio!",
@@ -31424,7 +31424,7 @@
   "camera.photo.desc.placeholder": "Inserisci una descrizione...",
   "badge_name_FCL000": "Esperto di Wired",
   "badge_desc_FCL000": "Pronto per soccorrerti con i wired!",
-  "badge_name_WP001": "Esperto di Wired",
+  "badge_name_WP001": "Wired Helper",
   "badge_desc_WP001": "Pronto a soccorrerti, quando necessario, con i wired!",
   "wiredfurni.params.matchmode.exact": "Corrispondenza Esatta",
   "wiredfurni.params.matchmode.keyword": "Parola Chiave (contiene)",
@@ -31771,5 +31771,7 @@
   "badge_name_DE66O": "Gattino golosone",
   "badge_desc_DE66O": "Mangia tutte le ciambelle che trova sul suo cammino... attento a dove le lasci!",
   "badge_name_US749": "Alieno verde",
-  "badge_desc_US749": "\"Mio piccolo verdastro amico...\""
+  "badge_desc_US749": "\"Mio piccolo verdastro amico...\"",
+  "badge_name_WIRED2": "Esperto Wired",
+  "badge_desc_WIRED2": "I wired? La mia specialità"
 }
