@@ -96408,6 +96408,760 @@
           "type": "ha"
         }
       ]
+    },
+    {
+      "id": "shirt_M_26CamisetaMexicoM",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "150000046",
+          "type": "ch"
+        },
+        {
+          "id": "150000046",
+          "type": "ls"
+        },
+        {
+          "id": "150000046",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_26CamisetaMexicoF",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "150000049",
+          "type": "ch"
+        },
+        {
+          "id": "150000049",
+          "type": "ls"
+        },
+        {
+          "id": "150000049",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_26PantalonMexico",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "150000047",
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_26AccesorioMexicoOjos",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "150000050",
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_26AccesorioMexicoCara",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "150000048",
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_tvcaritarg2",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "100000097",
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv26caritarg1",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "100000095",
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_tv26camfarg",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "100000090",
+          "type": "ch"
+        },
+        {
+          "id": "100000090",
+          "type": "ls"
+        },
+        {
+          "id": "100000090",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv26camisetarg",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "100000089",
+          "type": "ch"
+        },
+        {
+          "id": "100000089",
+          "type": "ls"
+        },
+        {
+          "id": "100000089",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv26shortarg",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "100000093",
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_tv26caritacol2",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "100000098",
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv26caritacol1",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "100000096",
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_tv26camfcol",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "100000092",
+          "type": "ch"
+        },
+        {
+          "id": "100000092",
+          "type": "ls"
+        },
+        {
+          "id": "100000092",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv26camisetacol",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "100000091",
+          "type": "ch"
+        },
+        {
+          "id": "100000091",
+          "type": "ls"
+        },
+        {
+          "id": "100000091",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv26shortcol",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "100000094",
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_tv26CamisaAlemaniaM",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "90000140",
+          "type": "ch"
+        },
+        {
+          "id": "90000140",
+          "type": "ls"
+        },
+        {
+          "id": "90000140",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_tv26CamisaAlemaniaF",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "90000141",
+          "type": "ch"
+        },
+        {
+          "id": "90000141",
+          "type": "ls"
+        },
+        {
+          "id": "90000141",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv26ShortAlemania",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "90000142",
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv26CaritaAlemania1",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "90000143",
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_tv26CaritaAlemania2",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "90000144",
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_tv26CamisaPortugalM",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "90000145",
+          "type": "ch"
+        },
+        {
+          "id": "90000145",
+          "type": "ls"
+        },
+        {
+          "id": "90000145",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_tv26CamisaPotugalF",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "90000146",
+          "type": "ch"
+        },
+        {
+          "id": "90000146",
+          "type": "ls"
+        },
+        {
+          "id": "90000146",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv26ShortPortugal",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "90000147",
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv26CaritaPortugal1",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "90000148",
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_tv26CaritaPortugal2",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "90000149",
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_tv26CamisaUruguayM",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "90000150",
+          "type": "ch"
+        },
+        {
+          "id": "90000150",
+          "type": "ls"
+        },
+        {
+          "id": "90000150",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_tv26CamisaUruguayF",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "90000151",
+          "type": "ch"
+        },
+        {
+          "id": "90000151",
+          "type": "ls"
+        },
+        {
+          "id": "90000151",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv26ShortUruguay",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "90000152",
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv26CaritaUruguay1",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "90000153",
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_tv26CaritaUruguay2",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "90000154",
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26BolsitoFresita",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000501",
+          "type": "cc"
+        },
+        {
+          "id": "110000502",
+          "type": "cc"
+        },
+        {
+          "id": "110000503",
+          "type": "cc"
+        },
+        {
+          "id": "110000501",
+          "type": "lc"
+        },
+        {
+          "id": "110000502",
+          "type": "lc"
+        },
+        {
+          "id": "110000503",
+          "type": "lc"
+        },
+        {
+          "id": "110000501",
+          "type": "rc"
+        },
+        {
+          "id": "110000502",
+          "type": "rc"
+        },
+        {
+          "id": "110000503",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_26CornrowsAlejo",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000504",
+          "type": "hr"
+        },
+        {
+          "id": "110000505",
+          "type": "hr"
+        },
+        {
+          "id": "110000506",
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_26TocadoMila",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000509",
+          "type": "he"
+        },
+        {
+          "id": "110000510",
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_26OrejayCuerno",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000511",
+          "type": "ha"
+        },
+        {
+          "id": "110000512",
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26ColaDragonAnimada",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000507",
+          "type": "ch"
+        },
+        {
+          "id": "110000508",
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_26CabelloMish",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000513",
+          "type": "hr"
+        },
+        {
+          "id": "110000514",
+          "type": "hr"
+        },
+        {
+          "id": "110000515",
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_26SombrasMish",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000516",
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_qingtinhairpin",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "522835",
+          "type": "he"
+        },
+        {
+          "id": "522836",
+          "type": "he"
+        },
+        {
+          "id": "522837",
+          "type": "he"
+        },
+        {
+          "id": "522838",
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_hudiehairclip",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "522831",
+          "type": "he"
+        },
+        {
+          "id": "522832",
+          "type": "he"
+        },
+        {
+          "id": "522833",
+          "type": "he"
+        },
+        {
+          "id": "522834",
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_hudiehair",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "522825",
+          "type": "hr"
+        },
+        {
+          "id": "522826",
+          "type": "hr"
+        },
+        {
+          "id": "522827",
+          "type": "hr"
+        },
+        {
+          "id": "522828",
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_BrazilPhy",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "1337857",
+          "type": "ch"
+        },
+        {
+          "id": "1337858",
+          "type": "ls"
+        },
+        {
+          "id": "1337858",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_qingtinhair",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "522821",
+          "type": "hr"
+        },
+        {
+          "id": "522822",
+          "type": "hr"
+        },
+        {
+          "id": "522823",
+          "type": "hr"
+        },
+        {
+          "id": "522824",
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_PersonajeREPO",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "160000033",
+          "type": "lc"
+        },
+        {
+          "id": "160000034",
+          "type": "lc"
+        },
+        {
+          "id": "160000033",
+          "type": "rc"
+        },
+        {
+          "id": "160000034",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv26ChaquetaGucci",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "50000283",
+          "type": "cc"
+        },
+        {
+          "id": "50000283",
+          "type": "lc"
+        },
+        {
+          "id": "50000283",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv26Raygun",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "50000281",
+          "type": "lc"
+        },
+        {
+          "id": "50000281",
+          "type": "rc"
+        },
+        {
+          "id": "50000282",
+          "type": "lc"
+        },
+        {
+          "id": "50000282",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv26PantalonGucci",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "50000284",
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv26Whiskito",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "50000206",
+          "type": "cc"
+        },
+        {
+          "id": "50000206",
+          "type": "lc"
+        },
+        {
+          "id": "50000206",
+          "type": "rc"
+        },
+        {
+          "id": "50000207",
+          "type": "cc"
+        },
+        {
+          "id": "50000207",
+          "type": "lc"
+        },
+        {
+          "id": "50000207",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv26SherkHood",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "170000002",
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv26OrejasBurro",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "170000006",
+          "type": "he"
+        }
+      ]
     }
   ]
 }
