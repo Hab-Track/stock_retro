@@ -23,7 +23,7 @@
   "badge.asset.url": "${image.library.url}album1584/%badgename%.gif",
   "banner.asset.url": "${image.library.url}banners/%bannername%.gif",
   "themes.toolbar.asset.url": "${images.url}/themes/%theme%/%type%.png",
-  "themes.reception.asset.url": "${images.url}/themes/%theme%/%type%_%timeline%.png?2",
+  "themes.reception.asset.url": "${images.url}/themes/%theme%/%type%_%timeline%.png",
   "border.asset.url": "${images.url}/skins-3/%bordername%.gif",
   "group.badge.url": "${url.prefix}/habblet/guildsimage/%badgename%.png",
   "custom.badge.asset.url": "${url.prefix}/habblet/guildsimage/test/%badgename%.png",
@@ -56,7 +56,21 @@
     "dance.1",
     "dance.2",
     "dance.3",
-    "dance.4"
+    "dance.4",
+    "dance.5",
+    "dance.6",
+    "dance.7",
+    "dance.8",
+    "dance.9",
+    "dance.10",
+    "dance.11",
+    "dance.12",
+    "dance.13",
+    "dance.14",
+    "dance.15",
+    "dance.16",
+    "dance.20",
+    "dance.67"
   ],
   "avatar.default.figuredata": {
     "palettes": [
