@@ -44798,7 +44798,7 @@
     },
     {
       "id": "pet_U_scallywagseagull",
-      "revision": 75236,
+      "revision": 75401,
       "parts": [
         {
           "id": 7426,
@@ -47065,6 +47065,24 @@
       ]
     },
     {
+      "id": "pet_U_toastfriend",
+      "revision": 75385,
+      "parts": [
+        {
+          "id": 7525,
+          "type": "pt"
+        },
+        {
+          "id": 7525,
+          "type": "ptl"
+        },
+        {
+          "id": 7525,
+          "type": "ptr"
+        }
+      ]
+    },
+    {
       "id": "hh_human_acc_head",
       "revision": 74162,
       "parts": [
@@ -47240,7 +47258,7 @@
     },
     {
       "id": "hh_human_fx",
-      "revision": 74657,
+      "revision": 75404,
       "parts": [
         {
           "id": null,
