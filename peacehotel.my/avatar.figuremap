@@ -67209,6 +67209,964 @@
           "type": "cc"
         }
       ]
+    },
+    {
+      "id": "shirt_U_tv26AvoCuerpo",
+      "revision": 1783064908,
+      "parts": [
+        {
+          "id": 50000234,
+          "type": "ch"
+        },
+        {
+          "id": 50000234,
+          "type": "ls"
+        },
+        {
+          "id": 50000234,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv26AvoCabeza",
+      "revision": 1783064909,
+      "parts": [
+        {
+          "id": 50000233,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_tv26CamisaPortugalM",
+      "revision": 1783068691,
+      "parts": [
+        {
+          "id": 90000145,
+          "type": "ch"
+        },
+        {
+          "id": 90000145,
+          "type": "ls"
+        },
+        {
+          "id": 90000145,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv26ShortPortugal",
+      "revision": 1783068693,
+      "parts": [
+        {
+          "id": 90000147,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv26CaritaPortugal1",
+      "revision": 1783068694,
+      "parts": [
+        {
+          "id": 90000148,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_tv26CaritaPortugal2",
+      "revision": 1783068696,
+      "parts": [
+        {
+          "id": 90000149,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_tv26CamisaPotugalF",
+      "revision": 1783068698,
+      "parts": [
+        {
+          "id": 90000146,
+          "type": "ch"
+        },
+        {
+          "id": 90000146,
+          "type": "ls"
+        },
+        {
+          "id": 90000146,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_tv26CamisaUruguayM",
+      "revision": 1783068756,
+      "parts": [
+        {
+          "id": 90000150,
+          "type": "ch"
+        },
+        {
+          "id": 90000150,
+          "type": "ls"
+        },
+        {
+          "id": 90000150,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv26CaritaUruguay1",
+      "revision": 1783068758,
+      "parts": [
+        {
+          "id": 90000153,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_tv26CaritaUruguay2",
+      "revision": 1783068760,
+      "parts": [
+        {
+          "id": 90000154,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_tv26CamisaUruguayF",
+      "revision": 1783068761,
+      "parts": [
+        {
+          "id": 90000151,
+          "type": "ch"
+        },
+        {
+          "id": 90000151,
+          "type": "ls"
+        },
+        {
+          "id": 90000151,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv26ShortUruguay",
+      "revision": 1783068763,
+      "parts": [
+        {
+          "id": 90000152,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_26CamisetaMexicoF",
+      "revision": 1783068822,
+      "parts": [
+        {
+          "id": 150000049,
+          "type": "ch"
+        },
+        {
+          "id": 150000049,
+          "type": "ls"
+        },
+        {
+          "id": 150000049,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_26PantalonMexico",
+      "revision": 1783068823,
+      "parts": [
+        {
+          "id": 150000047,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_26CamisetaMexicoM",
+      "revision": 1783068825,
+      "parts": [
+        {
+          "id": 150000046,
+          "type": "ch"
+        },
+        {
+          "id": 150000046,
+          "type": "ls"
+        },
+        {
+          "id": 150000046,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_26AccesorioMexicoCara",
+      "revision": 1783068827,
+      "parts": [
+        {
+          "id": 150000048,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_26AccesorioMexicoOjos",
+      "revision": 1783068829,
+      "parts": [
+        {
+          "id": 150000050,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_Argentina",
+      "revision": 1783068888,
+      "parts": [
+        {
+          "id": 41272249,
+          "type": "ch"
+        },
+        {
+          "id": 41272249,
+          "type": "ls"
+        },
+        {
+          "id": 41272249,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv26shortarg",
+      "revision": 1783068890,
+      "parts": [
+        {
+          "id": 100000093,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv26caritarg1",
+      "revision": 1783068892,
+      "parts": [
+        {
+          "id": 100000095,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_tvcaritarg2",
+      "revision": 1783068893,
+      "parts": [
+        {
+          "id": 100000097,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_tv26camfarg",
+      "revision": 1783068895,
+      "parts": [
+        {
+          "id": 100000090,
+          "type": "ch"
+        },
+        {
+          "id": 100000090,
+          "type": "ls"
+        },
+        {
+          "id": 100000090,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_tv26camfcol",
+      "revision": 1783068945,
+      "parts": [
+        {
+          "id": 100000092,
+          "type": "ch"
+        },
+        {
+          "id": 100000092,
+          "type": "ls"
+        },
+        {
+          "id": 100000092,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv26shortcol",
+      "revision": 1783068946,
+      "parts": [
+        {
+          "id": 100000094,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv26camisetacol",
+      "revision": 1783068948,
+      "parts": [
+        {
+          "id": 100000091,
+          "type": "ch"
+        },
+        {
+          "id": 100000091,
+          "type": "ls"
+        },
+        {
+          "id": 100000091,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv26caritacol1",
+      "revision": 1783068950,
+      "parts": [
+        {
+          "id": 100000096,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_tv26caritacol2",
+      "revision": 1783068952,
+      "parts": [
+        {
+          "id": 100000098,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_tv26CamisaAlemaniaF",
+      "revision": 1783069069,
+      "parts": [
+        {
+          "id": 90000141,
+          "type": "ch"
+        },
+        {
+          "id": 90000141,
+          "type": "ls"
+        },
+        {
+          "id": 90000141,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_tv26CaritaAlemania2",
+      "revision": 1783069071,
+      "parts": [
+        {
+          "id": 90000144,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv26ShortAlemania",
+      "revision": 1783069073,
+      "parts": [
+        {
+          "id": 90000142,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_tv26CamisaAlemaniaM",
+      "revision": 1783069075,
+      "parts": [
+        {
+          "id": 90000140,
+          "type": "ch"
+        },
+        {
+          "id": 90000140,
+          "type": "ls"
+        },
+        {
+          "id": 90000140,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv26CaritaAlemania1",
+      "revision": 1783069076,
+      "parts": [
+        {
+          "id": 24234234,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_tv26CaritaSpain2",
+      "revision": 1783069133,
+      "parts": [
+        {
+          "id": 170000011,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv26CaritaSpain1",
+      "revision": 1783069134,
+      "parts": [
+        {
+          "id": 170000012,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_tv26CamisaSpainM",
+      "revision": 1783069136,
+      "parts": [
+        {
+          "id": 170000008,
+          "type": "ch"
+        },
+        {
+          "id": 170000008,
+          "type": "ls"
+        },
+        {
+          "id": 170000008,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv26ShortsSpain",
+      "revision": 1783069138,
+      "parts": [
+        {
+          "id": 170000010,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_tv26CamisaSpainF",
+      "revision": 1783069140,
+      "parts": [
+        {
+          "id": 170000009,
+          "type": "ch"
+        },
+        {
+          "id": 170000009,
+          "type": "ls"
+        },
+        {
+          "id": 170000009,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_26CamisetaCoreaF",
+      "revision": 1783069192,
+      "parts": [
+        {
+          "id": 150000056,
+          "type": "ch"
+        },
+        {
+          "id": 150000056,
+          "type": "ls"
+        },
+        {
+          "id": 150000056,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_26PantalonCorea",
+      "revision": 1783069194,
+      "parts": [
+        {
+          "id": 150000055,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_26AccesorioCoreaOjos",
+      "revision": 1783069196,
+      "parts": [
+        {
+          "id": 150000053,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_26CamisetaCoreaM",
+      "revision": 1783069198,
+      "parts": [
+        {
+          "id": 150000054,
+          "type": "ch"
+        },
+        {
+          "id": 150000054,
+          "type": "ls"
+        },
+        {
+          "id": 150000054,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_26AccesorioCoreaCara",
+      "revision": 1783069199,
+      "parts": [
+        {
+          "id": 150000052,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_tv26CaritaUSA2",
+      "revision": 1783069284,
+      "parts": [
+        {
+          "id": 90000159,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv26CaritaUSA1",
+      "revision": 1783069286,
+      "parts": [
+        {
+          "id": 24234234,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_tv26CamisaUSAm",
+      "revision": 1783069288,
+      "parts": [
+        {
+          "id": 90000155,
+          "type": "ch"
+        },
+        {
+          "id": 90000155,
+          "type": "ls"
+        },
+        {
+          "id": 90000155,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv26ShortUSA",
+      "revision": 1783069289,
+      "parts": [
+        {
+          "id": 90000157,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_tv26CamisaUSAf",
+      "revision": 1783069291,
+      "parts": [
+        {
+          "id": 90000156,
+          "type": "ch"
+        },
+        {
+          "id": 90000156,
+          "type": "ls"
+        },
+        {
+          "id": 90000156,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_tv26camfbrasil",
+      "revision": 1783069345,
+      "parts": [
+        {
+          "id": 100000100,
+          "type": "ch"
+        },
+        {
+          "id": 100000100,
+          "type": "ls"
+        },
+        {
+          "id": 100000100,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv26camisetabrasil",
+      "revision": 1783069347,
+      "parts": [
+        {
+          "id": 100000099,
+          "type": "ch"
+        },
+        {
+          "id": 100000099,
+          "type": "ls"
+        },
+        {
+          "id": 100000099,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv26shortbrasil",
+      "revision": 1783069348,
+      "parts": [
+        {
+          "id": 100000101,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_tv26caritabrasil2",
+      "revision": 1783069350,
+      "parts": [
+        {
+          "id": 100000103,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv26caritabrasil1",
+      "revision": 1783069352,
+      "parts": [
+        {
+          "id": 100000102,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_tv26CamisaEcuadorF",
+      "revision": 1783069401,
+      "parts": [
+        {
+          "id": 80000293,
+          "type": "ch"
+        },
+        {
+          "id": 80000293,
+          "type": "ls"
+        },
+        {
+          "id": 80000293,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_tv26CaritaEcuador2",
+      "revision": 1783069402,
+      "parts": [
+        {
+          "id": 80000296,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv26CaritaEcuador1",
+      "revision": 1783069404,
+      "parts": [
+        {
+          "id": 80000295,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_tv26CamisaEcuadorM",
+      "revision": 1783069406,
+      "parts": [
+        {
+          "id": 80000292,
+          "type": "ch"
+        },
+        {
+          "id": 80000292,
+          "type": "ls"
+        },
+        {
+          "id": 80000292,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv26EcuadorShorts",
+      "revision": 1783069408,
+      "parts": [
+        {
+          "id": 80000294,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_tv26CamisaFranciaM",
+      "revision": 1783069448,
+      "parts": [
+        {
+          "id": 80000297,
+          "type": "ch"
+        },
+        {
+          "id": 80000297,
+          "type": "ls"
+        },
+        {
+          "id": 80000297,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_tv26CaritaFrancia2",
+      "revision": 1783069450,
+      "parts": [
+        {
+          "id": 80000301,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv26CaritaFrancia1",
+      "revision": 1783069452,
+      "parts": [
+        {
+          "id": 80000300,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv26ShortsFrancia",
+      "revision": 1783069454,
+      "parts": [
+        {
+          "id": 80000299,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_tv26CamisaFranciaF",
+      "revision": 1783069455,
+      "parts": [
+        {
+          "id": 80000298,
+          "type": "ch"
+        },
+        {
+          "id": 80000298,
+          "type": "ls"
+        },
+        {
+          "id": 80000298,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv26ShortEngland",
+      "revision": 1783069492,
+      "parts": [
+        {
+          "id": 80000304,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_tv26CamisaEnglandM",
+      "revision": 1783069494,
+      "parts": [
+        {
+          "id": 80000302,
+          "type": "ch"
+        },
+        {
+          "id": 80000302,
+          "type": "ls"
+        },
+        {
+          "id": 80000302,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_tv26CaritaEngland2",
+      "revision": 1783069495,
+      "parts": [
+        {
+          "id": 80000306,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv26CaritaEngland1",
+      "revision": 1783069497,
+      "parts": [
+        {
+          "id": 80000305,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_tv26CamisaEnglandF",
+      "revision": 1783069499,
+      "parts": [
+        {
+          "id": 80000303,
+          "type": "ch"
+        },
+        {
+          "id": 80000303,
+          "type": "ls"
+        },
+        {
+          "id": 80000303,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_WorldCupPhy",
+      "revision": 1783072764,
+      "parts": [
+        {
+          "id": 1337861,
+          "type": "ch"
+        },
+        {
+          "id": 1337862,
+          "type": "ls"
+        },
+        {
+          "id": 1337862,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_WorldCupPhypo",
+      "revision": 1783072765,
+      "parts": [
+        {
+          "id": 1337863,
+          "type": "ch"
+        },
+        {
+          "id": 1337864,
+          "type": "ls"
+        },
+        {
+          "id": 1337864,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_BrazilPhypo",
+      "revision": 1783072800,
+      "parts": [
+        {
+          "id": 1337859,
+          "type": "ch"
+        },
+        {
+          "id": 1337860,
+          "type": "ls"
+        },
+        {
+          "id": 1337860,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_BrazilPhy",
+      "revision": 1783072802,
+      "parts": [
+        {
+          "id": 1337857,
+          "type": "ch"
+        },
+        {
+          "id": 1337858,
+          "type": "ls"
+        },
+        {
+          "id": 1337858,
+          "type": "rs"
+        }
+      ]
     }
   ]
 }
