@@ -79541,6 +79541,92 @@
           "type": "cp"
         }
       ]
+    },
+    {
+      "id": "acc_eye_U_mascaradavalkiria",
+      "revision": 998789401,
+      "parts": [
+        {
+          "id": 127127,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_cassatlanteanhair",
+      "revision": 998789402,
+      "parts": [
+        {
+          "id": 488335,
+          "type": "hr"
+        },
+        {
+          "id": 488335,
+          "type": "hrb"
+        },
+        {
+          "id": 488336,
+          "type": "hr"
+        },
+        {
+          "id": 488336,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_cassatlanteanskirt",
+      "revision": 998789403,
+      "parts": [
+        {
+          "id": 488333,
+          "type": "wa"
+        },
+        {
+          "id": 488334,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_cassatlanteanss",
+      "revision": 998789404,
+      "parts": [
+        {
+          "id": 488330,
+          "type": "ch"
+        },
+        {
+          "id": 488331,
+          "type": "ch"
+        },
+        {
+          "id": 488332,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_cassatlanteanhairv2",
+      "revision": 998789405,
+      "parts": [
+        {
+          "id": 488337,
+          "type": "hr"
+        },
+        {
+          "id": 488337,
+          "type": "hrb"
+        },
+        {
+          "id": 488338,
+          "type": "hr"
+        },
+        {
+          "id": 488338,
+          "type": "hrb"
+        }
+      ]
     }
   ]
 }
