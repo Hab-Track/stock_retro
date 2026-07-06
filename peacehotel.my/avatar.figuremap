@@ -4610,7 +4610,7 @@
     },
     {
       "id": "hair_U_tv24pelomullet",
-      "revision": 11571,
+      "revision": 1783322449,
       "parts": [
         {
           "id": 10000720,
@@ -19942,7 +19942,7 @@
     },
     {
       "id": "hair_U_expensiveplayerhair",
-      "revision": 10497,
+      "revision": 1783322912,
       "parts": [
         {
           "id": 6165,
@@ -19955,6 +19955,10 @@
         {
           "id": 6166,
           "type": "hr"
+        },
+        {
+          "id": 6166,
+          "type": "hrb"
         }
       ]
     },
@@ -65712,7 +65716,7 @@
     },
     {
       "id": "hat_U_tv26ConoDerretido",
-      "revision": 1777200554,
+      "revision": 1783324597,
       "parts": [
         {
           "id": 50000204,
@@ -68165,6 +68169,728 @@
         {
           "id": 1337858,
           "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_Mjolnir",
+      "revision": 1783319903,
+      "parts": [
+        {
+          "id": 160000031,
+          "type": "rc"
+        },
+        {
+          "id": 160000031,
+          "type": "lc"
+        },
+        {
+          "id": 160000032,
+          "type": "rc"
+        },
+        {
+          "id": 160000032,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26RaikiriNoTake",
+      "revision": 1783320553,
+      "parts": [
+        {
+          "id": 110000480,
+          "type": "rc"
+        },
+        {
+          "id": 110000480,
+          "type": "lc"
+        },
+        {
+          "id": 110000481,
+          "type": "rc"
+        },
+        {
+          "id": 110000481,
+          "type": "lc"
+        },
+        {
+          "id": 110000482,
+          "type": "rc"
+        },
+        {
+          "id": 110000482,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_denimjacketi",
+      "revision": 1783320854,
+      "parts": [
+        {
+          "id": 173930,
+          "type": "cc"
+        },
+        {
+          "id": 173930,
+          "type": "lc"
+        },
+        {
+          "id": 173930,
+          "type": "rc"
+        },
+        {
+          "id": 173931,
+          "type": "lc"
+        },
+        {
+          "id": 173931,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_NikeDunkLow",
+      "revision": 1783320980,
+      "parts": [
+        {
+          "id": 90000060,
+          "type": "sh"
+        },
+        {
+          "id": 90000061,
+          "type": "sh"
+        },
+        {
+          "id": 90000062,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv25auradeamor",
+      "revision": 1783321107,
+      "parts": [
+        {
+          "id": 10000897,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_adidasjapanjackt",
+      "revision": 1783321472,
+      "parts": [
+        {
+          "id": 100000000,
+          "type": "ch"
+        },
+        {
+          "id": 100000000,
+          "type": "ls"
+        },
+        {
+          "id": 100000000,
+          "type": "rs"
+        },
+        {
+          "id": 100000001,
+          "type": "ch"
+        },
+        {
+          "id": 100000001,
+          "type": "ls"
+        },
+        {
+          "id": 100000001,
+          "type": "rs"
+        },
+        {
+          "id": 100000002,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_PantalonesAdida2",
+      "revision": 1783321474,
+      "parts": [
+        {
+          "id": 10001144,
+          "type": "lg"
+        },
+        {
+          "id": 10001145,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_CapuchaGirasol",
+      "revision": 1783321624,
+      "parts": [
+        {
+          "id": 70000019,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_PonchoGirasol",
+      "revision": 1783321626,
+      "parts": [
+        {
+          "id": 70000020,
+          "type": "cc"
+        },
+        {
+          "id": 70000020,
+          "type": "lc"
+        },
+        {
+          "id": 70000020,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_Girasol",
+      "revision": 1783321628,
+      "parts": [
+        {
+          "id": 70000018,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_MochilaGirasoles",
+      "revision": 1783321629,
+      "parts": [
+        {
+          "id": 70000017,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_CabezaPinguino",
+      "revision": 1783321728,
+      "parts": [
+        {
+          "id": 30001497,
+          "type": "ha"
+        },
+        {
+          "id": 30001498,
+          "type": "ha"
+        },
+        {
+          "id": 30001499,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_CuerpoPinguino",
+      "revision": 1783321730,
+      "parts": [
+        {
+          "id": 30001500,
+          "type": "ch"
+        },
+        {
+          "id": 30001500,
+          "type": "ls"
+        },
+        {
+          "id": 30001500,
+          "type": "rs"
+        },
+        {
+          "id": 30001501,
+          "type": "ch"
+        },
+        {
+          "id": 30001501,
+          "type": "ls"
+        },
+        {
+          "id": 30001501,
+          "type": "rs"
+        },
+        {
+          "id": 30001502,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv24enamorado",
+      "revision": 1783321917,
+      "parts": [
+        {
+          "id": 10000775,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_Kisses",
+      "revision": 1783321999,
+      "parts": [
+        {
+          "id": 384781924,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_MasqueOni",
+      "revision": 1783322083,
+      "parts": [
+        {
+          "id": 181742,
+          "type": "fa"
+        },
+        {
+          "id": 181743,
+          "type": "fa"
+        },
+        {
+          "id": 181744,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_shock",
+      "revision": 1783322159,
+      "parts": [
+        {
+          "id": 40000019,
+          "type": "fa"
+        },
+        {
+          "id": 40000020,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_Tatuajesdecara",
+      "revision": 1783322263,
+      "parts": [
+        {
+          "id": 100000010,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_tv25peloamericano",
+      "revision": 1783322548,
+      "parts": [
+        {
+          "id": 10001001,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_tv26PeinadoFern",
+      "revision": 1783322644,
+      "parts": [
+        {
+          "id": 80000165,
+          "type": "hr"
+        },
+        {
+          "id": 80000166,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_casspigtailsnobangv2",
+      "revision": 1783322998,
+      "parts": [
+        {
+          "id": 488256,
+          "type": "hr"
+        },
+        {
+          "id": 488256,
+          "type": "hrb"
+        },
+        {
+          "id": 488257,
+          "type": "hr"
+        },
+        {
+          "id": 488257,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv26poloadidasrugby",
+      "revision": 1783323124,
+      "parts": [
+        {
+          "id": 100000061,
+          "type": "ch"
+        },
+        {
+          "id": 100000061,
+          "type": "ls"
+        },
+        {
+          "id": 100000061,
+          "type": "rs"
+        },
+        {
+          "id": 100000062,
+          "type": "ch"
+        },
+        {
+          "id": 100000062,
+          "type": "ls"
+        },
+        {
+          "id": 100000062,
+          "type": "rs"
+        },
+        {
+          "id": 100000063,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_axeionetshirt",
+      "revision": 1783323208,
+      "parts": [
+        {
+          "id": 180250,
+          "type": "ch"
+        },
+        {
+          "id": 180250,
+          "type": "ls"
+        },
+        {
+          "id": 180250,
+          "type": "rs"
+        },
+        {
+          "id": 180251,
+          "type": "ch"
+        },
+        {
+          "id": 180251,
+          "type": "ls"
+        },
+        {
+          "id": 180251,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_GothPhy",
+      "revision": 1783323297,
+      "parts": [
+        {
+          "id": 1355,
+          "type": "ch"
+        },
+        {
+          "id": 1570,
+          "type": "ls"
+        },
+        {
+          "id": 1570,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26JerseyLaurelle",
+      "revision": 1783323373,
+      "parts": [
+        {
+          "id": 150000019,
+          "type": "ch"
+        },
+        {
+          "id": 150000019,
+          "type": "ls"
+        },
+        {
+          "id": 150000019,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv26cropMatch",
+      "revision": 1783323474,
+      "parts": [
+        {
+          "id": 50000162,
+          "type": "ch"
+        },
+        {
+          "id": 50000162,
+          "type": "ls"
+        },
+        {
+          "id": 50000162,
+          "type": "rs"
+        },
+        {
+          "id": 50000163,
+          "type": "ch"
+        },
+        {
+          "id": 50000164,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv26sueterMatch",
+      "revision": 1783323475,
+      "parts": [
+        {
+          "id": 50000159,
+          "type": "ch"
+        },
+        {
+          "id": 50000159,
+          "type": "ls"
+        },
+        {
+          "id": 50000159,
+          "type": "rs"
+        },
+        {
+          "id": 50000160,
+          "type": "ch"
+        },
+        {
+          "id": 50000161,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv26overolShort",
+      "revision": 1783323551,
+      "parts": [
+        {
+          "id": 50000299,
+          "type": "ch"
+        },
+        {
+          "id": 50000299,
+          "type": "ls"
+        },
+        {
+          "id": 50000299,
+          "type": "rs"
+        },
+        {
+          "id": 50000300,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_RedDressPHY",
+      "revision": 1783323623,
+      "parts": [
+        {
+          "id": 1322,
+          "type": "ch"
+        },
+        {
+          "id": 1344,
+          "type": "ls"
+        },
+        {
+          "id": 1344,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_Baleclava",
+      "revision": 1783324007,
+      "parts": [
+        {
+          "id": 43545359,
+          "type": "ha"
+        },
+        {
+          "id": 43545360,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv26GorraconPanuelo",
+      "revision": 1783324119,
+      "parts": [
+        {
+          "id": 80000213,
+          "type": "ha"
+        },
+        {
+          "id": 80000214,
+          "type": "ha"
+        },
+        {
+          "id": 80000215,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_26GorritoConejito",
+      "revision": 1783324538,
+      "parts": [
+        {
+          "id": 110000238,
+          "type": "ha"
+        },
+        {
+          "id": 110000239,
+          "type": "ha"
+        },
+        {
+          "id": 110000240,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_PasamontanasNike",
+      "revision": 1783324669,
+      "parts": [
+        {
+          "id": 41067840,
+          "type": "ha"
+        },
+        {
+          "id": 41067841,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv26russiancap",
+      "revision": 1783324741,
+      "parts": [
+        {
+          "id": 40000001,
+          "type": "ha"
+        },
+        {
+          "id": 40000002,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_sombrerocinamoroll",
+      "revision": 1783324819,
+      "parts": [
+        {
+          "id": 100000005,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftwintercap",
+      "revision": 1783324884,
+      "parts": [
+        {
+          "id": 8996495,
+          "type": "ha"
+        },
+        {
+          "id": 8996496,
+          "type": "ha"
+        },
+        {
+          "id": 8996497,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv26cascosConejo",
+      "revision": 1783328971,
+      "parts": [
+        {
+          "id": 50000252,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv26capaVentosa",
+      "revision": 1783329485,
+      "parts": [
+        {
+          "id": 50000240,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_Charmander",
+      "revision": 1783329909,
+      "parts": [
+        {
+          "id": 160000029,
+          "type": "rc"
+        },
+        {
+          "id": 160000029,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv26mochilaDomo",
+      "revision": 1783330666,
+      "parts": [
+        {
+          "id": 50000262,
+          "type": "ca"
+        },
+        {
+          "id": 50000263,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv26Muramasa",
+      "revision": 1783331338,
+      "parts": [
+        {
+          "id": 90000134,
+          "type": "cc"
+        },
+        {
+          "id": 90000135,
+          "type": "cc"
         }
       ]
     }
