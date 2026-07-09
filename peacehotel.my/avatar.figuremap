@@ -66696,7 +66696,7 @@
     },
     {
       "id": "cc_U_wisp",
-      "revision": 1779690759,
+      "revision": 1783577710,
       "parts": [
         {
           "id": 7097,
@@ -69107,6 +69107,28 @@
         {
           "id": 7390,
           "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_longbraidedelvenhair",
+      "revision": 1783578548,
+      "parts": [
+        {
+          "id": 7081,
+          "type": "hrb"
+        },
+        {
+          "id": 7081,
+          "type": "hr"
+        },
+        {
+          "id": 7082,
+          "type": "hrb"
+        },
+        {
+          "id": 7082,
+          "type": "hr"
         }
       ]
     }
