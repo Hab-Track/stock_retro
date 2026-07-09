@@ -1,6 +1,390 @@
 ﻿{
   "libraries": [
     {
+      "id": "hat_U_witchat",
+      "revision": 12527,
+      "parts": [
+        {
+          "id": 808329486,
+          "type": "ha"
+        },
+        {
+          "id": 808329487,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_26PeinadoPrehevil",
+      "revision": 12526,
+      "parts": [
+        {
+          "id": 110000424,
+          "type": "hr"
+        },
+        {
+          "id": 110000425,
+          "type": "hr"
+        },
+        {
+          "id": 110000426,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_GothPhy",
+      "revision": 12525,
+      "parts": [
+        {
+          "id": 1355,
+          "type": "ch"
+        },
+        {
+          "id": 1570,
+          "type": "ls"
+        },
+        {
+          "id": 1570,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_RedDressPHY",
+      "revision": 12524,
+      "parts": [
+        {
+          "id": 1322,
+          "type": "ch"
+        },
+        {
+          "id": 1344,
+          "type": "ls"
+        },
+        {
+          "id": 1344,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_26SetVogueV",
+      "revision": 12523,
+      "parts": [
+        {
+          "id": 110000291,
+          "type": "ch"
+        },
+        {
+          "id": 110000292,
+          "type": "ch"
+        },
+        {
+          "id": 110000293,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv26PantalonJen",
+      "revision": 12522,
+      "parts": [
+        {
+          "id": 160000023,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_26UniformeEdelv2",
+      "revision": 12521,
+      "parts": [
+        {
+          "id": 110000316,
+          "type": "ch"
+        },
+        {
+          "id": 110000316,
+          "type": "ls"
+        },
+        {
+          "id": 110000316,
+          "type": "rs"
+        },
+        {
+          "id": 110000317,
+          "type": "ch"
+        },
+        {
+          "id": 110000317,
+          "type": "ls"
+        },
+        {
+          "id": 110000317,
+          "type": "rs"
+        },
+        {
+          "id": 110000318,
+          "type": "ch"
+        },
+        {
+          "id": 110000318,
+          "type": "ls"
+        },
+        {
+          "id": 110000318,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_26UniformeEdelv1",
+      "revision": 12520,
+      "parts": [
+        {
+          "id": 110000370,
+          "type": "ch"
+        },
+        {
+          "id": 110000370,
+          "type": "ls"
+        },
+        {
+          "id": 110000370,
+          "type": "rs"
+        },
+        {
+          "id": 110000371,
+          "type": "ch"
+        },
+        {
+          "id": 110000371,
+          "type": "ls"
+        },
+        {
+          "id": 110000371,
+          "type": "rs"
+        },
+        {
+          "id": 110000372,
+          "type": "ch"
+        },
+        {
+          "id": 110000372,
+          "type": "ls"
+        },
+        {
+          "id": 110000372,
+          "type": "rs"
+        },
+        {
+          "id": 110000373,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_casscurlboyhair",
+      "revision": 12519,
+      "parts": [
+        {
+          "id": 488288,
+          "type": "hr"
+        },
+        {
+          "id": 488288,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_26TopEmmaFrost",
+      "revision": 12518,
+      "parts": [
+        {
+          "id": 110000283,
+          "type": "ch"
+        },
+        {
+          "id": 110000285,
+          "type": "ch"
+        },
+        {
+          "id": 110000285,
+          "type": "ls"
+        },
+        {
+          "id": 110000285,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv26PerroGlobo",
+      "revision": 12517,
+      "parts": [
+        {
+          "id": 50000197,
+          "type": "cc"
+        },
+        {
+          "id": 50000197,
+          "type": "lc"
+        },
+        {
+          "id": 50000197,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_26FlequilloPrehevil",
+      "revision": 12527,
+      "parts": [
+        {
+          "id": 110000444,
+          "type": "ha"
+        },
+        {
+          "id": 110000445,
+          "type": "ha"
+        },
+        {
+          "id": 110000446,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_batbackpack",
+      "revision": 12515,
+      "parts": [
+        {
+          "id": 1147483643,
+          "type": "ca"
+        },
+        {
+          "id": 1147483644,
+          "type": "ca"
+        },
+        {
+          "id": 1147483644,
+          "type": "lc"
+        },
+        {
+          "id": 1147483644,
+          "type": "rc"
+        },
+        {
+          "id": 1147483645,
+          "type": "ca"
+        },
+        {
+          "id": 1147483645,
+          "type": "lc"
+        },
+        {
+          "id": 1147483645,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_AyatoBangs",
+      "revision": 12514,
+      "parts": [
+        {
+          "id": 181463,
+          "type": "ha"
+        },
+        {
+          "id": 181464,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_GurenHaircut",
+      "revision": 12513,
+      "parts": [
+        {
+          "id": 181461,
+          "type": "hr"
+        },
+        {
+          "id": 181461,
+          "type": "hrb"
+        },
+        {
+          "id": 181462,
+          "type": "hr"
+        },
+        {
+          "id": 181462,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_HairXhabCleoVaughn",
+      "revision": 12512,
+      "parts": [
+        {
+          "id": 150000136,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_mayaSPIKES",
+      "revision": 12511,
+      "parts": [
+        {
+          "id": 1337866,
+          "type": "ea"
+        },
+        {
+          "id": 1337867,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_mayaSHIELD",
+      "revision": 12510,
+      "parts": [
+        {
+          "id": 1337865,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_mayaPRADA",
+      "revision": 12509,
+      "parts": [
+        {
+          "id": 337719420,
+          "type": "ea"
+        },
+        {
+          "id": 337719429,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_mayaTHEFAME",
+      "revision": 12508,
+      "parts": [
+        {
+          "id": 337719431,
+          "type": "ea"
+        }
+      ]
+    },
+    {
       "id": "hat_U_tv24gorromono",
       "revision": 12507,
       "parts": [
