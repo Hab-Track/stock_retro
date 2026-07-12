@@ -1,6 +1,7 @@
 ﻿{
   "socket.url": "wss://air-nitro.hobba.tv:2222",
   "url.prefix": "https://www.hobba.tv",
+  "crash.url": "${url.prefix}/flash_client_error",
   "asset.url": "${url.prefix}/_nitro/maze",
   "image.library.url": "${url.prefix}/maze/images/",
   "hof.furni.url": "${url.prefix}/maze/items/",
