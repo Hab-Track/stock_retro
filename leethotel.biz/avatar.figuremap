@@ -1,6 +1,384 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_face_U_tv26CaritaPortugal1",
+      "revision": 12571,
+      "parts": [
+        {
+          "id": 3948,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv26caritabrasil1",
+      "revision": 12570,
+      "parts": [
+        {
+          "id": 4314,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv26ShortPortugal",
+      "revision": 12569,
+      "parts": [
+        {
+          "id": 4056,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv26shortbrasil",
+      "revision": 12568,
+      "parts": [
+        {
+          "id": 4331,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv26CamisaPortugal",
+      "revision": 12567,
+      "parts": [
+        {
+          "id": 3879,
+          "type": "ch"
+        },
+        {
+          "id": 3879,
+          "type": "ls"
+        },
+        {
+          "id": 3879,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv26camisetabrasil",
+      "revision": 12566,
+      "parts": [
+        {
+          "id": 1337871,
+          "type": "ch"
+        },
+        {
+          "id": 1337871,
+          "type": "ls"
+        },
+        {
+          "id": 1337871,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_TapaBocaNezuko",
+      "revision": 12565,
+      "parts": [
+        {
+          "id": 1579,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv26bufandafrieren",
+      "revision": 12564,
+      "parts": [
+        {
+          "id": 3823,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv24bufandapuntafina",
+      "revision": 12563,
+      "parts": [
+        {
+          "id": 1586,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv24bufandacrochet",
+      "revision": 12562,
+      "parts": [
+        {
+          "id": 1584,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_tv24bandanadeportiva",
+      "revision": 12561,
+      "parts": [
+        {
+          "id": 1583,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv25pantalonapertura",
+      "revision": 12559,
+      "parts": [
+        {
+          "id": 11063,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_PantalonTiroBajo",
+      "revision": 12558,
+      "parts": [
+        {
+          "id": 10910,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv25bolsoMelody",
+      "revision": 12557,
+      "parts": [
+        {
+          "id": 2788,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv25bolsoKuromi",
+      "revision": 12556,
+      "parts": [
+        {
+          "id": 2787,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_tv25cintosasuke",
+      "revision": 12555,
+      "parts": [
+        {
+          "id": 2790,
+          "type": "wa"
+        },
+        {
+          "id": 2791,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_tv25mazo",
+      "revision": 12554,
+      "parts": [
+        {
+          "id": 2795,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_tv24cinturonflama",
+      "revision": 12553,
+      "parts": [
+        {
+          "id": 2783,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_tvlazoespalda",
+      "revision": 12552,
+      "parts": [
+        {
+          "id": 2798,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_26tvPeinadoFrieren",
+      "revision": 12550,
+      "parts": [
+        {
+          "id": 1337868,
+          "type": "hr"
+        },
+        {
+          "id": 1337869,
+          "type": "hr"
+        },
+        {
+          "id": 1337870,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_26PeinadoBlackCat",
+      "revision": 12549,
+      "parts": [
+        {
+          "id": 2617,
+          "type": "hr"
+        },
+        {
+          "id": 2618,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_WigGaga",
+      "revision": 12548,
+      "parts": [
+        {
+          "id": 3816,
+          "type": "hr"
+        },
+        {
+          "id": 3817,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_CabeloGlinda",
+      "revision": 12547,
+      "parts": [
+        {
+          "id": 3834,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_gafasroypurdy",
+      "revision": 12546,
+      "parts": [
+        {
+          "id": 1017,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_eyepatch2",
+      "revision": 12545,
+      "parts": [
+        {
+          "id": 993,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_tv26cabello",
+      "revision": 12544,
+      "parts": [
+        {
+          "id": 80000288,
+          "type": "hr"
+        },
+        {
+          "id": 80000289,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_26ColaShirohebi",
+      "revision": 12543,
+      "parts": [
+        {
+          "id": 110000403,
+          "type": "lg"
+        },
+        {
+          "id": 110000404,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv25vestidoDom",
+      "revision": 12542,
+      "parts": [
+        {
+          "id": 50000097,
+          "type": "ch"
+        },
+        {
+          "id": 50000098,
+          "type": "ch"
+        },
+        {
+          "id": 50000099,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_Metgaladress",
+      "revision": 12541,
+      "parts": [
+        {
+          "id": 181359,
+          "type": "ch"
+        },
+        {
+          "id": 181359,
+          "type": "ls"
+        },
+        {
+          "id": 181359,
+          "type": "rs"
+        },
+        {
+          "id": 181360,
+          "type": "ch"
+        },
+        {
+          "id": 181361,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_FluttershyHair",
+      "revision": 12540,
+      "parts": [
+        {
+          "id": 88329481,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_pumpkinslipers",
+      "revision": 12539,
+      "parts": [
+        {
+          "id": 1147483642,
+          "type": "sh"
+        }
+      ]
+    },
+    {
       "id": "shoes_U_ZapatosTerence",
       "revision": 12538,
       "parts": [
