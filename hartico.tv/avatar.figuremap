@@ -131381,6 +131381,214 @@
           "id": 80000301
         }
       ]
+    },
+    {
+      "id": "acc_chest_U_ttslingbagll",
+      "revision": 1784095986,
+      "parts": [
+        {
+          "type": "ca",
+          "id": 5002
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_ttslingbagpo",
+      "revision": 1784095986,
+      "parts": [
+        {
+          "type": "ca",
+          "id": 5003
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_ttslingbagtw",
+      "revision": 1784095986,
+      "parts": [
+        {
+          "type": "ca",
+          "id": 5004
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_rollerskates",
+      "revision": 1784095986,
+      "parts": [
+        {
+          "type": "sh",
+          "id": 5000
+        },
+        {
+          "type": "sh",
+          "id": 5001
+        },
+        {
+          "type": "sh",
+          "id": 5002
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_ttslingbagdp",
+      "revision": 1784095986,
+      "parts": [
+        {
+          "type": "ca",
+          "id": 5005
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_nftunicornslippers",
+      "revision": 1784095986,
+      "parts": [
+        {
+          "type": "sh",
+          "id": 5153
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_bunnypurse",
+      "revision": 1784095986,
+      "parts": [
+        {
+          "type": "ca",
+          "id": 5448
+        },
+        {
+          "type": "ca",
+          "id": 5449
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_starboppers1",
+      "revision": 1784095986,
+      "parts": [
+        {
+          "type": "he",
+          "id": 6193
+        },
+        {
+          "type": "he",
+          "id": 6194
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_vintageswimsuit",
+      "revision": 1784095986,
+      "parts": [
+        {
+          "type": "ch",
+          "id": 7481
+        },
+        {
+          "type": "ch",
+          "id": 7485
+        },
+        {
+          "type": "ch",
+          "id": 7490
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_summerbraid",
+      "revision": 1784095986,
+      "parts": [
+        {
+          "type": "he",
+          "id": 7464
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_tentacledress",
+      "revision": 1784095987,
+      "parts": [
+        {
+          "type": "ch",
+          "id": 7491
+        },
+        {
+          "type": "ls",
+          "id": 7491
+        },
+        {
+          "type": "rs",
+          "id": 7491
+        },
+        {
+          "type": "ch",
+          "id": 7492
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_tentacledress",
+      "revision": 1784095987,
+      "parts": [
+        {
+          "type": "ch",
+          "id": 7493
+        },
+        {
+          "type": "ls",
+          "id": 7493
+        },
+        {
+          "type": "rs",
+          "id": 7493
+        },
+        {
+          "type": "ch",
+          "id": 7494
+        }
+      ]
+    },
+    {
+      "id": "pet_U_toastfriend",
+      "revision": 1784095987,
+      "parts": [
+        {
+          "type": "pt",
+          "id": 7525
+        },
+        {
+          "type": "ptl",
+          "id": 7525
+        },
+        {
+          "type": "ptr",
+          "id": 7525
+        }
+      ]
+    },
+    {
+      "id": "pet_U_nftshoulderdragon2",
+      "revision": 1784095987,
+      "parts": [
+        {
+          "type": "pt",
+          "id": 7554
+        },
+        {
+          "type": "ptl",
+          "id": 7554
+        },
+        {
+          "type": "ptr",
+          "id": 7554
+        },
+        {
+          "type": "pt",
+          "id": 7555
+        }
+      ]
     }
   ]
 }
