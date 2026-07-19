@@ -101040,6 +101040,420 @@
           "type": "ea"
         }
       ]
+    },
+    {
+      "id": "jacket_U_26EstrellasMangasVenus",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000584",
+          "type": "lc"
+        },
+        {
+          "id": "110000584",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26MangasVenus",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000582",
+          "type": "cc"
+        },
+        {
+          "id": "110000583",
+          "type": "cc"
+        },
+        {
+          "id": "110000582",
+          "type": "lc"
+        },
+        {
+          "id": "110000583",
+          "type": "lc"
+        },
+        {
+          "id": "110000582",
+          "type": "rc"
+        },
+        {
+          "id": "110000583",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_PantalonesDeEncaje",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000594",
+          "type": "lg"
+        },
+        {
+          "id": "110000595",
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_CorsetAlma",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000591",
+          "type": "ch"
+        },
+        {
+          "id": "110000592",
+          "type": "ch"
+        },
+        {
+          "id": "110000593",
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26TopVaquerita",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000588",
+          "type": "ch"
+        },
+        {
+          "id": "110000589",
+          "type": "ch"
+        },
+        {
+          "id": "110000590",
+          "type": "ch"
+        },
+        {
+          "id": "110000588",
+          "type": "ls"
+        },
+        {
+          "id": "110000589",
+          "type": "ls"
+        },
+        {
+          "id": "110000588",
+          "type": "rs"
+        },
+        {
+          "id": "110000589",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26VestidoZania",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000586",
+          "type": "ch"
+        },
+        {
+          "id": "110000587",
+          "type": "ch"
+        },
+        {
+          "id": "110000588",
+          "type": "ch"
+        },
+        {
+          "id": "110000586",
+          "type": "ls"
+        },
+        {
+          "id": "110000587",
+          "type": "ls"
+        },
+        {
+          "id": "110000586",
+          "type": "rs"
+        },
+        {
+          "id": "110000587",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26ToqueEstelarManos",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000585",
+          "type": "ch"
+        },
+        {
+          "id": "110000585",
+          "type": "ls"
+        },
+        {
+          "id": "110000585",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_26ToqueEstelarPies",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000597",
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26TopSeika",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "150000062",
+          "type": "ch"
+        },
+        {
+          "id": "150000063",
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_26FaldaSeika",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "150000064",
+          "type": "lg"
+        },
+        {
+          "id": "150000065",
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_26ColganteUnisex",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "150000078",
+          "type": "ca"
+        },
+        {
+          "id": "150000079",
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26CapaSeika",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "150000069",
+          "type": "cc"
+        },
+        {
+          "id": "150000080",
+          "type": "cc"
+        },
+        {
+          "id": "150000069",
+          "type": "lc"
+        },
+        {
+          "id": "150000080",
+          "type": "lc"
+        },
+        {
+          "id": "150000069",
+          "type": "rc"
+        },
+        {
+          "id": "150000080",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_26CabelloSeika",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "150000067",
+          "type": "hr"
+        },
+        {
+          "id": "150000068",
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26FlecoSeika",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "150000081",
+          "type": "rc"
+        },
+        {
+          "id": "150000082",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_26AccTopSeika",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "150000066",
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_26AccFaldaSeika",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "150000083",
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv26cinnamorolltiara",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "40000034",
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv26mobiuscrown",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "40000032",
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_tv26mobiushair",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "40000033",
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_tv26butterfliesi",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "40000034",
+          "type": "mcl"
+        },
+        {
+          "id": "40000034",
+          "type": "mcr"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_tv26mobiusdress",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "40000030",
+          "type": "ch"
+        },
+        {
+          "id": "40000031",
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv26topmariposa",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "100000113",
+          "type": "ch"
+        },
+        {
+          "id": "100000113",
+          "type": "ls"
+        },
+        {
+          "id": "100000113",
+          "type": "rs"
+        },
+        {
+          "id": "100000114",
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv26chaleconorthface",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "100000115",
+          "type": "cc"
+        },
+        {
+          "id": "100000116",
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv26gorrogatito",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "100000117",
+          "type": "ha"
+        },
+        {
+          "id": "100000118",
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_Eevee",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "160000037",
+          "type": "lc"
+        },
+        {
+          "id": "160000037",
+          "type": "rc"
+        }
+      ]
     }
   ]
 }
