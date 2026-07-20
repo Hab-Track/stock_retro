@@ -81113,7 +81113,7 @@
       "revision": 998789494,
       "parts": [
         {
-          "id": 998789494,
+          "id": 257719431,
           "type": "ea"
         }
       ]
@@ -81147,6 +81147,350 @@
         {
           "id": 12642524,
           "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_26BufandaDelCefiro",
+      "revision": 998789497,
+      "parts": [
+        {
+          "id": 150000034,
+          "type": "fa"
+        },
+        {
+          "id": 150000035,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_26CabelloNejire",
+      "revision": 998789498,
+      "parts": [
+        {
+          "id": 110000358,
+          "type": "hr"
+        },
+        {
+          "id": 110000359,
+          "type": "hr"
+        },
+        {
+          "id": 110000360,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_26CabelloShirohebiV2",
+      "revision": 998789499,
+      "parts": [
+        {
+          "id": 110000417,
+          "type": "hr"
+        },
+        {
+          "id": 110000418,
+          "type": "hr"
+        },
+        {
+          "id": 110000419,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26KimonoAmaterasu",
+      "revision": 998789500,
+      "parts": [
+        {
+          "id": 110000390,
+          "type": "ch"
+        },
+        {
+          "id": 110000390,
+          "type": "ls"
+        },
+        {
+          "id": 110000390,
+          "type": "rs"
+        },
+        {
+          "id": 110000391,
+          "type": "ch"
+        },
+        {
+          "id": 110000391,
+          "type": "ls"
+        },
+        {
+          "id": 110000391,
+          "type": "rs"
+        },
+        {
+          "id": 110000392,
+          "type": "ch"
+        },
+        {
+          "id": 110000393,
+          "type": "ch"
+        },
+        {
+          "id": 110000394,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26KimonoShirohebi",
+      "revision": 998789501,
+      "parts": [
+        {
+          "id": 110000421,
+          "type": "ch"
+        },
+        {
+          "id": 110000421,
+          "type": "ls"
+        },
+        {
+          "id": 110000421,
+          "type": "rs"
+        },
+        {
+          "id": 110000422,
+          "type": "ch"
+        },
+        {
+          "id": 110000422,
+          "type": "ls"
+        },
+        {
+          "id": 110000422,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26SetVogueV",
+      "revision": 998789502,
+      "parts": [
+        {
+          "id": 110000291,
+          "type": "ch"
+        },
+        {
+          "id": 110000292,
+          "type": "ch"
+        },
+        {
+          "id": 110000293,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26VestidoDeGalaf",
+      "revision": 998789503,
+      "parts": [
+        {
+          "id": 99000107,
+          "type": "ch"
+        },
+        {
+          "id": 99000108,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_26ZapatosEdel",
+      "revision": 998789504,
+      "parts": [
+        {
+          "id": 110000374,
+          "type": "sh"
+        },
+        {
+          "id": 110000375,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_TheresaSkirt2",
+      "revision": 998789505,
+      "parts": [
+        {
+          "id": 1011232026,
+          "type": "lg"
+        },
+        {
+          "id": 1011242026,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv26abrigoCyberpunk",
+      "revision": 998789506,
+      "parts": [
+        {
+          "id": 50000241,
+          "type": "cc"
+        },
+        {
+          "id": 50000241,
+          "type": "lc"
+        },
+        {
+          "id": 50000241,
+          "type": "rc"
+        },
+        {
+          "id": 50000242,
+          "type": "cc"
+        },
+        {
+          "id": 50000242,
+          "type": "lc"
+        },
+        {
+          "id": 50000242,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv26capaVentosa",
+      "revision": 998789507,
+      "parts": [
+        {
+          "id": 51000240,
+          "type": "cc"
+        },
+        {
+          "id": 51000241,
+          "type": "lc"
+        },
+        {
+          "id": 51000241,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv26chaquetaBomber",
+      "revision": 998789508,
+      "parts": [
+        {
+          "id": 50000258,
+          "type": "cc"
+        },
+        {
+          "id": 50000258,
+          "type": "lc"
+        },
+        {
+          "id": 50000258,
+          "type": "rc"
+        },
+        {
+          "id": 50000259,
+          "type": "cc"
+        },
+        {
+          "id": 50000260,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_tv26corsetFalda",
+      "revision": 998789509,
+      "parts": [
+        {
+          "id": 50000244,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv26cropSweat",
+      "revision": 998789510,
+      "parts": [
+        {
+          "id": 50000238,
+          "type": "cc"
+        },
+        {
+          "id": 50000238,
+          "type": "lc"
+        },
+        {
+          "id": 50000238,
+          "type": "rc"
+        },
+        {
+          "id": 50000239,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv26galagloves",
+      "revision": 998789511,
+      "parts": [
+        {
+          "id": 40000026,
+          "type": "lc"
+        },
+        {
+          "id": 40000026,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv26GorraconPanuelo",
+      "revision": 998789512,
+      "parts": [
+        {
+          "id": 80000213,
+          "type": "ha"
+        },
+        {
+          "id": 80000214,
+          "type": "ha"
+        },
+        {
+          "id": 80000215,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv26PantalonJen",
+      "revision": 998789513,
+      "parts": [
+        {
+          "id": 160000023,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv26panuelosingorra",
+      "revision": 998789514,
+      "parts": [
+        {
+          "id": 80000216,
+          "type": "ha"
+        },
+        {
+          "id": 80000217,
+          "type": "ha"
         }
       ]
     }
