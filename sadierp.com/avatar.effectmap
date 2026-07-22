@@ -25,6 +25,12 @@
       "revision": 59200
     },
     {
+      "id": "punch",
+      "lib": "Punch",
+      "type": "dance",
+      "revision": 59200
+    },
+    {
       "id": "1",
       "lib": "Spotlight",
       "type": "fx",
@@ -610,7 +616,7 @@
       "id": "98",
       "lib": "SnowstormCrosshair",
       "type": "fx",
-      "revision": 66539
+      "revision": 59200
     },
     {
       "id": "99",
@@ -1220,9 +1226,9 @@
     },
     {
       "id": "200",
-      "lib": "RollerSkatingSlide",
+      "lib": "Dance1",
       "type": "fx",
-      "revision": 66684
+      "revision": 59200
     },
     {
       "id": "201",
@@ -1887,108 +1893,6 @@
     {
       "id": "1665",
       "lib": "Cartaxi2",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "3000",
-      "lib": "TaxiBase",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "3001",
-      "lib": "TaxiRainbow",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "3002",
-      "lib": "TaxiBlack",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "3003",
-      "lib": "TaxiWhite",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "3004",
-      "lib": "TaxiBlue",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "3005",
-      "lib": "TaxiGreen",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "3006",
-      "lib": "TaxiMarine",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "3007",
-      "lib": "TaxiOrange",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "3008",
-      "lib": "TaxiPink",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "3009",
-      "lib": "TaxiPurple",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "3010",
-      "lib": "TaxiRed",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "3011",
-      "lib": "TaxiChicken",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "3012",
-      "lib": "TaxiFlames",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "3013",
-      "lib": "TaxiFlamingo",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "3014",
-      "lib": "TaxiVaporwave",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "3015",
-      "lib": "TaxiHelloKitty",
-      "type": "fx",
-      "revision": 59200
-    },
-    {
-      "id": "3016",
-      "lib": "Cartaxi",
       "type": "fx",
       "revision": 59200
     }
