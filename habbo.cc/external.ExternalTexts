@@ -15324,7 +15324,7 @@
   "inventory.trading.info.creditvalue.own": "%value% Taler im Wert von Taler-Möbel",
   "inventory.trading.info.creditvalue": "%value% Taler",
   "inventory.trading.info.itemcount": "%value% Artikel",
-  "inventory.trading.info.waiting": "Es wird auf den anderen User gewartet, bis dieser den Tausch bestätigt.",
+  "inventory.trading.info.waiting": "Warte auf Bestätigung...",
   "inventory.trading.isoffering": "bietet an",
   "inventory.trading.minimized.continue_trade": "Fortfahren",
   "inventory.trading.minimized.trade_in_progress": "Tausch wird vorgenommen",
@@ -41714,5 +41714,11 @@
   "nitro.ui24.wired.carry_src_selector": "User vom Selektor nehmen",
   "nitro.ui24.wired.carry_src_trigger": "Den ausloesenden User nehmen",
   "nitro.ui24.wired.carry_src_signal": "User vom Signal nehmen",
-  "nitro.ui24.wired.carry_src_unknown": "Unbekannt"
+  "nitro.ui24.wired.carry_src_unknown": "Unbekannt",
+  "friendlytime.seconds.short.ago": "Vor %amount% S.",
+  "friendlytime.minutes.short.ago": "Vor %amount% Min.",
+  "friendlytime.hours.short.ago": "Vor %amount% St.",
+  "friendlytime.days.short.ago": "Vor %amount% T.",
+  "friendlytime.months.short.ago": "Vor %amount% Mon.",
+  "friendlytime.years.short.ago": "Vor %amount% J."
 }
