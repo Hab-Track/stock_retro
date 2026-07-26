@@ -621016,6 +621016,60 @@
         "cansiton": false,
         "canlayon": false,
         "furniline": ""
+      },
+      {
+        "id": 1356485194,
+        "classname": "stickerhilise_2",
+        "revision": 1785065747,
+        "category": "peace_plus",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sticker Hilise 2.0",
+        "description": "Double click to redeem this profile sticker.",
+        "adurl": "",
+        "offerid": -1,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "sticker:161",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": ""
+      },
+      {
+        "id": 1356485195,
+        "classname": "isfurni",
+        "revision": 1785066999,
+        "category": "peace_plus",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Infostand Hilise 2.0",
+        "description": "Double click this to redeem profile infostand",
+        "adurl": "",
+        "offerid": -1,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "infostand:/nitro-assets/images/banner/infostand/Infostand_Hilise_2.gif",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": ""
       }
     ]
   },
