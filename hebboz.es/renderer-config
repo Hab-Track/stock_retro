@@ -18,25 +18,6 @@
     "bd:1",
     "li:0"
   ],
-  "avatar.mandatory.effect.libraries": [
-    "dance.1",
-    "dance.2",
-    "dance.3",
-    "dance.4",
-    "dance.5",
-    "dance.6",
-    "dance.7",
-    "dance.8",
-    "dance.9",
-    "dance.10",
-    "dance.11",
-    "dance.12",
-    "dance.13",
-    "dance.14",
-    "dance.15",
-    "dance.16",
-    "dance.67"
-  ],
   "avatar.default.figuredata": {
     "palettes": [
       {
@@ -522,46 +503,5 @@
         "assetPartDefinition": "std"
       }
     ]
-  },
-  "pet.types": [
-    "dog",
-    "cat",
-    "croco",
-    "terrier",
-    "bear",
-    "pig",
-    "lion",
-    "rhino",
-    "spider",
-    "turtle",
-    "chicken",
-    "frog",
-    "dragon",
-    "monster",
-    "monkey",
-    "horse",
-    "monsterplant",
-    "bunnyeaster",
-    "bunnyevil",
-    "bunnydepressed",
-    "bunnylove",
-    "pigeongood",
-    "pigeonevil",
-    "demonmonkey",
-    "bearbaby",
-    "terrierbaby",
-    "gnome",
-    "gnome",
-    "kittenbaby",
-    "puppybaby",
-    "pigletbaby",
-    "haloompa",
-    "fools",
-    "pterosaur",
-    "velociraptor",
-    "cow",
-    "LeetPen",
-    "bbwibb",
-    "elephants"
-  ]
+  }
 }
