@@ -30915,20 +30915,6 @@
       ]
     },
     {
-      "id": "hat_U_berr",
-      "revision": 62474705,
-      "parts": [
-        {
-          "id": 7233,
-          "type": "ha"
-        },
-        {
-          "id": 7234,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "trousers_U_bigbu",
       "revision": 6010508,
       "parts": [
@@ -69129,6 +69115,66 @@
         {
           "id": 7082,
           "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_cowonesie",
+      "revision": 1785209158,
+      "parts": [
+        {
+          "id": 7522,
+          "type": "ls"
+        },
+        {
+          "id": 7522,
+          "type": "ch"
+        },
+        {
+          "id": 7522,
+          "type": "rs"
+        },
+        {
+          "id": 7523,
+          "type": "ls"
+        },
+        {
+          "id": 7523,
+          "type": "ch"
+        },
+        {
+          "id": 7523,
+          "type": "rs"
+        },
+        {
+          "id": 7524,
+          "type": "ls"
+        },
+        {
+          "id": 7524,
+          "type": "ch"
+        },
+        {
+          "id": 7524,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_cowonesie",
+      "revision": 1785209159,
+      "parts": [
+        {
+          "id": 7519,
+          "type": "ha"
+        },
+        {
+          "id": 7520,
+          "type": "ha"
+        },
+        {
+          "id": 7521,
+          "type": "ha"
         }
       ]
     }
