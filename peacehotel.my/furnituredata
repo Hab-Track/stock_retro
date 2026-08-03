@@ -47773,27 +47773,25 @@
         "canlayon": false,
         "cansiton": false,
         "canstandon": false,
-        "category": "unknown",
+        "category": "peace_plus",
         "classname": "clothing_r26_mannequinskin",
-        "customparams": "",
+        "customparams": "998787223",
         "defaultdir": 0,
-        "description": "clothing_r26_mannequinskin desc",
+        "description": "",
         "environment": "",
         "excludeddynamic": false,
         "furniline": "",
-        "id": 1356483135,
+        "id": 1356485202,
         "name": "Mannequin Skin",
-        "offerid": 1356483135,
+        "offerid": -1,
         "partcolors": {
-          "color": [
-            "#FFFFFF"
-          ]
+          "color": []
         },
         "rare": false,
         "rentbuyout": false,
-        "rentofferid": 1356483135,
-        "revision": 1,
-        "specialtype": 0,
+        "rentofferid": -1,
+        "revision": 1785763482,
+        "specialtype": 23,
         "xdim": 1,
         "ydim": 1
       },
