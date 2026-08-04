@@ -1,5 +1,5 @@
 ﻿{
-  "version.text.cache": "fx20",
+  "version.text.cache": "fx22",
   "socket.url": "wss://ws.hartix.es:2096",
   "host.url": "https://hartix.es",
   "asset.url": "${host.url}/resources/nitro",
@@ -9,9 +9,7 @@
   "gamedata.url": "${asset.url}/gamedata",
   "sounds.url": "${asset.url}/sounds/%sample%.mp3",
   "external.texts.url": [
-    "${gamedata.url}/ExternalTexts.json",
-    "${gamedata.url}/UITexts.json",
-    "${host.url}/badges"
+    "${host.url}/externaltexts"
   ],
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
   "furnidata.url": "/furnidata",
