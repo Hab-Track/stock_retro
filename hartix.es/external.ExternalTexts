@@ -1,4 +1,4 @@
-﻿{
+﻿
   "1handitem30": "Chocolate Ice Creame",
   "Hand item1000": "rose",
   "Hand item1001": "black rose",
@@ -1722,7 +1722,7 @@
   "friendlist.tip.acceptall": "Aceptar todo",
   "friendlist.tip.addfriend": "Send friend request",
   "friendlist.tip.compose": "Send minimail",
-  "friendlist.select_all": "Seleccionar Todo",
+  "friendlist.select_all":"Seleccionar Todo",
   "friendlist.tip.decline": "Rechazar",
   "friendlist.tip.declineall": "Rechazar todo",
   "friendlist.tip.follow": "Ir",
@@ -3254,10 +3254,10 @@
   "infostand.button.removerights": "Quitar permisos",
   "infostand.button.rent": "Rent one",
   "infostand.button.replaceproduct_saddle": "Replace Saddle",
-  "infostand.button.kiss": "Besar",
+  "infostand.button.kiss":"Besar",
   "infostand.button.report": "Reportar",
   "infostand.button.respect": "Respetos (%count%)",
-  "infostand.button.kisses": "Besos (%count%)",
+  "infostand.button.kisses" : "Besos (%count%)",
   "infostand.button.revive": "Revive",
   "infostand.button.revive_monsterplant": "Revive",
   "infostand.button.rotate": "Girar",
@@ -15256,7 +15256,7 @@
   "securitytext1": "Do not share your personal information, conversations are monitored by staff for security purposes.",
   "securitytext2": "Sharing passwords or personal information online is dangerous. Please do not rely on people who ask for Credit Card information or ask for family members information, and report it to the staff. For your security, we can monitor these conversations.",
   "friends.box.info.desc": "All active friends and pending friend requests will appear below here",
-  "generic.username": "Tocan timbre",
-  "generic.accept": "Aceptar",
-  "external.plugins": "/resoruces/client/plugins/room-builder.js"
-}
+  "generic.username":"Tocan timbre",
+  "generic.accept":"Aceptar",
+  "external.plugins":"/resoruces/client/plugins/room-builder.js"
+
