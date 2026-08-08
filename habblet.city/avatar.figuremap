@@ -1,6 +1,120 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_F_tubetop2",
+      "revision": 12668,
+      "parts": [
+        {
+          "id": 7509,
+          "type": "ch"
+        },
+        {
+          "id": 7509,
+          "type": "ls"
+        },
+        {
+          "id": 7509,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_tubetop2",
+      "revision": 12667,
+      "parts": [
+        {
+          "id": 7510,
+          "type": "ch"
+        },
+        {
+          "id": 7510,
+          "type": "ls"
+        },
+        {
+          "id": 7510,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_lambplush",
+      "revision": 12666,
+      "parts": [
+        {
+          "id": 7539,
+          "type": "cc"
+        },
+        {
+          "id": 7539,
+          "type": "lc"
+        },
+        {
+          "id": 7539,
+          "type": "rc"
+        },
+        {
+          "id": 7540,
+          "type": "cc"
+        },
+        {
+          "id": 7541,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_scarecrow2",
+      "revision": 12665,
+      "parts": [
+        {
+          "id": 7494,
+          "type": "hd"
+        },
+        {
+          "id": 7494,
+          "type": "bd"
+        },
+        {
+          "id": 7494,
+          "type": "ey"
+        },
+        {
+          "id": 7494,
+          "type": "lh"
+        },
+        {
+          "id": 7494,
+          "type": "rh"
+        }
+      ]
+    },
+    {
+      "id": "face_U_scarecrow1",
+      "revision": 12664,
+      "parts": [
+        {
+          "id": 7493,
+          "type": "hd"
+        },
+        {
+          "id": 7493,
+          "type": "bd"
+        },
+        {
+          "id": 7493,
+          "type": "ey"
+        },
+        {
+          "id": 7493,
+          "type": "lh"
+        },
+        {
+          "id": 7493,
+          "type": "rh"
+        }
+      ]
+    },
+    {
       "id": "trousers_U_tv25pantsLacitos",
       "revision": 12663,
       "parts": [
@@ -73826,6 +73940,18 @@
         },
         {
           "id": 312,
+          "type": "ri"
+        },
+        {
+          "id": 313,
+          "type": "ri"
+        },
+        {
+          "id": 314,
+          "type": "ri"
+        },
+        {
+          "id": 315,
           "type": "ri"
         },
         {
