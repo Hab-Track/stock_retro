@@ -76249,10 +76249,6 @@
         {
           "id": 7419,
           "type": "sh"
-        },
-        {
-          "id": 1,
-          "type": "sh"
         }
       ]
     },
@@ -80263,16 +80259,6 @@
       ]
     },
     {
-      "id": "hair_U_Dorabelle",
-      "revision": 991111648,
-      "parts": [
-        {
-          "id": 337719200,
-          "type": "hr"
-        }
-      ]
-    },
-    {
       "id": "hat_U_glowingfireflies",
       "revision": 991111649,
       "parts": [
@@ -80293,6 +80279,30 @@
         {
           "id": 7525,
           "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_Jellybob",
+      "revision": 991111651,
+      "parts": [
+        {
+          "id": 160000153,
+          "type": "hr"
+        },
+        {
+          "id": 160000154,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_Dorabelle",
+      "revision": 991111652,
+      "parts": [
+        {
+          "id": 337719200,
+          "type": "hr"
         }
       ]
     }
