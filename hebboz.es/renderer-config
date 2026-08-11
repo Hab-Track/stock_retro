@@ -10,7 +10,7 @@
   "system.log.packets": false,
   "system.fps.animation": 24,
   "system.fps.max": 120,
-  "system.pong.manually": true,
+  "system.pong.manually": false,
   "system.pong.interval.ms": 20000,
   "room.landscapes.enabled": true,
   "room.color.skip.transition": false,
