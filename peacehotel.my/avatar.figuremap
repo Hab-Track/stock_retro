@@ -69120,7 +69120,7 @@
     },
     {
       "id": "shirt_U_cowonesie",
-      "revision": 1785209158,
+      "revision": 1786510155,
       "parts": [
         {
           "id": 7522,
@@ -69162,7 +69162,7 @@
     },
     {
       "id": "hat_U_cowonesie",
-      "revision": 1785209159,
+      "revision": 1786510153,
       "parts": [
         {
           "id": 7519,
@@ -69223,6 +69223,68 @@
         {
           "id": 7187,
           "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_scarecrow1",
+      "revision": 1786508974,
+      "parts": [
+        {
+          "id": 7493,
+          "type": "lh"
+        },
+        {
+          "id": 7493,
+          "type": "rh"
+        },
+        {
+          "id": 7493,
+          "type": "bd"
+        },
+        {
+          "id": 7493,
+          "type": "hd"
+        }
+      ]
+    },
+    {
+      "id": "face_U_scarecrow2",
+      "revision": 1786508976,
+      "parts": [
+        {
+          "id": 7494,
+          "type": "lh"
+        },
+        {
+          "id": 7494,
+          "type": "rh"
+        },
+        {
+          "id": 7494,
+          "type": "bd"
+        },
+        {
+          "id": 7494,
+          "type": "hd"
+        }
+      ]
+    },
+    {
+      "id": "cc_U_lambplush",
+      "revision": 1786510113,
+      "parts": [
+        {
+          "id": 7539,
+          "type": "cc"
+        },
+        {
+          "id": 7540,
+          "type": "cc"
+        },
+        {
+          "id": 7541,
+          "type": "cc"
         }
       ]
     }
