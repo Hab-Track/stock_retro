@@ -621797,6 +621797,60 @@
         "cansiton": false,
         "canlayon": false,
         "furniline": ""
+      },
+      {
+        "id": 1356485225,
+        "classname": "clothing_tomatoberet",
+        "revision": 1786514704,
+        "category": "peace_plus",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tomato Beret",
+        "description": "",
+        "adurl": "",
+        "offerid": -1,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "998787229",
+        "specialtype": 23,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": ""
+      },
+      {
+        "id": 1356485226,
+        "classname": "clothing_pumpkinbag2",
+        "revision": 1786514730,
+        "category": "peace_plus",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pumpkin Bag",
+        "description": "",
+        "adurl": "",
+        "offerid": -1,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "998787230",
+        "specialtype": 23,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": ""
       }
     ]
   },
