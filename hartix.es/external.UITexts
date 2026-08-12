@@ -404,7 +404,11 @@
     "wiredfurni.error.require_counter_furni": "¡Solo se pueden seleccionar contadores\/cronómetros!",
     "wiredfurni.params.rotateuser": "Escoge la rotación:",
     "wiredfurni.params.moveuser": "Escoge el movimiento:",
-    
+    "wiredfurni.params.not_requireall.0": "Algunos de los furnis seleccionados no tienen furnis encima",
+    "wiredfurni.params.not_requireall.1": "Todos los furnis seleccionados no tienen furnis encima",
+    "wiredfurni.params.not_requireall.2": "Si uno de los furnis seleccionados no tiene avatar",
+    "wiredfurni.params.not_requireall.3": "Si todos los furnis seleccionados no tienen avatares en ellos",
+    "wiredfurni.params.not_requireall": "Cumplir condición si:",
     "infostand.link.acciones": "Acciones",
     "avatar.acciones.abrazar" : "Abrazar",
     "avatar.acciones.amarrar" : "Amarrar",
