@@ -36440,6 +36440,26 @@
         "offerid": 2141232548
       },
       {
+        "id": 2141232655,
+        "classname": "wf_act_place_furni",
+        "partcolors": {
+          "color": []
+        },
+        "name": "Efecto WIRED: Colocar Furni Temporal",
+        "description": "",
+        "offerid": 2141232655
+      },
+      {
+        "id": 2141232656,
+        "classname": "wf_act_remove_furni",
+        "partcolors": {
+          "color": []
+        },
+        "name": "Efecto WIRED: Retirar Furni Temporal",
+        "description": "",
+        "offerid": 2141232656
+      },
+      {
         "id": 2141232549,
         "classname": "wf_xtra_var_lvlup_system",
         "partcolors": {
