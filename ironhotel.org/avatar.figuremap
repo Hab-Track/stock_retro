@@ -79713,6 +79713,82 @@
           "type": "rs"
         }
       ]
+    },
+    {
+      "id": "hair_U_letitgrow",
+      "revision": 998789409,
+      "parts": [
+        {
+          "id": 7465,
+          "type": "hr"
+        },
+        {
+          "id": 7465,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_femmefatalehair",
+      "revision": 998789410,
+      "parts": [
+        {
+          "id": 7355,
+          "type": "hr"
+        },
+        {
+          "id": 7355,
+          "type": "hrb"
+        },
+        {
+          "id": 7356,
+          "type": "hr"
+        },
+        {
+          "id": 7356,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_tattoohead",
+      "revision": 998789411,
+      "parts": [
+        {
+          "id": 7514,
+          "type": "hr"
+        },
+        {
+          "id": 7514,
+          "type": "hrb"
+        },
+        {
+          "id": 7515,
+          "type": "hr"
+        },
+        {
+          "id": 7515,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_mafiascarf",
+      "revision": 998789412,
+      "parts": [
+        {
+          "id": 7362,
+          "type": "ca"
+        },
+        {
+          "id": 7363,
+          "type": "ca"
+        },
+        {
+          "id": 7364,
+          "type": "ca"
+        }
+      ]
     }
   ]
 }
