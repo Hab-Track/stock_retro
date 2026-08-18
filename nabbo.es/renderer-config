@@ -11,7 +11,7 @@
     "${gamedata.url}/json/lang/ExternalTexts_en.json",
     "${gamedata.url}/json/lang/UITexts_en.json"
   ],
-  "external.texts.version": "17",
+  "external.texts.version": "20",
   "ui.texts.version": "15",
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
   "furnidata.url": "${gamedata.url}/json/FurnitureData.json",
