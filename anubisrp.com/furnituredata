@@ -733968,6 +733968,35 @@
         "furniline": "",
         "environment": "",
         "rare": false
+      },
+      {
+        "id": 710114052,
+        "classname": "hab_changing",
+        "revision": 1787074221,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "hab_changing",
+        "description": "hab_changing",
+        "adurl": "",
+        "offerid": 710114052,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
       }
     ]
   },
