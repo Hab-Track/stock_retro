@@ -8036,5 +8036,6 @@
   "roomvoice.error.permission": "Se denegó el permiso del micrófono. Actívalo en el navegador e inténtalo de nuevo.",
   "roomvoice.error.device": "No se encontró un micrófono. Conecta uno e inténtalo de nuevo.",
   "roomvoice.error.busy": "El micrófono está ocupado en otra aplicación. Ciérrala e inténtalo de nuevo.",
-  "roomvoice.error.autoplay": "El navegador bloqueó el audio remoto. Pulsa Iniciar audio."
+  "roomvoice.error.autoplay": "El navegador bloqueó el audio remoto. Pulsa Iniciar audio.",
+  "roomvoice.overlay.active": "%count% en la voz de sala"
 }
