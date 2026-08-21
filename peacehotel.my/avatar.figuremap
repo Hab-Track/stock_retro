@@ -69323,6 +69323,118 @@
           "type": "ca"
         }
       ]
+    },
+    {
+      "id": "hat_U_cozysailorhat",
+      "revision": 1787317768,
+      "parts": [
+        {
+          "id": 7431,
+          "type": "ha"
+        },
+        {
+          "id": 7432,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_cozysailorshirt",
+      "revision": 1787317770,
+      "parts": [
+        {
+          "id": 7441,
+          "type": "ls"
+        },
+        {
+          "id": 7442,
+          "type": "ls"
+        },
+        {
+          "id": 7443,
+          "type": "ls"
+        },
+        {
+          "id": 7441,
+          "type": "rs"
+        },
+        {
+          "id": 7442,
+          "type": "rs"
+        },
+        {
+          "id": 7443,
+          "type": "rs"
+        },
+        {
+          "id": 7441,
+          "type": "ch"
+        },
+        {
+          "id": 7442,
+          "type": "ch"
+        },
+        {
+          "id": 7443,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_cozysailorshirt",
+      "revision": 1787317772,
+      "parts": [
+        {
+          "id": 7438,
+          "type": "ls"
+        },
+        {
+          "id": 7439,
+          "type": "ls"
+        },
+        {
+          "id": 7440,
+          "type": "ls"
+        },
+        {
+          "id": 7438,
+          "type": "rs"
+        },
+        {
+          "id": 7439,
+          "type": "rs"
+        },
+        {
+          "id": 7440,
+          "type": "rs"
+        },
+        {
+          "id": 7438,
+          "type": "ch"
+        },
+        {
+          "id": 7439,
+          "type": "ch"
+        },
+        {
+          "id": 7440,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_cozysailortrousers",
+      "revision": 1787317773,
+      "parts": [
+        {
+          "id": 7436,
+          "type": "lg"
+        },
+        {
+          "id": 7437,
+          "type": "lg"
+        }
+      ]
     }
   ]
 }
