@@ -79653,6 +79653,174 @@
           "type": "hrb"
         }
       ]
+    },
+    {
+      "id": "jacket_U_26MantillaTanithV2",
+      "revision": 998789602,
+      "parts": [
+        {
+          "id": 110000184,
+          "type": "cc"
+        },
+        {
+          "id": 110000184,
+          "type": "lc"
+        },
+        {
+          "id": 110000184,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_sueterlongo1",
+      "revision": 998789603,
+      "parts": [
+        {
+          "id": 80000210,
+          "type": "ch"
+        },
+        {
+          "id": 80000210,
+          "type": "ls"
+        },
+        {
+          "id": 80000210,
+          "type": "rs"
+        },
+        {
+          "id": 80000211,
+          "type": "ch"
+        },
+        {
+          "id": 80000211,
+          "type": "ls"
+        },
+        {
+          "id": 80000211,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_cowonesie",
+      "revision": 998789604,
+      "parts": [
+        {
+          "id": 7519,
+          "type": "ha"
+        },
+        {
+          "id": 7520,
+          "type": "ha"
+        },
+        {
+          "id": 7521,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_cowonesie",
+      "revision": 998789605,
+      "parts": [
+        {
+          "id": 7522,
+          "type": "ch"
+        },
+        {
+          "id": 7522,
+          "type": "ls"
+        },
+        {
+          "id": 7522,
+          "type": "rs"
+        },
+        {
+          "id": 7523,
+          "type": "ch"
+        },
+        {
+          "id": 7523,
+          "type": "ls"
+        },
+        {
+          "id": 7523,
+          "type": "rs"
+        },
+        {
+          "id": 7524,
+          "type": "ch"
+        },
+        {
+          "id": 7524,
+          "type": "ls"
+        },
+        {
+          "id": 7524,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tigeronesiehead",
+      "revision": 998789606,
+      "parts": [
+        {
+          "id": 7233,
+          "type": "ha"
+        },
+        {
+          "id": 7234,
+          "type": "ha"
+        },
+        {
+          "id": 7235,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tigeronesie",
+      "revision": 998789607,
+      "parts": [
+        {
+          "id": 7230,
+          "type": "ch"
+        },
+        {
+          "id": 7230,
+          "type": "ls"
+        },
+        {
+          "id": 7230,
+          "type": "rs"
+        },
+        {
+          "id": 7231,
+          "type": "ch"
+        },
+        {
+          "id": 7231,
+          "type": "ls"
+        },
+        {
+          "id": 7231,
+          "type": "rs"
+        },
+        {
+          "id": 7232,
+          "type": "ch"
+        },
+        {
+          "id": 7232,
+          "type": "ls"
+        },
+        {
+          "id": 7232,
+          "type": "rs"
+        }
+      ]
     }
   ]
 }
