@@ -79543,66 +79543,6 @@
       ]
     },
     {
-      "id": "hat_U_happyoctoplush",
-      "revision": 998789402,
-      "parts": [
-        {
-          "id": 7412,
-          "type": "ha"
-        },
-        {
-          "id": 7413,
-          "type": "ha"
-        },
-        {
-          "id": 7414,
-          "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "jacket_U_gardencardigan",
-      "revision": 998789403,
-      "parts": [
-        {
-          "id": 7490,
-          "type": "cc"
-        },
-        {
-          "id": 7490,
-          "type": "lc"
-        },
-        {
-          "id": 7490,
-          "type": "rc"
-        },
-        {
-          "id": 7491,
-          "type": "cc"
-        },
-        {
-          "id": 7491,
-          "type": "lc"
-        },
-        {
-          "id": 7491,
-          "type": "rc"
-        },
-        {
-          "id": 7492,
-          "type": "cc"
-        },
-        {
-          "id": 7492,
-          "type": "lc"
-        },
-        {
-          "id": 7492,
-          "type": "rc"
-        }
-      ]
-    },
-    {
       "id": "hat_U_nftwesternhat",
       "revision": 998789404,
       "parts": [
@@ -79631,24 +79571,6 @@
       ]
     },
     {
-      "id": "hat_U_tomatoberet",
-      "revision": 998789406,
-      "parts": [
-        {
-          "id": 7506,
-          "type": "ha"
-        },
-        {
-          "id": 7507,
-          "type": "ha"
-        },
-        {
-          "id": 7508,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "hat_U_nftnewsboycap",
       "revision": 998789407,
       "parts": [
@@ -79659,94 +79581,6 @@
         {
           "id": 7395,
           "type": "ha"
-        }
-      ]
-    },
-    {
-      "id": "shirt_M_nftwesternshirt",
-      "revision": 998789408,
-      "parts": [
-        {
-          "id": 7528,
-          "type": "ch"
-        },
-        {
-          "id": 7528,
-          "type": "ls"
-        },
-        {
-          "id": 7528,
-          "type": "rs"
-        },
-        {
-          "id": 7529,
-          "type": "ch"
-        },
-        {
-          "id": 7529,
-          "type": "ls"
-        },
-        {
-          "id": 7529,
-          "type": "rs"
-        }
-      ]
-    },
-    {
-      "id": "hair_U_letitgrow",
-      "revision": 998789409,
-      "parts": [
-        {
-          "id": 7465,
-          "type": "hr"
-        },
-        {
-          "id": 7465,
-          "type": "hrb"
-        }
-      ]
-    },
-    {
-      "id": "hair_U_femmefatalehair",
-      "revision": 998789410,
-      "parts": [
-        {
-          "id": 7355,
-          "type": "hr"
-        },
-        {
-          "id": 7355,
-          "type": "hrb"
-        },
-        {
-          "id": 7356,
-          "type": "hr"
-        },
-        {
-          "id": 7356,
-          "type": "hrb"
-        }
-      ]
-    },
-    {
-      "id": "hair_U_tattoohead",
-      "revision": 998789411,
-      "parts": [
-        {
-          "id": 7514,
-          "type": "hr"
-        },
-        {
-          "id": 7514,
-          "type": "hrb"
-        },
-        {
-          "id": 7515,
-          "type": "hr"
-        },
-        {
-          "id": 7515,
-          "type": "hrb"
         }
       ]
     },
@@ -79769,54 +79603,54 @@
       ]
     },
     {
-      "id": "hair_U_jellyfishcut",
-      "revision": 998789517,
+      "id": "jacket_U_26MantoInvisi",
+      "revision": 998789600,
       "parts": [
         {
-          "id": 7457,
-          "type": "hr"
+          "id": 111000179,
+          "type": "cc"
         },
         {
-          "id": 7457,
-          "type": "hrb"
+          "id": 111000179,
+          "type": "lc"
         },
         {
-          "id": 7458,
-          "type": "hr"
+          "id": 111000179,
+          "type": "rc"
         },
         {
-          "id": 7458,
-          "type": "hrb"
+          "id": 111000180,
+          "type": "cc"
+        },
+        {
+          "id": 111000180,
+          "type": "lc"
+        },
+        {
+          "id": 111000180,
+          "type": "rc"
         }
       ]
     },
     {
-      "id": "jacket_U_26MantoInvisi",
-      "revision": 998789520,
+      "id": "hair_U_jellyfishcut",
+      "revision": 998789601,
       "parts": [
         {
-          "id": 111000179,
-          "type": "cc"
+          "id": 7457,
+          "type": "hr"
         },
         {
-          "id": 111000179,
-          "type": "lc"
+          "id": 7457,
+          "type": "hrb"
         },
         {
-          "id": 111000179,
-          "type": "rc"
+          "id": 7458,
+          "type": "hr"
         },
         {
-          "id": 111000180,
-          "type": "cc"
-        },
-        {
-          "id": 111000180,
-          "type": "lc"
-        },
-        {
-          "id": 111000180,
-          "type": "rc"
+          "id": 7458,
+          "type": "hrb"
         }
       ]
     }
