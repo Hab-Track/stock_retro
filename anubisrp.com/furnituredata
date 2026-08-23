@@ -736288,6 +736288,35 @@
         "furniline": "",
         "environment": "",
         "rare": false
+      },
+      {
+        "id": 710115497,
+        "classname": "safe_zone",
+        "revision": 1787519798,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "safe_zone",
+        "description": "safe_zone",
+        "adurl": "",
+        "offerid": 710115497,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
       }
     ]
   },
