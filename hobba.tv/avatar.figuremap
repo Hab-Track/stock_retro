@@ -102792,6 +102792,422 @@
           "type": "rs"
         }
       ]
+    },
+    {
+      "id": "acc_chest_U_26MeliodasSword",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "60000140",
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26PanoletaGucci",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "60000139",
+          "type": "cc"
+        },
+        {
+          "id": "60000139",
+          "type": "lc"
+        },
+        {
+          "id": "60000139",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26FranelaGucci",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "60000141",
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_26CabelloBachira",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "150000095",
+          "type": "hr"
+        },
+        {
+          "id": "150000096",
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_26PantalonAri",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "150000097",
+          "type": "lg"
+        },
+        {
+          "id": "150000098",
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_26TaconesRemielle",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000651",
+          "type": "sh"
+        },
+        {
+          "id": "110000652",
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_26MediasRemielle",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000653",
+          "type": "sh"
+        },
+        {
+          "id": "110000670",
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26AlasRemielle",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000666",
+          "type": "cc"
+        },
+        {
+          "id": "110000667",
+          "type": "cc"
+        },
+        {
+          "id": "110000666",
+          "type": "lc"
+        },
+        {
+          "id": "110000667",
+          "type": "lc"
+        },
+        {
+          "id": "110000666",
+          "type": "rc"
+        },
+        {
+          "id": "110000667",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_26OrejasRemielle",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000668",
+          "type": "he"
+        },
+        {
+          "id": "110000669",
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_26BowRemielle",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000664",
+          "type": "he"
+        },
+        {
+          "id": "110000665",
+          "type": "he"
+        },
+        {
+          "id": "110000675",
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26MangasRemielle",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000660",
+          "type": "lc"
+        },
+        {
+          "id": "110000661",
+          "type": "lc"
+        },
+        {
+          "id": "110000663",
+          "type": "lc"
+        },
+        {
+          "id": "110000660",
+          "type": "rc"
+        },
+        {
+          "id": "110000661",
+          "type": "rc"
+        },
+        {
+          "id": "110000663",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26TrajeRemielle",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000657",
+          "type": "ch"
+        },
+        {
+          "id": "110000658",
+          "type": "ch"
+        },
+        {
+          "id": "110000659",
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_26PeinadoRemielle",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000654",
+          "type": "hr"
+        },
+        {
+          "id": "110000655",
+          "type": "hr"
+        },
+        {
+          "id": "110000656",
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_26CabelloUni",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000684",
+          "type": "hr"
+        },
+        {
+          "id": "110000685",
+          "type": "hr"
+        },
+        {
+          "id": "110000686",
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_26OrejasUnicorn",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000690",
+          "type": "ha"
+        },
+        {
+          "id": "110000691",
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26CuernoUnicorn",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000692",
+          "type": "cc"
+        },
+        {
+          "id": "110000693",
+          "type": "cc"
+        },
+        {
+          "id": "110000692",
+          "type": "lc"
+        },
+        {
+          "id": "110000693",
+          "type": "lc"
+        },
+        {
+          "id": "110000692",
+          "type": "rc"
+        },
+        {
+          "id": "110000693",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26FlecoUnicor",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000687",
+          "type": "ch"
+        },
+        {
+          "id": "110000688",
+          "type": "ch"
+        },
+        {
+          "id": "110000689",
+          "type": "ch"
+        },
+        {
+          "id": "110000687",
+          "type": "ls"
+        },
+        {
+          "id": "110000688",
+          "type": "ls"
+        },
+        {
+          "id": "110000689",
+          "type": "ls"
+        },
+        {
+          "id": "110000687",
+          "type": "rs"
+        },
+        {
+          "id": "110000688",
+          "type": "rs"
+        },
+        {
+          "id": "110000689",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_26CascoDemonKing",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000241",
+          "type": "ha"
+        },
+        {
+          "id": "110000242",
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv26AlasAngelicales",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "90000171",
+          "type": "cc"
+        },
+        {
+          "id": "90000171",
+          "type": "lc"
+        },
+        {
+          "id": "90000171",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv26PoderdeFuego",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "90000170",
+          "type": "lc"
+        },
+        {
+          "id": "90000170",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv26sueternikevntg2",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "100000134",
+          "type": "ch"
+        },
+        {
+          "id": "100000135",
+          "type": "ch"
+        },
+        {
+          "id": "100000136",
+          "type": "ch"
+        },
+        {
+          "id": "100000134",
+          "type": "ls"
+        },
+        {
+          "id": "100000134",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv26chqtjaponesav2",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "100000137",
+          "type": "ch"
+        },
+        {
+          "id": "100000137",
+          "type": "ls"
+        },
+        {
+          "id": "100000137",
+          "type": "rs"
+        }
+      ]
     }
   ]
 }
