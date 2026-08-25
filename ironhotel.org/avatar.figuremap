@@ -79572,7 +79572,7 @@
     },
     {
       "id": "hat_U_nftnewsboycap",
-      "revision": 998789407,
+      "revision": 998789623,
       "parts": [
         {
           "id": 7394,
@@ -80068,6 +80068,296 @@
         },
         {
           "id": 7454,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_mafiarose",
+      "revision": 998789622,
+      "parts": [
+        {
+          "id": 7455,
+          "type": "ca"
+        },
+        {
+          "id": 7456,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_ducketsailorcap",
+      "revision": 998789624,
+      "parts": [
+        {
+          "id": 7400,
+          "type": "ha"
+        },
+        {
+          "id": 7513,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftmouthtape",
+      "revision": 998789625,
+      "parts": [
+        {
+          "id": 7390,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_nftsuspenders",
+      "revision": 998789626,
+      "parts": [
+        {
+          "id": 7391,
+          "type": "wa"
+        },
+        {
+          "id": 7392,
+          "type": "wa"
+        },
+        {
+          "id": 7393,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_ducketsailorcollar",
+      "revision": 998789627,
+      "parts": [
+        {
+          "id": 7397,
+          "type": "ca"
+        },
+        {
+          "id": 7398,
+          "type": "ca"
+        },
+        {
+          "id": 7399,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_femmefatalehair",
+      "revision": 998789628,
+      "parts": [
+        {
+          "id": 7355,
+          "type": "hr"
+        },
+        {
+          "id": 7355,
+          "type": "hrb"
+        },
+        {
+          "id": 7356,
+          "type": "hr"
+        },
+        {
+          "id": 7356,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_tattoohead",
+      "revision": 998789629,
+      "parts": [
+        {
+          "id": 7514,
+          "type": "hr"
+        },
+        {
+          "id": 7514,
+          "type": "hrb"
+        },
+        {
+          "id": 7515,
+          "type": "hr"
+        },
+        {
+          "id": 7515,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_susglasses",
+      "revision": 998789630,
+      "parts": [
+        {
+          "id": 7369,
+          "type": "ea"
+        },
+        {
+          "id": 7370,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_pinstripesuit",
+      "revision": 998789631,
+      "parts": [
+        {
+          "id": 7379,
+          "type": "lg"
+        },
+        {
+          "id": 7380,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_pinstripesuit",
+      "revision": 998789632,
+      "parts": [
+        {
+          "id": 7376,
+          "type": "ch"
+        },
+        {
+          "id": 7376,
+          "type": "ls"
+        },
+        {
+          "id": 7376,
+          "type": "rs"
+        },
+        {
+          "id": 7377,
+          "type": "ch"
+        },
+        {
+          "id": 7377,
+          "type": "ls"
+        },
+        {
+          "id": 7377,
+          "type": "rs"
+        },
+        {
+          "id": 7378,
+          "type": "ch"
+        },
+        {
+          "id": 7378,
+          "type": "ls"
+        },
+        {
+          "id": 7378,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_pinstripesuit",
+      "revision": 998789633,
+      "parts": [
+        {
+          "id": 7373,
+          "type": "ch"
+        },
+        {
+          "id": 7373,
+          "type": "ls"
+        },
+        {
+          "id": 7373,
+          "type": "rs"
+        },
+        {
+          "id": 7374,
+          "type": "ch"
+        },
+        {
+          "id": 7374,
+          "type": "ls"
+        },
+        {
+          "id": 7374,
+          "type": "rs"
+        },
+        {
+          "id": 7375,
+          "type": "ch"
+        },
+        {
+          "id": 7375,
+          "type": "ls"
+        },
+        {
+          "id": 7375,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_femmefataledress",
+      "revision": 998789634,
+      "parts": [
+        {
+          "id": 7365,
+          "type": "ch"
+        },
+        {
+          "id": 7365,
+          "type": "ls"
+        },
+        {
+          "id": 7365,
+          "type": "rs"
+        },
+        {
+          "id": 7366,
+          "type": "ch"
+        },
+        {
+          "id": 7366,
+          "type": "ls"
+        },
+        {
+          "id": 7366,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_femmefataledress",
+      "revision": 998789635,
+      "parts": [
+        {
+          "id": 7367,
+          "type": "ch"
+        },
+        {
+          "id": 7367,
+          "type": "ls"
+        },
+        {
+          "id": 7367,
+          "type": "rs"
+        },
+        {
+          "id": 7368,
+          "type": "ch"
+        },
+        {
+          "id": 7368,
+          "type": "ls"
+        },
+        {
+          "id": 7368,
           "type": "rs"
         }
       ]
