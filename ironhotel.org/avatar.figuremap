@@ -79544,7 +79544,7 @@
     },
     {
       "id": "hat_U_nftwesternhat",
-      "revision": 998789612,
+      "revision": 998789638,
       "parts": [
         {
           "id": 7526,
@@ -79558,7 +79558,7 @@
     },
     {
       "id": "hat_U_nftstrawhat",
-      "revision": 998789617,
+      "revision": 998789637,
       "parts": [
         {
           "id": 7532,
@@ -79988,7 +79988,7 @@
     },
     {
       "id": "hat_U_tomatoberet",
-      "revision": 998789619,
+      "revision": 998789636,
       "parts": [
         {
           "id": 7506,
@@ -80358,6 +80358,212 @@
         },
         {
           "id": 7368,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "face_U_scarecrow1",
+      "revision": 998789639,
+      "parts": [
+        {
+          "id": 7493,
+          "type": "hd"
+        },
+        {
+          "id": 7493,
+          "type": "bd"
+        },
+        {
+          "id": 7493,
+          "type": "lh"
+        },
+        {
+          "id": 7493,
+          "type": "rh"
+        }
+      ]
+    },
+    {
+      "id": "face_U_scarecrow2",
+      "revision": 998789640,
+      "parts": [
+        {
+          "id": 7494,
+          "type": "hd"
+        },
+        {
+          "id": 7494,
+          "type": "bd"
+        },
+        {
+          "id": 7494,
+          "type": "lh"
+        },
+        {
+          "id": 7494,
+          "type": "rh"
+        }
+      ]
+    },
+    {
+      "id": "face_U_mafiascars",
+      "revision": 998789641,
+      "parts": [
+        {
+          "id": 7360,
+          "type": "hd"
+        },
+        {
+          "id": 7360,
+          "type": "bd"
+        },
+        {
+          "id": 7360,
+          "type": "fc"
+        },
+        {
+          "id": 7360,
+          "type": "ey"
+        },
+        {
+          "id": 7360,
+          "type": "lh"
+        },
+        {
+          "id": 7360,
+          "type": "rh"
+        },
+        {
+          "id": 7361,
+          "type": "hd"
+        },
+        {
+          "id": 7361,
+          "type": "bd"
+        },
+        {
+          "id": 7361,
+          "type": "fc"
+        },
+        {
+          "id": 7361,
+          "type": "ey"
+        },
+        {
+          "id": 7361,
+          "type": "lh"
+        },
+        {
+          "id": 7361,
+          "type": "rh"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_cozysailorhat",
+      "revision": 998789642,
+      "parts": [
+        {
+          "id": 7431,
+          "type": "ha"
+        },
+        {
+          "id": 7432,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_lifesaver",
+      "revision": 998789643,
+      "parts": [
+        {
+          "id": 7477,
+          "type": "cc"
+        },
+        {
+          "id": 7477,
+          "type": "lc"
+        },
+        {
+          "id": 7477,
+          "type": "rc"
+        },
+        {
+          "id": 7478,
+          "type": "cc"
+        },
+        {
+          "id": 7478,
+          "type": "lc"
+        },
+        {
+          "id": 7478,
+          "type": "rc"
+        },
+        {
+          "id": 7489,
+          "type": "cc"
+        },
+        {
+          "id": 7489,
+          "type": "lc"
+        },
+        {
+          "id": 7489,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_tentacledress",
+      "revision": 998789644,
+      "parts": [
+        {
+          "id": 7487,
+          "type": "ch"
+        },
+        {
+          "id": 7488,
+          "type": "ch"
+        },
+        {
+          "id": 7488,
+          "type": "ls"
+        },
+        {
+          "id": 7488,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_tentacledress",
+      "revision": 998789645,
+      "parts": [
+        {
+          "id": 7485,
+          "type": "ch"
+        },
+        {
+          "id": 7485,
+          "type": "ls"
+        },
+        {
+          "id": 7485,
+          "type": "rs"
+        },
+        {
+          "id": 7486,
+          "type": "ch"
+        },
+        {
+          "id": 7486,
+          "type": "ls"
+        },
+        {
+          "id": 7486,
           "type": "rs"
         }
       ]
