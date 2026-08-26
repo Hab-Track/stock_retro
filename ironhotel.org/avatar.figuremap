@@ -80517,54 +80517,84 @@
       ]
     },
     {
-      "id": "shirt_M_tentacledress",
-      "revision": 998789644,
+      "id": "hair_U_nftpalmbraid",
+      "revision": 998789648,
       "parts": [
         {
-          "id": 7487,
-          "type": "ch"
+          "id": 7444,
+          "type": "hr"
         },
         {
-          "id": 7488,
-          "type": "ch"
+          "id": 7444,
+          "type": "hrb"
         },
         {
-          "id": 7488,
-          "type": "ls"
+          "id": 7445,
+          "type": "hr"
         },
         {
-          "id": 7488,
-          "type": "rs"
+          "id": 7445,
+          "type": "hrb"
+        },
+        {
+          "id": 7446,
+          "type": "hr"
+        },
+        {
+          "id": 7446,
+          "type": "hrb"
         }
       ]
     },
     {
-      "id": "shirt_F_tentacledress",
-      "revision": 998789645,
+      "id": "hair_U_nftbeachboy",
+      "revision": 998789649,
       "parts": [
         {
-          "id": 7485,
+          "id": 7447,
+          "type": "hr"
+        },
+        {
+          "id": 7447,
+          "type": "hrb"
+        },
+        {
+          "id": 7448,
+          "type": "hr"
+        },
+        {
+          "id": 7448,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_nftrainbowbikini",
+      "revision": 998789650,
+      "parts": [
+        {
+          "id": 7499,
           "type": "ch"
-        },
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_nftrainbowbikini",
+      "revision": 998789651,
+      "parts": [
         {
-          "id": 7485,
-          "type": "ls"
-        },
+          "id": 7500,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_nftrainbowbikini",
+      "revision": 998789652,
+      "parts": [
         {
-          "id": 7485,
-          "type": "rs"
-        },
-        {
-          "id": 7486,
+          "id": 7498,
           "type": "ch"
-        },
-        {
-          "id": 7486,
-          "type": "ls"
-        },
-        {
-          "id": 7486,
-          "type": "rs"
         }
       ]
     }
