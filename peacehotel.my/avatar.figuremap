@@ -69435,6 +69435,376 @@
           "type": "lg"
         }
       ]
+    },
+    {
+      "id": "hat_U_batonesie",
+      "revision": 1787729940,
+      "parts": [
+        {
+          "id": 7584,
+          "type": "ha"
+        },
+        {
+          "id": 7585,
+          "type": "ha"
+        },
+        {
+          "id": 7586,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_batonesie",
+      "revision": 1787729941,
+      "parts": [
+        {
+          "id": 7584,
+          "type": "ls"
+        },
+        {
+          "id": 7584,
+          "type": "ch"
+        },
+        {
+          "id": 7584,
+          "type": "rs"
+        },
+        {
+          "id": 7585,
+          "type": "ls"
+        },
+        {
+          "id": 7585,
+          "type": "ch"
+        },
+        {
+          "id": 7585,
+          "type": "rs"
+        },
+        {
+          "id": 7586,
+          "type": "ls"
+        },
+        {
+          "id": 7586,
+          "type": "ch"
+        },
+        {
+          "id": 7586,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_ducketleafcrown",
+      "revision": 1787724865,
+      "parts": [
+        {
+          "id": 7518,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "cc_U_batfriend",
+      "revision": 1787725686,
+      "parts": [
+        {
+          "id": 7587,
+          "type": "cc"
+        },
+        {
+          "id": 7588,
+          "type": "cc"
+        },
+        {
+          "id": 7589,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "cc_U_possessedpumpkin",
+      "revision": 1787725778,
+      "parts": [
+        {
+          "id": 7618,
+          "type": "cc"
+        },
+        {
+          "id": 7619,
+          "type": "cc"
+        },
+        {
+          "id": 7620,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "cc_U_hauntedpuppet",
+      "revision": 1787725802,
+      "parts": [
+        {
+          "id": 7568,
+          "type": "cc"
+        },
+        {
+          "id": 7569,
+          "type": "cc"
+        },
+        {
+          "id": 7570,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "cc_U_persiancat",
+      "revision": 1787725826,
+      "parts": [
+        {
+          "id": 7571,
+          "type": "cc"
+        },
+        {
+          "id": 7572,
+          "type": "cc"
+        },
+        {
+          "id": 7573,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "cc_U_raven",
+      "revision": 1787725846,
+      "parts": [
+        {
+          "id": 7559,
+          "type": "cc"
+        },
+        {
+          "id": 7560,
+          "type": "cc"
+        },
+        {
+          "id": 7561,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "cc_U_tinyowl",
+      "revision": 1787725866,
+      "parts": [
+        {
+          "id": 7592,
+          "type": "cc"
+        },
+        {
+          "id": 7593,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "pet_U_tinyowl",
+      "revision": 1787729634,
+      "parts": [
+        {
+          "id": 7592,
+          "type": "ptr"
+        },
+        {
+          "id": 7593,
+          "type": "ptr"
+        },
+        {
+          "id": 7592,
+          "type": "ptl"
+        },
+        {
+          "id": 7593,
+          "type": "ptl"
+        }
+      ]
+    },
+    {
+      "id": "pet_U_raven",
+      "revision": 1787729777,
+      "parts": [
+        {
+          "id": 7559,
+          "type": "ptr"
+        },
+        {
+          "id": 7559,
+          "type": "pt"
+        },
+        {
+          "id": 7559,
+          "type": "ptl"
+        },
+        {
+          "id": 7560,
+          "type": "ptr"
+        },
+        {
+          "id": 7560,
+          "type": "pt"
+        },
+        {
+          "id": 7560,
+          "type": "ptl"
+        },
+        {
+          "id": 7561,
+          "type": "ptr"
+        },
+        {
+          "id": 7561,
+          "type": "pt"
+        },
+        {
+          "id": 7561,
+          "type": "ptl"
+        }
+      ]
+    },
+    {
+      "id": "pet_U_persiancat",
+      "revision": 1787729801,
+      "parts": [
+        {
+          "id": 7571,
+          "type": "ptr"
+        },
+        {
+          "id": 7572,
+          "type": "ptr"
+        },
+        {
+          "id": 7573,
+          "type": "ptr"
+        },
+        {
+          "id": 7571,
+          "type": "pt"
+        },
+        {
+          "id": 7572,
+          "type": "pt"
+        },
+        {
+          "id": 7573,
+          "type": "pt"
+        }
+      ]
+    },
+    {
+      "id": "pet_U_hauntedpuppet",
+      "revision": 1787729831,
+      "parts": [
+        {
+          "id": 7568,
+          "type": "ptl"
+        },
+        {
+          "id": 7569,
+          "type": "ptl"
+        },
+        {
+          "id": 7570,
+          "type": "ptl"
+        },
+        {
+          "id": 7568,
+          "type": "ptr"
+        },
+        {
+          "id": 7568,
+          "type": "pt"
+        },
+        {
+          "id": 7569,
+          "type": "ptr"
+        },
+        {
+          "id": 7569,
+          "type": "pt"
+        },
+        {
+          "id": 7570,
+          "type": "ptr"
+        },
+        {
+          "id": 7570,
+          "type": "pt"
+        }
+      ]
+    },
+    {
+      "id": "pet_U_possessedpumpkin",
+      "revision": 1787729878,
+      "parts": [
+        {
+          "id": 7618,
+          "type": "ptr"
+        },
+        {
+          "id": 7619,
+          "type": "ptr"
+        },
+        {
+          "id": 7620,
+          "type": "ptr"
+        },
+        {
+          "id": 7618,
+          "type": "pt"
+        },
+        {
+          "id": 7619,
+          "type": "pt"
+        },
+        {
+          "id": 7620,
+          "type": "pt"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_darkaura",
+      "revision": 1787734247,
+      "parts": [
+        {
+          "id": 7579,
+          "type": "mcr"
+        },
+        {
+          "id": 7579,
+          "type": "mcl"
+        },
+        {
+          "id": 7579,
+          "type": "mc"
+        },
+        {
+          "id": 7580,
+          "type": "mcr"
+        },
+        {
+          "id": 7580,
+          "type": "mcl"
+        },
+        {
+          "id": 7580,
+          "type": "mc"
+        }
+      ]
     }
   ]
 }
