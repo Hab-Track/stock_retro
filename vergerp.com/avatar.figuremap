@@ -3767,16 +3767,6 @@
       ]
     },
     {
-      "id": "hat_U_Teemohat",
-      "revision": 11903,
-      "parts": [
-        {
-          "id": 84231681,
-          "type": "ha"
-        }
-      ]
-    },
-    {
       "id": "acc_print_F_haaziqwettprintf",
       "revision": 11902,
       "parts": [
@@ -79963,6 +79953,558 @@
         {
           "id": 140952646,
           "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_pufflehat",
+      "revision": 991111698,
+      "parts": [
+        {
+          "id": 140675345,
+          "type": "ha"
+        },
+        {
+          "id": 140675346,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_crabgoggle",
+      "revision": 991111699,
+      "parts": [
+        {
+          "id": 152680346,
+          "type": "ea"
+        },
+        {
+          "id": 152680347,
+          "type": "ea"
+        },
+        {
+          "id": 152680348,
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_nftumbrella2",
+      "revision": 991111700,
+      "parts": [
+        {
+          "id": 6968,
+          "type": "mc"
+        },
+        {
+          "id": 6968,
+          "type": "mcr"
+        },
+        {
+          "id": 6968,
+          "type": "mcl"
+        },
+        {
+          "id": 6969,
+          "type": "mcl"
+        },
+        {
+          "id": 6969,
+          "type": "mcr"
+        },
+        {
+          "id": 6969,
+          "type": "mc"
+        },
+        {
+          "id": 6970,
+          "type": "mc"
+        },
+        {
+          "id": 6970,
+          "type": "he"
+        },
+        {
+          "id": 6970,
+          "type": "mcr"
+        },
+        {
+          "id": 6970,
+          "type": "mcl"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_patyhair2",
+      "revision": 991111701,
+      "parts": [
+        {
+          "id": 83257369,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_puffletest",
+      "revision": 991111702,
+      "parts": [
+        {
+          "id": 116893436,
+          "type": "lc"
+        },
+        {
+          "id": 116893437,
+          "type": "lc"
+        },
+        {
+          "id": 116893438,
+          "type": "lc"
+        },
+        {
+          "id": 116893439,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_batonesie",
+      "revision": 991111703,
+      "parts": [
+        {
+          "id": 7584,
+          "type": "ls"
+        },
+        {
+          "id": 7584,
+          "type": "ch"
+        },
+        {
+          "id": 7584,
+          "type": "rs"
+        },
+        {
+          "id": 7585,
+          "type": "ls"
+        },
+        {
+          "id": 7585,
+          "type": "ch"
+        },
+        {
+          "id": 7585,
+          "type": "rs"
+        },
+        {
+          "id": 7586,
+          "type": "ls"
+        },
+        {
+          "id": 7586,
+          "type": "ch"
+        },
+        {
+          "id": 7586,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_academiadollhairdo",
+      "revision": 991111704,
+      "parts": [
+        {
+          "id": 7550,
+          "type": "hrb"
+        },
+        {
+          "id": 7550,
+          "type": "hr"
+        },
+        {
+          "id": 7551,
+          "type": "hrb"
+        },
+        {
+          "id": 7551,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "face_U_academiagothicmakeup2",
+      "revision": 991111706,
+      "parts": [
+        {
+          "id": 7565,
+          "type": "fc"
+        },
+        {
+          "id": 7566,
+          "type": "fc"
+        },
+        {
+          "id": 7567,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_wizardcurls",
+      "revision": 991111707,
+      "parts": [
+        {
+          "id": 7590,
+          "type": "hrb"
+        },
+        {
+          "id": 7590,
+          "type": "hr"
+        },
+        {
+          "id": 7591,
+          "type": "hrb"
+        },
+        {
+          "id": 7591,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_ducketleafcrown",
+      "revision": 991111708,
+      "parts": [
+        {
+          "id": 7518,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_wizardgarb",
+      "revision": 991111709,
+      "parts": [
+        {
+          "id": 7607,
+          "type": "cc"
+        },
+        {
+          "id": 7608,
+          "type": "cc"
+        },
+        {
+          "id": 7609,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_wand",
+      "revision": 991111712,
+      "parts": [
+        {
+          "id": 7610,
+          "type": "mcr"
+        },
+        {
+          "id": 7611,
+          "type": "mcr"
+        },
+        {
+          "id": 7610,
+          "type": "mcl"
+        },
+        {
+          "id": 7611,
+          "type": "mcl"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_wizardgarb",
+      "revision": 991111713,
+      "parts": [
+        {
+          "id": 7604,
+          "type": "lc"
+        },
+        {
+          "id": 7604,
+          "type": "cc"
+        },
+        {
+          "id": 7604,
+          "type": "rc"
+        },
+        {
+          "id": 7605,
+          "type": "rc"
+        },
+        {
+          "id": 7605,
+          "type": "cc"
+        },
+        {
+          "id": 7605,
+          "type": "lc"
+        },
+        {
+          "id": 7606,
+          "type": "cc"
+        },
+        {
+          "id": 7606,
+          "type": "rc"
+        },
+        {
+          "id": 7606,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_darkaura",
+      "revision": 991111714,
+      "parts": [
+        {
+          "id": 7579,
+          "type": "mcr"
+        },
+        {
+          "id": 7579,
+          "type": "mcl"
+        },
+        {
+          "id": 7579,
+          "type": "mc"
+        },
+        {
+          "id": 7580,
+          "type": "mcr"
+        },
+        {
+          "id": 7580,
+          "type": "mcl"
+        },
+        {
+          "id": 7580,
+          "type": "mc"
+        }
+      ]
+    },
+    {
+      "id": "pet_U_possessedpumpkin",
+      "revision": 991111715,
+      "parts": [
+        {
+          "id": 7618,
+          "type": "ptr"
+        },
+        {
+          "id": 7619,
+          "type": "ptr"
+        },
+        {
+          "id": 7620,
+          "type": "ptr"
+        },
+        {
+          "id": 7618,
+          "type": "pt"
+        },
+        {
+          "id": 7619,
+          "type": "pt"
+        },
+        {
+          "id": 7620,
+          "type": "pt"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_vintagebag",
+      "revision": 991111716,
+      "parts": [
+        {
+          "id": 7574,
+          "type": "ca"
+        },
+        {
+          "id": 7575,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_skeletalheadband",
+      "revision": 991111717,
+      "parts": [
+        {
+          "id": 7624,
+          "type": "he"
+        },
+        {
+          "id": 7625,
+          "type": "he"
+        },
+        {
+          "id": 7626,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_loosesocks",
+      "revision": 991111718,
+      "parts": [
+        {
+          "id": 7556,
+          "type": "sh"
+        },
+        {
+          "id": 7557,
+          "type": "sh"
+        },
+        {
+          "id": 7558,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_ruffledcuffs",
+      "revision": 991111719,
+      "parts": [
+        {
+          "id": 7552,
+          "type": "mcr"
+        },
+        {
+          "id": 7552,
+          "type": "mc"
+        },
+        {
+          "id": 7552,
+          "type": "mcl"
+        },
+        {
+          "id": 7553,
+          "type": "mcr"
+        },
+        {
+          "id": 7553,
+          "type": "mc"
+        },
+        {
+          "id": 7553,
+          "type": "mcl"
+        }
+      ]
+    },
+    {
+      "id": "face_U_academiagothicmakeup",
+      "revision": 991111720,
+      "parts": [
+        {
+          "id": 7562,
+          "type": "fc"
+        },
+        {
+          "id": 7563,
+          "type": "fc"
+        },
+        {
+          "id": 7564,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_batonesie",
+      "revision": 991111723,
+      "parts": [
+        {
+          "id": 7584,
+          "type": "ha"
+        },
+        {
+          "id": 7585,
+          "type": "ha"
+        },
+        {
+          "id": 7586,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_studentcardigan",
+      "revision": 991111724,
+      "parts": [
+        {
+          "id": 7594,
+          "type": "lc"
+        },
+        {
+          "id": 7594,
+          "type": "cc"
+        },
+        {
+          "id": 7594,
+          "type": "rc"
+        },
+        {
+          "id": 7595,
+          "type": "cc"
+        },
+        {
+          "id": 7595,
+          "type": "rc"
+        },
+        {
+          "id": 7595,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_studentcardigan",
+      "revision": 991111725,
+      "parts": [
+        {
+          "id": 7596,
+          "type": "lc"
+        },
+        {
+          "id": 7596,
+          "type": "cc"
+        },
+        {
+          "id": 7596,
+          "type": "rc"
+        },
+        {
+          "id": 7597,
+          "type": "cc"
+        },
+        {
+          "id": 7597,
+          "type": "rc"
+        },
+        {
+          "id": 7597,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_teemohatgreen",
+      "revision": 991111726,
+      "parts": [
+        {
+          "id": 84231681,
+          "type": "ha"
         }
       ]
     }
