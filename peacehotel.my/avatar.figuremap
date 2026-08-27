@@ -66322,11 +66322,23 @@
     },
     {
       "id": "misc_U_nftyoyo",
-      "revision": 1778147039,
+      "revision": 1787811575,
       "parts": [
         {
           "id": 7348,
           "type": "mcr"
+        },
+        {
+          "id": 7348,
+          "type": "pt"
+        },
+        {
+          "id": 7348,
+          "type": "ptl"
+        },
+        {
+          "id": 7348,
+          "type": "ptr"
         }
       ]
     },
@@ -70193,6 +70205,214 @@
         {
           "id": 7551,
           "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_nftwarhammer",
+      "revision": 1787811632,
+      "parts": [
+        {
+          "id": 7351,
+          "type": "mcr"
+        },
+        {
+          "id": 7351,
+          "type": "mcl"
+        },
+        {
+          "id": 7351,
+          "type": "pt"
+        },
+        {
+          "id": 7351,
+          "type": "ptl"
+        },
+        {
+          "id": 7351,
+          "type": "ptr"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_lasersword",
+      "revision": 1787811691,
+      "parts": [
+        {
+          "id": 7300,
+          "type": "mcr"
+        },
+        {
+          "id": 7300,
+          "type": "mc"
+        },
+        {
+          "id": 7300,
+          "type": "mcl"
+        },
+        {
+          "id": 7301,
+          "type": "mcr"
+        },
+        {
+          "id": 7301,
+          "type": "mc"
+        },
+        {
+          "id": 7301,
+          "type": "mcl"
+        },
+        {
+          "id": 7302,
+          "type": "mcr"
+        },
+        {
+          "id": 7302,
+          "type": "mc"
+        },
+        {
+          "id": 7302,
+          "type": "mcl"
+        },
+        {
+          "id": 7300,
+          "type": "pt"
+        },
+        {
+          "id": 7300,
+          "type": "ptl"
+        },
+        {
+          "id": 7300,
+          "type": "ptr"
+        },
+        {
+          "id": 7301,
+          "type": "pt"
+        },
+        {
+          "id": 7301,
+          "type": "ptl"
+        },
+        {
+          "id": 7301,
+          "type": "ptr"
+        },
+        {
+          "id": 7302,
+          "type": "pt"
+        },
+        {
+          "id": 7302,
+          "type": "ptl"
+        },
+        {
+          "id": 7302,
+          "type": "ptr"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_boombox",
+      "revision": 1787811745,
+      "parts": [
+        {
+          "id": 7325,
+          "type": "mcr"
+        },
+        {
+          "id": 7325,
+          "type": "mc"
+        },
+        {
+          "id": 7325,
+          "type": "mcl"
+        },
+        {
+          "id": 7326,
+          "type": "mcr"
+        },
+        {
+          "id": 7326,
+          "type": "mc"
+        },
+        {
+          "id": 7326,
+          "type": "mcl"
+        },
+        {
+          "id": 7327,
+          "type": "mcr"
+        },
+        {
+          "id": 7327,
+          "type": "mc"
+        },
+        {
+          "id": 7327,
+          "type": "mcl"
+        },
+        {
+          "id": 7325,
+          "type": "pt"
+        },
+        {
+          "id": 7325,
+          "type": "ptl"
+        },
+        {
+          "id": 7325,
+          "type": "ptr"
+        },
+        {
+          "id": 7326,
+          "type": "pt"
+        },
+        {
+          "id": 7326,
+          "type": "ptl"
+        },
+        {
+          "id": 7326,
+          "type": "ptr"
+        },
+        {
+          "id": 7327,
+          "type": "pt"
+        },
+        {
+          "id": 7327,
+          "type": "ptl"
+        },
+        {
+          "id": 7327,
+          "type": "ptr"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_tv24auraspin",
+      "revision": 1787812046,
+      "parts": [
+        {
+          "id": 40000035,
+          "type": "mcr"
+        },
+        {
+          "id": 40000035,
+          "type": "mcl"
+        },
+        {
+          "id": 40000035,
+          "type": "pt"
+        },
+        {
+          "id": 40000035,
+          "type": "ptl"
+        },
+        {
+          "id": 40000035,
+          "type": "ptr"
         }
       ]
     }
