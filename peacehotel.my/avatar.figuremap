@@ -69701,6 +69701,18 @@
         {
           "id": 7573,
           "type": "pt"
+        },
+        {
+          "id": 7571,
+          "type": "ptl"
+        },
+        {
+          "id": 7572,
+          "type": "ptl"
+        },
+        {
+          "id": 7573,
+          "type": "ptl"
         }
       ]
     },
@@ -69773,6 +69785,18 @@
         {
           "id": 7620,
           "type": "pt"
+        },
+        {
+          "id": 7618,
+          "type": "ptl"
+        },
+        {
+          "id": 7619,
+          "type": "ptl"
+        },
+        {
+          "id": 7620,
+          "type": "ptl"
         }
       ]
     },
@@ -69803,6 +69827,372 @@
         {
           "id": 7580,
           "type": "mc"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_glowingfireflies",
+      "revision": 1787806709,
+      "parts": [
+        {
+          "id": 7543,
+          "type": "mcr"
+        },
+        {
+          "id": 7542,
+          "type": "mcr"
+        },
+        {
+          "id": 7543,
+          "type": "pt"
+        },
+        {
+          "id": 7543,
+          "type": "ptl"
+        },
+        {
+          "id": 7543,
+          "type": "ptr"
+        },
+        {
+          "id": 7542,
+          "type": "pt"
+        },
+        {
+          "id": 7542,
+          "type": "ptl"
+        },
+        {
+          "id": 7542,
+          "type": "ptr"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_studentcardigan",
+      "revision": 1787806781,
+      "parts": [
+        {
+          "id": 7594,
+          "type": "lc"
+        },
+        {
+          "id": 7594,
+          "type": "cc"
+        },
+        {
+          "id": 7594,
+          "type": "rc"
+        },
+        {
+          "id": 7595,
+          "type": "cc"
+        },
+        {
+          "id": 7595,
+          "type": "rc"
+        },
+        {
+          "id": 7595,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_studentcardigan",
+      "revision": 1787806781,
+      "parts": [
+        {
+          "id": 7596,
+          "type": "lc"
+        },
+        {
+          "id": 7596,
+          "type": "cc"
+        },
+        {
+          "id": 7596,
+          "type": "rc"
+        },
+        {
+          "id": 7597,
+          "type": "cc"
+        },
+        {
+          "id": 7597,
+          "type": "rc"
+        },
+        {
+          "id": 7597,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "pet_U_batfriend",
+      "revision": 1787806846,
+      "parts": [
+        {
+          "id": 7587,
+          "type": "ptr"
+        },
+        {
+          "id": 7587,
+          "type": "pt"
+        },
+        {
+          "id": 7587,
+          "type": "ptl"
+        },
+        {
+          "id": 7588,
+          "type": "ptr"
+        },
+        {
+          "id": 7588,
+          "type": "pt"
+        },
+        {
+          "id": 7588,
+          "type": "ptl"
+        },
+        {
+          "id": 7589,
+          "type": "ptr"
+        },
+        {
+          "id": 7589,
+          "type": "pt"
+        },
+        {
+          "id": 7589,
+          "type": "ptl"
+        }
+      ]
+    },
+    {
+      "id": "face_U_academiagothicmakeup",
+      "revision": 1787806908,
+      "parts": [
+        {
+          "id": 7562,
+          "type": "fc"
+        },
+        {
+          "id": 7563,
+          "type": "fc"
+        },
+        {
+          "id": 7564,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_ruffledcuffs",
+      "revision": 1787806950,
+      "parts": [
+        {
+          "id": 7552,
+          "type": "mcr"
+        },
+        {
+          "id": 7552,
+          "type": "mc"
+        },
+        {
+          "id": 7552,
+          "type": "mcl"
+        },
+        {
+          "id": 7553,
+          "type": "mcr"
+        },
+        {
+          "id": 7553,
+          "type": "mc"
+        },
+        {
+          "id": 7553,
+          "type": "mcl"
+        },
+        {
+          "id": 7552,
+          "type": "pt"
+        },
+        {
+          "id": 7552,
+          "type": "ptl"
+        },
+        {
+          "id": 7552,
+          "type": "ptr"
+        },
+        {
+          "id": 7553,
+          "type": "pt"
+        },
+        {
+          "id": 7553,
+          "type": "ptl"
+        },
+        {
+          "id": 7553,
+          "type": "ptr"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_loosesocks",
+      "revision": 1787809867,
+      "parts": [
+        {
+          "id": 7556,
+          "type": "sh"
+        },
+        {
+          "id": 7557,
+          "type": "sh"
+        },
+        {
+          "id": 7558,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_skeletalheadband",
+      "revision": 1787809915,
+      "parts": [
+        {
+          "id": 7624,
+          "type": "he"
+        },
+        {
+          "id": 7625,
+          "type": "he"
+        },
+        {
+          "id": 7626,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_vintagebag",
+      "revision": 1787809960,
+      "parts": [
+        {
+          "id": 7574,
+          "type": "ca"
+        },
+        {
+          "id": 7575,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_wizardgarb",
+      "revision": 1787810015,
+      "parts": [
+        {
+          "id": 7607,
+          "type": "cc"
+        },
+        {
+          "id": 7608,
+          "type": "cc"
+        },
+        {
+          "id": 7609,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_wizardgarb",
+      "revision": 1787810015,
+      "parts": [
+        {
+          "id": 7604,
+          "type": "lc"
+        },
+        {
+          "id": 7604,
+          "type": "cc"
+        },
+        {
+          "id": 7604,
+          "type": "rc"
+        },
+        {
+          "id": 7605,
+          "type": "rc"
+        },
+        {
+          "id": 7605,
+          "type": "cc"
+        },
+        {
+          "id": 7605,
+          "type": "lc"
+        },
+        {
+          "id": 7606,
+          "type": "cc"
+        },
+        {
+          "id": 7606,
+          "type": "rc"
+        },
+        {
+          "id": 7606,
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_wizardcurls",
+      "revision": 1787810173,
+      "parts": [
+        {
+          "id": 7590,
+          "type": "hrb"
+        },
+        {
+          "id": 7590,
+          "type": "hr"
+        },
+        {
+          "id": 7591,
+          "type": "hrb"
+        },
+        {
+          "id": 7591,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_academiadollhairdo",
+      "revision": 1787810228,
+      "parts": [
+        {
+          "id": 7550,
+          "type": "hrb"
+        },
+        {
+          "id": 7550,
+          "type": "hr"
+        },
+        {
+          "id": 7551,
+          "type": "hrb"
+        },
+        {
+          "id": 7551,
+          "type": "hr"
         }
       ]
     }
