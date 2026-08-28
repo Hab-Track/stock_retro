@@ -624769,18 +624769,18 @@
         "furniline": "\n                ranch\n            "
       },
       {
-        "id": 1356485343,
+        "id": 1356485421,
         "classname": "ranch_r26_statue",
-        "revision": 75561,
-        "category": "\n                other\n            ",
+        "revision": 1787920187,
+        "category": "peace_plus",
         "defaultdir": 0,
         "xdim": 1,
-        "ydim": 3,
+        "ydim": 1,
         "partcolors": {
           "color": []
         },
-        "name": "\n                ranch_r26_statue name\n            ",
-        "description": "\n                ranch_r26_statue desc\n            ",
+        "name": "Ranch Statue",
+        "description": "\n            ",
         "adurl": "",
         "offerid": -1,
         "buyout": false,
@@ -624793,7 +624793,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "\n                ranch\n            "
+        "furniline": ""
       },
       {
         "id": 1356485345,
