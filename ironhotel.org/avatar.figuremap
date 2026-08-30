@@ -81567,6 +81567,20 @@
           "type": "ca"
         }
       ]
+    },
+    {
+      "id": "pet_U_bunnycompanion",
+      "revision": 998789704,
+      "parts": [
+        {
+          "id": 6667,
+          "type": "ptl"
+        },
+        {
+          "id": 6667,
+          "type": "ptr"
+        }
+      ]
     }
   ]
 }
