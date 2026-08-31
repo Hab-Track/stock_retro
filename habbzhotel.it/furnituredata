@@ -294964,6 +294964,18 @@
         "furniline": "",
         "environment": "",
         "rare": false
+      },
+      {
+        "id": 100006601,
+        "classname": "wf_act_change_opacity",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "EFFETTO: Cambia opacità del Furni",
+        "customparams": "",
+        "specialtype": 0,
+        "description": "Cambia l'opacità dei furni scelti: per tutti nella stanza o solo per certi utenti, con dissolvenza."
       }
     ]
   },
