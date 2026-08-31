@@ -294976,6 +294976,54 @@
         "customparams": "",
         "specialtype": 0,
         "description": "Cambia l'opacità dei furni scelti: per tutti nella stanza o solo per certi utenti, con dissolvenza."
+      },
+      {
+        "id": 100006602,
+        "classname": "wf_act_broadcast",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "EFFETTO: Trasmetti alle Stanze",
+        "customparams": "",
+        "specialtype": 0,
+        "description": "Manda un canale e un valore alle altre tue stanze caricate: lì scattano i \"Ricevi Trasmissione\"."
+      },
+      {
+        "id": 100006603,
+        "classname": "wf_trg_recv_broadcast",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "INNESCO: Ricevi Trasmissione",
+        "customparams": "",
+        "specialtype": 0,
+        "description": "Scatta quando un'altra tua stanza trasmette sul canale in ascolto."
+      },
+      {
+        "id": 100006604,
+        "classname": "wf_act_list_modify",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "EFFETTO: Modifica Lista",
+        "customparams": "",
+        "specialtype": 0,
+        "description": "Mette e toglie righe nella lista di una variabile: aggiungi, ordina, mescola, leggi a caso."
+      },
+      {
+        "id": 100006605,
+        "classname": "wf_cnd_list_check",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "CONDIZIONE: Controlla Lista",
+        "customparams": "",
+        "specialtype": 0,
+        "description": "Guarda dentro la lista di una variabile: contiene, quante righe, valore a una riga, vuota."
       }
     ]
   },
