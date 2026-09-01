@@ -41,7 +41,7 @@
   "system.log.events": false,
   "system.log.packets": false,
   "system.fps.animation": 30,
-  "system.fps.max": 120,
+  "system.fps.max": 60,
   "system.pong.manually": true,
   "system.pong.interval.ms": 20000,
   "room.color.skip.transition": true,
