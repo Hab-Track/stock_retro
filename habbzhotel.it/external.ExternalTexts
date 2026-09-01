@@ -31842,5 +31842,10 @@
   "avatar.widget.visitor_retention": "Durata visite",
   "bot.skill.visitor.retention.description": "Per quanto tempo tenere le visite:",
   "bot.skill.visitor.retention.days": "%days% giorni",
-  "bot.skill.visitor.retention.day": "%days% giorno"
+  "bot.skill.visitor.retention.day": "%days% giorno",
+  "notification.youtube.audio.stopped.message": "%USERNAME% ha fermato la musica della stanza.",
+  "notification.youtube.audio.paused.message": "%USERNAME% ha messo in pausa la musica.",
+  "notification.youtube.audio.resumed.message": "%USERNAME% ha ripreso la musica.",
+  "notification.chat.gif.cooldown.message": "Aspetta ancora %SECONDS% secondi prima di mandare un'altra GIF.",
+  "navigator.roomsettings.disable_gifs": "Disabilita le GIF in questa stanza"
 }
