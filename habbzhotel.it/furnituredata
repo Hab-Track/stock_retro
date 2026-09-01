@@ -295003,7 +295003,7 @@
       },
       {
         "id": 100006604,
-        "classname": "wf_act_list_modify",
+        "classname": "wf_act_modify_array",
         "defaultdir": 0,
         "partcolors": {
           "color": []
@@ -295015,7 +295015,7 @@
       },
       {
         "id": 100006605,
-        "classname": "wf_cnd_list_check",
+        "classname": "wf_cnd_check_array",
         "defaultdir": 0,
         "partcolors": {
           "color": []
