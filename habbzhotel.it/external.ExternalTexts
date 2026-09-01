@@ -31847,5 +31847,10 @@
   "notification.youtube.audio.paused.message": "%USERNAME% ha messo in pausa la musica.",
   "notification.youtube.audio.resumed.message": "%USERNAME% ha ripreso la musica.",
   "notification.chat.gif.cooldown.message": "Aspetta ancora %SECONDS% secondi prima di mandare un'altra GIF.",
-  "navigator.roomsettings.disable_gifs": "Disabilita le GIF in questa stanza"
+  "notification.chat.gif.disabled.message": "Le GIF sono disabilitate in questa stanza.",
+  "notification.chat.voice.disabled.message": "I messaggi vocali sono disabilitati in questa stanza.",
+  "chat.gif.disabled.room": "Le GIF sono disabilitate in questa stanza.",
+  "chat.voice.disabled.room": "I messaggi vocali sono disabilitati in questa stanza.",
+  "navigator.roomsettings.disable_gifs": "Disabilita le GIF in questa stanza",
+  "navigator.roomsettings.disable_voice": "Disabilita i messaggi vocali in questa stanza"
 }
