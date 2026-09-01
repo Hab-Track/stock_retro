@@ -295024,6 +295024,18 @@
         "customparams": "",
         "specialtype": 0,
         "description": "Guarda dentro la lista di una variabile: contiene, quante righe, valore a una riga, vuota."
+      },
+      {
+        "id": 100006606,
+        "classname": "wf_xtra_custom_contract",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Accessorio WIRED: Contratto Personalizzato",
+        "customparams": "",
+        "specialtype": 0,
+        "description": "Contratto configurabile da Wired: pagamento, ricompensa o scambio, con furni e importi presi da variabili e selettori."
       }
     ]
   },
