@@ -31843,7 +31843,7 @@
   "bot.skill.visitor.retention.description": "Per quanto tempo tenere le visite:",
   "bot.skill.visitor.retention.days": "%days% giorni",
   "bot.skill.visitor.retention.day": "%days% giorno",
-  "notification.mod.duty.entered.message": "%USERNAME% è entrato in servizio.",
+  "notification.mod.duty.entered.message": "<b>%USERNAME%</b> è entrato in servizio.",
   "notification.youtube.audio.stopped.message": "%USERNAME% ha fermato la musica della stanza.",
   "notification.youtube.audio.paused.message": "%USERNAME% ha messo in pausa la musica.",
   "notification.youtube.audio.resumed.message": "%USERNAME% ha ripreso la musica.",
@@ -31926,5 +31926,6 @@
   "handitem1113": "Candela LED",
   "handitem1114": "Cuore di Smeraldo",
   "handitem1118": "Console Habbo Gamer",
-  "handitem183": "Pozione Viola"
+  "handitem183": "Pozione Viola",
+  "notification.mod.duty.entered.f.message": "<b>%USERNAME%</b> è entrata in servizio."
 }
