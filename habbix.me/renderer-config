@@ -2,13 +2,13 @@
   "socket.urls": [
     "wss://live-arena-1wyq3l0.habbix.me:2096"
   ],
-  "asset.url": "https://images.habbix.me",
-  "cdn.url": "https://sandbox.habbix.me",
-  "image.library.url": "https://images.habbix.me/c_images/",
+  "asset.url": "https://habbix.me/assets-habbix",
+  "cdn.url": "",
+  "image.library.url": "https://habbix.me/assets-habbix/c_images/",
   "images.url": "${asset.url}/images",
   "gamedata.url": "${asset.url}/habbix-asset-bundles/gamedata",
-  "sounds.url": "https://images.habbix.me/sounds/%sample%.mp3",
-  "cdn.sounds.url": "https://images.habbix.me/sounds/%sample%.mp3",
+  "sounds.url": "https://habbix.me/assets-habbix/sounds/%sample%.mp3",
+  "cdn.sounds.url": "https://habbix.me/assets-habbix/sounds/%sample%.mp3",
   "external.texts.url": [
     "${gamedata.url}/habbix_texts.json",
     "${gamedata.url}/UITexts.json"
@@ -17,7 +17,7 @@
   "furnidata.url": "${gamedata.url}/habbix_furni/habbix_v1.json",
   "productdata.url": "${gamedata.url}/habbix_produ.json",
   "avatar.actions.url": "${gamedata.url}/avatar/AvatarActions.json",
-  "avatar.figuredata.url": "${gamedata.url}/avatar/FigureData.json",
+  "avatar.figuredata.url": "${gamedata.url}/avatar/FigureData_Habbix.json",
   "avatar.figuremap.url": "${gamedata.url}/avatar/FigureMap.json",
   "avatar.effectmap.url": "${gamedata.url}/avatar/EffectMap_habbix.json",
   "avatar.asset.url": "${asset.url}/habbix-asset-bundles/libraries/figure/%libname%.nitro",
