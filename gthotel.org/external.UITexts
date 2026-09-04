@@ -1,4 +1,9 @@
 ﻿{
+  "camera.mode.photo": "Foto",
+  "camera.mode.gif": "GIF",
+  "camera.gif.recording": "Spelar in... %progress%%",
+  "camera.gif.error": "Det animerade fotot kunde inte skapas. Försök igen i ett mindre hektiskt rum.",
+  "camera.upload.error": "Kamerauppladdningen slutfördes inte. Avbryt och försök igen.",
   "staff.two_factor.security_check": "Staff security check",
   "widget.memenu.my": "Mitt",
   "staff.two_factor.enroll.title": "Set up two-factor authentication",
