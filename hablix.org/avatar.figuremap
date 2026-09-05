@@ -34746,7 +34746,7 @@
     },
     {
       "id": "hair_U_clippedupdo",
-      "revision": 72387,
+      "revision": 75698,
       "parts": [
         {
           "id": 6108,
@@ -47284,7 +47284,7 @@
     },
     {
       "id": "hat_U_nftwesternhat",
-      "revision": 75551,
+      "revision": 75709,
       "parts": [
         {
           "id": 7526,
@@ -47806,7 +47806,7 @@
     },
     {
       "id": "misc_U_wand",
-      "revision": 75639,
+      "revision": 75722,
       "parts": [
         {
           "id": 7610,
@@ -47854,7 +47854,7 @@
     },
     {
       "id": "misc_U_darkaura",
-      "revision": 75660,
+      "revision": 75707,
       "parts": [
         {
           "id": 7579,
@@ -47929,6 +47929,76 @@
         {
           "id": 7626,
           "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_nftwitchcape",
+      "revision": 75689,
+      "parts": [
+        {
+          "id": 7630,
+          "type": "cc"
+        },
+        {
+          "id": 7630,
+          "type": "lc"
+        },
+        {
+          "id": 7630,
+          "type": "rc"
+        },
+        {
+          "id": 7631,
+          "type": "cc"
+        },
+        {
+          "id": 7632,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_nftwitchcape",
+      "revision": 75689,
+      "parts": [
+        {
+          "id": 7627,
+          "type": "cc"
+        },
+        {
+          "id": 7627,
+          "type": "lc"
+        },
+        {
+          "id": 7627,
+          "type": "rc"
+        },
+        {
+          "id": 7628,
+          "type": "cc"
+        },
+        {
+          "id": 7629,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_checkerskirt",
+      "revision": 75684,
+      "parts": [
+        {
+          "id": 7576,
+          "type": "lg"
+        },
+        {
+          "id": 7577,
+          "type": "lg"
+        },
+        {
+          "id": 7578,
+          "type": "lg"
         }
       ]
     },
