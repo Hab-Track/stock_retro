@@ -84083,6 +84083,96 @@
           "type": "mcr"
         }
       ]
+    },
+    {
+      "id": "acc_chest_U_snakeyscarf",
+      "revision": 998789803,
+      "parts": [
+        {
+          "id": 7150,
+          "type": "ca"
+        },
+        {
+          "id": 7151,
+          "type": "ca"
+        },
+        {
+          "id": 7152,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_headlamp",
+      "revision": 998789804,
+      "parts": [
+        {
+          "id": 6935,
+          "type": "he"
+        },
+        {
+          "id": 6936,
+          "type": "he"
+        },
+        {
+          "id": 6937,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_eyriehat",
+      "revision": 998789805,
+      "parts": [
+        {
+          "id": 6965,
+          "type": "ha"
+        },
+        {
+          "id": 6966,
+          "type": "ha"
+        },
+        {
+          "id": 6967,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_lupehat",
+      "revision": 998789806,
+      "parts": [
+        {
+          "id": 6945,
+          "type": "ha"
+        },
+        {
+          "id": 6946,
+          "type": "ha"
+        },
+        {
+          "id": 6947,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_ombreswimtrunks",
+      "revision": 998789807,
+      "parts": [
+        {
+          "id": 6688,
+          "type": "lg"
+        },
+        {
+          "id": 6689,
+          "type": "lg"
+        },
+        {
+          "id": 6690,
+          "type": "lg"
+        }
+      ]
     }
   ]
 }
