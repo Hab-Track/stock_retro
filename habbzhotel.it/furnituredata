@@ -319438,17 +319438,6 @@
         "specialtype": 1
       },
       {
-        "id": 1500001424,
-        "classname": "nft_h26_lotfposter",
-        "defaultdir": 0,
-        "partcolors": {
-          "color": []
-        },
-        "name": "nft_h26_lotfposter",
-        "customparams": "",
-        "specialtype": 1
-      },
-      {
         "id": 1500001425,
         "classname": "Habblet_pink25_31",
         "defaultdir": 0,
@@ -866341,6 +866330,413 @@
         "name": "Zueco bianco",
         "customparams": "",
         "specialtype": 0
+      },
+      {
+        "id": 194818400,
+        "classname": "hween26_nt_curseddragonlamp",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "hween26_nt_curseddragonlamp name",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818401,
+        "classname": "hween_cloth_c26_checkerskirt",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "hween_cloth_c26_checkerskirt name",
+        "customparams": "6561",
+        "specialtype": 23
+      },
+      {
+        "id": 194818402,
+        "classname": "nft_sc_transmogrification",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "nft_sc_transmogrification name",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818403,
+        "classname": "nft_sc_wanddisplay",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "nft_sc_wanddisplay name",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818404,
+        "classname": "wf_fx_firegate",
+        "defaultdir": 2,
+        "partcolors": {
+          "color": []
+        },
+        "name": "wf_fx_firegate name",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818405,
+        "classname": "wf_xtra_varfx_boss",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "wf_xtra_varfx_boss name",
+        "customparams": "1204",
+        "specialtype": 1
+      },
+      {
+        "id": 194818406,
+        "classname": "wf_xtra_varfx_hp",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "wf_xtra_varfx_hp name",
+        "customparams": "1200",
+        "specialtype": 1
+      },
+      {
+        "id": 194818407,
+        "classname": "wf_xtra_varfx_levelling",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "wf_xtra_varfx_levelling name",
+        "customparams": "1202",
+        "specialtype": 1
+      },
+      {
+        "id": 194818408,
+        "classname": "wf_xtra_varfx_number",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "wf_xtra_varfx_number name",
+        "customparams": "1205",
+        "specialtype": 1
+      },
+      {
+        "id": 194818409,
+        "classname": "wf_xtra_varfx_prog",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "wf_xtra_varfx_prog name",
+        "customparams": "1201",
+        "specialtype": 1
+      },
+      {
+        "id": 194818410,
+        "classname": "wf_xtra_varfx_status",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "wf_xtra_varfx_status name",
+        "customparams": "1203",
+        "specialtype": 1
+      },
+      {
+        "id": 194818411,
+        "classname": "yufex_lordofrings_Aragorn",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aragorn",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818412,
+        "classname": "yufex_lordofrings_Elrond",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Elrond",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818413,
+        "classname": "yufex_lordofrings_Frodo",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Frodo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818414,
+        "classname": "yufex_lordofrings_Ork2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Orco",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818415,
+        "classname": "yufex_lordofrings_agac",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Albero",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818416,
+        "classname": "yufex_lordofrings_agac1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Albero 2",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818417,
+        "classname": "yufex_lordofrings_blok1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco 1",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818418,
+        "classname": "yufex_lordofrings_blok2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco 2",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818419,
+        "classname": "yufex_lordofrings_caglayan",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cascata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818420,
+        "classname": "yufex_lordofrings_dev",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Gigante",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818421,
+        "classname": "yufex_lordofrings_gimli",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Gimli",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818422,
+        "classname": "yufex_lordofrings_gollum",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Gollum",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818423,
+        "classname": "yufex_lordofrings_kaya",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Roccia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818424,
+        "classname": "yufex_lordofrings_kolon",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Colonna",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818425,
+        "classname": "yufex_lordofrings_kolon1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Colonna 1",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818426,
+        "classname": "yufex_lordofrings_kolon3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Colonna 3",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818427,
+        "classname": "yufex_lordofrings_kolon4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Colonna 4",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818428,
+        "classname": "yufex_lordofrings_kule1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Torre 1",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818429,
+        "classname": "yufex_lordofrings_kule2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Torre 2",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818430,
+        "classname": "yufex_lordofrings_saruman",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Saruman",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818431,
+        "classname": "yufex_lordofrings_sauron",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sauron",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818432,
+        "classname": "yufex_lordofrings_sauronelcisi",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Messaggero di Sauron",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818433,
+        "classname": "yufex_lordofrings_tower",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Torre",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818434,
+        "classname": "yufex_lordofrings_wolf",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lupo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818435,
+        "classname": "yufex_lordofrings_zemin1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pavimento 1",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194818436,
+        "classname": "yufex_lordofrings_zemin2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pavimento 2",
+        "customparams": "",
+        "specialtype": 1
       }
     ]
   },
@@ -878777,6 +879173,17 @@
         "name": "wonka_HMwall",
         "customparams": "",
         "specialtype": 0
+      },
+      {
+        "id": 1500001424,
+        "classname": "nft_h26_lotfposter",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Poster The Lord of the Furni",
+        "customparams": "",
+        "specialtype": 1
       }
     ]
   }
