@@ -27819,6 +27819,24 @@
       ]
     },
     {
+      "id": "shirt_U_vestidooscar",
+      "revision": 0,
+      "parts": [
+        {
+          "id": 21474932,
+          "type": "ch"
+        },
+        {
+          "id": 21474934,
+          "type": "ls"
+        },
+        {
+          "id": 21474934,
+          "type": "rs"
+        }
+      ]
+    },
+    {
       "id": "shirt_M_mummy",
       "revision": 0,
       "parts": [
@@ -74877,6 +74895,16 @@
       ]
     },
     {
+      "id": "hat_U_nftdenimcap",
+      "revision": 73512,
+      "parts": [
+        {
+          "id": 6750,
+          "type": "ha"
+        }
+      ]
+    },
+    {
       "id": "hat_U_nftbunnyhood",
       "revision": 0,
       "parts": [
@@ -81369,6 +81397,224 @@
         {
           "id": 7213,
           "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_nftrollerskate",
+      "revision": 75163,
+      "parts": [
+        {
+          "id": 7415,
+          "type": "mc"
+        },
+        {
+          "id": 7415,
+          "type": "mcl"
+        },
+        {
+          "id": 7415,
+          "type": "mcr"
+        },
+        {
+          "id": 7416,
+          "type": "mc"
+        },
+        {
+          "id": 7417,
+          "type": "mc"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nftflowerearrings",
+      "revision": 75173,
+      "parts": [
+        {
+          "id": 7429,
+          "type": "he"
+        },
+        {
+          "id": 7430,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_ducketcropshirt",
+      "revision": 75166,
+      "parts": [
+        {
+          "id": 7461,
+          "type": "ch"
+        },
+        {
+          "id": 7462,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftbronzejunglemask",
+      "revision": 75189,
+      "parts": [
+        {
+          "id": 7420,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "face_F_roxieface",
+      "revision": 75199,
+      "parts": [
+        {
+          "id": 7467,
+          "type": "hd"
+        },
+        {
+          "id": 7468,
+          "type": "fc"
+        },
+        {
+          "id": 7469,
+          "type": "ey"
+        }
+      ]
+    },
+    {
+      "id": "misc_F_roxiephone",
+      "revision": 75190,
+      "parts": [
+        {
+          "id": 7471,
+          "type": "mc"
+        },
+        {
+          "id": 7471,
+          "type": "mcl"
+        },
+        {
+          "id": 7471,
+          "type": "mcr"
+        }
+      ]
+    },
+    {
+      "id": "trousers_F_roxieskirt",
+      "revision": 75194,
+      "parts": [
+        {
+          "id": 7473,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "hair_F_roxiehair",
+      "revision": 75190,
+      "parts": [
+        {
+          "id": 7470,
+          "type": "hr"
+        },
+        {
+          "id": 7470,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_nftrainbowbikini",
+      "revision": 75242,
+      "parts": [
+        {
+          "id": 7498,
+          "type": "ch"
+        },
+        {
+          "id": 7498,
+          "type": "ls"
+        },
+        {
+          "id": 7498,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "pet_U_adorablepetshark",
+      "revision": 75246,
+      "parts": [
+        {
+          "id": 7474,
+          "type": "pt"
+        },
+        {
+          "id": 7474,
+          "type": "ptl"
+        },
+        {
+          "id": 7474,
+          "type": "ptr"
+        },
+        {
+          "id": 7475,
+          "type": "pt"
+        },
+        {
+          "id": 7476,
+          "type": "pt"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_letitgrow",
+      "revision": 75236,
+      "parts": [
+        {
+          "id": 7465,
+          "type": "hr"
+        },
+        {
+          "id": 7465,
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_nftrainbowswimshorts",
+      "revision": 75242,
+      "parts": [
+        {
+          "id": 7497,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "pet_U_scallywagseagull",
+      "revision": 75401,
+      "parts": [
+        {
+          "id": 7426,
+          "type": "pt"
+        },
+        {
+          "id": 7426,
+          "type": "ptl"
+        },
+        {
+          "id": 7426,
+          "type": "ptr"
+        },
+        {
+          "id": 7427,
+          "type": "pt"
+        },
+        {
+          "id": 7428,
+          "type": "pt"
         }
       ]
     },
