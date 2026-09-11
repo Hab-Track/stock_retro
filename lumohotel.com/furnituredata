@@ -36562,9 +36562,29 @@
       {
         "id": 5969,
         "classname": "CF_diamond_100",
-        "name": "100 Diamonds",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
         "xdim": 1,
-        "ydim": 1
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Diamond Chest",
+        "description": "",
+        "adurl": "",
+        "offerid": 5969,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "rare": false,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
       },
       {
         "id": 5970,
@@ -696627,6 +696647,33 @@
         "rare": false,
         "canstandon": false,
         "cansiton": true,
+        "canlayon": false
+      },
+      {
+        "id": 2000459176,
+        "classname": "CF_diamond_5000",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Diamond Chest",
+        "description": "",
+        "adurl": "",
+        "offerid": 2000459176,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "rare": false,
+        "canstandon": false,
+        "cansiton": false,
         "canlayon": false
       }
     ]
