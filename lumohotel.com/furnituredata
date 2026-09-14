@@ -696791,6 +696791,60 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false
+      },
+      {
+        "id": 2000459184,
+        "classname": "cstm_maikel_lumo_kingchair",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lumo Kingchair",
+        "description": "",
+        "adurl": "",
+        "offerid": 2000459182,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "rare": false,
+        "canstandon": false,
+        "cansiton": true,
+        "canlayon": false
+      },
+      {
+        "id": 2000459182,
+        "classname": "cstm_maikel_lumo_kingchair",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lumo Kingchair",
+        "description": "",
+        "adurl": "",
+        "offerid": 2000459182,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "rare": false,
+        "canstandon": false,
+        "cansiton": true,
+        "canlayon": false
       }
     ]
   },
