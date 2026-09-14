@@ -31983,5 +31983,10 @@
   "badge_name_chiesa": "Membro Chiesa di Habbz",
   "badge_desc_chiesa": "",
   "badge_name_cardinale": "Sacro Collegio Cardinalizio",
-  "badge_desc_cardinale": ""
+  "badge_desc_cardinale": "",
+  "notification.photo.liked.message": "<b>%username%</b> ha messo mi piace a una tua foto",
+  "notification.photo.commented.message": "<b>%username%</b> ha commentato una tua foto: %comment%",
+  "badge_name_event2": "Team Event",
+  "badge_desc_event2": "Sono un membro del Team Event di Habbz Hotel.",
+  "notification.photo.tagged.message": "<b>%username%</b> ti ha taggato in una foto"
 }
