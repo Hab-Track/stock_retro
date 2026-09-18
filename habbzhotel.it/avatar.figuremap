@@ -149761,6 +149761,626 @@
           "type": "lg"
         }
       ]
+    },
+    {
+      "id": "acc_chest_U_acornbackpack",
+      "revision": 75759,
+      "parts": [
+        {
+          "id": "7547",
+          "type": "ca"
+        },
+        {
+          "id": "7548",
+          "type": "ca"
+        },
+        {
+          "id": "7549",
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_c26_bow",
+      "revision": 75802,
+      "parts": [
+        {
+          "id": "7680",
+          "type": "ca"
+        },
+        {
+          "id": "7681",
+          "type": "ca"
+        },
+        {
+          "id": "7682",
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_c26_bow2",
+      "revision": 75788,
+      "parts": [
+        {
+          "id": "7683",
+          "type": "ca"
+        },
+        {
+          "id": "7684",
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_c26_bow3",
+      "revision": 75802,
+      "parts": [
+        {
+          "id": "7686",
+          "type": "ca"
+        },
+        {
+          "id": "7687",
+          "type": "ca"
+        },
+        {
+          "id": "7688",
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_mksftsword",
+      "revision": 75795,
+      "parts": [
+        {
+          "id": "7621",
+          "type": "ca"
+        },
+        {
+          "id": "7622",
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_nft26_nightgoggles",
+      "revision": 75760,
+      "parts": [
+        {
+          "id": "7671",
+          "type": "ea"
+        },
+        {
+          "id": "7672",
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nft26_camopaint",
+      "revision": 75788,
+      "parts": [
+        {
+          "id": "7538",
+          "type": "fa"
+        },
+        {
+          "id": "7538",
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nft26_camopaint2",
+      "revision": 75788,
+      "parts": [
+        {
+          "id": "7697",
+          "type": "fa"
+        },
+        {
+          "id": "7697",
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_survivalmask1",
+      "revision": 75766,
+      "parts": [
+        {
+          "id": "7639",
+          "type": "fa"
+        },
+        {
+          "id": "7640",
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_survivalmask2",
+      "revision": 75766,
+      "parts": [
+        {
+          "id": "7641",
+          "type": "fa"
+        },
+        {
+          "id": "7642",
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_survivalmask3",
+      "revision": 75766,
+      "parts": [
+        {
+          "id": "7643",
+          "type": "fa"
+        },
+        {
+          "id": "7644",
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "face_U_bloodbath",
+      "revision": 75778,
+      "parts": [
+        {
+          "id": "7612",
+          "type": "hd"
+        },
+        {
+          "id": "7612",
+          "type": "bd"
+        },
+        {
+          "id": "7612",
+          "type": "lh"
+        },
+        {
+          "id": "7612",
+          "type": "rh"
+        },
+        {
+          "id": "7612",
+          "type": "fc"
+        },
+        {
+          "id": "7613",
+          "type": "hd"
+        },
+        {
+          "id": "7614",
+          "type": "ey"
+        },
+        {
+          "id": "7613",
+          "type": "bd"
+        },
+        {
+          "id": "7613",
+          "type": "lh"
+        },
+        {
+          "id": "7613",
+          "type": "rh"
+        }
+      ]
+    },
+    {
+      "id": "face_U_bloodbath2",
+      "revision": 75778,
+      "parts": [
+        {
+          "id": "7615",
+          "type": "hd"
+        },
+        {
+          "id": "7615",
+          "type": "bd"
+        },
+        {
+          "id": "7615",
+          "type": "lh"
+        },
+        {
+          "id": "7615",
+          "type": "rh"
+        },
+        {
+          "id": "7615",
+          "type": "fc"
+        },
+        {
+          "id": "7616",
+          "type": "hd"
+        },
+        {
+          "id": "7617",
+          "type": "ey"
+        },
+        {
+          "id": "7616",
+          "type": "bd"
+        },
+        {
+          "id": "7616",
+          "type": "lh"
+        },
+        {
+          "id": "7616",
+          "type": "rh"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_survivalbraid",
+      "revision": 75806,
+      "parts": [
+        {
+          "id": "7598",
+          "type": "hr"
+        },
+        {
+          "id": "7598",
+          "type": "hrb"
+        },
+        {
+          "id": "7599",
+          "type": "hr"
+        },
+        {
+          "id": "7600",
+          "type": "hr"
+        },
+        {
+          "id": "7599",
+          "type": "hrb"
+        },
+        {
+          "id": "7600",
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_autumnberet2",
+      "revision": 75758,
+      "parts": [
+        {
+          "id": "7544",
+          "type": "ha"
+        },
+        {
+          "id": "7545",
+          "type": "ha"
+        },
+        {
+          "id": "7546",
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_survivalhood",
+      "revision": 75766,
+      "parts": [
+        {
+          "id": "7645",
+          "type": "ha"
+        },
+        {
+          "id": "7646",
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nft26_tacticalvest",
+      "revision": 75760,
+      "parts": [
+        {
+          "id": "7677",
+          "type": "cc"
+        },
+        {
+          "id": "7678",
+          "type": "cc"
+        },
+        {
+          "id": "7678",
+          "type": "lc"
+        },
+        {
+          "id": "7678",
+          "type": "rc"
+        },
+        {
+          "id": "7679",
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nfttasselvest",
+      "revision": 75801,
+      "parts": [
+        {
+          "id": "7708",
+          "type": "cc"
+        },
+        {
+          "id": "7708",
+          "type": "lc"
+        },
+        {
+          "id": "7708",
+          "type": "rc"
+        },
+        {
+          "id": "7709",
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_cyberlimbs",
+      "revision": 75804,
+      "parts": [
+        {
+          "id": "7673",
+          "type": "mc"
+        },
+        {
+          "id": "7673",
+          "type": "mcl"
+        },
+        {
+          "id": "7673",
+          "type": "mcr"
+        },
+        {
+          "id": "7674",
+          "type": "mc"
+        },
+        {
+          "id": "7674",
+          "type": "mcl"
+        },
+        {
+          "id": "7674",
+          "type": "mcr"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_drone",
+      "revision": 75766,
+      "parts": [
+        {
+          "id": "7601",
+          "type": "mc"
+        },
+        {
+          "id": "7601",
+          "type": "mcl"
+        },
+        {
+          "id": "7601",
+          "type": "mcr"
+        },
+        {
+          "id": "7602",
+          "type": "mc"
+        },
+        {
+          "id": "7603",
+          "type": "mc"
+        },
+        {
+          "id": "7602",
+          "type": "mcl"
+        },
+        {
+          "id": "7603",
+          "type": "mcl"
+        },
+        {
+          "id": "7602",
+          "type": "mcr"
+        },
+        {
+          "id": "7603",
+          "type": "mcr"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_ducketacornkeychain",
+      "revision": 75762,
+      "parts": [
+        {
+          "id": "7517",
+          "type": "mc"
+        },
+        {
+          "id": "7517",
+          "type": "mcl"
+        },
+        {
+          "id": "7517",
+          "type": "mcr"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_grenade",
+      "revision": 75785,
+      "parts": [
+        {
+          "id": "7636",
+          "type": "mc"
+        },
+        {
+          "id": "7636",
+          "type": "mcl"
+        },
+        {
+          "id": "7636",
+          "type": "mcr"
+        },
+        {
+          "id": "7637",
+          "type": "mc"
+        },
+        {
+          "id": "7638",
+          "type": "mc"
+        },
+        {
+          "id": "7637",
+          "type": "mcl"
+        },
+        {
+          "id": "7638",
+          "type": "mcl"
+        },
+        {
+          "id": "7637",
+          "type": "mcr"
+        },
+        {
+          "id": "7638",
+          "type": "mcr"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_survivalsword",
+      "revision": 75782,
+      "parts": [
+        {
+          "id": "7689",
+          "type": "mc"
+        },
+        {
+          "id": "7689",
+          "type": "mcl"
+        },
+        {
+          "id": "7689",
+          "type": "mcr"
+        },
+        {
+          "id": "7690",
+          "type": "mc"
+        },
+        {
+          "id": "7691",
+          "type": "mc"
+        },
+        {
+          "id": "7690",
+          "type": "mcl"
+        },
+        {
+          "id": "7691",
+          "type": "mcl"
+        },
+        {
+          "id": "7690",
+          "type": "mcr"
+        },
+        {
+          "id": "7691",
+          "type": "mcr"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_tomahawk",
+      "revision": 75799,
+      "parts": [
+        {
+          "id": "7623",
+          "type": "mc"
+        },
+        {
+          "id": "7623",
+          "type": "mcl"
+        },
+        {
+          "id": "7623",
+          "type": "mcr"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_survivaljumpsuit",
+      "revision": 75774,
+      "parts": [
+        {
+          "id": "7649",
+          "type": "ch"
+        },
+        {
+          "id": "7649",
+          "type": "ls"
+        },
+        {
+          "id": "7649",
+          "type": "rs"
+        },
+        {
+          "id": "7650",
+          "type": "ch"
+        },
+        {
+          "id": "7650",
+          "type": "ls"
+        },
+        {
+          "id": "7650",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_survivaljumpsuit",
+      "revision": 75774,
+      "parts": [
+        {
+          "id": "7647",
+          "type": "ch"
+        },
+        {
+          "id": "7647",
+          "type": "ls"
+        },
+        {
+          "id": "7647",
+          "type": "rs"
+        },
+        {
+          "id": "7648",
+          "type": "ch"
+        },
+        {
+          "id": "7648",
+          "type": "ls"
+        },
+        {
+          "id": "7648",
+          "type": "rs"
+        }
+      ]
     }
   ]
 }
