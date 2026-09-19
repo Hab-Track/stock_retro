@@ -5,9 +5,15 @@
         "id": 1541857685,
         "classname": "holo_ravza",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Holo Ravza",
         "description": "cunt",
-        "category": "other",
         "adurl": "",
         "offerid": 1541857685,
         "buyout": true,
@@ -17,32 +23,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Staffrares",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1.2,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Staffrares",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855861,
         "classname": "ducket_c26_charcuterie",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Vlees- en Kaasplankje",
         "description": "Een smakelijk plankje om samen van te genieten.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855861,
         "buyout": true,
@@ -52,32 +52,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Sunset Ranch",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Sunset Ranch",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855860,
         "classname": "ducket_c26_pumpkinspice",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Kruidig Pompoendrankje",
         "description": "De smaak van de herfst in een warm kopje.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855860,
         "buyout": true,
@@ -87,32 +81,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Sunset Ranch",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Sunset Ranch",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855859,
         "classname": "ducket_c26_picnicbasket",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Kostbare Picknickmand",
         "description": "Alles mee voor een heerlijke middag in de buitenlucht.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855859,
         "buyout": true,
@@ -122,32 +110,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Sunset Ranch",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Sunset Ranch",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855858,
         "classname": "ducket_c26_cosyblanket",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 4,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Knus Picknickkleed",
         "description": "Schuif aan voor een gezellige picknick op de ranch.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855858,
         "buyout": true,
@@ -157,32 +139,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Sunset Ranch",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 4,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": true,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.7,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Sunset Ranch",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855857,
         "classname": "ducket_c26_appletree",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Appelboom",
         "description": "Een boom vol appels voor een rijke herfstoogst.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855857,
         "buyout": true,
@@ -192,32 +168,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Sunset Ranch",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 5.5,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Sunset Ranch",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855856,
         "classname": "ducket_c26_autumncandle",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Herfstkaars",
         "description": "Warm kaarslicht voor een knusse herfstavond.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855856,
         "buyout": true,
@@ -227,32 +197,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Sunset Ranch",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Sunset Ranch",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855855,
         "classname": "ducket_c26_leafpile",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Bladerhoop",
         "description": "Een zachte berg herfstbladeren om in neer te ploffen.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855855,
         "buyout": true,
@@ -262,32 +226,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Sunset Ranch",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": true,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.5,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Sunset Ranch",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855854,
         "classname": "nft_h26_witchchair",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Heksenstoel",
         "description": "Even uitrusten tussen twee betoveringen door.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855854,
         "buyout": true,
@@ -297,32 +255,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Halloween 2026",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": true,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1.5,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Halloween 2026",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855853,
         "classname": "nft_h26_spellingredients",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Toveringrediënten",
         "description": "Een beetje hiervan, een beetje daarvan...",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855853,
         "buyout": true,
@@ -332,32 +284,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Halloween 2026",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Halloween 2026",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855852,
         "classname": "nft_h26_scarywitch",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Griezelige Heks",
         "description": "Pas op: deze buurvrouw kent je zwakke spreuk.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855852,
         "buyout": true,
@@ -367,32 +313,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Halloween 2026",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Halloween 2026",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855851,
         "classname": "nft_h26_ingredientshelf",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 2,
+        "xdim": 2,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Heksenvoorraadkast",
         "description": "Alles voor je volgende toverspreuk staat klaar.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855851,
         "buyout": true,
@@ -402,32 +342,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Halloween 2026",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 2,
-        "xdim": 2,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 2,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Halloween 2026",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855850,
         "classname": "nft_h26_cauldron_trippy",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Trippy Heksenketel",
         "description": "Dit brouwsel geeft wel heel bijzondere kleuren.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855850,
         "buyout": true,
@@ -437,32 +371,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Halloween 2026",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Halloween 2026",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855849,
         "classname": "nft_h26_cauldron_silver",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Zilveren Heksenketel",
         "description": "Onder het maanlicht borrelt iets bijzonders.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855849,
         "buyout": true,
@@ -472,32 +400,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Halloween 2026",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Halloween 2026",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855848,
         "classname": "nft_h26_cauldron_gold",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Gouden Heksenketel",
         "description": "Een gouden brouwsel voor een betoverende avond.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855848,
         "buyout": true,
@@ -507,32 +429,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Halloween 2026",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Halloween 2026",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855847,
         "classname": "nft_h26_cauldron_bronze",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Bronzen Heksenketel",
         "description": "Een snufje magie in een bronzen ketel.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855847,
         "buyout": true,
@@ -542,32 +458,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Halloween 2026",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Halloween 2026",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855846,
         "classname": "nft_h26_broomstickrack",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 2,
+        "partcolors": {
+          "color": []
+        },
         "name": "Bezemrek",
         "description": "Parkeer je vliegende bezem voor de nacht.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855846,
         "buyout": true,
@@ -577,32 +487,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Halloween 2026",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 2,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Halloween 2026",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855845,
         "classname": "nft_h26_witchworkstation",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 3,
+        "partcolors": {
+          "color": []
+        },
         "name": "Heksenwerkbank",
         "description": "Hier brouwt de heks haar nieuwste geheimen.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855845,
         "buyout": true,
@@ -612,32 +516,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Halloween 2026",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 3,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 1.3,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Halloween 2026",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855844,
         "classname": "nft_h26_witchfigure",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Heksenfiguurtje",
         "description": "Een kleine heks met grootse toverplannen.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855844,
         "buyout": true,
@@ -647,32 +545,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Halloween 2026",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Halloween 2026",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855838,
         "classname": "mafia_r26_moneytile",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Het Regent Bankbiljetten",
         "description": "Vandaag komt het geluk in bankbiljetten naar beneden.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855838,
         "buyout": true,
@@ -682,32 +574,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": true,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": true
       },
       {
         "id": 1541855837,
         "classname": "mafia_r26_globe",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Vergulde Wereldbol",
         "description": "Voor wie plannen heeft die verder reiken dan Space Hotel.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855837,
         "buyout": true,
@@ -717,32 +603,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": true,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": true
       },
       {
         "id": 1541855836,
         "classname": "mafia_c26_wall_white",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 2,
+        "partcolors": {
+          "color": []
+        },
         "name": "Lichte Landhuis Muuritem",
         "description": "Bouw een landhuis dat niemand over het hoofd ziet.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855836,
         "buyout": true,
@@ -752,32 +632,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 2,
-        "ydim": 2,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 2.25,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855835,
         "classname": "mafia_c26_wall_dark",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 2,
+        "partcolors": {
+          "color": []
+        },
         "name": "Donker Landhuis Muuritem",
         "description": "Bouw een landhuis dat niemand over het hoofd ziet.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855835,
         "buyout": true,
@@ -787,32 +661,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 2,
-        "ydim": 2,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 2.25,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855834,
         "classname": "mafia_c26_vintagedesk",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 3,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Grote Vintage Bureau",
         "description": "Hier worden de belangrijkste besluiten genomen.",
-        "category": "table",
         "adurl": "",
         "offerid": 1541855834,
         "buyout": true,
@@ -822,32 +690,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 3,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 1.3,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855833,
         "classname": "mafia_c26_vintagechair",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Grote Vintage Stoel",
         "description": "Een stoel met gezag en een lange geschiedenis.",
-        "category": "chair",
         "adurl": "",
         "offerid": 1541855833,
         "buyout": true,
@@ -857,32 +719,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": true,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1.3,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855832,
         "classname": "mafia_c26_vase_white",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Lichte Landhuis Vaas",
         "description": "Een statig detail voor een stijlvol hoofdkwartier.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855832,
         "buyout": true,
@@ -892,32 +748,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855831,
         "classname": "mafia_c26_vase_dark",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Donker Landhuis Vaas",
         "description": "Een statig detail voor een stijlvol hoofdkwartier.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855831,
         "buyout": true,
@@ -927,32 +777,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855830,
         "classname": "mafia_c26_teleport_white",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Lichte Landhuis Telepoort",
         "description": "Een discrete doorgang naar de andere kant.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855830,
         "buyout": true,
@@ -962,32 +806,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 0.0001,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855829,
         "classname": "mafia_c26_teleport_dark",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Donker Landhuis Telepoort",
         "description": "Een discrete doorgang naar de andere kant.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855829,
         "buyout": true,
@@ -997,32 +835,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 0.0001,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855828,
         "classname": "mafia_c26_tallwall_white",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 2,
+        "partcolors": {
+          "color": []
+        },
         "name": "Lichte Landhuis Hoog Muuritem",
         "description": "Grootse plannen vragen om hoge muren.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855828,
         "buyout": true,
@@ -1032,32 +864,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 2,
-        "ydim": 2,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 4,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855827,
         "classname": "mafia_c26_tallwall_dark",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 2,
+        "partcolors": {
+          "color": []
+        },
         "name": "Hoog Donker Landhuis Muuritem",
         "description": "Grootse plannen vragen om hoge muren.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855827,
         "buyout": true,
@@ -1067,32 +893,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 2,
-        "ydim": 2,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 4,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855826,
         "classname": "mafia_c26_sofa_white",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 3,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Lichte Landhuis Bank",
         "description": "Schuif aan voor een goed gesprek met de familie.",
-        "category": "chair",
         "adurl": "",
         "offerid": 1541855826,
         "buyout": true,
@@ -1102,32 +922,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 3,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": true,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1.3,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855825,
         "classname": "mafia_c26_sofa_dark",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 3,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Donker Landhuis Bank",
         "description": "Schuif aan voor een goed gesprek met de familie.",
-        "category": "chair",
         "adurl": "",
         "offerid": 1541855825,
         "buyout": true,
@@ -1137,32 +951,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 3,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": true,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1.3,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855824,
         "classname": "mafia_c26_sidetable_white",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Lichte Landhuis Bijzettafel",
         "description": "Altijd een plek voor een kopje koffie en een goed plan.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855824,
         "buyout": true,
@@ -1172,32 +980,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.992,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855823,
         "classname": "mafia_c26_sidetable_dark",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Donker Landhuis Bijzettafel",
         "description": "Altijd een plek voor een kopje koffie en een goed plan.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855823,
         "buyout": true,
@@ -1207,32 +1009,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.992,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855822,
         "classname": "mafia_c26_safe",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Kleine Kluis",
         "description": "Klein van stuk, groot in geheimen.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855822,
         "buyout": true,
@@ -1242,32 +1038,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.5,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855821,
         "classname": "mafia_c26_polish",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Meubelpoets",
         "description": "Laat je meubels stralen alsof er bezoek van de baas komt.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855821,
         "buyout": true,
@@ -1277,32 +1067,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 0.7,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855820,
         "classname": "mafia_c26_planter_white",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Lichte Landhuis Plantenbak",
         "description": "Groots groen voor een imposante entree.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855820,
         "buyout": true,
@@ -1312,32 +1096,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 2,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855819,
         "classname": "mafia_c26_planter_dark",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Donker Landhuis Plantenbak",
         "description": "Groots groen voor een imposante entree.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855819,
         "buyout": true,
@@ -1347,32 +1125,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 2,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855818,
         "classname": "mafia_c26_pasta",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Spaghetti met Gehaktballen",
         "description": "Aan tafel! Familiezaken kunnen even wachten.",
-        "category": "food",
         "adurl": "",
         "offerid": 1541855818,
         "buyout": true,
@@ -1382,32 +1154,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 0.2,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855817,
         "classname": "mafia_c26_paint",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Meubelverf",
         "description": "Een nieuwe kleur, een heel nieuw verhaal.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855817,
         "buyout": true,
@@ -1417,32 +1183,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855816,
         "classname": "mafia_c26_magazinesb",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Interieurtijdschriften",
         "description": "Een stapel inspiratie voor je volgende landhuis.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855816,
         "buyout": true,
@@ -1452,32 +1212,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.7,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855815,
         "classname": "mafia_c26_ledger",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Belangrijke Bewijsstukken",
         "description": "Sommige zaken zet je beter niet op papier.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855815,
         "buyout": true,
@@ -1487,32 +1241,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.186,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855814,
         "classname": "mafia_c26_kit",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Meubelstoffering Set",
         "description": "Een frisse bekleding voor een vertrouwde favoriet.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855814,
         "buyout": true,
@@ -1522,32 +1270,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 0.4,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855813,
         "classname": "mafia_c26_jacuzzi_white",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 2,
+        "partcolors": {
+          "color": []
+        },
         "name": "Lichte Landhuis Jacuzzi",
         "description": "Laat de bubbels het zware werk doen.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855813,
         "buyout": true,
@@ -1557,32 +1299,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 2,
-        "ydim": 2,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 0,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855812,
         "classname": "mafia_c26_jacuzzi_dark",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 2,
+        "partcolors": {
+          "color": []
+        },
         "name": "Donker Landhuis Jacuzzi",
         "description": "Laat de bubbels het zware werk doen.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855812,
         "buyout": true,
@@ -1592,32 +1328,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 2,
-        "ydim": 2,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 0,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855811,
         "classname": "mafia_c26_gunrack",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Handig Pistoolrek",
         "description": "Een opvallend decorstuk voor het hoofdkwartier.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855811,
         "buyout": true,
@@ -1627,32 +1357,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 0.5,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855810,
         "classname": "mafia_c26_guarddog",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Waakzame Wraakhond",
         "description": "Deze portier laat zich niet omkopen met een koekje.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855810,
         "buyout": true,
@@ -1662,32 +1386,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855809,
         "classname": "mafia_c26_goldleaf",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Gouden Bladverf",
         "description": "Een vleugje goud voor grootse plannen.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855809,
         "buyout": true,
@@ -1697,32 +1415,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855808,
         "classname": "mafia_c26_fish",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Slapende Vis",
         "description": "Een bijzondere zitplaats voor wie van vis houdt.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855808,
         "buyout": true,
@@ -1732,32 +1444,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": true,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 0.8,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855807,
         "classname": "mafia_c26_firepit_white",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Lichte Landhuis Vuurkorf",
         "description": "Een warm welkom op een koele avond.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855807,
         "buyout": true,
@@ -1767,32 +1473,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 0.8,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855806,
         "classname": "mafia_c26_firepit_dark",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Donker Landhuis Vuurkorf",
         "description": "Een warm welkom op een koele avond.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855806,
         "buyout": true,
@@ -1802,32 +1502,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 0.8,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855805,
         "classname": "mafia_c26_drinktray",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Stijlvol Dienblad voor Drankjes",
         "description": "Kies het perfecte drankje voor je gasten.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855805,
         "buyout": true,
@@ -1837,32 +1531,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 0.6,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855804,
         "classname": "mafia_c26_drinkcabinet",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 2,
+        "xdim": 3,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Landhuis Drankjeskast",
         "description": "Achter deze deuren staat een indrukwekkende verzameling.",
-        "category": "vending_machine",
         "adurl": "",
         "offerid": 1541855804,
         "buyout": true,
@@ -1872,32 +1560,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 2,
-        "xdim": 3,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 3.1,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855803,
         "classname": "mafia_c26_divider_white",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Lichte Landhuis Afscheiding",
         "description": "Houd de zaken netjes gescheiden.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855803,
         "buyout": true,
@@ -1907,32 +1589,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 2,
-        "ydim": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855802,
         "classname": "mafia_c26_divider_dark",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Donker Landhuis Afscheiding",
         "description": "Houd de zaken netjes gescheiden.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855802,
         "buyout": true,
@@ -1942,32 +1618,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 2,
-        "ydim": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855801,
         "classname": "mafia_c26_designer",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Godfather Ontwerptafel",
         "description": "Hier krijgt het volgende landhuis vorm.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855801,
         "buyout": true,
@@ -1977,32 +1647,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 2.4,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855800,
         "classname": "mafia_c26_coffeetable_white",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 2,
+        "partcolors": {
+          "color": []
+        },
         "name": "Lichte Landhuis Koffietafel",
         "description": "Koffie op tafel, de afspraken blijven binnenskamers.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855800,
         "buyout": true,
@@ -2012,32 +1676,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 2,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.837,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855799,
         "classname": "mafia_c26_coffeetable_dark",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 2,
+        "partcolors": {
+          "color": []
+        },
         "name": "Donker Landhuis Koffietafel",
         "description": "Koffie op tafel, de afspraken blijven binnenskamers.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855799,
         "buyout": true,
@@ -2047,32 +1705,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 2,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.837,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855798,
         "classname": "mafia_c26_cash",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Stapel Contant Geld",
         "description": "Een klein voorschot op een groot fortuin.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855798,
         "buyout": true,
@@ -2082,32 +1734,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.2,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855797,
         "classname": "mafia_c26_car",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 4,
+        "partcolors": {
+          "color": []
+        },
         "name": "Klassieke Auto",
         "description": "Voor een stijlvolle aankomst en een razendsnel vertrek.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855797,
         "buyout": true,
@@ -2117,32 +1763,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 2,
-        "ydim": 4,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855796,
         "classname": "mafia_c26_bed_white",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 2,
+        "xdim": 2,
+        "ydim": 3,
+        "partcolors": {
+          "color": []
+        },
         "name": "Lichte Landhuis Tweepersoonsbed",
         "description": "Ook de baas van Space Hotel heeft zijn nachtrust nodig.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855796,
         "buyout": true,
@@ -2152,32 +1792,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 2,
-        "xdim": 2,
-        "ydim": 3,
         "canstandon": false,
         "cansiton": false,
         "canlayon": true,
-        "canputstuffon": false,
-        "height": 1.8,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855795,
         "classname": "mafia_c26_bed_dark",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 2,
+        "xdim": 2,
+        "ydim": 3,
+        "partcolors": {
+          "color": []
+        },
         "name": "Donker Landhuis Bed",
         "description": "Ook de baas van Space Hotel heeft zijn nachtrust nodig.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855795,
         "buyout": true,
@@ -2187,32 +1821,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 2,
-        "xdim": 2,
-        "ydim": 3,
         "canstandon": false,
         "cansiton": false,
         "canlayon": true,
-        "canputstuffon": false,
-        "height": 1.8,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855794,
         "classname": "mafia_c26_armchair_white",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Lichte Landhuis Leunstoel",
         "description": "Neem plaats. De familie heeft iets te bespreken.",
-        "category": "chair",
         "adurl": "",
         "offerid": 1541855794,
         "buyout": true,
@@ -2222,32 +1850,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": true,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1.3,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855793,
         "classname": "mafia_c26_armchair_dark",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Donker Landhuis Leunstoel",
         "description": "Neem plaats. De familie heeft iets te bespreken.",
-        "category": "chair",
         "adurl": "",
         "offerid": 1541855793,
         "buyout": true,
@@ -2257,24 +1879,12 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Godfather",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": true,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1.3,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Godfather",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541855792,
@@ -2305,7 +1915,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "puzzle_box",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -2338,7 +1948,7 @@
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "puzzle_box",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -2371,7 +1981,7 @@
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "puzzle_box",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -2404,9 +2014,9 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
-        "rare": true
+        "rare": false
       },
       {
         "id": 1541855787,
@@ -2437,9 +2047,9 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
-        "rare": true
+        "rare": false
       },
       {
         "id": 1541855786,
@@ -2470,9 +2080,9 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
-        "rare": true
+        "rare": false
       },
       {
         "id": 1541855785,
@@ -2503,7 +2113,7 @@
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -2536,7 +2146,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -2569,7 +2179,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -2602,7 +2212,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -2635,7 +2245,7 @@
         "canstandon": false,
         "cansiton": true,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -2668,7 +2278,7 @@
         "canstandon": false,
         "cansiton": true,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -2701,7 +2311,7 @@
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -2734,7 +2344,7 @@
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -2767,7 +2377,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -2800,7 +2410,7 @@
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -2833,7 +2443,7 @@
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -2866,7 +2476,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -2899,7 +2509,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -2932,7 +2542,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -2965,7 +2575,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -2998,7 +2608,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3031,7 +2641,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3064,7 +2674,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3097,7 +2707,7 @@
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3130,7 +2740,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3163,7 +2773,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3196,7 +2806,7 @@
         "canstandon": false,
         "cansiton": true,
         "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3229,9 +2839,9 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
-        "rare": true
+        "rare": false
       },
       {
         "id": 1541855762,
@@ -3262,9 +2872,9 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
-        "rare": true
+        "rare": false
       },
       {
         "id": 1541855761,
@@ -3295,9 +2905,9 @@
         "canstandon": false,
         "cansiton": true,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
-        "rare": true
+        "rare": false
       },
       {
         "id": 1541855759,
@@ -3328,7 +2938,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3361,7 +2971,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3394,7 +3004,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3427,7 +3037,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3460,7 +3070,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3493,7 +3103,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3526,7 +3136,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3559,7 +3169,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3592,7 +3202,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3625,7 +3235,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3658,7 +3268,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3691,7 +3301,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3724,7 +3334,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3757,7 +3367,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3790,7 +3400,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3823,7 +3433,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3856,7 +3466,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3889,7 +3499,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3922,7 +3532,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3955,7 +3565,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -3988,7 +3598,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4021,7 +3631,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4054,7 +3664,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4087,7 +3697,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4120,7 +3730,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4153,7 +3763,7 @@
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4186,7 +3796,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4219,7 +3829,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4252,7 +3862,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4285,7 +3895,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4318,7 +3928,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4351,7 +3961,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4384,7 +3994,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4417,7 +4027,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4450,7 +4060,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4483,7 +4093,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4516,7 +4126,7 @@
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4549,7 +4159,7 @@
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4582,7 +4192,7 @@
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4615,7 +4225,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4648,7 +4258,7 @@
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4681,7 +4291,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4714,7 +4324,7 @@
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4747,7 +4357,7 @@
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4780,7 +4390,7 @@
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4813,7 +4423,7 @@
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4846,7 +4456,7 @@
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4879,7 +4489,7 @@
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4912,7 +4522,7 @@
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4945,7 +4555,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -4978,7 +4588,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -5011,7 +4621,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -5044,9 +4654,9 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Diamanten Shop",
+        "furniline": "",
         "environment": "",
-        "rare": true
+        "rare": false
       },
       {
         "id": 1541855706,
@@ -5077,9 +4687,9 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Diamanten Shop",
+        "furniline": "",
         "environment": "",
-        "rare": true
+        "rare": false
       },
       {
         "id": 1541855705,
@@ -5110,9 +4720,9 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Diamanten Shop",
+        "furniline": "",
         "environment": "",
-        "rare": true
+        "rare": false
       },
       {
         "id": 1541855704,
@@ -5143,9 +4753,9 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Diamanten Shop",
+        "furniline": "",
         "environment": "",
-        "rare": true
+        "rare": false
       },
       {
         "id": 1541855703,
@@ -5176,9 +4786,9 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Diamanten Shop",
+        "furniline": "",
         "environment": "",
-        "rare": true
+        "rare": false
       },
       {
         "id": 1541855702,
@@ -5209,9 +4819,9 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Diamanten Shop",
+        "furniline": "",
         "environment": "",
-        "rare": true
+        "rare": false
       },
       {
         "id": 1541855701,
@@ -5242,9 +4852,9 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Diamanten Shop",
+        "furniline": "",
         "environment": "",
-        "rare": true
+        "rare": false
       },
       {
         "id": 1541855700,
@@ -5275,9 +4885,9 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Diamanten Shop",
+        "furniline": "",
         "environment": "",
-        "rare": true
+        "rare": false
       },
       {
         "id": 1541855699,
@@ -5308,9 +4918,9 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Diamanten Shop",
+        "furniline": "",
         "environment": "",
-        "rare": true
+        "rare": false
       },
       {
         "id": 1541855698,
@@ -5341,9 +4951,9 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "Diamanten Shop",
+        "furniline": "",
         "environment": "",
-        "rare": true
+        "rare": false
       },
       {
         "id": 1541855696,
@@ -750655,10 +750265,17 @@
         "id": 1541857686,
         "classname": "wf_act_flee",
         "revision": 50950,
-        "category": "wired_effect",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "WIRED Reactie: Vlucht Van Speler",
         "description": "Na activeren schuift Meubi Ã©Ã©n tegel weg van de dichtstbijzijnde Space.",
         "adurl": "",
@@ -750668,31 +750285,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857686,
         "customparams": "12",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.65,
         "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857687,
         "classname": "wf_cnd_not_user_performs_action",
         "revision": 69021,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "WIRED Negatieve Voorwaarde: Speler Voert GEEN Actie Uit",
         "description": "",
         "adurl": "",
@@ -750702,31 +750318,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857687,
         "customparams": "33",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.65,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857688,
         "classname": "wf_act_neg_log",
         "revision": 73909,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "WIRED Negatieve Reactie: Schrijf naar logboek",
         "description": "",
         "adurl": "",
@@ -750736,31 +750351,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857688,
         "customparams": "50",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.65,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857689,
         "classname": "wf_act_neg_call_stacks",
         "revision": 70536,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "WIRED Negatieve Reactie: Stapels uitvoeren",
         "description": "",
         "adurl": "",
@@ -750770,31 +750384,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857689,
         "customparams": "36",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.65,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857690,
         "classname": "wf_act_neg_send_signal",
         "revision": 70536,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "WIRED Negatieve Reactie: Stuur Signaal",
         "description": "",
         "adurl": "",
@@ -750804,31 +750417,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857690,
         "customparams": "37",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.65,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857691,
         "classname": "wf_act_adjust_clock",
         "revision": 70536,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "WIRED Reactie: Timer Tijd Aanpassen",
         "description": "",
         "adurl": "",
@@ -750838,31 +750450,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857691,
         "customparams": "38",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.65,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857692,
         "classname": "wf_xtra_filter_furni_by_var",
         "revision": 71472,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "WIRED Filter: Meubi met Hoogste/Laagste Variabele",
         "description": "",
         "adurl": "",
@@ -750872,31 +750483,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857692,
         "customparams": "12",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 1,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857693,
         "classname": "wf_cnd_neg_has_var",
         "revision": 71472,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "WIRED Negatieve Voorwaarde: Heeft GEEN Variabele",
         "description": "",
         "adurl": "",
@@ -750906,31 +750516,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857693,
         "customparams": "41",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.65,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857694,
         "classname": "wf_xtra_text_output_variable",
         "revision": 71472,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "WIRED Tekst Add-On: Variabele Placeholder",
         "description": "",
         "adurl": "",
@@ -750940,31 +750549,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857694,
         "customparams": "15",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.37,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857695,
         "classname": "wf_cnd_has_var",
         "revision": 71472,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "WIRED Voorwaarde: Heeft Variabele",
         "description": "",
         "adurl": "",
@@ -750974,31 +750582,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857695,
         "customparams": "40",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.65,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857696,
         "classname": "wf_cnd_var_age_match",
         "revision": 71472,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "WIRED Voorwaarde: Variabele Leeftijd",
         "description": "",
         "adurl": "",
@@ -751008,31 +750615,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857696,
         "customparams": "43",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.65,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857697,
         "classname": "wf_xtra_text_output_furni_name",
         "revision": 74772,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "WIRED Tekst Add-on: Meubi Naam Placeholder",
         "description": "",
         "adurl": "",
@@ -751042,31 +750648,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857697,
         "customparams": "19",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.37,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857698,
         "classname": "wf_xtra_filter_users_by_var",
         "revision": 71472,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "WIRED Filter: Spelers met Hoogste/Laagste Variabele",
         "description": "",
         "adurl": "",
@@ -751076,31 +750681,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857698,
         "customparams": "13",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 1,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857699,
         "classname": "wf_slc_furni_with_var",
         "revision": 71546,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "WIRED Selector: Meubi Met Variabele",
         "description": "",
         "adurl": "",
@@ -751110,31 +750714,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857699,
         "customparams": "17",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 1,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857700,
         "classname": "wf_act_click_conf",
         "revision": 74952,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "WIRED Effect: Klik optie Instellen",
         "description": "",
         "adurl": "",
@@ -751144,31 +750747,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857700,
         "customparams": "54",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.65,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857701,
         "classname": "wf_act_user_to_furni",
         "revision": 71472,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "WIRED Reactie: Verplaats Speler naar Meubi",
         "description": "",
         "adurl": "",
@@ -751178,31 +750780,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857701,
         "customparams": "43",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.65,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857702,
         "classname": "wf_xtra_mov_curve",
         "revision": 74952,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "WIRED Add-on: Bewegings Kromming",
         "description": "",
         "adurl": "",
@@ -751212,31 +750813,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857702,
         "customparams": "22",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.37,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857703,
         "classname": "wf_xtra_rotate_to_dir",
         "revision": 74952,
-        "category": "other",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "WIRED Add-On: Projectiel",
         "description": "",
         "adurl": "",
@@ -751246,31 +750846,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857703,
         "customparams": "21",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.37,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857704,
         "classname": "wf_xtra_exec_in_order",
         "revision": 71472,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "WIRED Add-On: Voer in volgorde uit",
         "description": "",
         "adurl": "",
@@ -751280,31 +750879,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857704,
         "customparams": "17",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.37,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857705,
         "classname": "wf_storage_coins1",
         "revision": 74772,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "Credit Opbergkist",
         "description": "",
         "adurl": "",
@@ -751314,31 +750912,30 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "bcofferid": 1541857705,
-        "customparams": null,
+        "customparams": "",
         "specialtype": 25,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": false,
-        "recyclable": false,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857706,
         "classname": "wf_storage_coins2",
         "revision": 74772,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "Credit Opbergkist",
         "description": "",
         "adurl": "",
@@ -751348,31 +750945,30 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "bcofferid": 1541857706,
-        "customparams": null,
+        "customparams": "",
         "specialtype": 25,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": false,
-        "recyclable": false,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857707,
         "classname": "wf_storage_furni1",
         "revision": 74772,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "Meubi Opbergkist",
         "description": "",
         "adurl": "",
@@ -751382,31 +750978,30 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "bcofferid": 1541857707,
-        "customparams": null,
+        "customparams": "",
         "specialtype": 24,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": false,
-        "recyclable": false,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857708,
         "classname": "wf_storage_furni2",
         "revision": 74772,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "Meubi Opbergkist",
         "description": "",
         "adurl": "",
@@ -751416,31 +751011,30 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "bcofferid": 1541857708,
-        "customparams": null,
+        "customparams": "",
         "specialtype": 24,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": false,
-        "recyclable": false,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857709,
         "classname": "wf_xtra_scan_chest_furni_by_type",
         "revision": 74772,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "WIRED Zoeker Add-on: Opbergkist Meubi van Soort",
         "description": "",
         "adurl": "",
@@ -751450,31 +751044,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857709,
         "customparams": "18",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.37,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857710,
         "classname": "wf_xtra_var_web_api",
         "revision": 75694,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "Variabele Globale Add-on: Web API",
         "description": "",
         "adurl": "",
@@ -751484,31 +751077,30 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "bcofferid": 1541857710,
         "customparams": "2002",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 0.75,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": false,
-        "recyclable": false,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857711,
         "classname": "wf_xtra_varfx_hp",
         "revision": 75717,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "Variabele FX: Gezondheidspunten",
         "description": "",
         "adurl": "",
@@ -751518,31 +751110,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857711,
         "customparams": "1200",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 1,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857712,
         "classname": "wf_xtra_varfx_levelling",
         "revision": 75717,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "Variabele FX: Level Progressie",
         "description": "",
         "adurl": "",
@@ -751552,31 +751143,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857712,
         "customparams": "1202",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 1,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857713,
         "classname": "wf_xtra_varfx_boss",
         "revision": 75717,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "Variabele FX: Levensbalk van een eindbaas",
         "description": "",
         "adurl": "",
@@ -751586,31 +751176,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857713,
         "customparams": "1204",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 1,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857714,
         "classname": "wf_xtra_varfx_number",
         "revision": 75717,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "Variabele FX: Nummer weergave",
         "description": "",
         "adurl": "",
@@ -751620,31 +751209,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857714,
         "customparams": "1205",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 1,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857715,
         "classname": "wf_xtra_varfx_status",
         "revision": 75717,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "Variabele FX: Statusbalk",
         "description": "",
         "adurl": "",
@@ -751654,31 +751242,30 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857715,
         "customparams": "1203",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 1,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
       },
       {
         "id": 1541857716,
         "classname": "wf_xtra_varfx_prog",
         "revision": 75717,
-        "category": "wired",
+        "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
         "name": "Variabele FX: Voortgangsbalk",
         "description": "",
         "adurl": "",
@@ -751688,22 +751275,47 @@
         "rentbuyout": false,
         "bc": true,
         "excludeddynamic": false,
-        "bcofferid": 1541857716,
         "customparams": "1201",
         "specialtype": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": true,
-        "height": 1,
-        "furniline": "wired",
+        "furniline": "",
         "environment": "",
-        "rare": false,
-        "tradeable": true,
-        "recyclable": true,
-        "existingRows": [],
-        "offers": [],
-        "action": "add-furniture"
+        "rare": false
+      },
+      {
+        "id": 1541857718,
+        "classname": "survival_cloth_r26_bloodbath",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "Bloed bad Kledij",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541857718,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
       }
     ]
   },
@@ -751713,9 +751325,9 @@
         "id": 1541855843,
         "classname": "mafia_c26_window_white",
         "revision": 6969,
+        "category": "unknown",
         "name": "Lichte Landhuis Raam",
         "description": "Een uitzicht dat past bij de baas van het huis.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855843,
         "buyout": true,
@@ -751733,9 +751345,9 @@
         "id": 1541855842,
         "classname": "mafia_c26_window_dark",
         "revision": 6969,
+        "category": "unknown",
         "name": "Donker Landhuis Raam",
         "description": "Een uitzicht dat past bij de baas van het huis.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855842,
         "buyout": true,
@@ -751753,9 +751365,9 @@
         "id": 1541855841,
         "classname": "mafia_c26_wallsafe",
         "revision": 6969,
+        "category": "unknown",
         "name": "Zwaar beveiligde Kluis",
         "description": "Achter deze deur blijven je geheimen bewaard.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855841,
         "buyout": true,
@@ -751773,9 +751385,9 @@
         "id": 1541855840,
         "classname": "mafia_c26_walllamp_white",
         "revision": 6969,
+        "category": "unknown",
         "name": "Lichte Landhuis Wandlamp",
         "description": "Zacht licht voor vertrouwelijke gesprekken.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855840,
         "buyout": true,
@@ -751793,9 +751405,9 @@
         "id": 1541855839,
         "classname": "mafia_c26_walllamp_dark",
         "revision": 6969,
+        "category": "unknown",
         "name": "Donker Landhuis Wandlamp",
         "description": "Zacht licht voor vertrouwelijke gesprekken.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541855839,
         "buyout": true,
@@ -751814,16 +751426,6 @@
         "classname": "hween_c26_gallerywall",
         "revision": 6969,
         "category": "unknown",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        },
         "name": "Galerijmuur",
         "description": "Portretten van mensen die je nooit hebt ontmoet.",
         "adurl": "",
@@ -751835,10 +751437,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
-        "cansiton": false,
-        "canlayon": false,
-        "furniline": "Halloween 2026",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
@@ -751858,7 +751457,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Sunset Ranch",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
