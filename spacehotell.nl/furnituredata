@@ -6158,7 +6158,7 @@
             "#0"
           ]
         },
-        "name": "Kruisknop",
+        "name": "wf_button_x",
         "description": "Fout? Druk op het kruis.",
         "adurl": "",
         "offerid": 1541855660,
@@ -6323,7 +6323,7 @@
             "#0"
           ]
         },
-        "name": "Pijlplaat",
+        "name": "wf_arrowplate_8dir",
         "description": "Volg de pijl en kies je richting.",
         "adurl": "",
         "offerid": 1541855655,
@@ -18584,7 +18584,7 @@
             "#0"
           ]
         },
-        "name": "Paarse Glitterbom",
+        "name": "room_invisible_disco_c26_purpleglitterbomb",
         "description": "Paarse glitters voor een magisch feest.",
         "adurl": "",
         "offerid": 1541854871,
@@ -86270,7 +86270,7 @@
             "#0"
           ]
         },
-        "name": "WIRED Voorwaarde: Trigger Komt Overeen",
+        "name": "wf_cnd_triggerer_match",
         "description": "",
         "adurl": "",
         "offerid": 1541852724,
@@ -132311,7 +132311,7 @@
             "#0"
           ]
         },
-        "name": "WIRED Actie: Bot bereikt Speler",
+        "name": "wf_trg_bot_reached_avtr",
         "description": "Effecten worden geactiveerd wanneer de geselecteerde Bot een user bereikt",
         "adurl": "",
         "offerid": 990384262,
@@ -256512,7 +256512,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Negatieve Voorwaarde: GEEN teamlid",
+        "name": "wf_cnd_not_in_team",
         "description": "De voorwaarde is niet geldig wanneer de avatar GEEN lid is van het vooropgestelde team.",
         "adurl": "",
         "offerid": 5439,
@@ -258287,7 +258287,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Verander de richting van Meubi",
+        "name": "wf_act_move_to_dir",
         "description": "Dit effect verandert de richting van de meubi. Als de beweging wordt geblokkeerd, zal de meubi van richting veranderen op basis van je instellingen. Als er een speler naast de meubi staat, dan activeert de Wired Actie: user item botsing.",
         "adurl": "",
         "offerid": 7840,
@@ -270430,7 +270430,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Speler Wegsturen",
+        "name": "wf_act_kick_user",
         "description": "Deze Reactie stuurt een gebruiker weg op basis van Acties",
         "adurl": "",
         "offerid": 886730011,
@@ -270459,7 +270459,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Actie: Bot bereikt Speler",
+        "name": "wf_trg_bot_reached_avtr",
         "description": "Effecten worden geactiveerd wanneer de geselecteerde Bot een user bereikt",
         "adurl": "",
         "offerid": 886734256,
@@ -270488,7 +270488,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Actie: Bot bereikt Meubi",
+        "name": "wf_trg_bot_reached_stf",
         "description": "Effecten worden geactiveerd wanneer de geselecteerde Bot Ã©Ã©n van de geselecteerde Meubi bereikt",
         "adurl": "",
         "offerid": 886734214,
@@ -378720,7 +378720,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie - Eindigt game",
+        "name": "wf_act_endgame_team",
         "description": "",
         "adurl": "",
         "offerid": 1541850401,
@@ -378778,7 +378778,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Botsing van meubi",
+        "name": "wf_act_tiles",
         "description": "",
         "adurl": "",
         "offerid": 10987,
@@ -378807,7 +378807,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Teleport meubi naar Space",
+        "name": "wf_act_teleport_t2",
         "description": "no desc",
         "adurl": "",
         "offerid": 10987,
@@ -378836,7 +378836,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie - Space botst",
+        "name": "WIRED Actie: Space botst tegen speler",
         "description": "no desc",
         "adurl": "",
         "offerid": 10987,
@@ -378865,7 +378865,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie - Space botst tegen speler",
+        "name": "WIRED Actie: Space is gebotst",
         "description": "no desc",
         "adurl": "",
         "offerid": 10987,
@@ -452129,7 +452129,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Trigger: Speler zegt command",
+        "name": "wf_trg_says_sycommand",
         "description": "Effects are triggered when a user says a certain command.",
         "adurl": "",
         "offerid": -1,
@@ -452158,7 +452158,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Actie: Botsing",
+        "name": "wf_trg_collision",
         "description": "Wordt geactiveerd als een (met de Wired Volg of Vlucht) verplaatste Meubi op een Space botst; de activerende gebruiker is de Space die botst.",
         "adurl": "",
         "offerid": -1,
@@ -452187,7 +452187,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Verlaat Team",
+        "name": "wf_act_leave_team",
         "description": "De activerende Space verlaat het opgestelde team",
         "adurl": "",
         "offerid": -1,
@@ -452216,7 +452216,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Voorwaarde: Teamlid",
+        "name": "wf_cnd_actor_in_team",
         "description": "Voorwaarde gaat af als de Space lid is van het opgestelde team",
         "adurl": "",
         "offerid": -1,
@@ -452245,7 +452245,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Kom Bij Team",
+        "name": "wf_act_join_team",
         "description": "De activerende Space komt bij het opgestelde team",
         "adurl": "",
         "offerid": -1,
@@ -452274,7 +452274,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Bot kleedt zich om",
+        "name": "wf_act_bot_clothes",
         "description": "Het effect zorgt er voor dat de Bot andere kleren aan krijgt.",
         "adurl": "",
         "offerid": -1,
@@ -452303,7 +452303,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Teleport Bot naar Meubi",
+        "name": "wf_act_bot_teleport",
         "description": "Dit effect zorgt er voor dat de Bot naar Ã©Ã©n van de geselecteerde meubi wordt geteleporteerd",
         "adurl": "",
         "offerid": -1,
@@ -452332,7 +452332,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Bot volgt Speler",
+        "name": "wf_act_bot_follow_avatar",
         "description": "Dit effect zorgt er voor dat de Bot de geselecteerde users volgt.",
         "adurl": "",
         "offerid": -1,
@@ -452361,7 +452361,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Geef Hand-item",
+        "name": "wf_act_bot_give_handitem",
         "description": "Dit effect zorgt er voor dat de geselecteerde Bot het geselecteerde hand-item geeft.",
         "adurl": "",
         "offerid": -1,
@@ -452390,7 +452390,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Bot verplaatst zich naar Meubi",
+        "name": "wf_act_bot_move",
         "description": "Dit effect zorgt er voor dat de Bot zich verplaatst naar de geselecteerde meubi",
         "adurl": "",
         "offerid": -1,
@@ -452419,7 +452419,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Bot praat of fluistert naar speler",
+        "name": "wf_act_bot_talk_to_avatar",
         "description": "Dit effect zorgt er voor dat de Bot praat of fluistert naar de getriggerde user",
         "adurl": "",
         "offerid": -1,
@@ -452448,7 +452448,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Bot praat naar alle spelers",
+        "name": "wf_act_bot_talk",
         "description": "Dit effect zorgt er voor dat de Bot praat of schreeuwt naar alle users",
         "adurl": "",
         "offerid": -1,
@@ -452477,7 +452477,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Voorwaarde: Speler heeft hand item",
+        "name": "wf_cnd_has_handitem",
         "description": "Triggering is toegestaan als de user het geselecteerde hand item vasthoudt",
         "adurl": "",
         "offerid": -1,
@@ -452506,7 +452506,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Roller Snelheid",
+        "name": "wf_act_set_roller_spd",
         "description": "Changes the speed of the rollers within the room.",
         "adurl": "",
         "offerid": -1,
@@ -452535,7 +452535,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Regenerate Maps",
+        "name": "wf_act_regenerate_map",
         "description": "Regenerates the floor map once triggered..",
         "adurl": "",
         "offerid": -1,
@@ -452622,7 +452622,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Volg Speler",
+        "name": "wf_act_chase",
         "description": "Dit effect beweegt de meubi naar de dichtstbijzijnde speler in de zelfde rij of kolom. Als er een user naast deze meubi staat, dan wordt de Wired Actie: user item botsing geactiveerd.",
         "adurl": "",
         "offerid": -1,
@@ -452651,7 +452651,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Negatieve Voorwaarde: GEEN groepslid",
+        "name": "wf_cnd_not_in_group",
         "description": "De voorwaarde is niet geldig als dit een groepskamer is en de avatar GEEN lid van deze groep is.",
         "adurl": "",
         "offerid": -1,
@@ -452680,7 +452680,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Negatieve Voorwaarde: Trigger staat NIET op MEUBI",
+        "name": "wf_cnd_not_trggrer_on",
         "description": "Triggeren is toegestaan als de trigger NIET op Ã©Ã©n van de gekozen Meubi staat.",
         "adurl": "",
         "offerid": -1,
@@ -452709,7 +452709,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Negatieve Voorwaarde: Staat GEEN avatar op de Meubi",
+        "name": "wf_cnd_not_hv_avtrs",
         "description": "Triggeren is toegestaan als er op Ã©Ã©n van de gekozen Meubi GEEN avatars staan.",
         "adurl": "",
         "offerid": -1,
@@ -452738,7 +452738,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Voorwaarde: aantal spelers in kamer",
+        "name": "wf_cnd_user_count_in",
         "description": "Triggeren is toegestaan als het aantal gebruikers in de kamer tussen de limieten valt.",
         "adurl": "",
         "offerid": -1,
@@ -452767,7 +452767,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Negatieve Voorwaarde: Gebruiker wordt NIET geteld in de kamer",
+        "name": "wf_cnd_not_user_count",
         "description": "Triggeren is toegestaan als het aantal gebruikers in de kamer NIET binnen de opgegeven limieten valt.",
         "adurl": "",
         "offerid": -1,
@@ -452796,7 +452796,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Voorwaarde: Heeft Effect aan",
+        "name": "wf_cnd_wearing_effect",
         "description": "",
         "adurl": "",
         "offerid": -1,
@@ -452854,7 +452854,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wired Voorwaarde: Draagt Badge",
+        "name": "wf_cnd_wearing_badge",
         "description": "",
         "adurl": "",
         "offerid": -1,
@@ -452941,7 +452941,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Negatieve Voorwaarde: Meubi status komt NIET overeen.",
+        "name": "wf_cnd_not_match_snap",
         "description": "Triggeren is toegestaan waneer de status van de opgepakte MeubiÂ´s NIET overeenkomt.",
         "adurl": "",
         "offerid": -1,
@@ -452970,7 +452970,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Voorwaarde: Groepslid",
+        "name": "wf_cnd_actor_in_group",
         "description": "Voorwaarde is niet geldig wanneer dit een groepskamer is en de avatar geen groepslid is.",
         "adurl": "",
         "offerid": -1,
@@ -518312,7 +518312,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Meubi wordt verplaatst en/of gedraaid",
+        "name": "wf_act_move_rotate",
         "description": "Deze reactie verplaatst en draait de geselecteerde Meubi",
         "adurl": "",
         "offerid": -1,
@@ -518341,7 +518341,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wire splitsing",
+        "name": "wf_wire2",
         "description": "Wires die je in een kamer kunt leggen",
         "adurl": "",
         "offerid": -1,
@@ -518457,7 +518457,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Actie: Meubi is gebruikt",
+        "name": "wf_trg_state_changed",
         "description": "Actie wordt gestart als de staat van een Meubi is veranderd door erop te dubbelklikken.",
         "adurl": "",
         "offerid": -1,
@@ -518544,7 +518544,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Actie: Herhaal reactie",
+        "name": "wf_trg_periodically",
         "description": "Reactie wordt elke x seconden geactiveerd.",
         "adurl": "",
         "offerid": -1,
@@ -518602,7 +518602,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Actie: Score Behaald",
+        "name": "wf_trg_score_achieved",
         "description": "Wordt geactiveerd als de opgegeven score behaald is",
         "adurl": "",
         "offerid": -1,
@@ -518631,7 +518631,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Teleport naar Meubi",
+        "name": "wf_act_teleport_to",
         "description": "Deze reactie teleporteert de Space die de actie uitvoert naar een Meubi. Als je meer dan 1 Meubi selecteert wordt de Space willekeurig naar een van die Meubi geplaatst.",
         "adurl": "",
         "offerid": -1,
@@ -518660,7 +518660,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Actie: Space zegt het goede woord",
+        "name": "wf_trg_says_something",
         "description": "Actie wordt gestart als een Space een speciaal woord of speciale zin zegt.",
         "adurl": "",
         "offerid": -1,
@@ -518718,7 +518718,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Drieweg wires",
+        "name": "wf_wire4",
         "description": "Wires die je in een kamer kunt leggen",
         "adurl": "",
         "offerid": -1,
@@ -518747,7 +518747,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Actie: Space stapt van Meubi",
+        "name": "wf_trg_walks_off_furni",
         "description": "Actie wordt gestart als een Space van een Meubi afstapt.",
         "adurl": "",
         "offerid": -1,
@@ -518805,7 +518805,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Actie: Game stopt",
+        "name": "wf_trg_game_ends",
         "description": "Actie wordt gestart als een game met een Timer Meubi is afgelopen in de kamer.",
         "adurl": "",
         "offerid": -1,
@@ -518834,7 +518834,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Toon bericht",
+        "name": "wf_act_show_message",
         "description": "Deze reactie toont een geheim bericht aan de Space die de actie uitvoert.",
         "adurl": "",
         "offerid": -1,
@@ -518892,7 +518892,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Actie: Space komt kamer binnen",
+        "name": "wf_trg_enter_room",
         "description": "Actie wordt gestart als Space een kamer binnenkomt.",
         "adurl": "",
         "offerid": -1,
@@ -518950,7 +518950,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Meubi wordt geactiveerd",
+        "name": "wf_act_toggle_state",
         "description": "Met deze Reactie reageert een gekozen Meubi alsof erop is gedubbelklikt.",
         "adurl": "",
         "offerid": -1,
@@ -519008,7 +519008,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Ringplaat",
+        "name": "wf_ringplate",
         "description": "Kan ingedrukt worden en is lichtgevend.",
         "adurl": "",
         "offerid": -1,
@@ -519037,7 +519037,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Drukplaat",
+        "name": "wf_pressureplate",
         "description": "Wat doet deze plaat als ik er op sta?",
         "adurl": "",
         "offerid": -1,
@@ -519153,7 +519153,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Voorwaarde: Willekeurige Space moet op Meubi staan",
+        "name": "wf_cnd_furnis_hv_avtrs",
         "description": "Actie start alleen als er een Space staat op alle geselecteerde Meubi.",
         "adurl": "",
         "offerid": -1,
@@ -519211,7 +519211,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Voorwaarde: ActieSpace moet op Meubi staan",
+        "name": "wf_cnd_trggrer_on_frn",
         "description": "Actie start alleen als de Space die de actie uitvoert op een van de geselecteerde Meubi staat.",
         "adurl": "",
         "offerid": -1,
@@ -519240,7 +519240,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Voorwaarde: Meubi moeten in de juiste staat en positie staan",
+        "name": "wf_cnd_match_snapshot",
         "description": "Actie start alleen als de staat en positie van de gekozen Meubi hetzelfde zijn.",
         "adurl": "",
         "offerid": -1,
@@ -519269,7 +519269,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wire voor de vloer",
+        "name": "wf_wire1",
         "description": "Wires die je in een kamer kunt leggen.",
         "adurl": "",
         "offerid": -1,
@@ -519327,7 +519327,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wire hoekstuk",
+        "name": "wf_wire3",
         "description": "Wires die je in een kamer kunt leggen",
         "adurl": "",
         "offerid": -1,
@@ -519356,7 +519356,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Glazen poort",
+        "name": "wf_glassdoor",
         "description": "Gaat op of neer",
         "adurl": "",
         "offerid": -1,
@@ -519385,7 +519385,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Meubi verplaatst naar locatie & staat.",
+        "name": "wf_act_match_to_sshot",
         "description": "Deze reactie verplaatst de geselecteerde Meubi naar de ingestelde positie en staat. Zo verplaats je meerdere meubels of stel je in dat een deur altijd open moet gaan als Reactie.",
         "adurl": "",
         "offerid": -1,
@@ -519414,7 +519414,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Vloerhendel 1",
+        "name": "wf_floor_switch1",
         "description": "Twee staten: Hendel kan aan/uit. Kan alleen worden bediend vanaf een tegel direct ernaast.",
         "adurl": "",
         "offerid": -1,
@@ -519443,7 +519443,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Actie: Game begint",
+        "name": "wf_trg_game_starts",
         "description": "Actie wordt gestart als een game begint met een Timer Meubi.",
         "adurl": "",
         "offerid": -1,
@@ -519472,7 +519472,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Actie: Space stapt op Meubi",
+        "name": "wf_trg_walks_on_furni",
         "description": "Actie wordt gestart als een Space op een Meubi gaat staan of zitten.",
         "adurl": "",
         "offerid": -1,
@@ -523882,7 +523882,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Negatieve Voorwaarde: Staat GEEN Meubi op",
+        "name": "wf_cnd_not_furni_on",
         "description": "Triggeren is toegestaan als er op Ã©Ã©n van de gekozen Meubi GEEN andere Meubi staat.",
         "adurl": "",
         "offerid": 886734253,
@@ -523911,7 +523911,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Voorwaarde: Op Meubi staat een andere Meubi",
+        "name": "wf_cnd_has_furni_on",
         "description": "Reacties kunnen alleen geactiveerd worden als op het gekozen Meubi een ander meubelstuk staat.",
         "adurl": "",
         "offerid": -1,
@@ -626146,7 +626146,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Speler Wegsturen",
+        "name": "wf_act_kick_user",
         "description": "Deze Reactie stuurt een gebruiker weg op basis van Acties",
         "adurl": "",
         "offerid": -1,
@@ -647754,7 +647754,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Wired stapels uitvoeren",
+        "name": "wf_act_call_stacks",
         "description": "Met deze Wired kun je 5 Wired stapels selecteren om uit te voeren met een enkele Actie, ongeacht de bestaande Voorwaarden of Acties.",
         "adurl": "",
         "offerid": 7218,
@@ -726152,7 +726152,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Reactie: Speler Wegsturen",
+        "name": "wf_act_kick_user",
         "description": "Deze Reactie stuurt een gebruiker weg op basis van Acties",
         "adurl": "",
         "offerid": -1,
@@ -731752,7 +731752,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Blob",
+        "name": "wf_blob2_vis",
         "description": "Prijzen 5 punten voor het verzamelteam",
         "adurl": "Prijzen 5 punten voor het verzamelteam",
         "offerid": -1,
@@ -751303,6 +751303,402 @@
         "description": "",
         "adurl": "",
         "offerid": 1541857718,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1541857719,
+        "classname": "pj_c26_duckplush",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "pj_c26_duckplush",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541857719,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1541857720,
+        "classname": "pj_c26_frankplush",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "pj_c26_frankplush",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541857720,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1541857721,
+        "classname": "pj_c26_boardgames",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "pj_c26_boardgames",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541857721,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1541857722,
+        "classname": "pj_c26_nightlightbunny",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "pj_c26_nightlightbunny",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541857722,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1541857723,
+        "classname": "pj_c26_nightlightcat",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "pj_c26_nightlightcat",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541857723,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1541857724,
+        "classname": "pj_c26_nightlightduck",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "pj_c26_nightlightduck",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541857724,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1541857725,
+        "classname": "pj_c26_nightlightghost",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "pj_c26_nightlightghost",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541857725,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1541857726,
+        "classname": "pj_c26_pillowdragon",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "pj_c26_pillowdragon",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541857726,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1541857727,
+        "classname": "pj_c26_sleepytimeduck",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "pj_c26_sleepytimeduck",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541857727,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1541857728,
+        "classname": "pj_c26_toothbrushes",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "pj_c26_toothbrushes",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541857728,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1541857729,
+        "classname": "pj_c26_pillowcrackableb",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "pj_c26_pillowcrackableb",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541857729,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1541857730,
+        "classname": "wf_fx_firegate",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "Fire Gate",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541857730,
         "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
