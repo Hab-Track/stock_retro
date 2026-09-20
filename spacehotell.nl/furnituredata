@@ -378227,7 +378227,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Kleurenblok",
+        "name": "color_block",
         "description": "",
         "adurl": "",
         "offerid": 886738712,
@@ -378256,7 +378256,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Zwarte muur blok",
+        "name": "staff_zwartemuur",
         "description": "Voor de custom kamers!",
         "adurl": "",
         "offerid": 886735249,
@@ -378285,7 +378285,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Zwarte blok",
+        "name": "zwartehoekblok",
         "description": "Voor de custom kamers!",
         "adurl": "",
         "offerid": 886735250,
@@ -486644,7 +486644,7 @@
             "#FFFFFF"
           ]
         },
-        "name": "White One Way Gate",
+        "name": "one_way_door*3",
         "description": "Get in line.",
         "adurl": "",
         "offerid": -1,
@@ -529333,7 +529333,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Het Zwarte Gat",
+        "name": "hole",
         "description": "Maak je eigen kamer plattegrond met dit gat van 2x2 vakjes.",
         "adurl": "",
         "offerid": -1,
@@ -557963,7 +557963,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hole1x1 name",
+        "name": "hole1x1",
         "description": "hole1x1 desc",
         "adurl": "",
         "offerid": -1,
@@ -729768,7 +729768,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hole1x1 name",
+        "name": "hole1x1",
         "description": "hole1x1 desc",
         "adurl": "",
         "offerid": -1,
@@ -752022,6 +752022,39 @@
         "furniline": "",
         "environment": "",
         "rare": false
+      },
+      {
+        "id": 1541857751,
+        "classname": "tile_stackmagic4x4",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "tile_stackmagic4x4",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541857751,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
       }
     ]
   },
@@ -756372,7 +756405,7 @@
         "classname": "party_shelf",
         "revision": 34082,
         "category": "unknown",
-        "name": "Flessenplank",
+        "name": "hole",
         "description": "Tadaah! Ranja on the rocks!",
         "adurl": "",
         "offerid": -1,
@@ -760212,7 +760245,7 @@
         "classname": "qt_calendar0",
         "revision": 34082,
         "category": "unknown",
-        "name": "qt_calendar0 name",
+        "name": "hole1x1",
         "description": "qt_calendar0 desc",
         "adurl": "",
         "offerid": -1,
