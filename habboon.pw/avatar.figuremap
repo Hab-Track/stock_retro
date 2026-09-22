@@ -12280,7 +12280,7 @@
     },
     {
       "id": "face_U_iridescentskin1",
-      "revision": 74902,
+      "revision": 75832,
       "parts": [
         {
           "id": 7323,
@@ -12320,7 +12320,7 @@
     },
     {
       "id": "face_U_iridescentskin2",
-      "revision": 74902,
+      "revision": 75832,
       "parts": [
         {
           "id": 7324,
@@ -13102,7 +13102,7 @@
     },
     {
       "id": "face_U_mannequin",
-      "revision": 74624,
+      "revision": 75836,
       "parts": [
         {
           "id": 7186,
@@ -30634,7 +30634,7 @@
     },
     {
       "id": "face_U_mafiascars",
-      "revision": 75297,
+      "revision": 75837,
       "parts": [
         {
           "id": 7360,
@@ -48258,7 +48258,7 @@
     },
     {
       "id": "misc_U_tomahawk",
-      "revision": 75799,
+      "revision": 75825,
       "parts": [
         {
           "id": 7623,
@@ -48450,7 +48450,7 @@
     },
     {
       "id": "misc_U_survivalsword",
-      "revision": 75782,
+      "revision": 75822,
       "parts": [
         {
           "id": 7689,
@@ -48515,6 +48515,238 @@
         {
           "id": 7709,
           "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_paintoutfit",
+      "revision": 75820,
+      "parts": [
+        {
+          "id": 7704,
+          "type": "lg"
+        },
+        {
+          "id": 7705,
+          "type": "lg"
+        },
+        {
+          "id": 7706,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_paintoutfit",
+      "revision": 75820,
+      "parts": [
+        {
+          "id": 7701,
+          "type": "ch"
+        },
+        {
+          "id": 7701,
+          "type": "ls"
+        },
+        {
+          "id": 7701,
+          "type": "rs"
+        },
+        {
+          "id": 7702,
+          "type": "ch"
+        },
+        {
+          "id": 7703,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_paintoutfit",
+      "revision": 75820,
+      "parts": [
+        {
+          "id": 7698,
+          "type": "ch"
+        },
+        {
+          "id": 7698,
+          "type": "ls"
+        },
+        {
+          "id": 7698,
+          "type": "rs"
+        },
+        {
+          "id": 7699,
+          "type": "ch"
+        },
+        {
+          "id": 7700,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "pet_U_nftballoonbuddy",
+      "revision": 75817,
+      "parts": [
+        {
+          "id": 7712,
+          "type": "pt"
+        },
+        {
+          "id": 7712,
+          "type": "ptl"
+        },
+        {
+          "id": 7712,
+          "type": "ptr"
+        },
+        {
+          "id": 7713,
+          "type": "pt"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftemeraldskin1",
+      "revision": 75818,
+      "parts": [
+        {
+          "id": 7710,
+          "type": "hd"
+        },
+        {
+          "id": 7710,
+          "type": "bd"
+        },
+        {
+          "id": 7710,
+          "type": "ey"
+        },
+        {
+          "id": 7710,
+          "type": "lh"
+        },
+        {
+          "id": 7710,
+          "type": "rh"
+        },
+        {
+          "id": 7710,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftemeraldskin2",
+      "revision": 75819,
+      "parts": [
+        {
+          "id": 7711,
+          "type": "hd"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_recylcerpainthat",
+      "revision": 75824,
+      "parts": [
+        {
+          "id": 7668,
+          "type": "ha"
+        },
+        {
+          "id": 7669,
+          "type": "ha"
+        },
+        {
+          "id": 7670,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftdeterminedface",
+      "revision": 75827,
+      "parts": [
+        {
+          "id": 7651,
+          "type": "fc"
+        },
+        {
+          "id": 7652,
+          "type": "ey"
+        },
+        {
+          "id": 7653,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftdeterminedface2",
+      "revision": 75830,
+      "parts": [
+        {
+          "id": 7662,
+          "type": "fc"
+        },
+        {
+          "id": 7663,
+          "type": "ey"
+        },
+        {
+          "id": 7664,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nfthopefulface",
+      "revision": 75827,
+      "parts": [
+        {
+          "id": 7654,
+          "type": "fc"
+        },
+        {
+          "id": 7655,
+          "type": "ey"
+        },
+        {
+          "id": 7656,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nfthopefulface2",
+      "revision": 75830,
+      "parts": [
+        {
+          "id": 7665,
+          "type": "fc"
+        },
+        {
+          "id": 7666,
+          "type": "ey"
+        },
+        {
+          "id": 7667,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftcollectiblesprint",
+      "revision": 75827,
+      "parts": [
+        {
+          "id": 7707,
+          "type": "cp"
         }
       ]
     },
