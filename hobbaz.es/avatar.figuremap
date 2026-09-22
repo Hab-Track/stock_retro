@@ -1,6 +1,284 @@
 ﻿{
   "libraries": [
     {
+      "id": "trousers_U_26PantsBalenciaga",
+      "parts": [
+        {
+          "id": 110000727,
+          "type": "lg"
+        },
+        {
+          "id": 110000728,
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_26CentauroPantalon",
+      "parts": [
+        {
+          "id": 110000722,
+          "type": "sh"
+        },
+        {
+          "id": 110000723,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nftcollectiblesprint",
+      "parts": [
+        {
+          "id": 7707,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftdeterminedface",
+      "parts": [
+        {
+          "id": 7652,
+          "type": "ey"
+        },
+        {
+          "id": 7651,
+          "type": "fc"
+        },
+        {
+          "id": 7653,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftdeterminedface2",
+      "parts": [
+        {
+          "id": 7663,
+          "type": "ey"
+        },
+        {
+          "id": 7662,
+          "type": "fc"
+        },
+        {
+          "id": 7664,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftemeraldskin1",
+      "parts": [
+        {
+          "id": 7710,
+          "type": "bd"
+        },
+        {
+          "id": 7710,
+          "type": "ey"
+        },
+        {
+          "id": 7710,
+          "type": "fc"
+        },
+        {
+          "id": 7710,
+          "type": "hd"
+        },
+        {
+          "id": 7710,
+          "type": "lh"
+        },
+        {
+          "id": 7710,
+          "type": "rh"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nftemeraldskin2",
+      "parts": [
+        {
+          "id": 7711,
+          "type": "hd"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nfthopefulface",
+      "parts": [
+        {
+          "id": 7655,
+          "type": "ey"
+        },
+        {
+          "id": 7654,
+          "type": "fc"
+        },
+        {
+          "id": 7656,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_nfthopefulface2",
+      "parts": [
+        {
+          "id": 7666,
+          "type": "ey"
+        },
+        {
+          "id": 7665,
+          "type": "fc"
+        },
+        {
+          "id": 7667,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_recylcerpainthat",
+      "parts": [
+        {
+          "id": 7668,
+          "type": "ha"
+        },
+        {
+          "id": 7669,
+          "type": "ha"
+        },
+        {
+          "id": 7670,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "pet_U_nftballoonbuddy",
+      "parts": [
+        {
+          "id": 7712,
+          "type": "ptl"
+        },
+        {
+          "id": 7713,
+          "type": "ptl"
+        },
+        {
+          "id": 7712,
+          "type": "ptr"
+        },
+        {
+          "id": 7713,
+          "type": "ptr"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_paintoutfit",
+      "parts": [
+        {
+          "id": 7701,
+          "type": "ch"
+        },
+        {
+          "id": 7702,
+          "type": "ch"
+        },
+        {
+          "id": 7703,
+          "type": "ch"
+        },
+        {
+          "id": 7701,
+          "type": "ls"
+        },
+        {
+          "id": 7702,
+          "type": "ls"
+        },
+        {
+          "id": 7703,
+          "type": "ls"
+        },
+        {
+          "id": 7701,
+          "type": "rs"
+        },
+        {
+          "id": 7702,
+          "type": "rs"
+        },
+        {
+          "id": 7703,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_paintoutfit",
+      "parts": [
+        {
+          "id": 7698,
+          "type": "ch"
+        },
+        {
+          "id": 7699,
+          "type": "ch"
+        },
+        {
+          "id": 7700,
+          "type": "ch"
+        },
+        {
+          "id": 7698,
+          "type": "ls"
+        },
+        {
+          "id": 7699,
+          "type": "ls"
+        },
+        {
+          "id": 7700,
+          "type": "ls"
+        },
+        {
+          "id": 7698,
+          "type": "rs"
+        },
+        {
+          "id": 7699,
+          "type": "rs"
+        },
+        {
+          "id": 7700,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_paintoutfit",
+      "parts": [
+        {
+          "id": 7704,
+          "type": "lg"
+        },
+        {
+          "id": 7705,
+          "type": "lg"
+        },
+        {
+          "id": 7706,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "acc_face_U_shiwaixians",
       "parts": [
         {
@@ -4427,31 +4705,31 @@
       "id": "shirt_U_26VestidoZania",
       "parts": [
         {
-          "id": 110000586,
+          "id": 110000711,
           "type": "ch"
         },
         {
-          "id": 110000587,
+          "id": 110000712,
           "type": "ch"
         },
         {
-          "id": 110000588,
+          "id": 110000713,
           "type": "ch"
         },
         {
-          "id": 110000586,
+          "id": 110000711,
           "type": "ls"
         },
         {
-          "id": 110000587,
+          "id": 110000712,
           "type": "ls"
         },
         {
-          "id": 110000586,
+          "id": 110000711,
           "type": "rs"
         },
         {
-          "id": 110000587,
+          "id": 110000712,
           "type": "rs"
         }
       ]
