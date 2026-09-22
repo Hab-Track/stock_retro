@@ -520887,24 +520887,28 @@
         "rare": false
       },
       {
-        "id": 3752,
+        "id": 1541857752,
         "classname": "xmas10_fireplace",
-        "revision": 34282,
+        "revision": 6969,
         "category": "unknown",
         "defaultdir": 0,
-        "xdim": 2,
+        "xdim": 1,
         "ydim": 1,
         "partcolors": {
-          "color": []
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
         },
         "name": "Santa's Telehaard",
-        "description": "Oh, zo komt 'ie dus binnen!",
+        "description": "",
         "adurl": "",
-        "offerid": -1,
-        "buyout": false,
+        "offerid": 1541857752,
+        "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
-        "bc": false,
+        "bc": true,
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
@@ -543600,7 +543604,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Besneeuwde Kei",
+        "name": "Besneeuwde dennenbomen",
         "description": "Glibberige steen. Stapelbaar!",
         "adurl": "",
         "offerid": -1,
@@ -752055,6 +752059,39 @@
         "furniline": "",
         "environment": "",
         "rare": false
+      },
+      {
+        "id": 1541857753,
+        "classname": "rare_colourable_dragonlamp*2",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "Smaragdgroene Vuurdraak",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541857753,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": true
       }
     ]
   },
