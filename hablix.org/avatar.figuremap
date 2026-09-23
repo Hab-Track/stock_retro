@@ -51697,6 +51697,136 @@
           "type": "cp"
         }
       ]
+    },
+    {
+      "id": "misc_U_nftcutlery",
+      "revision": 75854,
+      "parts": [
+        {
+          "id": 7657,
+          "type": "mc"
+        },
+        {
+          "id": 7657,
+          "type": "mcl"
+        },
+        {
+          "id": 7657,
+          "type": "mcr"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nfthaircomb",
+      "revision": 75841,
+      "parts": [
+        {
+          "id": 7723,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_nfttrashcan",
+      "revision": 75854,
+      "parts": [
+        {
+          "id": 7720,
+          "type": "mc"
+        },
+        {
+          "id": 7720,
+          "type": "mcl"
+        },
+        {
+          "id": 7720,
+          "type": "mcr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nfttrashcan",
+      "revision": 75841,
+      "parts": [
+        {
+          "id": 7721,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftzigzagstache",
+      "revision": 75841,
+      "parts": [
+        {
+          "id": 7722,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_nftcottoncandy",
+      "revision": 75841,
+      "parts": [
+        {
+          "id": 0,
+          "type": "mc"
+        },
+        {
+          "id": 0,
+          "type": "mcl"
+        },
+        {
+          "id": 0,
+          "type": "mcr"
+        },
+        {
+          "id": 1,
+          "type": "mc"
+        },
+        {
+          "id": 2,
+          "type": "mc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftbirdnest",
+      "revision": 75843,
+      "parts": [
+        {
+          "id": 7693,
+          "type": "ha"
+        },
+        {
+          "id": 7694,
+          "type": "ha"
+        },
+        {
+          "id": 7695,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_bananahelmet",
+      "revision": 75855,
+      "parts": [
+        {
+          "id": 7696,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftbananahelmet",
+      "revision": 75864,
+      "parts": [
+        {
+          "id": 7696,
+          "type": "ha"
+        }
+      ]
     }
   ]
 }
