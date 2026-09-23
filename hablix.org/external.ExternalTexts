@@ -22208,7 +22208,7 @@
   "friendlist.alert.title": "Notice!",
   "friendlist.avatarpopup.lastaccess": "Last visit: %last_access%",
   "friendlist.avatarpopup.online": "Online",
-  "friendlist.error.friend_requests_disabled": "Cannot send friend request! Hablix is not accepting new friends.",
+  "friendlist.error.friend_requests_disabled": "Friend request couldn't be sent. This user isn't accepting new friend requests right now.",
   "friendlist.error.friendlistlimitofrequester": "Cannot send friend request, your friends friend list is full!",
   "friendlist.error.friendlistownlimit": "Great to see you get along with people. Unfortunately you can only have limited amount of people in your friend list.",
   "friendlist.error.requestnotfound": "Cannot send friend request, Hablix was not found!",
