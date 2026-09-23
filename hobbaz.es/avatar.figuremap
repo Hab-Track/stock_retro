@@ -1,6 +1,236 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_face_U_nftzigzagstache",
+      "parts": [
+        {
+          "id": 7722,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nfthaircomb",
+      "parts": [
+        {
+          "id": 7723,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_bananahelmet",
+      "parts": [
+        {
+          "id": 7696,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftbirdnest",
+      "parts": [
+        {
+          "id": 7693,
+          "type": "ha"
+        },
+        {
+          "id": 7694,
+          "type": "ha"
+        },
+        {
+          "id": 7695,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nfttrashcan",
+      "parts": [
+        {
+          "id": 7721,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_nftcottoncandy",
+      "parts": [
+        {
+          "id": 0,
+          "type": "mcl"
+        },
+        {
+          "id": 1,
+          "type": "mcl"
+        },
+        {
+          "id": 2,
+          "type": "mcl"
+        },
+        {
+          "id": 0,
+          "type": "mcr"
+        },
+        {
+          "id": 1,
+          "type": "mcr"
+        },
+        {
+          "id": 2,
+          "type": "mcr"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_nftcutlery",
+      "parts": [
+        {
+          "id": 7657,
+          "type": "mcl"
+        },
+        {
+          "id": 7657,
+          "type": "mcr"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_nfttrashcan",
+      "parts": [
+        {
+          "id": 7720,
+          "type": "mc"
+        },
+        {
+          "id": 7720,
+          "type": "mcr"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26Capagotica",
+      "parts": [
+        {
+          "id": 110000751,
+          "type": "cc"
+        },
+        {
+          "id": 110000752,
+          "type": "cc"
+        },
+        {
+          "id": 110000751,
+          "type": "lc"
+        },
+        {
+          "id": 110000752,
+          "type": "lc"
+        },
+        {
+          "id": 110000751,
+          "type": "rc"
+        },
+        {
+          "id": 110000752,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26CinturonGotico",
+      "parts": [
+        {
+          "id": 110000747,
+          "type": "cc"
+        },
+        {
+          "id": 110000748,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26CrucesGoth",
+      "parts": [
+        {
+          "id": 110000743,
+          "type": "cc"
+        },
+        {
+          "id": 110000744,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26CamisetaSanta",
+      "parts": [
+        {
+          "id": 110000745,
+          "type": "ch"
+        },
+        {
+          "id": 110000746,
+          "type": "ch"
+        },
+        {
+          "id": 110000745,
+          "type": "ls"
+        },
+        {
+          "id": 110000745,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26ChateauCountess",
+      "parts": [
+        {
+          "id": 110000740,
+          "type": "ch"
+        },
+        {
+          "id": 110000741,
+          "type": "ch"
+        },
+        {
+          "id": 110000742,
+          "type": "ch"
+        },
+        {
+          "id": 110000740,
+          "type": "ls"
+        },
+        {
+          "id": 110000741,
+          "type": "ls"
+        },
+        {
+          "id": 110000740,
+          "type": "rs"
+        },
+        {
+          "id": 110000741,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_26PantalonesGoticos",
+      "parts": [
+        {
+          "id": 110000749,
+          "type": "lg"
+        },
+        {
+          "id": 110000750,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "trousers_U_26PantsBalenciaga",
       "parts": [
         {
