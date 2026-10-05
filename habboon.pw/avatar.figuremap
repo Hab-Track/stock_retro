@@ -12280,7 +12280,7 @@
     },
     {
       "id": "face_U_iridescentskin1",
-      "revision": 75832,
+      "revision": 75840,
       "parts": [
         {
           "id": 7323,
@@ -12320,7 +12320,7 @@
     },
     {
       "id": "face_U_iridescentskin2",
-      "revision": 75832,
+      "revision": 75840,
       "parts": [
         {
           "id": 7324,
@@ -13102,7 +13102,7 @@
     },
     {
       "id": "face_U_mannequin",
-      "revision": 75836,
+      "revision": 75839,
       "parts": [
         {
           "id": 7186,
@@ -30634,7 +30634,7 @@
     },
     {
       "id": "face_U_mafiascars",
-      "revision": 75837,
+      "revision": 75839,
       "parts": [
         {
           "id": 7360,
@@ -48098,7 +48098,7 @@
     },
     {
       "id": "face_U_bloodbath2",
-      "revision": 75778,
+      "revision": 75840,
       "parts": [
         {
           "id": 7615,
@@ -48402,7 +48402,7 @@
     },
     {
       "id": "face_U_bloodbath",
-      "revision": 75778,
+      "revision": 75840,
       "parts": [
         {
           "id": 7612,
@@ -48688,7 +48688,7 @@
     },
     {
       "id": "face_U_nftdeterminedface2",
-      "revision": 75830,
+      "revision": 75841,
       "parts": [
         {
           "id": 7662,
@@ -48747,6 +48747,136 @@
         {
           "id": 7707,
           "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_nftcutlery",
+      "revision": 75854,
+      "parts": [
+        {
+          "id": 7657,
+          "type": "mc"
+        },
+        {
+          "id": 7657,
+          "type": "mcl"
+        },
+        {
+          "id": 7657,
+          "type": "mcr"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_nfthaircomb",
+      "revision": 75841,
+      "parts": [
+        {
+          "id": 7723,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_nfttrashcan",
+      "revision": 75854,
+      "parts": [
+        {
+          "id": 7720,
+          "type": "mc"
+        },
+        {
+          "id": 7720,
+          "type": "mcl"
+        },
+        {
+          "id": 7720,
+          "type": "mcr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nfttrashcan",
+      "revision": 75841,
+      "parts": [
+        {
+          "id": 7721,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nftzigzagstache",
+      "revision": 75841,
+      "parts": [
+        {
+          "id": 7722,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_nftcottoncandy",
+      "revision": 75841,
+      "parts": [
+        {
+          "id": 0,
+          "type": "mc"
+        },
+        {
+          "id": 0,
+          "type": "mcl"
+        },
+        {
+          "id": 0,
+          "type": "mcr"
+        },
+        {
+          "id": 1,
+          "type": "mc"
+        },
+        {
+          "id": 2,
+          "type": "mc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftbirdnest",
+      "revision": 75843,
+      "parts": [
+        {
+          "id": 7693,
+          "type": "ha"
+        },
+        {
+          "id": 7694,
+          "type": "ha"
+        },
+        {
+          "id": 7695,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_bananahelmet",
+      "revision": 75855,
+      "parts": [
+        {
+          "id": 7696,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftbananahelmet",
+      "revision": 75864,
+      "parts": [
+        {
+          "id": 7696,
+          "type": "ha"
         }
       ]
     },
