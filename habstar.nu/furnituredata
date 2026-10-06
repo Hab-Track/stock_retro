@@ -2572313,6 +2572313,35 @@
         "furniline": "casino",
         "environment": "",
         "rare": false
+      },
+      {
+        "id": 2000060007,
+        "classname": "big_catch_slots",
+        "revision": 1,
+        "category": "game",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Big Catch Slots",
+        "description": "Owner-funded fishing slots with free spins. Plays diamonds by default; the owner can switch it to credits. Sit in front and double-click to play.",
+        "adurl": "",
+        "offerid": 2000060007,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "bling",
+        "environment": "",
+        "rare": false
       }
     ]
   },
