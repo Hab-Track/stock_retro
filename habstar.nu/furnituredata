@@ -2572342,6 +2572342,35 @@
         "furniline": "bling",
         "environment": "",
         "rare": false
+      },
+      {
+        "id": 2000060012,
+        "classname": "casino_derby_table",
+        "revision": 1,
+        "category": "game",
+        "defaultdir": 0,
+        "xdim": 5,
+        "ydim": 3,
+        "partcolors": {
+          "color": []
+        },
+        "name": "HabStar Derby",
+        "description": "Owner-funded horse racing with eight miniature runners. Place chairs or stools around the table, sit down and double-click to bet.",
+        "adurl": "",
+        "offerid": 2000060012,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "casino",
+        "environment": "",
+        "rare": false
       }
     ]
   },
