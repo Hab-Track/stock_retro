@@ -1,6 +1,20 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_head_U_26CapuchaFlow",
+      "revision": 150000103,
+      "parts": [
+        {
+          "id": 150000103,
+          "type": "he"
+        },
+        {
+          "id": 150000104,
+          "type": "he"
+        }
+      ]
+    },
+    {
       "id": "acc_face_U_tv26CaritaPortugal1",
       "revision": 12571,
       "parts": [
@@ -79913,6 +79927,134 @@
         {
           "id": 7620,
           "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv26alexhead",
+      "revision": 40000050,
+      "parts": [
+        {
+          "id": 40000050,
+          "type": "ha"
+        },
+        {
+          "id": 40000051,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv26alexbody",
+      "revision": 40000049,
+      "parts": [
+        {
+          "id": 40000049,
+          "type": "ch"
+        },
+        {
+          "id": 40000049,
+          "type": "ls"
+        },
+        {
+          "id": 40000049,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_zombiehead",
+      "revision": 40000045,
+      "parts": [
+        {
+          "id": 40000045,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_stevehead",
+      "revision": 40000043,
+      "parts": [
+        {
+          "id": 40000043,
+          "type": "ha"
+        },
+        {
+          "id": 40000044,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_stevebody",
+      "revision": 40000046,
+      "parts": [
+        {
+          "id": 40000046,
+          "type": "ch"
+        },
+        {
+          "id": 40000046,
+          "type": "ls"
+        },
+        {
+          "id": 40000046,
+          "type": "rs"
+        },
+        {
+          "id": 40000047,
+          "type": "ch"
+        },
+        {
+          "id": 40000047,
+          "type": "ls"
+        },
+        {
+          "id": 40000047,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv26gorrogatito",
+      "revision": 100000117,
+      "parts": [
+        {
+          "id": 100000117,
+          "type": "ha"
+        },
+        {
+          "id": 100000118,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv26CapuchaAsesino",
+      "revision": 80000339,
+      "parts": [
+        {
+          "id": 80000339,
+          "type": "ha"
+        },
+        {
+          "id": 80000340,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_ColaEscorpion",
+      "revision": 180000009,
+      "parts": [
+        {
+          "id": 180000009,
+          "type": "wa"
+        },
+        {
+          "id": 180000010,
+          "type": "ch"
         }
       ]
     }
