@@ -1220498,6 +1220498,27 @@
         "cansiton": false,
         "canlayon": false,
         "interactiontype": "wf_act_remove_furni"
+      },
+      {
+        "id": 2000015822,
+        "classname": "wf_room_linker",
+        "revision": 1235834,
+        "category": "general",
+        "xdim": 1,
+        "ydim": 1,
+        "name": "Salas Linker",
+        "description": "Añadido con el importador de furnis",
+        "adurl": "",
+        "offerid": 2000015822,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
       }
     ]
   },
