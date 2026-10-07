@@ -2,6 +2,35 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666051,
+        "classname": "seasidehabblet_boats",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 2,
+        "partcolors": {
+          "color": []
+        },
+        "name": "seasidehabblet_boats",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666051,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666049,
         "classname": "snack_yj",
         "revision": 0,
@@ -2390,7 +2419,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "kasja_mansionplay_window",
+        "name": "Janela Mansion",
         "description": "",
         "adurl": "",
         "offerid": 886665436,
@@ -2709,7 +2738,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "kasja_mansionplay_poster",
+        "name": "Quadro Mansion Play",
         "description": "",
         "adurl": "",
         "offerid": 886665425,
@@ -2738,7 +2767,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "kasja_mansionplay_plushie",
+        "name": "Pelúcia Mansion",
         "description": "",
         "adurl": "",
         "offerid": 886665424,
@@ -2767,7 +2796,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "kasja_mansionplay_plant1",
+        "name": "Plantinha Mansion",
         "description": "",
         "adurl": "",
         "offerid": 886665423,
@@ -2796,7 +2825,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "kasja_mansionplay_plant",
+        "name": "Vaso de Planta Mansion",
         "description": "",
         "adurl": "",
         "offerid": 886665422,
@@ -2825,7 +2854,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "kasja_mansionplay_pillow",
+        "name": "Almofada Mansion",
         "description": "",
         "adurl": "",
         "offerid": 886665421,
@@ -2854,7 +2883,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "kasja_mansionplay_lamp2",
+        "name": "Lâmpada Mansion",
         "description": "",
         "adurl": "",
         "offerid": 886665420,
@@ -2883,7 +2912,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "kasja_mansionplay_lamp1",
+        "name": "Abajur Grande Mansion",
         "description": "",
         "adurl": "",
         "offerid": 886665419,
@@ -2912,7 +2941,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "kasja_mansionplay_lamp",
+        "name": "Abajur Mansion",
         "description": "",
         "adurl": "",
         "offerid": 886665418,
@@ -2941,7 +2970,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "kasja_mansionplay_floor",
+        "name": "Piso Mansion",
         "description": "",
         "adurl": "",
         "offerid": 886665417,
@@ -2952,7 +2981,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -2970,7 +2999,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "kasja_mansionplay_daybed",
+        "name": "Mesa Mansion",
         "description": "",
         "adurl": "",
         "offerid": 886665416,
@@ -11525,7 +11554,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "seasidehabblet_19",
+        "name": "Estante Litorânea",
         "description": "",
         "adurl": "",
         "offerid": 886665013,
@@ -14744,7 +14773,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "seasidehabblet_16",
+        "name": "Ursinho Marinheiro",
         "description": "",
         "adurl": "",
         "offerid": 886664774,
@@ -14773,7 +14802,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "seasidehabblet_15",
+        "name": "Livros de Marinheiro",
         "description": "",
         "adurl": "",
         "offerid": 886664773,
@@ -14802,7 +14831,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "seasidehabblet_14",
+        "name": "Lanterna Litorânea",
         "description": "",
         "adurl": "",
         "offerid": 886664772,
@@ -15005,7 +15034,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ducket_c26_seachair",
+        "name": "Cadeira Litorânea",
         "description": "",
         "adurl": "",
         "offerid": 886664764,
@@ -42898,7 +42927,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ducket_c26_anchorpillow",
+        "name": "Almofada de Âncora",
         "description": "",
         "adurl": "",
         "offerid": 886661484,
@@ -42927,7 +42956,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ducket_c26_nauticalpillow",
+        "name": "Almofada Marinheiro",
         "description": "",
         "adurl": "",
         "offerid": 886661483,
@@ -43014,7 +43043,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ducket_c26_shipbed",
+        "name": "Cama Barquinho",
         "description": "",
         "adurl": "",
         "offerid": 886661480,
@@ -43043,7 +43072,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ducket_c26_seasidetable",
+        "name": "Mesinha á Beira-Mar",
         "description": "",
         "adurl": "",
         "offerid": 886661479,
