@@ -4844,7 +4844,7 @@
     },
     {
       "id": "shirt_F_pinstripesuit",
-      "revision": 75297,
+      "revision": 75886,
       "parts": [
         {
           "id": 7376,
@@ -5420,7 +5420,7 @@
     },
     {
       "id": "shirt_M_pinstripesuit",
-      "revision": 75297,
+      "revision": 75886,
       "parts": [
         {
           "id": 7373,
@@ -44400,23 +44400,15 @@
     },
     {
       "id": "misc_U_darkaura",
-      "revision": 75707,
+      "revision": 75880,
       "parts": [
         {
           "id": 7579,
-          "type": "mc"
-        },
-        {
-          "id": 7579,
-          "type": "mcl"
-        },
-        {
-          "id": 7579,
-          "type": "mcr"
+          "type": "mco"
         },
         {
           "id": 7580,
-          "type": "mc"
+          "type": "mco"
         }
       ]
     },
