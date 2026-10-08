@@ -1421605,14 +1421605,8 @@
         "classname": "xmas_r25_habubuluck",
         "revision": 74324,
         "category": "other",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
-        "name": "xmas_r25_habubuluck name",
-        "description": "xmas_r25_habubuluck desc",
+        "name": "Labubu Lima",
+        "description": "Elemento de crafteo de temporada, eliminación programada para enero de 2027.",
         "adurl": "",
         "offerid": 141703,
         "buyout": false,
@@ -1421622,12 +1421616,18 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
+        "furniline": "xmas_r25_habubulove",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "xmas_r25_habubulove",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 141704,
@@ -1422011,14 +1422011,8 @@
         "classname": "xmas_r25_habubuhappiness",
         "revision": 74324,
         "category": "other",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
-        "name": "xmas_r25_habubuhappiness name",
-        "description": "xmas_r25_habubuhappiness desc",
+        "name": "Labubu Crema",
+        "description": "Elemento de crafteo de temporada, eliminación programada para enero de 2027.",
         "adurl": "",
         "offerid": 141717,
         "buyout": false,
@@ -1422028,26 +1422022,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
+        "furniline": "xmas2025",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "xmas2025",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 141718,
         "classname": "xmas_r25_habubulove",
         "revision": 74324,
         "category": "other",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
-        "name": "xmas_r25_habubulove name",
-        "description": "xmas_r25_habubulove desc",
+        "name": "Labubu Rosa",
+        "description": "Elemento de crafteo de temporada, eliminación programada para enero de 2027.",
         "adurl": "",
         "offerid": 141718,
         "buyout": false,
@@ -1422057,12 +1422051,18 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
+        "furniline": "xmas2025",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "xmas2025",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 141719,
@@ -1422156,14 +1422156,8 @@
         "classname": "xmas_r25_habubucosy",
         "revision": 74324,
         "category": "other",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
-        "name": "xmas_r25_habubucosy name",
-        "description": "xmas_r25_habubucosy desc",
+        "name": "Labubu Marrón",
+        "description": "Elemento de crafteo de temporada, eliminación programada para enero de 2027.",
         "adurl": "",
         "offerid": 141722,
         "buyout": false,
@@ -1422173,26 +1422167,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
+        "furniline": "xmas2025",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "xmas2025",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 141723,
         "classname": "xmas_r25_habubucalm",
         "revision": 74324,
         "category": "other",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
-        "name": "xmas_r25_habubucalm name",
-        "description": "xmas_r25_habubucalm desc",
+        "name": "Labubu Azul",
+        "description": "Elemento de crafteo de temporada, eliminación programada para enero de 2027.",
         "adurl": "",
         "offerid": 141723,
         "buyout": false,
@@ -1422202,26 +1422196,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
+        "furniline": "xmas2025",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "xmas2025",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 141724,
         "classname": "xmas_r25_habubufun",
         "revision": 74324,
         "category": "other",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
-        "name": "xmas_r25_habubufun name",
-        "description": "xmas_r25_habubufun desc",
+        "name": "Labubu Salmón",
+        "description": "Elemento de crafteo de temporada, eliminación programada para enero de 2027.",
         "adurl": "",
         "offerid": 141724,
         "buyout": false,
@@ -1422231,12 +1422225,18 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
+        "furniline": "xmas2025",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "xmas2025",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 141725,
@@ -1422272,14 +1422272,8 @@
         "classname": "xmas_r25_habubuhope",
         "revision": 74324,
         "category": "other",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
-        "name": "xmas_r25_habubuhope name",
-        "description": "xmas_r25_habubuhope desc",
+        "name": "Labubu Hielo",
+        "description": "Elemento de crafteo de temporada, eliminación programada para enero de 2027.",
         "adurl": "",
         "offerid": 141726,
         "buyout": false,
@@ -1422289,26 +1422283,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
+        "furniline": "xmas2025",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "xmas2025",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 141727,
         "classname": "xmas_r25_habubudream",
         "revision": 74324,
         "category": "other",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
-        "name": "xmas_r25_habubudream name",
-        "description": "xmas_r25_habubudream desc",
+        "name": "Labubu Púrpura",
+        "description": "Elemento de crafteo de temporada, eliminación programada para enero de 2027.",
         "adurl": "",
         "offerid": 141727,
         "buyout": false,
@@ -1422318,12 +1422312,18 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
+        "furniline": "xmas2025",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "xmas2025",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 141728,
