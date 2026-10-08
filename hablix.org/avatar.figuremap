@@ -44399,28 +44399,6 @@
       ]
     },
     {
-      "id": "misc_U_darkaura",
-      "revision": 75707,
-      "parts": [
-        {
-          "id": 7579,
-          "type": "mc"
-        },
-        {
-          "id": 7579,
-          "type": "mcl"
-        },
-        {
-          "id": 7579,
-          "type": "mcr"
-        },
-        {
-          "id": 7580,
-          "type": "mc"
-        }
-      ]
-    },
-    {
       "id": "shirt_M_colourfuloutfit",
       "revision": 70355,
       "parts": [
@@ -51825,6 +51803,20 @@
         {
           "id": 7696,
           "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_darkaura",
+      "revision": 75880,
+      "parts": [
+        {
+          "id": 7579,
+          "type": "mco"
+        },
+        {
+          "id": 7580,
+          "type": "mco"
         }
       ]
     }
