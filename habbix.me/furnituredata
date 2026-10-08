@@ -1325794,6 +1325794,102 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false
+      },
+      {
+        "id": 987605500,
+        "classname": "yufex_silo_blokbuyk1",
+        "category": "",
+        "name": "Plateforme en pierre",
+        "description": "De nombreux événements se passent dessus.",
+        "adurl": "",
+        "offerid": 58849650,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "customparams": "",
+        "specialtype": 0,
+        "bc": false,
+        "excludeddynamic": false,
+        "xdim": 0,
+        "ydim": 0,
+        "partcolors": {
+          "color": []
+        },
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
+      },
+      {
+        "id": 987605501,
+        "classname": "yufex_silo_blokbuyuk1",
+        "category": "",
+        "name": "Plateforme en pierre",
+        "description": "De nombreux événements se passent dessus.",
+        "adurl": "",
+        "offerid": 58849651,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "customparams": "",
+        "specialtype": 0,
+        "bc": false,
+        "excludeddynamic": false,
+        "xdim": 0,
+        "ydim": 0,
+        "partcolors": {
+          "color": []
+        },
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
+      },
+      {
+        "id": 987605502,
+        "classname": "yufex_silo_boru",
+        "category": "",
+        "name": "Tuyau à plantes",
+        "description": "Même sous un silo, la verdure domine.",
+        "adurl": "",
+        "offerid": 58849652,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "customparams": "",
+        "specialtype": 0,
+        "bc": false,
+        "excludeddynamic": false,
+        "xdim": 0,
+        "ydim": 0,
+        "partcolors": {
+          "color": []
+        },
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
+      },
+      {
+        "id": 987605503,
+        "classname": "yufex_silo_borudetay",
+        "category": "",
+        "name": "Tuyau ",
+        "description": "Du gaz découle de ce tuyau, toxique... ? ",
+        "adurl": "",
+        "offerid": 58849653,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "customparams": "",
+        "specialtype": 0,
+        "bc": false,
+        "excludeddynamic": false,
+        "xdim": 0,
+        "ydim": 0,
+        "partcolors": {
+          "color": []
+        },
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
       }
     ]
   },
