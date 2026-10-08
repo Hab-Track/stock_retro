@@ -1325698,6 +1325698,102 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false
+      },
+      {
+        "id": 987605496,
+        "classname": "yufex_silo_ayakkabi",
+        "category": "",
+        "name": "Vêtements",
+        "description": "Chaussure, veste, prêt pour aller travailler",
+        "adurl": "",
+        "offerid": 58849646,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "customparams": "",
+        "specialtype": 0,
+        "bc": false,
+        "excludeddynamic": false,
+        "xdim": 0,
+        "ydim": 0,
+        "partcolors": {
+          "color": []
+        },
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
+      },
+      {
+        "id": 987605497,
+        "classname": "yufex_silo_baby",
+        "category": "",
+        "name": "Solo",
+        "description": "Je suis Solo, l'ombre de l'Informatique",
+        "adurl": "",
+        "offerid": 58849647,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "customparams": "",
+        "specialtype": 0,
+        "bc": false,
+        "excludeddynamic": false,
+        "xdim": 0,
+        "ydim": 0,
+        "partcolors": {
+          "color": []
+        },
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
+      },
+      {
+        "id": 987605498,
+        "classname": "yufex_silo_blok2",
+        "category": "",
+        "name": "Bloc",
+        "description": "Un bloc solide comme de la pierre !",
+        "adurl": "",
+        "offerid": 58849648,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "customparams": "",
+        "specialtype": 0,
+        "bc": false,
+        "excludeddynamic": false,
+        "xdim": 0,
+        "ydim": 0,
+        "partcolors": {
+          "color": []
+        },
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
+      },
+      {
+        "id": 987605499,
+        "classname": "yufex_silo_blok3",
+        "category": "",
+        "name": "Bloc",
+        "description": "Un bloc solide comme de la pierre !",
+        "adurl": "",
+        "offerid": 58849649,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "customparams": "",
+        "specialtype": 0,
+        "bc": false,
+        "excludeddynamic": false,
+        "xdim": 0,
+        "ydim": 0,
+        "partcolors": {
+          "color": []
+        },
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
       }
     ]
   },
