@@ -273,7 +273,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Toveringrediënten",
+        "name": "Toverdrankingrediënten",
         "description": "Een beetje hiervan, een beetje daarvan...",
         "adurl": "",
         "offerid": 1541855853,
@@ -447,7 +447,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bronzen Heksenketel",
+        "name": "Bronzen Ketel",
         "description": "Een snufje magie in een bronzen ketel.",
         "adurl": "",
         "offerid": 1541855847,
@@ -505,7 +505,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Heksenwerkbank",
+        "name": "Werkbank van een Tovenaar",
         "description": "Hier brouwt de heks haar nieuwste geheimen.",
         "adurl": "",
         "offerid": 1541855845,
@@ -534,7 +534,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Heksenfiguurtje",
+        "name": "Heks Actiefiguurtje",
         "description": "Een kleine heks met grootse toverplannen.",
         "adurl": "",
         "offerid": 1541855844,
@@ -543811,7 +543811,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Prom Night Danstegel",
+        "name": "Lantaarn der liefde.",
         "description": "Ik zei dansen, niet de vloer breken!",
         "adurl": "",
         "offerid": -1,
@@ -752941,6 +752941,39 @@
         "description": "",
         "adurl": "",
         "offerid": 1541857793,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1541857794,
+        "classname": "val12_hopper_3",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "\"Prom Night\" Hopper",
+        "description": "Hop naar je (nieuwe) date",
+        "adurl": "",
+        "offerid": 1541857794,
         "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
