@@ -1344919,7 +1344919,7 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Highscore invisible - toute la durée",
+        "name": "Highscore invisible",
         "description": "Ce mobilier n'a pas de description.",
         "adurl": "",
         "offerid": 1425662251,
@@ -1344933,7 +1344933,12 @@
         "enableCursor": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425658931,
@@ -1344943,7 +1344948,7 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Effet WIRED: jsp",
+        "name": "Effet WIRED: Son",
         "description": "Ce mobilier n'a pas de description.",
         "adurl": "",
         "offerid": 1425662252,
@@ -1344957,7 +1344962,12 @@
         "enableCursor": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425658932,
@@ -1344967,8 +1344977,8 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Effet WIRED: Variable",
-        "description": "Ce mobilier n'a pas de description.",
+        "name": "Effet WIRED: Modifie les points de l'entité",
+        "description": "Cet effet modifie la valeur des points de l'avatar vers la valeur de l'expression entrée. (Futur WIRED variables)",
         "adurl": "",
         "offerid": 1425662253,
         "buyout": true,
@@ -1344981,7 +1344991,12 @@
         "enableCursor": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425658933,
@@ -1344991,8 +1345006,8 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Condition WIRED: Variable",
-        "description": "Ce mobilier n'a pas de description.",
+        "name": "Condition WIRED: L'expression est valide",
+        "description": "Condition remplie si l'expression entrée dans le WIRED est évaluée comme valide.",
         "adurl": "",
         "offerid": 1425662254,
         "buyout": true,
@@ -1345005,7 +1345020,12 @@
         "enableCursor": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425658934,
@@ -1345019,6 +1345039,30 @@
         "description": "Ce mobilier n'a pas de description.",
         "adurl": "",
         "offerid": 1425662255,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "enableCursor": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1425658935,
+        "classname": "ranch_c26_aspen",
+        "revision": 500002,
+        "category": "",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "name": "Grand arbre",
+        "description": "Ce mobilier n'a pas de description.",
+        "adurl": "",
+        "offerid": 1425662256,
         "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
