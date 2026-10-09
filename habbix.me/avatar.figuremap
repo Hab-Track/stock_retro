@@ -1,6 +1,96 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_chest_U_mksftsword",
+      "revision": 75795,
+      "parts": [
+        {
+          "id": 7621,
+          "type": "ca"
+        },
+        {
+          "id": 7622,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_nft26_camopaint",
+      "revision": 75788,
+      "parts": [
+        {
+          "id": 7538,
+          "type": "fa"
+        },
+        {
+          "id": 7538,
+          "type": "fc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_survivaljumpsuit",
+      "revision": 75774,
+      "parts": [
+        {
+          "id": 7647,
+          "type": "ch"
+        },
+        {
+          "id": 7647,
+          "type": "ls"
+        },
+        {
+          "id": 7647,
+          "type": "rs"
+        },
+        {
+          "id": 7648,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_nft26_tacticalvest",
+      "revision": 75760,
+      "parts": [
+        {
+          "id": 7677,
+          "type": "cc"
+        },
+        {
+          "id": 7678,
+          "type": "cc"
+        },
+        {
+          "id": 7678,
+          "type": "lc"
+        },
+        {
+          "id": 7678,
+          "type": "rc"
+        },
+        {
+          "id": 7679,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_darkaura",
+      "revision": 75880,
+      "parts": [
+        {
+          "id": 7579,
+          "type": "cc"
+        },
+        {
+          "id": 7580,
+          "type": "cc"
+        }
+      ]
+    },
+    {
       "id": "hat_U_CascodeCombate",
       "revision": 70000004,
       "parts": [
