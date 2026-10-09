@@ -856901,7 +856901,7 @@
         "revision": 0,
         "category": "",
         "defaultdir": 0,
-        "xdim": 1,
+        "xdim": 4,
         "ydim": 1,
         "partcolors": {
           "color": []
@@ -857004,7 +857004,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "",
