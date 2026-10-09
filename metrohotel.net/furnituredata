@@ -2,6 +2,32 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 2100003806,
+        "classname": "bancjoueurs",
+        "revision": 1791576143,
+        "category": "unknown",
+        "name": "bancjoueurs",
+        "description": "",
+        "adurl": "",
+        "offerid": -1,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        }
+      },
+      {
         "id": 2100003805,
         "classname": "corniches_corner_IV",
         "revision": 1791231474,
