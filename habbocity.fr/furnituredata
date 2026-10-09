@@ -1345035,7 +1345035,7 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Jsp",
+        "name": "Prototype WIRED: Effet WIRED: Modifie l'état du mobi",
         "description": "Ce mobilier n'a pas de description.",
         "adurl": "",
         "offerid": 1425662255,
@@ -1345049,7 +1345049,12 @@
         "enableCursor": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425658935,
