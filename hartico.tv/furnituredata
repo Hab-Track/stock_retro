@@ -1312703,13 +1312703,7 @@
         "classname": "nft_u23_sonft_sofa",
         "revision": 0,
         "category": "",
-        "defaultdir": 0,
-        "xdim": 2,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
-        "name": "Sofá cerebro NFT",
+        "name": "Sofá Cerebro",
         "description": "Comodo y extraño",
         "adurl": "",
         "offerid": 137188,
@@ -1312720,12 +1312714,18 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": true,
         "canlayon": false,
-        "furniline": "",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 137178,
@@ -1521075,7 +1521075,7 @@
         "classname": "edilava",
         "revision": 0,
         "category": "unknown",
-        "name": "edilava",
+        "name": "Dado Lava",
         "description": "",
         "adurl": "",
         "offerid": 145171,
@@ -1521092,7 +1521092,7 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "canstandon": true,
+        "canstandon": false,
         "cansiton": false,
         "canlayon": false,
         "partcolors": {
