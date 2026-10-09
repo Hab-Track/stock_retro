@@ -1078654,7 +1078654,8 @@
         "name": "Spooktober Icecream Machine",
         "customparams": "",
         "category": "unknown",
-        "specialtype": 0
+        "specialtype": 0,
+        "interactiontype": "vendingmachine"
       },
       {
         "excludeddynamic": false,
@@ -1180514,7 +1180515,8 @@
         "name": "HLW24_Icecream",
         "customparams": "",
         "category": "unknown",
-        "specialtype": 0
+        "specialtype": 0,
+        "interactiontype": "vendingmachine"
       },
       {
         "excludeddynamic": false,
