@@ -2,6 +2,1369 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666100,
+        "classname": "ld_painel_scifi_1",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_painel_scifi_1",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666100,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666099,
+        "classname": "ld_painel_scifi_3",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_painel_scifi_3",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666099,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666098,
+        "classname": "ld_painel_scifi_2",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_painel_scifi_2",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666098,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666097,
+        "classname": "ld_painel_hc_4",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_painel_hc_4",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666097,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666096,
+        "classname": "ld_painel_hc_3",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_painel_hc_3",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666096,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666095,
+        "classname": "ld_painel_hc_2",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_painel_hc_2",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666095,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666094,
+        "classname": "ld_painel_hc",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_painel_hc",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666094,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666093,
+        "classname": "ld_painel_2",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_painel_2",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666093,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666092,
+        "classname": "ld_painel_1",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_painel_1",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666092,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666091,
+        "classname": "ld_funil",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_funil",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666091,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666090,
+        "classname": "ld_detalhes_7",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_detalhes_7",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666090,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666089,
+        "classname": "ld_detalhes_6",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_detalhes_6",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666089,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666088,
+        "classname": "ld_painel_hc_5",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_painel_hc_5",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666088,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666087,
+        "classname": "ld_cabos_3",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_cabos_3",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666087,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666086,
+        "classname": "ld_cabos_2",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_cabos_2",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666086,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666085,
+        "classname": "ld_cabos",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_cabos",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666085,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666084,
+        "classname": "ld_detalhes_4",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_detalhes_4",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666084,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666083,
+        "classname": "ld_detalhes_3",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_detalhes_3",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666083,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666082,
+        "classname": "ld_detalhes_2",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_detalhes_2",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666082,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666081,
+        "classname": "ld_detalhes_1",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_detalhes_1",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666081,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666080,
+        "classname": "ld_detalhes",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_detalhes",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666080,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666079,
+        "classname": "ld_cabos_5",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_cabos_5",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666079,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666078,
+        "classname": "ld_cabos_4RGP",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_cabos_4RGP",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666078,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666077,
+        "classname": "Ld_antena_direcional",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ld_antena_direcional",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666077,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666076,
+        "classname": "ld_alavanca_7",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_alavanca_7",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666076,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666075,
+        "classname": "ld_alavanca_6",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_alavanca_6",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666075,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666074,
+        "classname": "ld_alavanca_5",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_alavanca_5",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666074,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666073,
+        "classname": "ld_alavanca_4",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_alavanca_4",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666073,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666072,
+        "classname": "ld_alavanca_3",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_alavanca_3",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666072,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666071,
+        "classname": "ld_alavanca_2",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_alavanca_2",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666071,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666070,
+        "classname": "ld_alavanca_1",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ld_alavanca_1",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666070,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666069,
+        "classname": "Ld_antena_parabolica_1",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ld_antena_parabolica_1",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666069,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666068,
+        "classname": "Ld_antena_parabolica",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ld_antena_parabolica",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666068,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666067,
+        "classname": "Antraxx2_14",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Painel de Controle",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666067,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666066,
+        "classname": "Antraxx2_13",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Máquina Tecnológica",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666066,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666065,
+        "classname": "Antraxx2_12",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 2,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Reator Nuclear",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666065,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666064,
+        "classname": "Antraxx2_11",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Peça Tecnológica",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666064,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666063,
+        "classname": "Antraxx2_10",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 3,
+        "ydim": 3,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Reator de Fusão",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666063,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666062,
+        "classname": "Antraxx2_9",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 3,
+        "ydim": 3,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Encanamento Tecnológico",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666062,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666061,
+        "classname": "Antraxx2_8",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 2,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Placa Solar",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666061,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666060,
+        "classname": "Antraxx2_7",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 2,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Plataforma de Lançamento",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666060,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666059,
+        "classname": "Antraxx2_6",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 2,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Escultura de Metal",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666059,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666058,
+        "classname": "Antraxx2_5",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 2,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Antena Tecnológica",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666058,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666057,
+        "classname": "Antraxx2_4",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 3,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Guindaste",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666057,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666056,
+        "classname": "Antraxx2_3",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 2,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cerca de Metal",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666056,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666055,
+        "classname": "Antraxx2_2",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Mastro de Metal",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666055,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666054,
+        "classname": "Antraxx2_1",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 3,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Viga de Metal",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666054,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666052,
         "classname": "hween_cloth_c26_batfriend",
         "revision": 0,
@@ -679,7 +2042,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_breana_b_mur_bleu",
+        "name": "Parede Bubble Clássica",
         "description": "",
         "adurl": "",
         "offerid": 886665572,
@@ -708,7 +2071,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_breana_b_paroie",
+        "name": "Parede Marroquina",
         "description": "",
         "adurl": "",
         "offerid": 886665571,
@@ -737,7 +2100,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_breana_b_rideau",
+        "name": "Cortina Boho",
         "description": "",
         "adurl": "",
         "offerid": 886665570,
@@ -766,7 +2129,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_breana_cactus",
+        "name": "Cacto Clássico",
         "description": "",
         "adurl": "",
         "offerid": 886665569,
@@ -795,7 +2158,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_breana_cloche",
+        "name": "Sino",
         "description": "",
         "adurl": "",
         "offerid": 886665568,
@@ -824,7 +2187,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_breana_coussin_boudin",
+        "name": "Almofada Cilindrica",
         "description": "",
         "adurl": "",
         "offerid": 886665567,
@@ -853,7 +2216,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_breana_lampe_boule",
+        "name": "Abajur Azul",
         "description": "",
         "adurl": "",
         "offerid": 886665566,
@@ -882,7 +2245,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_breana_lampe_flowers",
+        "name": "Abajur Florido",
         "description": "",
         "adurl": "",
         "offerid": 886665565,
@@ -911,7 +2274,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_breana_lumieres_susp",
+        "name": "Luminária Suspensa do Jardim",
         "description": "",
         "adurl": "",
         "offerid": 886665564,
@@ -940,7 +2303,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_breana_petite_table",
+        "name": "Mesinha do Jardim",
         "description": "",
         "adurl": "",
         "offerid": 886665563,
@@ -969,7 +2332,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_breana_pile_feuille",
+        "name": "Anotações",
         "description": "",
         "adurl": "",
         "offerid": 886665562,
@@ -998,7 +2361,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_breana_pillow_white",
+        "name": "Almofada Branca",
         "description": "",
         "adurl": "",
         "offerid": 886665561,
@@ -1027,7 +2390,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_breana_pot_plante",
+        "name": "Planta Rosada",
         "description": "",
         "adurl": "",
         "offerid": 886665560,
@@ -1056,7 +2419,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_breana_siege_carre",
+        "name": "Pufe Clássico",
         "description": "",
         "adurl": "",
         "offerid": 886665559,
@@ -1085,7 +2448,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_breana_siege_rond",
+        "name": "Banqueta Clássica",
         "description": "",
         "adurl": "",
         "offerid": 886665558,
@@ -1097,7 +2460,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -1114,7 +2477,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_breana_sol_binge",
+        "name": "Piso Pastel",
         "description": "",
         "adurl": "",
         "offerid": 886665557,
@@ -1125,7 +2488,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -1143,7 +2506,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_breana_table_marble",
+        "name": "Mesinha Pastel ",
         "description": "",
         "adurl": "",
         "offerid": 886665556,
@@ -1172,7 +2535,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_breana_b_couss_bleu",
+        "name": "Travesseiro Cilindrico",
         "description": "",
         "adurl": "",
         "offerid": 886665555,
@@ -1201,7 +2564,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_breana_b_etagere",
+        "name": "Estante Rústica",
         "description": "",
         "adurl": "",
         "offerid": 886665554,
@@ -1230,7 +2593,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_breana_b_fenetre_ronde",
+        "name": "Janela Redonda",
         "description": "",
         "adurl": "",
         "offerid": 886665553,
@@ -2477,7 +3840,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "kasja_mansionplay_vase",
+        "name": "Vaso Mansion",
         "description": "",
         "adurl": "",
         "offerid": 886665435,
@@ -2506,7 +3869,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "kasja_mansionplay_trolley",
+        "name": "Carrinho Mansion",
         "description": "",
         "adurl": "",
         "offerid": 886665434,
@@ -2535,7 +3898,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "kasja_mansionplay_table3",
+        "name": "Mesinha Mansion",
         "description": "",
         "adurl": "",
         "offerid": 886665433,
@@ -2564,7 +3927,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "kasja_mansionplay_table2",
+        "name": "Mesa Pequena Mansion",
         "description": "",
         "adurl": "",
         "offerid": 886665432,
@@ -2593,7 +3956,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "kasja_mansionplay_table1",
+        "name": "Mesa Redonda Mansion",
         "description": "",
         "adurl": "",
         "offerid": 886665431,
@@ -2622,7 +3985,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "kasja_mansionplay_stool",
+        "name": "Banqueta Mansion",
         "description": "",
         "adurl": "",
         "offerid": 886665430,
@@ -2634,7 +3997,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -2651,7 +4014,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "kasja_mansionplay_stairs",
+        "name": "Escada Mansion",
         "description": "",
         "adurl": "",
         "offerid": 886665429,
@@ -2680,7 +4043,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "kasja_mansionplay_sportydoll",
+        "name": "Bonequinho Mansion",
         "description": "",
         "adurl": "",
         "offerid": 886665428,
@@ -2709,7 +4072,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "kasja_mansionplay_sofa",
+        "name": "Sofá Mansion",
         "description": "",
         "adurl": "",
         "offerid": 886665427,
@@ -2721,7 +4084,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -2733,12 +4096,12 @@
         "revision": 0,
         "category": "unknown",
         "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
+        "xdim": 5,
+        "ydim": 2,
         "partcolors": {
           "color": []
         },
-        "name": "kasja_mansionplay_rug",
+        "name": "Tapete Mansion",
         "description": "",
         "adurl": "",
         "offerid": 886665426,
@@ -2749,7 +4112,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -3202,7 +4565,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_tapis_ovale",
+        "name": "Tapete Oval",
         "description": "",
         "adurl": "",
         "offerid": 886665410,
@@ -3213,7 +4576,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -3231,7 +4594,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_statue_fee",
+        "name": "Estátua de Fada",
         "description": "",
         "adurl": "",
         "offerid": 886665409,
@@ -3260,7 +4623,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_statue_elephant",
+        "name": "Estátua de Elefante",
         "description": "",
         "adurl": "",
         "offerid": 886665408,
@@ -3289,7 +4652,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_serre",
+        "name": "Estante de Jardim",
         "description": "",
         "adurl": "",
         "offerid": 886665407,
@@ -3318,7 +4681,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_rose_eternel",
+        "name": "Rosa do Jardim",
         "description": "",
         "adurl": "",
         "offerid": 886665406,
@@ -3347,7 +4710,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_rateau",
+        "name": "Ciscador de Jardim",
         "description": "",
         "adurl": "",
         "offerid": 886665405,
@@ -3376,7 +4739,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_pot_fleurs",
+        "name": "Vaso de Flores Clássico",
         "description": "",
         "adurl": "",
         "offerid": 886665404,
@@ -3405,7 +4768,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_plaid",
+        "name": "Cobertor Antigo",
         "description": "",
         "adurl": "",
         "offerid": 886665403,
@@ -3434,7 +4797,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_nappe",
+        "name": "Guardanapo Colorido",
         "description": "",
         "adurl": "",
         "offerid": 886665402,
@@ -3463,7 +4826,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_fleur_chinoise",
+        "name": "Flores Orientais",
         "description": "",
         "adurl": "",
         "offerid": 886665401,
@@ -3492,7 +4855,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_fauteuil",
+        "name": "Cadeira Suspensa do Jardim",
         "description": "",
         "adurl": "",
         "offerid": 886665400,
@@ -3521,7 +4884,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_etagere_suspendu",
+        "name": "Balanço de Plantas",
         "description": "",
         "adurl": "",
         "offerid": 886665399,
@@ -3550,7 +4913,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_couverture1",
+        "name": "Cobertor Listrado",
         "description": "",
         "adurl": "",
         "offerid": 886665398,
@@ -3579,7 +4942,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_couverture",
+        "name": "Cobertor Pequeno",
         "description": "",
         "adurl": "",
         "offerid": 886665397,
@@ -3608,7 +4971,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_coussin5",
+        "name": "Almofada Persa",
         "description": "",
         "adurl": "",
         "offerid": 886665396,
@@ -3637,7 +5000,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_coussin4",
+        "name": "Almofada Indiana",
         "description": "",
         "adurl": "",
         "offerid": 886665395,
@@ -3666,7 +5029,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_coussin3",
+        "name": "Almofada Aconchegante",
         "description": "",
         "adurl": "",
         "offerid": 886665394,
@@ -3695,7 +5058,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_coussi_2",
+        "name": "Almofada Listrada",
         "description": "",
         "adurl": "",
         "offerid": 886665393,
@@ -3724,7 +5087,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_coussi_1",
+        "name": "Almofada Decorada Colorida",
         "description": "",
         "adurl": "",
         "offerid": 886665392,
@@ -3753,7 +5116,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_coussi",
+        "name": "Almofada Colorida",
         "description": "",
         "adurl": "",
         "offerid": 886665391,
@@ -3765,7 +5128,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -3782,7 +5145,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_corde_linge",
+        "name": "Varal Rústico",
         "description": "",
         "adurl": "",
         "offerid": 886665390,
@@ -3811,7 +5174,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_beche",
+        "name": "Ciscador de Ferro",
         "description": "",
         "adurl": "",
         "offerid": 886665389,
@@ -3835,12 +5198,12 @@
         "revision": 0,
         "category": "unknown",
         "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
+        "xdim": 5,
+        "ydim": 5,
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_arche1",
+        "name": "Pérgola de Jardim",
         "description": "",
         "adurl": "",
         "offerid": 886665388,
@@ -3851,7 +5214,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -3869,7 +5232,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_tuyau",
+        "name": "Mangueira",
         "description": "",
         "adurl": "",
         "offerid": 886665387,
@@ -3898,7 +5261,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_wean_tapis_rond",
+        "name": "Tapete Redondo",
         "description": "",
         "adurl": "",
         "offerid": 886665386,
@@ -3909,7 +5272,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -16513,7 +17876,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_r26_statue",
+        "name": "Estátua do Fazendeiro",
         "description": "",
         "adurl": "",
         "offerid": 886664379,
@@ -16542,7 +17905,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_r26_spottedgoat",
+        "name": "Cabra Malhada",
         "description": "",
         "adurl": "",
         "offerid": 886664378,
@@ -16571,7 +17934,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_r26_pumpkinthrone",
+        "name": "Trono de Abóbora",
         "description": "",
         "adurl": "",
         "offerid": 886664377,
@@ -16583,7 +17946,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -16600,7 +17963,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_workbench",
+        "name": "Mesa de Criações do Fazendeiro",
         "description": "",
         "adurl": "",
         "offerid": 886664376,
@@ -16629,7 +17992,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_wheelbarrow",
+        "name": "Carrinho de Mão de Madeira",
         "description": "",
         "adurl": "",
         "offerid": 886664375,
@@ -16658,7 +18021,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_weathervane",
+        "name": "Cata-vento de Patinho",
         "description": "",
         "adurl": "",
         "offerid": 886664374,
@@ -16687,7 +18050,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_tomatosack",
+        "name": "Saco de Tomate",
         "description": "",
         "adurl": "",
         "offerid": 886664373,
@@ -16716,7 +18079,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_sunset",
+        "name": "Pôr-do-Sol ",
         "description": "",
         "adurl": "",
         "offerid": 886664372,
@@ -16745,7 +18108,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_sunray",
+        "name": "Raio do Pôr do Sol",
         "description": "",
         "adurl": "",
         "offerid": 886664371,
@@ -16756,7 +18119,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -16774,7 +18137,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_soil",
+        "name": "Solo Fértil",
         "description": "",
         "adurl": "",
         "offerid": 886664370,
@@ -16803,7 +18166,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_small_tomatob",
+        "name": "Tomateiro em Crescimento",
         "description": "",
         "adurl": "",
         "offerid": 886664369,
@@ -16832,7 +18195,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_small_pumpkinb",
+        "name": "Videira de Abóbora",
         "description": "",
         "adurl": "",
         "offerid": 886664368,
@@ -16861,7 +18224,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_small_grapeb",
+        "name": "Videiras em Crescimento",
         "description": "",
         "adurl": "",
         "offerid": 886664367,
@@ -16890,7 +18253,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_small_duckbergineb",
+        "name": "Plantas Suspeitas",
         "description": "",
         "adurl": "",
         "offerid": 886664366,
@@ -16919,7 +18282,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_small_cornb",
+        "name": "Talos de Milho",
         "description": "",
         "adurl": "",
         "offerid": 886664365,
@@ -16948,7 +18311,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_sign",
+        "name": "Placa de Plantação",
         "description": "",
         "adurl": "",
         "offerid": 886664364,
@@ -16977,7 +18340,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_shelter",
+        "name": "Refúgio da Fazenda",
         "description": "",
         "adurl": "",
         "offerid": 886664363,
@@ -17006,7 +18369,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_shelf",
+        "name": "Prateleira do Jardim",
         "description": "",
         "adurl": "",
         "offerid": 886664362,
@@ -17035,7 +18398,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_shed",
+        "name": "Estábulo do Rancho",
         "description": "",
         "adurl": "",
         "offerid": 886664361,
@@ -17064,7 +18427,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_seedsb",
+        "name": "Sementes Espalhadas",
         "description": "",
         "adurl": "",
         "offerid": 886664360,
@@ -17093,7 +18456,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_seedpacketsb",
+        "name": "Pacotes de Semente",
         "description": "",
         "adurl": "",
         "offerid": 886664359,
@@ -17122,7 +18485,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_scarecrow",
+        "name": "Espantalho Cabeça de Abóbora",
         "description": "",
         "adurl": "",
         "offerid": 886664358,
@@ -17151,7 +18514,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_saplingsb",
+        "name": "Pequenas Mudas",
         "description": "",
         "adurl": "",
         "offerid": 886664357,
@@ -17180,7 +18543,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_plotsmall",
+        "name": "Canteirinho de Jardim",
         "description": "",
         "adurl": "",
         "offerid": 886664356,
@@ -17209,7 +18572,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_plot",
+        "name": "Canteiro de Jardim",
         "description": "",
         "adurl": "",
         "offerid": 886664355,
@@ -17238,7 +18601,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_piglet",
+        "name": "Leitão do Rancho",
         "description": "",
         "adurl": "",
         "offerid": 886664354,
@@ -17267,7 +18630,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_nails",
+        "name": "Caixa de Pregos",
         "description": "",
         "adurl": "",
         "offerid": 886664353,
@@ -18282,7 +19645,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_cornucopia_bronze",
+        "name": "Cornucópia do Rancho",
         "description": "",
         "adurl": "",
         "offerid": 886664318,
@@ -18311,7 +19674,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_brewingkit",
+        "name": "Máquina de Fermentação",
         "description": "",
         "adurl": "",
         "offerid": 886664317,
