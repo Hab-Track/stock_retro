@@ -23696,7 +23696,7 @@
         "name": "Goldmünze",
         "revision": 0,
         "description": "Wert 10 Taler",
-        "category": null,
+        "category": "",
         "offerid": 2063,
         "xdim": 1,
         "ydim": 1,
@@ -23712,7 +23712,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 0,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "unknown",
@@ -1013146,6 +1013146,64 @@
         "furniline": "unknown",
         "environment": "",
         "rare": 0
+      },
+      {
+        "id": 1996842024,
+        "classname": "onlineecounter",
+        "name": "Online Counter",
+        "revision": 0,
+        "description": "HabboSK Online Counter",
+        "category": null,
+        "offerid": 1996842024,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "adurl": "unknown",
+        "type": 0,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "unknown",
+        "environment": "",
+        "rare": 0
+      },
+      {
+        "id": 1996842025,
+        "classname": "dropparty",
+        "name": "Drop Party",
+        "revision": 0,
+        "description": "",
+        "category": null,
+        "offerid": 1996842025,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "adurl": "unknown",
+        "type": 0,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "unknown",
+        "environment": "",
+        "rare": 0
       }
     ]
   },
@@ -1028113,5 +1028171,5 @@
       }
     ]
   },
-  "cached": "05/10/2026 14:10:28"
+  "cached": "09/10/2026 23:30:17"
 }
