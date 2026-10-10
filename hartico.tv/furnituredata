@@ -628353,18 +628353,7 @@
         "classname": "ads_711*4",
         "revision": 0,
         "category": "",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": [
-            "#FFFFFF",
-            "#FFFFFF",
-            "#FFFFFF",
-            "#925AFF"
-          ]
-        },
-        "name": "ads_711",
+        "name": "Soda Uva",
         "description": "",
         "adurl": "",
         "offerid": 1345,
@@ -628375,12 +628364,23 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": [
+            "FFFFFF",
+            "FFFFFF",
+            "FFFFFF",
+            "925AFF"
+          ]
+        }
       },
       {
         "id": 1341,
@@ -878894,12 +878894,6 @@
         "classname": "plushie_c20_fluffmachine",
         "revision": 0,
         "category": "",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
         "name": "Mesa de Crafteo para Peluche",
         "description": "plushie_c20_fluffmachine desc",
         "adurl": "",
@@ -878911,12 +878905,18 @@
         "excludeddynamic": false,
         "customparams": "plushie20",
         "specialtype": 1,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 116404,
@@ -1451881,7 +1451881,7 @@
         "classname": "hubba_tc_blaubxssoda",
         "revision": 0,
         "category": "",
-        "name": "Mini Blaubeer Soda",
+        "name": "Mini Soda Blueberries",
         "description": "",
         "adurl": "",
         "offerid": 142759,
@@ -1455709,7 +1455709,7 @@
         "classname": "st_kirschbluetenigel_hakan",
         "revision": 45508,
         "category": "",
-        "name": "st_kirschbluetenigel_hakan",
+        "name": "Erizo Hazakura",
         "description": "",
         "adurl": "",
         "offerid": 142891,
@@ -1504429,8 +1504429,8 @@
         "classname": "irinc_shadow_mammothchair",
         "revision": 0,
         "category": "unknown",
-        "name": "Poltrona Mamute",
-        "description": "",
+        "name": "Sofá Mamut Individual",
+        "description": "Ecotrón de temporada, 2026",
         "adurl": "",
         "offerid": 144592,
         "buyout": false,
