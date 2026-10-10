@@ -254294,6 +254294,17 @@
         "specialtype": 0
       },
       {
+        "id": 100006210,
+        "classname": "wf_cnd_key_held",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "CONDIZIONE: l'utente tiene premuto (o non tiene premuto) un tasto",
+        "customparams": "",
+        "specialtype": 0
+      },
+      {
         "id": 100006203,
         "classname": "wf_xtra_var_lvlup_system",
         "defaultdir": 0,
@@ -840859,7 +840870,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "saw_horrorhabbie1",
+        "name": "Freddy Krueger",
         "customparams": "",
         "specialtype": 0
       },
@@ -840870,7 +840881,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "saw_horrorhabbie2",
+        "name": "Kayako",
         "customparams": "",
         "specialtype": 0
       },
@@ -840881,7 +840892,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "saw_horrorhabbie3",
+        "name": "Jason Voorhees",
         "customparams": "",
         "specialtype": 0
       },
@@ -840892,7 +840903,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "saw_horrorhabbie4",
+        "name": "Chucky",
         "customparams": "",
         "specialtype": 0
       },
@@ -840903,7 +840914,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "saw_horrorhabbie5",
+        "name": "Michael Myers",
         "customparams": "",
         "specialtype": 0
       },
@@ -840914,7 +840925,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "saw_horrorhabbie6",
+        "name": "Samara",
         "customparams": "",
         "specialtype": 0
       },
@@ -840925,7 +840936,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "saw_horrorhabbie7",
+        "name": "Ghostface",
         "customparams": "",
         "specialtype": 0
       },
