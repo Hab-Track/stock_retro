@@ -563791,6 +563791,35 @@
         "furniline": "",
         "environment": "",
         "rare": false
+      },
+      {
+        "id": 29934,
+        "classname": "origins_charcoal_icm",
+        "revision": 1337,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Charcoal Ice Cream Machine",
+        "description": " ",
+        "adurl": "",
+        "offerid": -1,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
       }
     ]
   },
