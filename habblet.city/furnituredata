@@ -2,6 +2,35 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666052,
+        "classname": "hween_cloth_c26_batfriend",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "hween_cloth_c26_batfriend",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666052,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666051,
         "classname": "seasidehabblet_boats",
         "revision": 0,
@@ -12,7 +41,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "seasidehabblet_boats",
+        "name": "Barquinho de Marinheiro",
         "description": "",
         "adurl": "",
         "offerid": 886666051,
@@ -24,7 +53,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -41,7 +70,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "snack_yj",
+        "name": "Snacks",
         "description": "",
         "adurl": "",
         "offerid": 886666049,
@@ -70,7 +99,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "poster_yj",
+        "name": "Pôster See You",
         "description": "",
         "adurl": "",
         "offerid": 886666048,
@@ -99,7 +128,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "plates_yj",
+        "name": "Sobremesas",
         "description": "",
         "adurl": "",
         "offerid": 886666047,
@@ -128,7 +157,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "noodles_yj",
+        "name": "Cup Noodles",
         "description": "",
         "adurl": "",
         "offerid": 886666046,
@@ -157,7 +186,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "littletruck_yj",
+        "name": "Foodtruck",
         "description": "",
         "adurl": "",
         "offerid": 886666045,
@@ -186,7 +215,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "gondola_yj_p",
+        "name": "Estante de Lanches",
         "description": "",
         "adurl": "",
         "offerid": 886666044,
@@ -215,7 +244,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "gondola_yj_g",
+        "name": "Estante de Doces",
         "description": "",
         "adurl": "",
         "offerid": 886666043,
@@ -244,7 +273,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "frontage_yj",
+        "name": "Fachada See You",
         "description": "",
         "adurl": "",
         "offerid": 886666042,
@@ -273,7 +302,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "drinks_yj",
+        "name": "Bebidas Variadas",
         "description": "",
         "adurl": "",
         "offerid": 886666041,
@@ -302,7 +331,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "chicken_yj",
+        "name": "Frango Frito",
         "description": "",
         "adurl": "",
         "offerid": 886666040,
@@ -331,7 +360,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "basket_yj",
+        "name": "Cestinha de Compras",
         "description": "",
         "adurl": "",
         "offerid": 886666039,
@@ -360,7 +389,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ATM_yj",
+        "name": "Máquina de Comida",
         "description": "",
         "adurl": "",
         "offerid": 886666038,
@@ -59283,7 +59312,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "seaside_c26_lighthouse",
+        "name": "Farol da Liberdade",
         "description": "",
         "adurl": "",
         "offerid": 886660608,
@@ -59631,7 +59660,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "seaside_c26_tentacles",
+        "name": "Tentáculos Coloridos",
         "description": "",
         "adurl": "",
         "offerid": 886660596,
@@ -141731,7 +141760,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h25_summersofa",
+        "name": "Sofá Clube Inflável",
         "description": "",
         "adurl": "",
         "offerid": 886650260,
