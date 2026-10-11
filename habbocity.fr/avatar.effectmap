@@ -25,6 +25,12 @@
       "revision": 59200
     },
     {
+      "id": "dance.5",
+      "lib": "Dance5",
+      "type": "dance",
+      "revision": 59200
+    },
+    {
       "id": "1",
       "lib": "Spotlight",
       "type": "fx",
@@ -3201,7 +3207,14 @@
     {
       "id": "1000",
       "lib": "Lightning",
-      "type": "fx"
+      "type": "fx",
+      "revision": 59200
+    },
+    {
+      "id": "1001",
+      "lib": "EnchantedBroomstick",
+      "type": "fx",
+      "revision": 59200
     },
     {
       "id": "1212",
