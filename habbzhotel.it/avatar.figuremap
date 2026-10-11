@@ -152459,6 +152459,242 @@
           "type": "lg"
         }
       ]
+    },
+    {
+      "id": "jacket_U_ChaquetaMJ",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "180000020",
+          "type": "cc"
+        },
+        {
+          "id": "180000021",
+          "type": "cc"
+        },
+        {
+          "id": "180000022",
+          "type": "cc"
+        },
+        {
+          "id": "180000020",
+          "type": "lc"
+        },
+        {
+          "id": "180000021",
+          "type": "lc"
+        },
+        {
+          "id": "180000020",
+          "type": "rc"
+        },
+        {
+          "id": "180000021",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_FreakHat",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "180000011",
+          "type": "ha"
+        },
+        {
+          "id": "180000012",
+          "type": "ha"
+        },
+        {
+          "id": "180000013",
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26Topmomi",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000786",
+          "type": "ch"
+        },
+        {
+          "id": "110000787",
+          "type": "ch"
+        },
+        {
+          "id": "110000788",
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_26Faldamomi",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000789",
+          "type": "lg"
+        },
+        {
+          "id": "110000790",
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_26monito",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000794",
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_26PeinadoRem",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000791",
+          "type": "hr"
+        },
+        {
+          "id": "110000792",
+          "type": "hr"
+        },
+        {
+          "id": "110000793",
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv26ianyalongshirt",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "40000083",
+          "type": "ch"
+        },
+        {
+          "id": "40000084",
+          "type": "ch"
+        },
+        {
+          "id": "40000083",
+          "type": "ls"
+        },
+        {
+          "id": "40000084",
+          "type": "ls"
+        },
+        {
+          "id": "40000083",
+          "type": "rs"
+        },
+        {
+          "id": "40000084",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv26itornadojacket",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "40000081",
+          "type": "ch"
+        },
+        {
+          "id": "40000082",
+          "type": "ch"
+        },
+        {
+          "id": "40000081",
+          "type": "ls"
+        },
+        {
+          "id": "40000082",
+          "type": "ls"
+        },
+        {
+          "id": "40000081",
+          "type": "rs"
+        },
+        {
+          "id": "40000082",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_Daxter",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "180000025",
+          "type": "lc"
+        },
+        {
+          "id": "180000025",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_GuantesMugler",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "180000028",
+          "type": "lc"
+        },
+        {
+          "id": "180000028",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_BodyMuglerH",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "180000026",
+          "type": "ch"
+        },
+        {
+          "id": "180000026",
+          "type": "ls"
+        },
+        {
+          "id": "180000026",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_BodyMuglerM",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "180000027",
+          "type": "ch"
+        },
+        {
+          "id": "180000027",
+          "type": "ls"
+        },
+        {
+          "id": "180000027",
+          "type": "rs"
+        }
+      ]
     }
   ]
 }
