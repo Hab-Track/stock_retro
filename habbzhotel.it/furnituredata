@@ -53400,6 +53400,28 @@
         "specialtype": 0
       },
       {
+        "id": 1780005709,
+        "classname": "wf_act_habbzhotelyt",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Effetto WIRED: YouTube",
+        "customparams": "",
+        "specialtype": 0
+      },
+      {
+        "id": 1780005710,
+        "classname": "wf_trg_habbzhotelyt",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Innesco WIRED: Canzone YouTube partita",
+        "customparams": "",
+        "specialtype": 0
+      },
+      {
         "id": 100001630,
         "classname": "peetblokje5",
         "defaultdir": 0,
