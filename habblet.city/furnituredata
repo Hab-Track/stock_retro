@@ -2,6 +2,64 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666105,
+        "classname": "PILAR_01_HALLOWEEN",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "PILAR_01_HALLOWEEN",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666105,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666104,
+        "classname": "BLOCO_01_HALLOWEEN",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "BLOCO_01_HALLOWEEN",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666104,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666100,
         "classname": "ld_painel_scifi_1",
         "revision": 0,
@@ -12,7 +70,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_painel_scifi_1",
+        "name": "Painel Scifi Grande",
         "description": "",
         "adurl": "",
         "offerid": 886666100,
@@ -41,7 +99,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_painel_scifi_3",
+        "name": "Painel Scifi",
         "description": "",
         "adurl": "",
         "offerid": 886666099,
@@ -70,7 +128,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_painel_scifi_2",
+        "name": "Painel Scifi",
         "description": "",
         "adurl": "",
         "offerid": 886666098,
@@ -99,7 +157,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_painel_hc_4",
+        "name": "Painel com Alavancas",
         "description": "",
         "adurl": "",
         "offerid": 886666097,
@@ -128,7 +186,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_painel_hc_3",
+        "name": "Painel de Luzes",
         "description": "",
         "adurl": "",
         "offerid": 886666096,
@@ -157,7 +215,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_painel_hc_2",
+        "name": "Painel com Botões",
         "description": "",
         "adurl": "",
         "offerid": 886666095,
@@ -186,7 +244,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_painel_hc",
+        "name": "Painel de Máquina",
         "description": "",
         "adurl": "",
         "offerid": 886666094,
@@ -215,7 +273,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_painel_2",
+        "name": "Painel de Controle",
         "description": "",
         "adurl": "",
         "offerid": 886666093,
@@ -244,7 +302,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_painel_1",
+        "name": "Painel Mecânico",
         "description": "",
         "adurl": "",
         "offerid": 886666092,
@@ -273,7 +331,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_funil",
+        "name": "Funil Mecânico",
         "description": "",
         "adurl": "",
         "offerid": 886666091,
@@ -302,8 +360,8 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_detalhes_7",
-        "description": "",
+        "name": "Drone",
+        "description": "Culpa do governo Cury!",
         "adurl": "",
         "offerid": 886666090,
         "buyout": false,
@@ -331,7 +389,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_detalhes_6",
+        "name": "Caixa de Energia",
         "description": "",
         "adurl": "",
         "offerid": 886666089,
@@ -360,7 +418,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_painel_hc_5",
+        "name": "Painel Mecânico",
         "description": "",
         "adurl": "",
         "offerid": 886666088,
@@ -389,7 +447,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_cabos_3",
+        "name": "Fios de Energia Elétrica",
         "description": "",
         "adurl": "",
         "offerid": 886666087,
@@ -418,7 +476,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_cabos_2",
+        "name": "Cabo de Eletricidade",
         "description": "",
         "adurl": "",
         "offerid": 886666086,
@@ -447,7 +505,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_cabos",
+        "name": "Cabo de Energia",
         "description": "",
         "adurl": "",
         "offerid": 886666085,
@@ -476,7 +534,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_detalhes_4",
+        "name": "Raio Laser",
         "description": "",
         "adurl": "",
         "offerid": 886666084,
@@ -505,7 +563,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_detalhes_3",
+        "name": "Janela Espacial",
         "description": "",
         "adurl": "",
         "offerid": 886666083,
@@ -563,7 +621,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_detalhes_1",
+        "name": "Bomba Relógio",
         "description": "",
         "adurl": "",
         "offerid": 886666081,
@@ -592,7 +650,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_detalhes",
+        "name": "Detalhes Mecânicos",
         "description": "",
         "adurl": "",
         "offerid": 886666080,
@@ -621,7 +679,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_cabos_5",
+        "name": "Fios Cyber",
         "description": "",
         "adurl": "",
         "offerid": 886666079,
@@ -650,7 +708,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_cabos_4RGP",
+        "name": "Cabos Elétricos",
         "description": "",
         "adurl": "",
         "offerid": 886666078,
@@ -679,7 +737,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Ld_antena_direcional",
+        "name": "Antena Mecânica",
         "description": "",
         "adurl": "",
         "offerid": 886666077,
@@ -708,7 +766,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_alavanca_7",
+        "name": "Interruptor Mecânico",
         "description": "",
         "adurl": "",
         "offerid": 886666076,
@@ -737,7 +795,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_alavanca_6",
+        "name": "Alavanca Steampunk",
         "description": "",
         "adurl": "",
         "offerid": 886666075,
@@ -766,7 +824,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_alavanca_5",
+        "name": "Alavanca Mecânica",
         "description": "",
         "adurl": "",
         "offerid": 886666074,
@@ -795,7 +853,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_alavanca_4",
+        "name": "Alavanca de Metal",
         "description": "",
         "adurl": "",
         "offerid": 886666073,
@@ -824,7 +882,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_alavanca_3",
+        "name": "Alavanca de Parede",
         "description": "",
         "adurl": "",
         "offerid": 886666072,
@@ -853,7 +911,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_alavanca_2",
+        "name": "Alavanca Antiga",
         "description": "",
         "adurl": "",
         "offerid": 886666071,
@@ -882,7 +940,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ld_alavanca_1",
+        "name": "Alavanca de Controle",
         "description": "",
         "adurl": "",
         "offerid": 886666070,
@@ -911,7 +969,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Ld_antena_parabolica_1",
+        "name": "Antena Parabólica Grande",
         "description": "",
         "adurl": "",
         "offerid": 886666069,
@@ -940,7 +998,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Ld_antena_parabolica",
+        "name": "Antena Parabólica Escura",
         "description": "",
         "adurl": "",
         "offerid": 886666068,
@@ -13990,7 +14048,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "sc26_alchemykit",
+        "name": "Kit de Alquimia",
         "description": "",
         "adurl": "",
         "offerid": 886664863,
@@ -14019,7 +14077,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "sc26_flyingbook",
+        "name": "Livro Voador",
         "description": "",
         "adurl": "",
         "offerid": 886664862,
@@ -14048,7 +14106,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "sc26_transmogrification",
+        "name": "Prática de Transmogrificação",
         "description": "",
         "adurl": "",
         "offerid": 886664861,
@@ -14077,7 +14135,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "sc26_wanddisplay",
+        "name": "Suporte de Varinhas Mágicas",
         "description": "",
         "adurl": "",
         "offerid": 886664860,
@@ -14222,7 +14280,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_broomstickrack",
+        "name": "Suporte para Vassouras",
         "description": "",
         "adurl": "",
         "offerid": 886664855,
@@ -14251,7 +14309,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_ingredientshelf",
+        "name": "Prateleira de Ingredientes Mágicos",
         "description": "",
         "adurl": "",
         "offerid": 886664854,
@@ -14309,7 +14367,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_spellingredients",
+        "name": "Ingredientes Mágicos",
         "description": "",
         "adurl": "",
         "offerid": 886664852,
@@ -14396,7 +14454,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_witchworkstation",
+        "name": "Escrivaninha de Bruxaria",
         "description": "",
         "adurl": "",
         "offerid": 886664849,
@@ -14425,7 +14483,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_sc_towernook",
+        "name": "Torre do Mago",
         "description": "",
         "adurl": "",
         "offerid": 886664848,
@@ -14454,7 +14512,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_c26_dresserb",
+        "name": "Cômoda Vintage",
         "description": "",
         "adurl": "",
         "offerid": 886664847,
@@ -14483,7 +14541,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_c26_darkfiendb",
+        "name": "Demônio Experimental",
         "description": "",
         "adurl": "",
         "offerid": 886664846,
@@ -14512,7 +14570,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_c26_gallerywall",
+        "name": "Pinturas Macabras",
         "description": "",
         "adurl": "",
         "offerid": 886664845,
@@ -14541,7 +14599,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_c26_wornfloorboards",
+        "name": "Pisos Gastos",
         "description": "",
         "adurl": "",
         "offerid": 886664844,
@@ -14552,7 +14610,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -14570,7 +14628,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_c26_window",
+        "name": "Janela Macabra",
         "description": "",
         "adurl": "",
         "offerid": 886664843,
@@ -14599,7 +14657,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_c26_skullvase",
+        "name": "Vaso de Caveira",
         "description": "",
         "adurl": "",
         "offerid": 886664842,
@@ -14628,7 +14686,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_c26_secretdoor",
+        "name": "Porta Secreta de Estante",
         "description": "",
         "adurl": "",
         "offerid": 886664841,
@@ -14657,7 +14715,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_c26_readingcouch",
+        "name": "Sofá de Leitura Vintage",
         "description": "",
         "adurl": "",
         "offerid": 886664840,
@@ -14686,7 +14744,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_c26_readingchair",
+        "name": "Cadeira de Leitura Vintage",
         "description": "",
         "adurl": "",
         "offerid": 886664839,
@@ -14698,7 +14756,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -14715,7 +14773,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_c26_letters",
+        "name": "Cartas Esquecidas",
         "description": "",
         "adurl": "",
         "offerid": 886664838,
@@ -14744,7 +14802,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_c26_letteropener",
+        "name": "Abridor de Carta Elegante",
         "description": "",
         "adurl": "",
         "offerid": 886664837,
@@ -14773,7 +14831,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_c26_ivystatue",
+        "name": "Estátua Coberta de Hera",
         "description": "",
         "adurl": "",
         "offerid": 886664836,
@@ -14802,7 +14860,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_c26_ivycandle",
+        "name": "Vela Coberta de Hera",
         "description": "",
         "adurl": "",
         "offerid": 886664835,
@@ -14831,7 +14889,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_c26_hauntedmirror",
+        "name": "Espelho Assombrado",
         "description": "",
         "adurl": "",
         "offerid": 886664834,
@@ -14860,7 +14918,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_c26_hatchteleport",
+        "name": "Teleporte Alçapão",
         "description": "",
         "adurl": "",
         "offerid": 886664833,
@@ -14889,7 +14947,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_c26_gothcandle",
+        "name": "Vela Gótica",
         "description": "",
         "adurl": "",
         "offerid": 886664832,
@@ -14918,7 +14976,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_c26_glassdisplay",
+        "name": "Vitrine de Vidro Macabra",
         "description": "",
         "adurl": "",
         "offerid": 886664831,
@@ -14947,7 +15005,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_c26_circle",
+        "name": "Círculo de Invocação",
         "description": "",
         "adurl": "",
         "offerid": 886664830,
@@ -14958,7 +15016,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -14976,7 +15034,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_c26_cage",
+        "name": "Gaiola Decorativa",
         "description": "",
         "adurl": "",
         "offerid": 886664829,
@@ -15005,7 +15063,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_c26_bookshelf",
+        "name": "Estante do Chão ao Teto",
         "description": "",
         "adurl": "",
         "offerid": 886664828,
@@ -15034,7 +15092,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_c26_batpillow",
+        "name": "Almofada Morcego",
         "description": "",
         "adurl": "",
         "offerid": 886664827,
@@ -17180,7 +17238,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Farol ",
+        "name": "Farol",
         "description": "",
         "adurl": "",
         "offerid": -1,
