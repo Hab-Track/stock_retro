@@ -1344635,7 +1344635,7 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Oeuf Scream II (EX)",
+        "name": "Oeuf Scream II (UR)",
         "description": "Ce mobilier n'a pas de description.",
         "adurl": "",
         "offerid": 1425662240,
@@ -1344649,7 +1344649,12 @@
         "enableCursor": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425658920,
