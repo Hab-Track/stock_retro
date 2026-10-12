@@ -683257,14 +683257,6 @@
         "offerid": 2000028640
       },
       {
-        "id": 2000028641,
-        "classname": "hween_c25_infected2",
-        "name": "Mushroom Infected",
-        "xdim": 1,
-        "ydim": 1,
-        "offerid": 2000028641
-      },
-      {
         "id": 2000028642,
         "classname": "hween_c25_infected3",
         "name": "Poisonous Infected",
@@ -697128,6 +697120,33 @@
         "description": "",
         "adurl": "",
         "offerid": 2000459198,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "rare": false,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
+      },
+      {
+        "id": 2000459207,
+        "classname": "hween_c25_infected2",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "mushroom infected",
+        "description": "",
+        "adurl": "",
+        "offerid": 2000459207,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
