@@ -1554912,6 +1554912,64 @@
         "partcolors": {
           "color": []
         }
+      },
+      {
+        "id": 146346,
+        "classname": "wf_xtra_var_leaderboard",
+        "revision": 75953,
+        "category": "wired",
+        "name": "Complemento de Variable WIRED: Tabla de Clasificación",
+        "description": "wf_xtra_var_leaderboard desc",
+        "adurl": "",
+        "offerid": 146346,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "1005",
+        "specialtype": 1,
+        "furniline": "wired",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "canstandon": true,
+        "cansiton": false,
+        "canlayon": false,
+        "partcolors": {
+          "color": []
+        }
+      },
+      {
+        "id": 146347,
+        "classname": "wf_label",
+        "revision": 75953,
+        "category": "wired",
+        "name": "Etiqueta WIRED",
+        "description": "wf_label desc",
+        "adurl": "",
+        "offerid": 146347,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "furniline": "wired",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "partcolors": {
+          "color": []
+        }
       }
     ]
   },
