@@ -1093092,6 +1093092,233 @@
         "name": "Pop Art Pubblicitario HC",
         "customparams": "",
         "specialtype": 0
+      },
+      {
+        "id": 194900066,
+        "classname": "wf_trg_room_initializes",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Innesco WIRED: Stanza Inizializzata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900067,
+        "classname": "wf_trg_receive_message",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Innesco WIRED: Ricevi Messaggio Link",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900068,
+        "classname": "wf_trg_receive_dataframe",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Innesco WIRED: Ricevi Dataframe Link",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900069,
+        "classname": "wf_act_set_highlight",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Effetto WIRED: Imposta Evidenziazione Furni",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900070,
+        "classname": "wf_act_set_visibility",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Effetto WIRED: Imposta Trasparenza Furni",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900071,
+        "classname": "wf_act_send_message",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Effetto WIRED: Invia Messaggio Link",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900072,
+        "classname": "wf_act_send_dataframe",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Effetto WIRED: Invia Dataframe Link",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900073,
+        "classname": "wf_label",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Etichetta WIRED",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900074,
+        "classname": "wf_link",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Link WIRED",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900075,
+        "classname": "wf_xtra_link_speaker",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Altoparlante Link WIRED",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900076,
+        "classname": "wf_var_pointer",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Variabile WIRED: Variabile Puntatore",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900077,
+        "classname": "wf_xtra_var_share",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Accessorio Variabile: Condividi",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900078,
+        "classname": "wf_xtra_var_import",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Accessorio Variabile: Importa",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900079,
+        "classname": "wf_xtra_var_leaderboard",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Accessorio Variabile: Classifica",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 100011301,
+        "classname": "hz_tela_galleria4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tela personalizzata Galleria (4 pannelli)",
+        "customparams": "",
+        "specialtype": 0
+      },
+      {
+        "id": 100011302,
+        "classname": "hz_tela_galleria3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tela personalizzata Galleria (3 pannelli)",
+        "customparams": "",
+        "specialtype": 0
+      },
+      {
+        "id": 100011303,
+        "classname": "hz_tela_ospedale2",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tela personalizzata Ospedale (2 pannelli)",
+        "description": "Carica la tua immagine dal pannello del furno: si adatta da sola alla tela.",
+        "adurl": "",
+        "offerid": -1,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 100011304,
+        "classname": "hz_tela_citta3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tela personalizzata Città (3 pannelli)",
+        "customparams": "",
+        "specialtype": 0
+      },
+      {
+        "id": 100011305,
+        "classname": "hz_tela_astratto4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tela personalizzata Astratto (4 pannelli)",
+        "customparams": "",
+        "specialtype": 0
       }
     ]
   },
@@ -1108158,6 +1108385,13 @@
         "name": "Quadro Astratto",
         "customparams": "",
         "specialtype": 1
+      },
+      {
+        "id": 100011306,
+        "classname": "hz_tela_cornice_legno",
+        "name": "Quadro personalizzato con cornice",
+        "customparams": "",
+        "specialtype": 0
       }
     ]
   }
