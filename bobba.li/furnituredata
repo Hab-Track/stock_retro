@@ -1015611,6 +1015611,35 @@
         "furniline": "wired",
         "environment": "",
         "rare": 0
+      },
+      {
+        "id": 1996842153,
+        "classname": "sk_imposter_karte",
+        "revision": 1,
+        "category": "",
+        "defaultdir": 2,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Imposter-Karte",
+        "description": "Eine Karte für Imposter. Wer bekommt die Karte mit der Maske?",
+        "adurl": "",
+        "offerid": -1,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
       }
     ]
   },
