@@ -2,6 +2,35 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666209,
+        "classname": "seasidehabblet_37",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "seasidehabblet_37",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666209,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666208,
         "classname": "ithalo_medieval_janela",
         "revision": 0,
@@ -2129,7 +2158,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_14",
+        "name": "Estante de Bruxaria",
         "description": "",
         "adurl": "",
         "offerid": 886666135,
@@ -2158,7 +2187,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_13",
+        "name": "Prateleira de Livros ",
         "description": "",
         "adurl": "",
         "offerid": 886666134,
@@ -2187,7 +2216,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_12",
+        "name": "Parede da Biblioteca",
         "description": "",
         "adurl": "",
         "offerid": 886666133,
@@ -2216,7 +2245,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_11",
+        "name": "Mesinha de Cabeceira do Castelo",
         "description": "",
         "adurl": "",
         "offerid": 886666132,
@@ -2245,7 +2274,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_10",
+        "name": "Vassoura Mágica",
         "description": "",
         "adurl": "",
         "offerid": 886666131,
@@ -2274,7 +2303,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_09",
+        "name": "Caldeirão Enfeitiçado",
         "description": "",
         "adurl": "",
         "offerid": 886666130,
@@ -2303,7 +2332,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_08",
+        "name": "Livros de Bruxaria",
         "description": "",
         "adurl": "",
         "offerid": 886666129,
@@ -2332,7 +2361,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_07",
+        "name": "Ingredientes de Bruxaria",
         "description": "",
         "adurl": "",
         "offerid": 886666128,
@@ -2361,7 +2390,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_06",
+        "name": "Decoração Macabra",
         "description": "",
         "adurl": "",
         "offerid": 886666127,
@@ -2390,7 +2419,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_05",
+        "name": "Poltrona de Leitura Vintage",
         "description": "",
         "adurl": "",
         "offerid": 886666126,
@@ -2402,7 +2431,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -2419,7 +2448,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_04",
+        "name": "Quadros do Castelo",
         "description": "",
         "adurl": "",
         "offerid": 886666125,
@@ -2448,7 +2477,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_03",
+        "name": "Armário da Biblioteca",
         "description": "",
         "adurl": "",
         "offerid": 886666124,
@@ -2477,7 +2506,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_02",
+        "name": "Corvo do Castelo",
         "description": "",
         "adurl": "",
         "offerid": 886666123,
@@ -2506,7 +2535,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_01",
+        "name": "Salém",
         "description": "",
         "adurl": "",
         "offerid": 886666122,
@@ -13207,8 +13236,8 @@
         "partcolors": {
           "color": []
         },
-        "name": "Lancha de Luxo",
-        "description": "a",
+        "name": "Lancha de Luxo LTD",
+        "description": "Edição Limitada - Outubro/2026",
         "adurl": "",
         "offerid": 886665200,
         "buyout": false,
@@ -146052,7 +146081,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h25_summeryacht",
+        "name": "Mini Iate",
         "description": "",
         "adurl": "",
         "offerid": 886650264,
@@ -146139,7 +146168,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h25_summersub",
+        "name": "Mini Submarino",
         "description": "",
         "adurl": "",
         "offerid": 886650261,
@@ -146429,7 +146458,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h25_summerboat",
+        "name": "Mini Bote",
         "description": "",
         "adurl": "",
         "offerid": 886650251,
@@ -354903,8 +354932,8 @@
         "partcolors": {
           "color": []
         },
-        "name": "Musa do Verão",
-        "description": "",
+        "name": "Musa do Verão LTD",
+        "description": "Edição Limitada - Outubro/2026",
         "adurl": "",
         "offerid": 886617553,
         "buyout": false,
