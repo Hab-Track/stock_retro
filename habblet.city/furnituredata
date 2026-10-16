@@ -2,6 +2,35 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666210,
+        "classname": "Habblet_trofconcha",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Concha Dourada",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666210,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666209,
         "classname": "seasidehabblet_37",
         "revision": 0,
@@ -12,7 +41,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "seasidehabblet_37",
+        "name": "Bóia Colorida",
         "description": "",
         "adurl": "",
         "offerid": 886666209,
@@ -24,7 +53,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -19674,8 +19703,8 @@
         "partcolors": {
           "color": []
         },
-        "name": "qt_sum11_chair",
-        "description": "",
+        "name": "Trono Cavalo Marinho LTD",
+        "description": "Edição Limitada - Outubro/2026",
         "adurl": "",
         "offerid": 886664711,
         "buyout": false,
@@ -64137,7 +64166,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -64196,7 +64225,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -119399,8 +119428,8 @@
         "partcolors": {
           "color": []
         },
-        "name": "lotus_paresol_boreal",
-        "description": "",
+        "name": "Guarda-Sol Boreal",
+        "description": "Edição Limitada - Outubro/2026",
         "adurl": "",
         "offerid": 886653942,
         "buyout": false,
@@ -146052,7 +146081,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h25_summeryacht_dlx",
+        "name": "Mini Iate Dourado",
         "description": "",
         "adurl": "",
         "offerid": 886650265,
@@ -146139,7 +146168,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h25_summersub_dlx",
+        "name": "Mini Submarino Dourado",
         "description": "",
         "adurl": "",
         "offerid": 886650262,
@@ -146209,7 +146238,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -146412,7 +146441,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -146429,7 +146458,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h25_summerboat_dlx",
+        "name": "Mini Bote Dourado",
         "description": "",
         "adurl": "",
         "offerid": 886650252,
@@ -197197,8 +197226,8 @@
         "partcolors": {
           "color": []
         },
-        "name": "irinc_shadow_rainbowparasol",
-        "description": "",
+        "name": "Guarda-Sol Colorido LTD",
+        "description": "Edição Limitada - Outubro/2026",
         "adurl": "",
         "offerid": 886645875,
         "buyout": false,
@@ -197313,8 +197342,8 @@
         "partcolors": {
           "color": []
         },
-        "name": "irinc_shadow_rainbowfan",
-        "description": "",
+        "name": "Ventilador Colorido LTD",
+        "description": "Edição Limitada - Outubro/2026",
         "adurl": "",
         "offerid": 886645871,
         "buyout": false,
@@ -197458,8 +197487,8 @@
         "partcolors": {
           "color": []
         },
-        "name": "iron_shadow_rainbowicecream",
-        "description": "",
+        "name": "Sorveteira Colorida LTD",
+        "description": "Edição Limitada - Outubro/2026",
         "adurl": "",
         "offerid": 886645866,
         "buyout": false,
