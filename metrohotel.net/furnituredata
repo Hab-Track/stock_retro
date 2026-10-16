@@ -2,6 +2,32 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 2100003837,
+        "classname": "wf_label",
+        "revision": 1,
+        "category": "unknown",
+        "name": "wf_label",
+        "description": "",
+        "adurl": "",
+        "offerid": -1,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        }
+      },
+      {
         "id": 2100003822,
         "classname": "wf_trg_room_initializes",
         "revision": 1,
