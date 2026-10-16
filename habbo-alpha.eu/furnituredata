@@ -825730,12 +825730,12 @@
         "revision": 59005,
         "category": "unknown",
         "defaultdir": 0,
-        "xdim": 1,
+        "xdim": 2,
         "ydim": 1,
         "partcolors": {
           "color": []
         },
-        "name": "Canapé vivant",
+        "name": "hween_c20_eyesofa_name",
         "description": "Mobi : Canapé vivant.",
         "adurl": "",
         "offerid": 23497471,
@@ -825747,7 +825747,7 @@
         "customparams": "",
         "specialtype": 0,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "",
         "environment": "",
