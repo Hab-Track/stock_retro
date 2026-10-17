@@ -697251,6 +697251,33 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false
+      },
+      {
+        "id": 2000459211,
+        "classname": "pj_c26_nightlightghost",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Glowing Ghost Night Light",
+        "description": "",
+        "adurl": "",
+        "offerid": 2000459211,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "rare": false,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
       }
     ]
   },
