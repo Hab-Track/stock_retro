@@ -563820,6 +563820,35 @@
         "furniline": "",
         "environment": "",
         "rare": false
+      },
+      {
+        "id": 29935,
+        "classname": "origins_glukko_tub",
+        "revision": 1337,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Glukko Tub",
+        "description": "A wooden tub with a rather unusual brew.",
+        "adurl": "",
+        "offerid": -1,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
       }
     ]
   },
