@@ -952401,6 +952401,35 @@
         "rare": 0
       },
       {
+        "id": 1996842200,
+        "classname": "wf_trg_click_tile",
+        "name": "WIRED Auslöser: User klickt auf Fliese",
+        "revision": 0,
+        "description": "",
+        "category": "wired",
+        "offerid": 1996842200,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "adurl": "unknown",
+        "type": 0,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "canstandon": true,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "unknown",
+        "environment": "",
+        "rare": 0
+      },
+      {
         "id": 1996839980,
         "classname": "conf_area_hide",
         "name": "Raumbereichausblender",
