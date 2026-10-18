@@ -2,6 +2,35 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666299,
+        "classname": "Bletween26_41",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bletween26_41",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666299,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666298,
         "classname": "Bletween26_40",
         "revision": 0,
@@ -144428,8 +144457,8 @@
         "partcolors": {
           "color": []
         },
-        "name": "Módulo Piscina Iate",
-        "description": "",
+        "name": "Iate Completo",
+        "description": "Iate completo",
         "adurl": "",
         "offerid": 886651475,
         "buyout": false,
