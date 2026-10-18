@@ -953068,6 +953068,35 @@
         "rare": 0
       },
       {
+        "id": 1996842201,
+        "classname": "conf_chooser_disable",
+        "name": ":chooser Deaktivierer",
+        "revision": 0,
+        "description": "Sperrt :chooser und :furni im Raum für alle ohne Raumrechte.",
+        "category": null,
+        "offerid": 1996842201,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "adurl": "unknown",
+        "type": 0,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "unknown",
+        "environment": "",
+        "rare": 0
+      },
+      {
         "id": 1996840020,
         "classname": "conf_wired_disable",
         "name": "Wired Deaktivierer",
