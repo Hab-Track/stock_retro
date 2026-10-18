@@ -303029,6 +303029,17 @@
         "specialtype": 1
       },
       {
+        "id": 100023090,
+        "classname": "conf_chooser_disable",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Disattivatore di :chooser",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
         "id": 100011223,
         "classname": "country_nt_rbw",
         "defaultdir": 0,
@@ -1047088,7 +1047099,7 @@
             "B5A642"
           ]
         },
-        "name": "Monolito Rubino",
+        "name": "Monolite Rubino",
         "customparams": "",
         "specialtype": 0
       },
