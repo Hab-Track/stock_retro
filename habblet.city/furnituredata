@@ -2,6 +2,35 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666304,
+        "classname": "Bletween26_15",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Vassouras Enfeitiçadas",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666304,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666303,
         "classname": "Bletween26_44",
         "revision": 0,
@@ -12,7 +41,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_44",
+        "name": "Parede Interior do Castelo",
         "description": "",
         "adurl": "",
         "offerid": 886666303,
@@ -41,7 +70,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_43",
+        "name": "Escada do Castelo",
         "description": "",
         "adurl": "",
         "offerid": 886666302,
@@ -70,7 +99,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_42",
+        "name": "Pilar de Pedras do Castelo",
         "description": "",
         "adurl": "",
         "offerid": 886666301,
@@ -99,7 +128,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_41",
+        "name": "Bloco do Castelo",
         "description": "",
         "adurl": "",
         "offerid": 886666299,
@@ -128,7 +157,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_40",
+        "name": "Janela da Torre",
         "description": "",
         "adurl": "",
         "offerid": 886666298,
@@ -157,7 +186,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_37",
+        "name": "Vitral do Castelo",
         "description": "",
         "adurl": "",
         "offerid": 886666297,
@@ -244,7 +273,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_39",
+        "name": "Telhado de Canto",
         "description": "",
         "adurl": "",
         "offerid": 886666291,
@@ -1288,7 +1317,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_38",
+        "name": "Coluna de Pedras do Castelo",
         "description": "",
         "adurl": "",
         "offerid": 886666255,
@@ -1346,7 +1375,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_36",
+        "name": "Pilar de Madeira",
         "description": "",
         "adurl": "",
         "offerid": 886666253,
@@ -1375,7 +1404,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_35",
+        "name": "Borda de Madeira",
         "description": "",
         "adurl": "",
         "offerid": 886666252,
@@ -1404,7 +1433,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_34",
+        "name": "Torre do Castelo",
         "description": "",
         "adurl": "",
         "offerid": 886666251,
@@ -1433,7 +1462,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_33",
+        "name": "Telhado do Vilarejo",
         "description": "",
         "adurl": "",
         "offerid": 886666250,
@@ -1462,7 +1491,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_32",
+        "name": "Janelas do Castelo",
         "description": "",
         "adurl": "",
         "offerid": 886666249,
@@ -1491,7 +1520,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_31",
+        "name": "Janela Interior do Castelo",
         "description": "",
         "adurl": "",
         "offerid": 886666248,
@@ -1520,7 +1549,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_30",
+        "name": "Torre do Vilarejo",
         "description": "",
         "adurl": "",
         "offerid": 886666247,
@@ -1549,7 +1578,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_29",
+        "name": "Arco do Vilarejo",
         "description": "",
         "adurl": "",
         "offerid": 886666246,
@@ -1607,7 +1636,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_27",
+        "name": "Telhado da Torre",
         "description": "",
         "adurl": "",
         "offerid": 886666244,
@@ -1694,7 +1723,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_24",
+        "name": "Janelinha da Torre",
         "description": "",
         "adurl": "",
         "offerid": 886666241,
@@ -1723,7 +1752,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_23",
+        "name": "Parede do Vilarejo II",
         "description": "",
         "adurl": "",
         "offerid": 886666240,
@@ -1752,7 +1781,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_22",
+        "name": "Parede do Vilarejo",
         "description": "",
         "adurl": "",
         "offerid": 886666239,
@@ -1781,7 +1810,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_21",
+        "name": "Bloco do Vilarejo",
         "description": "",
         "adurl": "",
         "offerid": 886666238,
@@ -1810,7 +1839,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_20",
+        "name": "Cerca do Vilarejo",
         "description": "",
         "adurl": "",
         "offerid": 886666237,
@@ -1958,7 +1987,7 @@
         "name": "Pequeno Troféu Madrepérola",
         "description": "Uma lembrança dos dias ensolarados, das cores tropicais e dos momentos vividos em Onda de Cores!",
         "adurl": "",
-        "offerid": 886666232,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -2045,7 +2074,7 @@
         "name": "Troféu Madrepérola Preciosa",
         "description": "Apenas um mestre artesão marinho possui um desses.",
         "adurl": "",
-        "offerid": 886666229,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -22084,7 +22113,7 @@
         "name": "Trono Cavalo Marinho LTD",
         "description": "Edição Limitada - Outubro/2026",
         "adurl": "",
-        "offerid": 886664711,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
