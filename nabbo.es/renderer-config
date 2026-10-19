@@ -14,7 +14,7 @@
   "external.texts.version": "24",
   "ui.texts.version": "15",
   "external.samples.url": "${hof.furni.url}/mp3/sound_machine_sample_%sample%.mp3",
-  "furnidata.url": "${gamedata.url}/json/FurnitureData.json",
+  "furnidata.url": "https://swfs.nabbo.es/gamedata/json/v73-discord-20261018/FurnitureData.v73-discord-20261018.json",
   "productdata.url": "${gamedata.url}/json/ProductData.json",
   "avatar.actions.url": "${gamedata.url}/json/HabboAvatarActions.json",
   "avatar.figuredata.url": "${gamedata.url}/json/FigureData_new.json",
@@ -604,5 +604,5 @@
   ],
   "preload.assets.urls": [],
   "gamedata": "https://swfs3.nabbo.es",
-  "furnidata.compact.url": "https://swfs.nabbo.es/gamedata/json/v72-20261007-682145d8/FurnitureData.compact.v72-20261007-682145d8.json"
+  "furnidata.compact.url": "https://swfs.nabbo.es/gamedata/json/v73-discord-20261018/FurnitureData.compact.v73-discord-20261018.json"
 }
