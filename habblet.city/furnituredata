@@ -2,6 +2,35 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666305,
+        "classname": "Bletween_26_estufa_intern",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 5,
+        "ydim": 3,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bletween_26_estufa_intern",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666305,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666304,
         "classname": "Bletween26_15",
         "revision": 0,
