@@ -961257,6 +961257,35 @@
         "furniline": "Hugor",
         "environment": "",
         "rare": false
+      },
+      {
+        "id": 115922,
+        "classname": "tv_hobba_26_elewood_small",
+        "revision": 49500,
+        "category": "unknown",
+        "defaultdir": 2,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tarima en altura pequeña",
+        "description": "Y crece, y crece, y crece...",
+        "adurl": "",
+        "offerid": 80899,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "Eduard",
+        "environment": "",
+        "rare": false
       }
     ]
   },
