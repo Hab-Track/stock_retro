@@ -528565,6 +528565,35 @@
         "furniline": "trophies",
         "environment": "",
         "rare": false
+      },
+      {
+        "id": 19414,
+        "classname": "nft_emerald_tome_5000",
+        "revision": 76020,
+        "category": "other",
+        "defaultdir": 2,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "nft_emerald_tome_5000 name",
+        "description": "nft_emerald_tome_5000 desc",
+        "adurl": "",
+        "offerid": -1,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "nft2026",
+        "environment": "",
+        "rare": false
       }
     ]
   },
