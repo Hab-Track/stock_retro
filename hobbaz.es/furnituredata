@@ -389,7 +389,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wired variable: Endpoint",
+        "name": "Variable WIRED: Variable Puntero",
         "description": "",
         "adurl": "",
         "offerid": 27505,
@@ -476,7 +476,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Complemento de variable wired: Importar",
+        "name": "Complemento de Variable WIRED: Importar",
         "description": "",
         "adurl": "",
         "offerid": 27508,
@@ -534,7 +534,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Complemento de variable wired: Publicar",
+        "name": "Complemento de Variable WIRED: Compartir",
         "description": "",
         "adurl": "",
         "offerid": 27510,
@@ -563,7 +563,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wired efecto: Cancelar transacción",
+        "name": "Efecto WIRED: Cancelar Transacción",
         "description": "",
         "adurl": "",
         "offerid": 24939,
@@ -592,7 +592,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wired efecto: Dar moneda",
+        "name": "Efecto WIRED: Dar Moneda desde Cofre",
         "description": "",
         "adurl": "",
         "offerid": 24940,
@@ -621,7 +621,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wired efecto: Dar furni",
+        "name": "Efecto WIRED: Dar Furni desde Cofre",
         "description": "",
         "adurl": "",
         "offerid": 24941,
@@ -650,7 +650,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wired efecto: Iniciar transacción",
+        "name": "Efecto WIRED: Iniciar Transacción",
         "description": "",
         "adurl": "",
         "offerid": 24942,
@@ -679,7 +679,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wired condición: Cofre contiene items",
+        "name": "Condición WIRED: Cantidad en Cofre",
         "description": "",
         "adurl": "",
         "offerid": 24943,
@@ -708,7 +708,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wired condición: Cofre contiene tipo de item",
+        "name": "Condición WIRED: Cofre Contiene Tipo de Furni",
         "description": "",
         "adurl": "",
         "offerid": 24944,
@@ -737,7 +737,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Contrato de pago",
+        "name": "Contrato WIRED: Contrato de Pago",
         "description": "",
         "adurl": "",
         "offerid": 24945,
@@ -766,7 +766,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Contrado de recompensa",
+        "name": "Contrato WIRED: Contrato de Recompensa",
         "description": "",
         "adurl": "",
         "offerid": 24946,
@@ -795,7 +795,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Contrato de tradeo",
+        "name": "Contrato WIRED: Contrato de Tradeo",
         "description": "",
         "adurl": "",
         "offerid": 24947,
@@ -824,7 +824,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Cofre de monedas negro",
+        "name": "Cofre WIRED: Cofre de Créditos",
         "description": "",
         "adurl": "",
         "offerid": 24948,
@@ -853,7 +853,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Cofre de monedas blanco",
+        "name": "Cofre WIRED: Cofre de Créditos II",
         "description": "",
         "adurl": "",
         "offerid": 24949,
@@ -882,7 +882,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Cofre de furnis marrón",
+        "name": "Cofre WIRED: Cofre de Furnis",
         "description": "",
         "adurl": "",
         "offerid": 24950,
@@ -911,7 +911,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Cofre de furnis beige",
+        "name": "Cofre WIRED: Cofre de Furnis II",
         "description": "",
         "adurl": "",
         "offerid": 24951,
@@ -940,7 +940,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Cofre de furnis inicial",
+        "name": "Cofre WIRED: Cofre de Furnis de Inicio",
         "description": "",
         "adurl": "",
         "offerid": 24952,
@@ -969,7 +969,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wired causante: Transacción completada",
+        "name": "Causante WIRED: Transacción Completada",
         "description": "",
         "adurl": "",
         "offerid": 24953,
@@ -998,7 +998,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wired causante: Transacción fallida",
+        "name": "Causante WIRED: Transacción Fallida",
         "description": "",
         "adurl": "",
         "offerid": 24954,
@@ -1027,7 +1027,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wired addon: Contrato custom",
+        "name": "Complemento WIRED: Contrato Personalizado",
         "description": "",
         "adurl": "",
         "offerid": 24955,
@@ -1056,7 +1056,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wired addon: Análisis de cofre de furnis por tipo",
+        "name": "Complemento Escáner WIRED: Tipos de Furni en Cofre",
         "description": "",
         "adurl": "",
         "offerid": 24956,
