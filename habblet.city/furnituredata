@@ -2,6 +2,64 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666307,
+        "classname": "Bolo_Phy",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bolo_Phy",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666307,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666306,
+        "classname": "Coroa_cdb8",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Coroa_cdb8",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666306,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666305,
         "classname": "Bletween_26_estufa_intern",
         "revision": 0,
@@ -2506,7 +2564,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_medieval_janela",
+        "name": "Janela Rústica do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666208,
@@ -2535,7 +2593,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_medieval_parede",
+        "name": "Parede Rústica do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666207,
@@ -2564,7 +2622,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_medieval_pilar1",
+        "name": "Pilar Alto do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666206,
@@ -2593,7 +2651,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "avalon_medieval_block",
+        "name": "Bloco de Tijolos do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666205,
@@ -2622,7 +2680,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_medieval_sofa1",
+        "name": "Sofá Rústico do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666204,
@@ -2651,7 +2709,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "country_snowy",
+        "name": "Grama do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666203,
@@ -2662,7 +2720,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -2680,7 +2738,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_medieval_escada",
+        "name": "Escada do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666202,
@@ -2709,7 +2767,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_medieval_redon",
+        "name": "Bloco de Torre",
         "description": "",
         "adurl": "",
         "offerid": 886666201,
@@ -2738,7 +2796,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_medieval_three2",
+        "name": "Árvore Alta II",
         "description": "",
         "adurl": "",
         "offerid": 886666200,
@@ -2767,7 +2825,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_medieval_three1",
+        "name": "Árvore Alta",
         "description": "",
         "adurl": "",
         "offerid": 886666199,
@@ -2796,7 +2854,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_medieval_rocks",
+        "name": "Bloco de Pedra do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666198,
@@ -2825,7 +2883,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_medieval_divisor",
+        "name": "Biombo do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666197,
@@ -2854,7 +2912,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_medieval_cortina",
+        "name": "Cortina do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666196,
@@ -2883,7 +2941,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_medieval_canto",
+        "name": "Borda de Mármore",
         "description": "",
         "adurl": "",
         "offerid": 886666195,
@@ -2912,7 +2970,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_medieval_blockd",
+        "name": "Bloco Diagonal do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666194,
@@ -2941,7 +2999,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_medieval_block",
+        "name": "Bloco de Mármore do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666193,
@@ -2970,7 +3028,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_medieval_halfblockd",
+        "name": "Bloco Diagonal Baixo",
         "description": "",
         "adurl": "",
         "offerid": 886666192,
@@ -2999,7 +3057,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "leheart_nevadaarvore3",
+        "name": "Árvore Grande do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666191,
@@ -3023,12 +3081,12 @@
         "revision": 0,
         "category": "unknown",
         "defaultdir": 0,
-        "xdim": 1,
+        "xdim": 2,
         "ydim": 1,
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_medieval_arco",
+        "name": "Arco Grego",
         "description": "",
         "adurl": "",
         "offerid": 886666190,
@@ -3052,12 +3110,12 @@
         "revision": 0,
         "category": "unknown",
         "defaultdir": 0,
-        "xdim": 1,
+        "xdim": 2,
         "ydim": 1,
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_medieval_pillar",
+        "name": "Pilares Gregos",
         "description": "",
         "adurl": "",
         "offerid": 886666189,
@@ -3086,7 +3144,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ice_cypres",
+        "name": "Pinheiro Pequeno Nevado",
         "description": "",
         "adurl": "",
         "offerid": 886666188,
@@ -3115,7 +3173,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "bush_n",
+        "name": "Arbusto Nevado",
         "description": "",
         "adurl": "",
         "offerid": 886666187,
@@ -3144,7 +3202,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "pino_h17_inverno1",
+        "name": "Pinheiro Nevado",
         "description": "",
         "adurl": "",
         "offerid": 886666186,
@@ -3173,7 +3231,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "leheart_nevadaarvore10",
+        "name": "Árvore do Reino Nevada",
         "description": "",
         "adurl": "",
         "offerid": 886666185,
@@ -3197,12 +3255,12 @@
         "revision": 0,
         "category": "unknown",
         "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
+        "xdim": 2,
+        "ydim": 2,
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_medieval_piso",
+        "name": "Piso de Rocha",
         "description": "",
         "adurl": "",
         "offerid": 886666184,
@@ -3213,7 +3271,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -3231,7 +3289,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_medieval_piso4",
+        "name": "Piso de Pedra",
         "description": "",
         "adurl": "",
         "offerid": 886666183,
@@ -3255,12 +3313,12 @@
         "revision": 0,
         "category": "unknown",
         "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
+        "xdim": 2,
+        "ydim": 2,
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_medieval_piso5",
+        "name": "Piso Alto do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666182,
@@ -3271,7 +3329,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -3289,7 +3347,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "moonrise_block",
+        "name": "Bloco Bege do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666181,
@@ -3318,7 +3376,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "bento_pilar_classico_01",
+        "name": "Parede Imperial do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666180,
@@ -3347,7 +3405,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "bento_redondo_bege_002",
+        "name": "Bloco Circular do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666179,
@@ -3376,7 +3434,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "leheart_nevadaarvore2",
+        "name": "Árvore do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666178,
@@ -3405,7 +3463,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "gold_door5_1x2",
+        "name": "Arco de Porta do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666177,
@@ -3434,7 +3492,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "bento_bloco_bege01",
+        "name": "Bloco Liso do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666176,
@@ -3463,7 +3521,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ads_bej_chair",
+        "name": "Trono dos Reinos",
         "description": "",
         "adurl": "",
         "offerid": 886666175,
@@ -3475,7 +3533,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -3492,7 +3550,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "bento_bej00_arco_d",
+        "name": "Arco Pequeno do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666174,
@@ -3521,7 +3579,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_rockwall_begeage",
+        "name": "Parede Antiga",
         "description": "",
         "adurl": "",
         "offerid": 886666173,
@@ -3550,7 +3608,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_medieval_halfblock3",
+        "name": "Plataforma do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666172,
@@ -3579,7 +3637,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "bej_c15_chao_aur",
+        "name": "Parede Ancestral do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666171,
@@ -3608,7 +3666,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ivory_c23_tombpillar",
+        "name": "Pilar Decorado do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666170,
@@ -3637,7 +3695,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "bento_bej00_ex_specialwall_a",
+        "name": "Arco de Janelas do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666169,
@@ -3666,7 +3724,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "bento_bej00_block",
+        "name": "Bloco do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666168,
@@ -3695,7 +3753,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "bento_bej00_ex_wall_g",
+        "name": "Parede do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666167,
@@ -3724,7 +3782,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "bento_bej00_arco_aa",
+        "name": "Arco do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666166,
@@ -3753,7 +3811,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "leheart_beigeaurjanela1",
+        "name": "Grande Janela do Reino",
         "description": "",
         "adurl": "",
         "offerid": 886666165,
@@ -3782,7 +3840,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_medieval_base",
+        "name": "Base de Pedra Ancestral II",
         "description": "",
         "adurl": "",
         "offerid": 886666164,
@@ -3811,7 +3869,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_medieval_base2",
+        "name": "Base de Pedra Ancestral",
         "description": "",
         "adurl": "",
         "offerid": 886666163,
