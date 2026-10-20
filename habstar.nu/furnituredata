@@ -597582,12 +597582,12 @@
         "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
-        "ydim": 1,
+        "ydim": 3,
         "partcolors": {
           "color": []
         },
         "name": "hween16_garden_name",
-        "description": "hween16_garden_desc",
+        "description": "",
         "adurl": "",
         "offerid": -1,
         "buyout": false,
@@ -597616,7 +597616,7 @@
           "color": []
         },
         "name": "hween16_ghostcream_name",
-        "description": "hween16_ghostcream_desc",
+        "description": "",
         "adurl": "",
         "offerid": -1,
         "buyout": false,
@@ -597645,7 +597645,7 @@
           "color": []
         },
         "name": "hween16_pillow_name",
-        "description": "hween16_pillow_desc",
+        "description": "",
         "adurl": "",
         "offerid": -1,
         "buyout": false,
@@ -597656,7 +597656,7 @@
         "customparams": "",
         "specialtype": 0,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "",
         "environment": "",
@@ -602836,7 +602836,7 @@
           "color": []
         },
         "name": "japan_dice_name",
-        "description": "japan_dice_desc",
+        "description": "",
         "adurl": "",
         "offerid": -1,
         "buyout": false,
