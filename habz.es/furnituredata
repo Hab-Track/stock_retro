@@ -813760,7 +813760,8 @@
         "canlayon": false,
         "furniline": "phb",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "interactiontype": "gate"
       },
       {
         "id": 1996695922,
@@ -912590,7 +912591,8 @@
         "specialtype": 1,
         "canstandon": false,
         "cansiton": false,
-        "canlayon": false
+        "canlayon": false,
+        "interactiontype": "club_gate"
       },
       {
         "id": 2000002929,
