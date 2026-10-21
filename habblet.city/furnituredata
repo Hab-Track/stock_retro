@@ -2,6 +2,64 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666310,
+        "classname": "Bletween26_46",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 3,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arco de Pedras Pequeno",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666310,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666309,
+        "classname": "Bletween26_45",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 3,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arco de Pedras do Castelo",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666309,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666307,
         "classname": "Bolo_Phy",
         "revision": 0,
@@ -12,8 +70,8 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bolo_Phy",
-        "description": "",
+        "name": "Bolo da Moderação",
+        "description": "Receita especial, preparada com muito açúcar e Elemento X!",
         "adurl": "",
         "offerid": 886666307,
         "buyout": false,
