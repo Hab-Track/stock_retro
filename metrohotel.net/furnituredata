@@ -2,6 +2,58 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 2100004095,
+        "classname": "bc_block_redbrick_1",
+        "revision": 1792583873,
+        "category": "unknown",
+        "name": "bc_block_redbrick_1",
+        "description": "",
+        "adurl": "",
+        "offerid": -1,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        }
+      },
+      {
+        "id": 2100004094,
+        "classname": "bc_block_redbrick",
+        "revision": 1792583842,
+        "category": "unknown",
+        "name": "bc_block_redbrick",
+        "description": "",
+        "adurl": "",
+        "offerid": -1,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        }
+      },
+      {
         "id": 2100004093,
         "classname": "buddy_3000_c23",
         "revision": 1792572488,
