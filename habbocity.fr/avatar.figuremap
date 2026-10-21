@@ -1,6 +1,38 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_waist_U_ColaEscorpion",
+      "revision": 182232,
+      "parts": [
+        {
+          "id": 182232,
+          "type": "wa"
+        },
+        {
+          "id": 182233,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_tv26CarcajArquero",
+      "revision": 182229,
+      "parts": [
+        {
+          "id": 182229,
+          "type": "ca"
+        },
+        {
+          "id": 182230,
+          "type": "ca"
+        },
+        {
+          "id": 182231,
+          "type": "ca"
+        }
+      ]
+    },
+    {
       "id": "acc_head_U_tv26bunnyEars",
       "revision": 182227,
       "parts": [
