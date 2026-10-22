@@ -601,12 +601,6 @@
       "revision": "59220"
     },
     {
-      "id": "102",
-      "lib": "Staff",
-      "type": "fx",
-      "revision": "59200"
-    },
-    {
       "id": "103",
       "lib": "RidingSaddle2",
       "type": "fx",
@@ -1726,15 +1720,15 @@
     },
     {
       "id": "513",
-      "lib": "MuscleBlan",
-      "type": "fx",
-      "revision": "14022022"
-    },
-    {
-      "id": "513",
       "lib": "Sable4",
       "type": "fx",
       "revision": "62175"
+    },
+    {
+      "id": "513",
+      "lib": "MuscleBlan",
+      "type": "fx",
+      "revision": "14022022"
     },
     {
       "id": "514",
@@ -2607,72 +2601,6 @@
       "revision": "20240521"
     },
     {
-      "id": "719",
-      "lib": "Bibo_Fonda",
-      "type": "fx",
-      "revision": "59200"
-    },
-    {
-      "id": "720",
-      "lib": "Stafz",
-      "type": "fx",
-      "revision": "59200"
-    },
-    {
-      "id": "721",
-      "lib": "Bibo_Anim",
-      "type": "fx",
-      "revision": "59200"
-    },
-    {
-      "id": "722",
-      "lib": "Bibo_Archi",
-      "type": "fx",
-      "revision": "59200"
-    },
-    {
-      "id": "723",
-      "lib": "Bibo_Casino",
-      "type": "fx",
-      "revision": "59200"
-    },
-    {
-      "id": "724",
-      "lib": "Bibo_Com",
-      "type": "fx",
-      "revision": "59200"
-    },
-    {
-      "id": "725",
-      "lib": "Bibo_Event",
-      "type": "fx",
-      "revision": "59200"
-    },
-    {
-      "id": "726",
-      "lib": "Bibo_Graph",
-      "type": "fx",
-      "revision": "59200"
-    },
-    {
-      "id": "727",
-      "lib": "Bibo_Guide",
-      "type": "fx",
-      "revision": "59200"
-    },
-    {
-      "id": "728",
-      "lib": "Bibo_Mod",
-      "type": "fx",
-      "revision": "59200"
-    },
-    {
-      "id": "729",
-      "lib": "Bibo_Wired",
-      "type": "fx",
-      "revision": "59200"
-    },
-    {
       "id": "730",
       "lib": "Bibo_Build",
       "type": "fx",
@@ -3069,12 +2997,6 @@
       "revision": "14022022"
     },
     {
-      "id": "905",
-      "lib": "ADMIN",
-      "type": "fx",
-      "revision": "14022022"
-    },
-    {
       "id": "910",
       "lib": "LawnMower07",
       "type": "fx",
@@ -3225,30 +3147,6 @@
       "revision": "62457"
     },
     {
-      "id": "dance.1",
-      "lib": "Dance1",
-      "type": "dance",
-      "revision": "59200"
-    },
-    {
-      "id": "dance.2",
-      "lib": "Dance2",
-      "type": "dance",
-      "revision": "59200"
-    },
-    {
-      "id": "dance.3",
-      "lib": "Dance3",
-      "type": "dance",
-      "revision": "59200"
-    },
-    {
-      "id": "dance.4",
-      "lib": "Dance4",
-      "type": "dance",
-      "revision": "59200"
-    },
-    {
       "id": "9103",
       "lib": "AlphaRank3Infinity",
       "type": "fx",
@@ -3319,6 +3217,30 @@
       "lib": "AlphaRank14Infinity",
       "type": "fx",
       "revision": "20261010"
+    },
+    {
+      "id": "dance.1",
+      "lib": "Dance1",
+      "type": "dance",
+      "revision": "59200"
+    },
+    {
+      "id": "dance.2",
+      "lib": "Dance2",
+      "type": "dance",
+      "revision": "59200"
+    },
+    {
+      "id": "dance.3",
+      "lib": "Dance3",
+      "type": "dance",
+      "revision": "59200"
+    },
+    {
+      "id": "dance.4",
+      "lib": "Dance4",
+      "type": "dance",
+      "revision": "59200"
     }
   ]
 }
