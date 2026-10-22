@@ -38,7 +38,7 @@
   "system.fps.max": 60,
   "system.pong.manually": true,
   "system.pong.interval.ms": 20000,
-  "room.color.skip.transition": true,
+  "room.color.skip.transition": false,
   "room.landscapes.enabled": true,
   "avatar.mandatory.libraries": [
     "bd:1",
