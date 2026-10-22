@@ -1344900,7 +1344900,7 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Effet WIRED: Camera",
+        "name": "Effet WIRED: Nique les Z-indexs de l'appart",
         "description": "Ce mobilier n'a pas de description.",
         "adurl": "",
         "offerid": 1425662250,
@@ -1344914,7 +1344914,12 @@
         "enableCursor": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425658930,
