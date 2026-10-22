@@ -2,6 +2,35 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666315,
+        "classname": "hallowkart2",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 3,
+        "partcolors": {
+          "color": []
+        },
+        "name": "hallowkart2",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666315,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666314,
         "classname": "Surv26_arbustos",
         "revision": 0,
