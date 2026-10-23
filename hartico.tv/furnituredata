@@ -827811,20 +827811,8 @@
         "classname": "rare_colourable_icecream*2",
         "revision": 0,
         "category": "",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": [
-            "#FFFFFF",
-            "#00700D",
-            "#FFFFFF",
-            "#FFFFFF",
-            "#FFFFFF"
-          ]
-        },
         "name": "Heladera esmeralda",
-        "description": "rare_colourable_icecream_2 desc",
+        "description": "Elegancia que brilla con luz propia.",
         "adurl": "",
         "offerid": 13639,
         "buyout": false,
@@ -827834,12 +827822,24 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": [
+            "FFFFFF",
+            "00700D",
+            "FFFFFF",
+            "FFFFFF",
+            "FFFFFF"
+          ]
+        }
       },
       {
         "id": 13640,
