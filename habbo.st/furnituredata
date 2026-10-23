@@ -1011917,6 +1011917,35 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false
+      },
+      {
+        "id": 1100009456,
+        "classname": "nft_rare_colourable_icecream_hazedtest1",
+        "revision": 0,
+        "category": "unknown",
+        "name": "Test Eismaschine",
+        "description": "NICHT FÜR DEN UMLAUF BESTIMMT!",
+        "adurl": "",
+        "offerid": 1100009456,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
       }
     ]
   },
