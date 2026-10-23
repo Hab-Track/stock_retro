@@ -1348631,7 +1348631,7 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Bloc Tetris",
+        "name": "Bloc",
         "description": "Ce mobilier n'a pas de description.",
         "adurl": "",
         "offerid": 1425662405,
@@ -1348645,7 +1348645,12 @@
         "enableCursor": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425659085,
@@ -1348655,7 +1348660,7 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Numéro Tetris",
+        "name": "Chiffres 0/9",
         "description": "Ce mobilier n'a pas de description.",
         "adurl": "",
         "offerid": 1425662406,
@@ -1348669,7 +1348674,12 @@
         "enableCursor": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       }
     ],
     "wallitemtype": [
