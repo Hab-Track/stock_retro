@@ -2207372,6 +2207372,35 @@
         "furniline": "",
         "environment": "",
         "rare": false
+      },
+      {
+        "id": 13560,
+        "classname": "sk_kiosk",
+        "revision": 1,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Kiosko de tienda",
+        "description": "Compra sin hacer fila. El holograma muestra lo que vende el local.",
+        "adurl": "",
+        "offerid": -1,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "sk",
+        "environment": "",
+        "rare": false
       }
     ]
   },
