@@ -1169828,6 +1169828,35 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false
+      },
+      {
+        "id": 1800231001,
+        "classname": "conf_appearance_block",
+        "revision": 20261023,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "WIRED Config : bloquer les transformations",
+        "description": "Bloque les commandes d’apparence dans cet appart : enable, effect, fx, transform, transf, cars, mimic… Double-clique pour activer ou désactiver. Les commandes de modération et de construction restent disponibles.",
+        "adurl": "",
+        "offerid": 1800231001,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
       }
     ]
   },
