@@ -1011946,6 +1011946,35 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false
+      },
+      {
+        "id": 1100009457,
+        "classname": "holo_px_14",
+        "revision": 0,
+        "category": "unknown",
+        "name": "Hologramm von Ruffyy.",
+        "description": "Ein Hologramm aus dem Pixel Lab.",
+        "adurl": "",
+        "offerid": 1100009457,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
       }
     ]
   },
