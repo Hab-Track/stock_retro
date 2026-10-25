@@ -669151,6 +669151,35 @@
         "rare": false
       },
       {
+        "id": 886666323,
+        "classname": "ToastIcons_Wiccan",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Mini Tost",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666323,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666308,
         "classname": "leetholo_2026_damla_Seltsam",
         "revision": 0,
@@ -704773,8 +704802,8 @@
         "partcolors": {
           "color": []
         },
-        "name": "yufex_denizmelegi_ejder",
-        "description": "",
+        "name": "Deniz Meleği Ejderhası",
+        "description": "Denizden çıkan ejderha!",
         "adurl": "",
         "offerid": 886660730,
         "buyout": false,
@@ -705846,7 +705875,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "yufex_aricik_ejder",
+        "name": "Aricik Ejderha",
         "description": "",
         "adurl": "",
         "offerid": 886660693,
