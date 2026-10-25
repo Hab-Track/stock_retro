@@ -1146185,20 +1146185,20 @@
         "rare": false
       },
       {
-        "id": 900002686,
-        "classname": "bal_cabine_alta",
+        "id": 900002687,
+        "classname": "parede_sub_azul_copy",
         "revision": 1,
         "category": "unknown",
         "defaultdir": 0,
-        "xdim": 1,
+        "xdim": 2,
         "ydim": 1,
         "partcolors": {
           "color": []
         },
-        "name": "bal_cabine_alta",
+        "name": "Parede do Nível Inferior Iluminada",
         "description": "",
         "adurl": "",
-        "offerid": 1356501489,
+        "offerid": 1356501490,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -1146214,20 +1146214,20 @@
         "rare": false
       },
       {
-        "id": 900002687,
-        "classname": "parede_sub_azul_copy",
+        "id": 900002686,
+        "classname": "bal_cabine_alta",
         "revision": 1,
         "category": "unknown",
         "defaultdir": 0,
-        "xdim": 2,
+        "xdim": 1,
         "ydim": 1,
         "partcolors": {
           "color": []
         },
-        "name": "Parede do Nível Inferior Iluminada",
-        "description": "",
+        "name": "Cabine de Votação (de chão)",
+        "description": "Coloque a urna na bancada.",
         "adurl": "",
-        "offerid": 1356501490,
+        "offerid": 1356501489,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
