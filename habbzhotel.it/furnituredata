@@ -104416,7 +104416,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Contatore a Clessidra",
+        "name": "Clessidra",
         "customparams": "",
         "specialtype": 0
       },
@@ -104427,7 +104427,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Contatore Wired Piccolo",
+        "name": "Cronometro Wired Piccolo",
         "customparams": "",
         "specialtype": 0
       },
@@ -104438,7 +104438,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Contatore di Gioco Wired",
+        "name": "Cronometro di Gioco Wired",
         "customparams": "",
         "specialtype": 0
       },
@@ -104449,7 +104449,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Contatore di Gioco Wired",
+        "name": "Cronometro di Gioco Wired",
         "customparams": "",
         "specialtype": 0
       },
@@ -859491,7 +859491,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Contatore di Gioco Wired Oro",
+        "name": "Cronometro di Gioco Wired Oro",
         "customparams": "",
         "specialtype": 0
       },
@@ -859513,7 +859513,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Contatore Wired Piccolo Oro",
+        "name": "Cronometro Wired Piccolo Oro",
         "customparams": "",
         "specialtype": 0
       },
@@ -1093330,6 +1093330,3724 @@
         "name": "Tela personalizzata Astratto (4 pannelli)",
         "customparams": "",
         "specialtype": 0
+      },
+      {
+        "id": 886665077,
+        "classname": "Cachorrinho_Animalia",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cagnolino",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665080,
+        "classname": "Capivara_Animalia",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Capibara",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665095,
+        "classname": "Gatinho_1_Animalia",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Gattino",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665096,
+        "classname": "Gatinho_2_Animalia",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Gattino Nero",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666058,
+        "classname": "Antraxx2_5",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Antenna Tecnologica",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666057,
+        "classname": "Antraxx2_4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Gru",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666066,
+        "classname": "Antraxx2_13",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Macchina Tecnologica",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666055,
+        "classname": "Antraxx2_2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Palo di Metallo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666067,
+        "classname": "Antraxx2_14",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pannello di Controllo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666061,
+        "classname": "Antraxx2_8",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pannello Solare",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666064,
+        "classname": "Antraxx2_11",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pezzo Tecnologico",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666060,
+        "classname": "Antraxx2_7",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Piattaforma di Lancio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666063,
+        "classname": "Antraxx2_10",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Reattore a Fusione",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666065,
+        "classname": "Antraxx2_12",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Reattore Nucleare",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666056,
+        "classname": "Antraxx2_3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Recinto di Metallo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666059,
+        "classname": "Antraxx2_6",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Scultura di Metallo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666054,
+        "classname": "Antraxx2_1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Trave di Metallo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666062,
+        "classname": "Antraxx2_9",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tubature Tecnologiche",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666246,
+        "classname": "Bletween26_29",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Portale di Legno del Villaggio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666245,
+        "classname": "Bletween26_28",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pergolato di Legno",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666309,
+        "classname": "Bletween26_45",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arco di Pietra del Castello",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666310,
+        "classname": "Bletween26_46",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arco di Pietra Piccolo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666124,
+        "classname": "Bletween26_03",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cassettiera della Biblioteca",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666313,
+        "classname": "Bletween26_49",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco del Castello",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666311,
+        "classname": "Bletween26_47",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Frontone del Castello",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666299,
+        "classname": "Bletween26_41",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco del Castello",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666238,
+        "classname": "Bletween26_21",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco di Vetro del Villaggio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666252,
+        "classname": "Bletween26_35",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Trave di Legno",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666130,
+        "classname": "Bletween26_09",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Calderone Incantato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666236,
+        "classname": "Bletween26_19",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Calderone Magico",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666255,
+        "classname": "Bletween26_38",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Colonna di Pietra del Castello",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666132,
+        "classname": "Bletween26_11",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Comodino del Castello",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666123,
+        "classname": "Bletween26_02",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Corvo del Castello",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666127,
+        "classname": "Bletween26_06",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Decorazioni Macabre",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666298,
+        "classname": "Bletween26_40",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Finestra della Torre",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666248,
+        "classname": "Bletween26_31",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Finestre di Legno del Castello",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666249,
+        "classname": "Bletween26_32",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Finestre ad Arco del Castello",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666241,
+        "classname": "Bletween26_24",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Abbaino della Torre",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666128,
+        "classname": "Bletween26_07",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ingredienti di Stregoneria",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666234,
+        "classname": "Bletween26_16",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ingredienti Magici",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666129,
+        "classname": "Bletween26_08",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Libri e Sfera di Cristallo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666233,
+        "classname": "Bletween26_17",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Mostriciattolo di Pezza",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666242,
+        "classname": "Bletween26_25",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Muro di Pietra del Castello",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666243,
+        "classname": "Bletween26_26",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Muro di Pietra Blu",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666239,
+        "classname": "Bletween26_22",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Parete del Villaggio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666240,
+        "classname": "Bletween26_23",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Parete con Porta del Villaggio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666133,
+        "classname": "Bletween26_12",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pannello di Legno della Biblioteca",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666303,
+        "classname": "Bletween26_44",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Parete Interna del Castello",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666253,
+        "classname": "Bletween26_36",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pilastro di Legno",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666301,
+        "classname": "Bletween26_42",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pilastro di Pietra del Castello",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666126,
+        "classname": "Bletween26_05",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Poltrona da Lettura Vintage",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666125,
+        "classname": "Bletween26_04",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Quadri del Castello",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666237,
+        "classname": "Bletween26_20",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Staccionata del Villaggio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666122,
+        "classname": "Bletween26_01",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Gatto Salem",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666135,
+        "classname": "Bletween26_14",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Scaffale della Stregoneria",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666134,
+        "classname": "Bletween26_13",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Scaffale di Libri",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666302,
+        "classname": "Bletween26_43",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Scala del Castello",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666131,
+        "classname": "Bletween26_10",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Scopa Magica",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666304,
+        "classname": "Bletween26_15",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Scope Incantate",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666305,
+        "classname": "Bletween_26_estufa_intern",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Serra di Vetro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666312,
+        "classname": "Bletween26_48",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Architrave di Pietra del Castello",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666235,
+        "classname": "Bletween26_18",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino Basso di Legno",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666291,
+        "classname": "Bletween26_39",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tetto ad Angolo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666250,
+        "classname": "Bletween26_33",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tetto del Villaggio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666244,
+        "classname": "Bletween26_27",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tetto della Torre",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666251,
+        "classname": "Bletween26_34",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Torre del Castello",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666247,
+        "classname": "Bletween26_30",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Torre del Villaggio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666297,
+        "classname": "Bletween26_37",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Vetrata del Castello",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665099,
+        "classname": "Luzes_Decor",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lucine",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665107,
+        "classname": "Poster_FHIMHER_Decor",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Posterino",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665119,
+        "classname": "Tapetinhos_Decor",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tappetino",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665088,
+        "classname": "Emojis_Emoji",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Emoji",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665071,
+        "classname": "Abraco_Emoji",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Emoji Abbraccio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665076,
+        "classname": "Broken_Emoji",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Emoji Cuore Spezzato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665073,
+        "classname": "Apaixonado_Emoji",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Emote Cuori",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665093,
+        "classname": "Falar_Emoji",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fumetto",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665101,
+        "classname": "NO_AI_Emoji",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "I.A.? No grazie!",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665308,
+        "classname": "folasade_xmas12_stonearchway",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arco di Pietra",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665302,
+        "classname": "folasade_xmas12_archway1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arco Medievale I",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665303,
+        "classname": "folasade_xmas12_archway2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arco Medievale II",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665304,
+        "classname": "folasade_xmas12_archway3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arco Medievale III",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665305,
+        "classname": "folasade_xmas12_smallarchway1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arco Medievale Piccolo I",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665306,
+        "classname": "folasade_xmas12_smallarchway2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arco Medievale Piccolo II",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665307,
+        "classname": "folasade_xmas12_smallarchway3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arco Medievale Piccolo III",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665301,
+        "classname": "folasade_vikings_archway",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arco Vichingo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665228,
+        "classname": "folasade_archway1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 1",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665233,
+        "classname": "folasade_archway12",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 12",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665234,
+        "classname": "folasade_archway13",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 13",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665235,
+        "classname": "folasade_archway14",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 14",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665236,
+        "classname": "folasade_archway16",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 16",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665237,
+        "classname": "folasade_archway17",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 17",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665238,
+        "classname": "folasade_archway18",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 18",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665239,
+        "classname": "folasade_archway19",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 19",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665229,
+        "classname": "folasade_archway2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 2",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665230,
+        "classname": "folasade_archway4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 4",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665240,
+        "classname": "folasade_archway41",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 41",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665241,
+        "classname": "folasade_archway42",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 42",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665242,
+        "classname": "folasade_archway43",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 43",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665243,
+        "classname": "folasade_archway44",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 44",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665244,
+        "classname": "folasade_archway46",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 46",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665245,
+        "classname": "folasade_archway47",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 47",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665246,
+        "classname": "folasade_archway48",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 48",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665247,
+        "classname": "folasade_archway49",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 49",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665231,
+        "classname": "folasade_archway5",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 5",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665248,
+        "classname": "folasade_archway55",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 55",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665249,
+        "classname": "folasade_archway59",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 59",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665232,
+        "classname": "folasade_archway6",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 6",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665250,
+        "classname": "folasade_archway64",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 64",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665251,
+        "classname": "folasade_archway69",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 69",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665252,
+        "classname": "folasade_archway70",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco ad Arco 70",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665227,
+        "classname": "Habblet_cozy_01",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Accessori da Cucina",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666318,
+        "classname": "Habblet_ranch_02",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Annaffiatoio Verde",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665344,
+        "classname": "Habblet_materiaisart",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Materiale da Disegno",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665200,
+        "classname": "Habblet_boat26",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Motoscafo di Lusso LTD",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665317,
+        "classname": "habblet_ocean_ballon",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Palloncino di Bolle",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665201,
+        "classname": "habblet_pisocolorpqn",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pavimento Colorato Piccolo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666232,
+        "classname": "Habblet_trofconcha_memorial",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Piccolo Trofeo Madreperla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666321,
+        "classname": "Habblet_ranch_05",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Rampicante",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666218,
+        "classname": "Habblet26_canucci",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ritratto di Canucci",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666219,
+        "classname": "Habblet26_deandra",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ritratto di Deandra",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666220,
+        "classname": "Habblet26_gabriela",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ritratto di Gabriela",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666221,
+        "classname": "Habblet26_khozze",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ritratto di Khozze",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666222,
+        "classname": "Habblet26_magaliz",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ritratto di Magaliz",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666223,
+        "classname": "Habblet26_miss",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ritratto di Miss",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666224,
+        "classname": "Habblet26_vamp",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ritratto di Vamp",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666320,
+        "classname": "Habblet_ranch_04",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Rotolo di Pergamena",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665677,
+        "classname": "Habblet_sucos26",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Succhi Assortiti",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666229,
+        "classname": "Habblet_big_trofconcha",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Trofeo Madreperla Preziosa",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666210,
+        "classname": "Habblet_trofconcha",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Trofeo Perla Dorata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666319,
+        "classname": "Habblet_ranch_03",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Vanga da Giardino",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666317,
+        "classname": "Habblet_ranch_01",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Vaso di Terracotta",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665090,
+        "classname": "Envelope_Itens",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bustina",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665116,
+        "classname": "SmartPhone_Itens",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cellulare",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665087,
+        "classname": "Computador_Itens",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Computer",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665118,
+        "classname": "sylvanian_family_Itens",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Decorazioni",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665089,
+        "classname": "Energetico_Itens",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Energetico",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665121,
+        "classname": "Vitrola_Vinil_Itens",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Giradischi",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665070,
+        "classname": "Abajur_De_Cogumelo_Itens",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lampada a Fungo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665081,
+        "classname": "Carta_aos_tropicos_Itens",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Letterina",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665074,
+        "classname": "Barbie_Itens",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Oggetti di Barbie",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665120,
+        "classname": "UrsinhoMini_Itens",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Orsetto",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665104,
+        "classname": "Pantufas_Itens",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pantofole",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665102,
+        "classname": "Notebook_Itens",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Portatile",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665113,
+        "classname": "Retrato_de_Familia_Itens",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ritrattino",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665115,
+        "classname": "Saltoalto_Itens",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Scarpe col Tacco",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665083,
+        "classname": "Cigarrinhos_Itens",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sigarette",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665092,
+        "classname": "esmaltes_Itens",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Smalti",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665075,
+        "classname": "Bolo_de_Cenoura_Itens",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Torta di Carote",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666154,
+        "classname": "ithalo_gaveteiro",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cassettiera di Legno",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666204,
+        "classname": "ithalo_medieval_sofa1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Divano Rustico del Regno",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666136,
+        "classname": "ithalo_sofa_2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Divano Rustico Rosso",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666151,
+        "classname": "ithalo_janela_3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Finestra Scura",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666139,
+        "classname": "ithalo_vidro",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lastra di Vetro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666077,
+        "classname": "Ld_antena_direcional",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Antenna Meccanica",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666069,
+        "classname": "Ld_antena_parabolica_1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Antenna Parabolica Grande",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666068,
+        "classname": "Ld_antena_parabolica",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Antenna Parabolica Scura",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666081,
+        "classname": "ld_detalhes_1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bomba a Orologeria",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666089,
+        "classname": "ld_detalhes_6",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cassetta Elettrica",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666078,
+        "classname": "ld_cabos_4RGP",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cavi Elettrici",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666086,
+        "classname": "ld_cabos_2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cavo dell'Elettricità",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666085,
+        "classname": "ld_cabos",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cavo Elettrico",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666080,
+        "classname": "ld_detalhes",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Dettagli Meccanici",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666090,
+        "classname": "ld_detalhes_7",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Drone",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666079,
+        "classname": "ld_cabos_5",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fili Cyber",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666087,
+        "classname": "ld_cabos_3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fili Elettrici",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666083,
+        "classname": "ld_detalhes_3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Finestra Spaziale",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666091,
+        "classname": "ld_funil",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Imbuto Meccanico",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666076,
+        "classname": "ld_alavanca_7",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Interruttore Meccanico",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666071,
+        "classname": "ld_alavanca_2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Leva Antica",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666072,
+        "classname": "ld_alavanca_3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Leva da Parete",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666070,
+        "classname": "ld_alavanca_1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Leva di Controllo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666073,
+        "classname": "ld_alavanca_4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Leva di Metallo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666074,
+        "classname": "ld_alavanca_5",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Leva Meccanica",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666075,
+        "classname": "ld_alavanca_6",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Leva Steampunk",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666082,
+        "classname": "ld_detalhes_2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Manometro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666097,
+        "classname": "ld_painel_hc_4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pannello con Leve",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666095,
+        "classname": "ld_painel_hc_2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pannello con Pulsanti",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666094,
+        "classname": "ld_painel_hc",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pannello della Macchina",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666093,
+        "classname": "ld_painel_2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pannello di Controllo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666096,
+        "classname": "ld_painel_hc_3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pannello di Luci",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666092,
+        "classname": "ld_painel_1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pannello Meccanico",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666088,
+        "classname": "ld_painel_hc_5",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pannello Meccanico",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666098,
+        "classname": "ld_painel_scifi_2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pannello Sci-Fi",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666099,
+        "classname": "ld_painel_scifi_3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pannello Sci-Fi",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666100,
+        "classname": "ld_painel_scifi_1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pannello Sci-Fi Grande",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666084,
+        "classname": "ld_detalhes_4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Raggio Laser",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665100,
+        "classname": "MesadeCabeceira_Moveis",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Comodino",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665084,
+        "classname": "Cobertor1x1_Moveis",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Copertina I",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665085,
+        "classname": "Cobertor2x1_Moveis",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Copertina II",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665072,
+        "classname": "Almofada1x1_Moveis",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cuscinetto",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665079,
+        "classname": "Cama_Moveis",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lettino",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665086,
+        "classname": "Colchao1x1_Moveis",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Materassino",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665108,
+        "classname": "Prateleira1x1_Moveis",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Mensolina I",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665109,
+        "classname": "Prateleira2x1_Moveis",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Mensolina II",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665105,
+        "classname": "Parede1x1_Moveis",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pareticina",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665106,
+        "classname": "Portas1x1_Moveis",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Porticina",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665091,
+        "classname": "Escrivaninha_Moveis",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Scrivania",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665078,
+        "classname": "Cadeira_Moveis",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Seggiolina",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666118,
+        "classname": "sakura_nana",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Albero di Sakura",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666115,
+        "classname": "blocohanami_nana",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco Hanami",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666110,
+        "classname": "janela_one_nana",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Finestra Giapponese I",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666109,
+        "classname": "janela_two_nana",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Finestra Giapponese II",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666111,
+        "classname": "janelalonga_nana",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Finestra Lunga Giapponese",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666112,
+        "classname": "janelaredonda_nana",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Finestra Rotonda Giapponese",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666113,
+        "classname": "katana_nana",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Katana",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666117,
+        "classname": "lanterna_nana",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lanterna Giapponese",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666114,
+        "classname": "muro_nana",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Muro Giapponese",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666116,
+        "classname": "cerca_nana",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Recinto Giapponese",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665097,
+        "classname": "Jabuticaba_Nattura",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di Jabuticaba",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665114,
+        "classname": "Roseira_Nattura",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cespuglio di Rose",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665098,
+        "classname": "Joaninhas_Nattura",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Coccinella",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665094,
+        "classname": "Folhas_Nattura",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Foglioline",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665112,
+        "classname": "Raio_Nattura",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fulmine",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665103,
+        "classname": "Nuvens_Nattura",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Nuvoletta",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665082,
+        "classname": "Chuva_Nattura",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pioggerella",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665111,
+        "classname": "Raio_de_Sol_Nattura",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Raggio di Sole",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665117,
+        "classname": "Sol_Nattura",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Soletto",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665383,
+        "classname": "Lindinha_Phy",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Peluche Dolly",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665380,
+        "classname": "Florzinha_Phy",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Peluche Lolly",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665381,
+        "classname": "Docinho_Phy",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Peluche Molly",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665384,
+        "classname": "Mojo_Jojo_Phy",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pentolaccia della Scimmia Pazza",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665216,
+        "classname": "Bratz_phy",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Specchiera Bratz",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665382,
+        "classname": "Estrelinha_Phy",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Testa di Stellina",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666307,
+        "classname": "Bolo_Phy",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Torta della Moderazione",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665676,
+        "classname": "seasidehabblet_35",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bandiera Colorata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666051,
+        "classname": "seasidehabblet_boats",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Barchetta del Marinaio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665672,
+        "classname": "seasidehabblet_31",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Conchiglia Esotica Colorata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665670,
+        "classname": "seasidehabblet_29",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Conchiglia Marina Colorata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665222,
+        "classname": "seasidehabblet_27",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Conchiglia Ondulata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665221,
+        "classname": "seasidehabblet_26",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Marmo da Spiaggia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665202,
+        "classname": "seasidehabblet_24",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Mucchio di Pietre",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665192,
+        "classname": "seasidehabblet_21",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Muschio da Spiaggia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665179,
+        "classname": "seasidehabblet_20",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Palco di Legno da Spiaggia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665675,
+        "classname": "seasidehabblet_34",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Palma da Spiaggia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665219,
+        "classname": "seasidehabblet_25",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Panchetta da Spiaggia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665671,
+        "classname": "seasidehabblet_30",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Perla Colorata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666209,
+        "classname": "seasidehabblet_37",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Salvagente Colorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665199,
+        "classname": "seasidehabblet_22",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Scala da Spiaggia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665674,
+        "classname": "seasidehabblet_33",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sdraio Colorata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665673,
+        "classname": "seasidehabblet_32",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Secchiello Colorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665669,
+        "classname": "seasidehabblet_28",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Stella Marina Colorata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665312,
+        "classname": "solitudine_hidecounter_2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cronometro di Gioco Wired Bronzo II",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665313,
+        "classname": "solitudine_hidecounter_3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cronometro di Gioco Wired Bronzo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665311,
+        "classname": "solitudine_hidecounter_1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cronometro Wired Piccolo Bronzo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665310,
+        "classname": "solitudine_game_upcounter",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cronometro di Gioco Wired Invisibile",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666314,
+        "classname": "Surv26_arbustos",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cespugli",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666293,
+        "classname": "Surv26_rochas2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lastra di Pietra con Muschio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666316,
+        "classname": "Surv26_ripgreen",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Prato Incolto",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666292,
+        "classname": "Surv26_rochas",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Rocce con Erba",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665205,
+        "classname": "bone_tavimobi",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cappellino Sprinter",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665208,
+        "classname": "maquinadebone_tavimobi",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Distributore di Cappellini Sprinter",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665206,
+        "classname": "geladeirasprinter_tavimobi",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Frigorifero Sprinter",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665207,
+        "classname": "latinhas_tavimobi",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lattine Sprinter",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665209,
+        "classname": "postersprinter_tavimobi",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Poster Sprinter",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665316,
+        "classname": "trax_moderacao_05",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Intro Superchicche",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666108,
+        "classname": "trax_chiq_gonz",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Trax Chiquinha Gonzaga",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666107,
+        "classname": "trax_dunga",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Trax Dunga",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666106,
+        "classname": "trax_ivone_lara",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Trax Ivone Lara",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665280,
+        "classname": "W27_Boneca_de_pano",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bambola di Pezza",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665283,
+        "classname": "W30_Barraca_de_Joso_halloween",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bancarella di Halloween",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665255,
+        "classname": "W03_Frasco_de_criaturas",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Barattolo Misterioso",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665254,
+        "classname": "W02_barraca_de_ticket",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Biglietteria",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665257,
+        "classname": "W05_Ingressos_do_horror",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Biglietti Stregati",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665262,
+        "classname": "W10_Pesos_de_Caveira",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bilanciere Stregato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665284,
+        "classname": "W31_Lula_Colossal",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Calamaro Esotico",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665286,
+        "classname": "W33_Canhao_da_Fantasia",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cannone Stregato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665268,
+        "classname": "W16_Placa_Fantasma",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cartello Stregato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665293,
+        "classname": "W40_Cavalo_do_Apocalipce",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cavallo Stregato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665261,
+        "classname": "W09_Cartola_Magica",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cilindro Magico Stregato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665291,
+        "classname": "W38_Circo_Dos_Horrores",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Circo degli Orrori",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665275,
+        "classname": "W23_Coelho_de_circo",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Coniglio del Circo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665259,
+        "classname": "W07_Disco_do_panico",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Disco del Panico",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665288,
+        "classname": "W35_Domador_de_Animais",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Domatore di Animali",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665270,
+        "classname": "W18_Elefante_do_circo",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Elefante del Circo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665292,
+        "classname": "W39_Fantasminha",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fantasmino",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665300,
+        "classname": "W47_Engrenagens_enferrujadas",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ingranaggi Arrugginiti",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665285,
+        "classname": "W32_Poste_Assombrado",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lampione Stregato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665299,
+        "classname": "W46_Luar_assombrado",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Luna Stregata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665264,
+        "classname": "W12_Maquina_de_Musgo",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Macchina Stregata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665282,
+        "classname": "W29_Fusca_Colorido",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Maggiolino del Circo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665266,
+        "classname": "W14_Cartaz_Fantasma",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Manifesto Fantasma",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665278,
+        "classname": "W25_Objetos_do_magico",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Oggetti di Magia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665295,
+        "classname": "W42_Piso_De_festivo",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pavimento del Circo Stregato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665296,
+        "classname": "W43_piso_floresta_da_noitre",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pavimento della Foresta Stregata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665294,
+        "classname": "W41_Piso_de_madeira_seca",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pavimento di Legno Circense",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665281,
+        "classname": "W28_Piano_do_Circo",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pianoforte del Circo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665258,
+        "classname": "W06_Pipocas_de_circo",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Popcorn Stregati",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665260,
+        "classname": "W08_Boneco_de_danca",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pupazzetto Stregato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665272,
+        "classname": "W20_Quadro_corredor_da_Morte",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Quadro Corridoio della Morte",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665271,
+        "classname": "W19_Quadro_de_dos_gemeos",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Quadro dei Gemelli",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665276,
+        "classname": "W23_Quadro_da_dama_Fantasma",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Quadro della Dama Fantasma",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665274,
+        "classname": "W22_Quadro_macabro",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Quadro Macabro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665273,
+        "classname": "W21_Quadro_Noite_de_terror",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Quadro Notte del Terrore",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665263,
+        "classname": "W11_Sapo_Mutante",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Rospo Mutante",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665267,
+        "classname": "W15_Sapatos_de_PalhaCo",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Scarpe da Clown",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665265,
+        "classname": "W13_Caixa_Surpresa",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Scatola a Sorpresa Stregata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665269,
+        "classname": "W17_Caixa_Misteriosa",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Scatola Misteriosa",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665279,
+        "classname": "W26_Espelho_da_Ilusso",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Specchio dell'Illusione",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665256,
+        "classname": "W04_Espelho_Escova",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Specchio Stregato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665287,
+        "classname": "W34_Super_Canhao",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Super Cannone",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665277,
+        "classname": "W24_Mesa_do_magico",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo del Mago",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665297,
+        "classname": "W44_Teatro_Fantasma",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Teatro Fantasma",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665298,
+        "classname": "W45_Barraca_Abandonada",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tendone da Circo Piccolo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665289,
+        "classname": "W36_Barraca_de_Circo",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tendone del Circo Spaventoso",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665290,
+        "classname": "W36_Barraca_de_Circo_01",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tendone del Circo Stregato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665253,
+        "classname": "W01_Monte_de_caveira",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Teschi Stregati",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666041,
+        "classname": "drinks_yj",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bevande Assortite",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666039,
+        "classname": "basket_yj",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cestino della Spesa",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666047,
+        "classname": "plates_yj",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Dessert",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666038,
+        "classname": "ATM_yj",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Distributore di Cibo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666042,
+        "classname": "frontage_yj",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Facciata See You",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666045,
+        "classname": "littletruck_yj",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Food Truck",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666046,
+        "classname": "noodles_yj",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Noodles in Tazza",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666040,
+        "classname": "chicken_yj",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pollo Fritto",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666048,
+        "classname": "poster_yj",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Poster See You",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666049,
+        "classname": "snack_yj",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Snack",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665110,
+        "classname": "Quartinho_Base",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Base della Stanzetta",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666104,
+        "classname": "BLOCO_01_HALLOWEEN",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco di Pietre",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666226,
+        "classname": "gon_capivara_areia",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Capibara di Sabbia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665321,
+        "classname": "mobismartinha_AChase_casas",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Casette da Gioco",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665225,
+        "classname": "flowers_wccn",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Composizione di Fiori",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666306,
+        "classname": "Coroa_cdb8",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Corona Reale",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665391,
+        "classname": "habbox_wean_coussi",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cuscino Colorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665204,
+        "classname": "ringmaster_britney",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Giacca da Domatore di Britney Spears",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665322,
+        "classname": "mobismartinha_AChase_RPGS",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Gioco di Ruolo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666119,
+        "classname": "placa_hanami",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Insegna Hanami",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666231,
+        "classname": "Hallowkart",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Kart di Halloween",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666315,
+        "classname": "hallowkart2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Kart di Halloween II",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665346,
+        "classname": "visuais_niver_mod",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Mouse Rosso",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666227,
+        "classname": "pilhaareia_hubbe_robot",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Mucchio di Palle di Sabbia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666322,
+        "classname": "rancho_paredeinterna",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Parete di Legno del Ranch",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666105,
+        "classname": "PILAR_01_HALLOWEEN",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pilastro di Pietre",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666225,
+        "classname": "bonecodeareia_hubbe_hvbot",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pupazzo di Sabbia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666044,
+        "classname": "gondola_yj_p",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Scaffale degli Snack",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886666043,
+        "classname": "gondola_yj_g",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Scaffale dei Dolci",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665309,
+        "classname": "mobismartinha_AChase_tabuleiro",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tabellone da Gioco",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665058,
+        "classname": "yufex_silo_mesale",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Torcia Silo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 886665330,
+        "classname": "trofdices",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Trofeo Maestro dei Dadi",
+        "customparams": "",
+        "specialtype": 1
       }
     ]
   },
