@@ -2,6 +2,41 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 1541858107,
+        "classname": "ftf_wall",
+        "revision": 6969,
+        "name": "FtF Muur",
+        "description": "Muur van de faciliteit, 2 hoog. Muren naast elkaar sluiten naadloos aan.",
+        "category": "other",
+        "adurl": "",
+        "offerid": 1541858107,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "furniline": "Flee the Facility",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "canputstuffon": false,
+        "height": 2.0,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        }
+      },
+      {
         "id": 1541858106,
         "classname": "f26_pink_dice_01",
         "revision": 6969,
