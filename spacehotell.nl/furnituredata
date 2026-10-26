@@ -5,9 +5,15 @@
         "id": 1541858107,
         "classname": "ftf_wall",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "FtF Muur",
         "description": "Muur van de faciliteit, 2 hoog. Muren naast elkaar sluiten naadloos aan.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541858107,
         "buyout": true,
@@ -17,32 +23,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Flee the Facility",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 2.0,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Flee the Facility",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541858106,
         "classname": "f26_pink_dice_01",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "Cute Dobbelsteen",
         "description": "Rol je geluksgetal op de schattigste manier!",
-        "category": "other",
         "adurl": "",
         "offerid": 1541858106,
         "buyout": true,
@@ -52,32 +52,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1.0,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541858100,
         "classname": "ftf_computer",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "FtF Computer",
         "description": "Hack hem met je team. Blauw: bezig, rood: fout, groen: klaar.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541858100,
         "buyout": true,
@@ -87,32 +81,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Flee the Facility",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 1.0,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Flee the Facility",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541858101,
         "classname": "ftf_pod",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "FtF Vriespod",
         "description": "De Beast stopt hier zijn prooi in. Red je teamgenoot voor hij bevriest.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541858101,
         "buyout": true,
@@ -122,32 +110,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Flee the Facility",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 0.3,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Flee the Facility",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541858102,
         "classname": "ftf_exit",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "FtF Uitgang",
         "description": "Rood: op slot. Geel: stroom. Groen: open, ren naar buiten!",
-        "category": "other",
         "adurl": "",
         "offerid": 1541858102,
         "buyout": true,
@@ -157,32 +139,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Flee the Facility",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 0.0,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Flee the Facility",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541858103,
         "classname": "ftf_door",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "FtF Deur",
         "description": "Houd vast om te openen. Dichtdoen gaat meteen.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541858103,
         "buyout": true,
@@ -192,32 +168,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Flee the Facility",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 0.0,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Flee the Facility",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541858104,
         "classname": "ftf_vent",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "FtF Ventilatieschacht",
         "description": "Alleen Survivors kruipen hierdoor naar de andere kant.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541858104,
         "buyout": true,
@@ -227,32 +197,26 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Flee the Facility",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 2.0,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Flee the Facility",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541858105,
         "classname": "ftf_window",
         "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
         "name": "FtF Raam",
         "description": "Klim erover. Iedereen kan erdoor, ook de Beast.",
-        "category": "other",
         "adurl": "",
         "offerid": 1541858105,
         "buyout": true,
@@ -262,24 +226,12 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "furniline": "Flee the Facility",
-        "environment": "",
-        "rare": false,
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
         "canstandon": true,
         "cansiton": false,
         "canlayon": false,
-        "canputstuffon": false,
-        "height": 0.7,
-        "partcolors": {
-          "color": [
-            "#0",
-            "#0",
-            "#0"
-          ]
-        }
+        "furniline": "Flee the Facility",
+        "environment": "",
+        "rare": false
       },
       {
         "id": 1541857685,
@@ -436504,7 +436456,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Zwarte piet",
+        "name": "Roetveegpiet",
         "description": "Wie zoet is krijgt lekkers, wie stout is de roe",
         "adurl": "",
         "offerid": 85711,
@@ -436876,7 +436828,7 @@
             "#"
           ]
         },
-        "name": "Pepernotenstoel",
+        "name": "Kruidnotenstoel",
         "description": "Iemand trek in kruidnootjes?",
         "adurl": "",
         "offerid": 85723,
@@ -436940,7 +436892,7 @@
             "#0"
           ]
         },
-        "name": "Zwarte Pietje",
+        "name": "Rood Pietje",
         "description": "Gemaakt van Chocola!",
         "adurl": "",
         "offerid": 85725,
@@ -437006,7 +436958,7 @@
             "#0"
           ]
         },
-        "name": "Zwarte Pietje",
+        "name": "Groen Pietje",
         "description": "Gemaakt van Chocola!",
         "adurl": "",
         "offerid": 85727,
@@ -437037,7 +436989,7 @@
             "#"
           ]
         },
-        "name": "Zwarte pietje",
+        "name": "Oranje Pietje",
         "description": "Zo zwart als roet, pepernoten doen je goed!",
         "adurl": "",
         "offerid": 85728,
@@ -437068,7 +437020,7 @@
             "#"
           ]
         },
-        "name": "Zwarte pietje",
+        "name": "Blauw Pietje",
         "description": "Het decembergevoel dat komt van Sinterklaas",
         "adurl": "",
         "offerid": 85729,
@@ -437777,7 +437729,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Zwarte piet",
+        "name": "Groene Piet",
         "description": "Wie zoet is krijgt lekkers, wie stout is de roe",
         "adurl": "",
         "offerid": 85752,
@@ -437806,7 +437758,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Zwarte piet",
+        "name": "Blauwe Piet",
         "description": "Wie zoet is krijgt lekkers, wie stout is de roe",
         "adurl": "",
         "offerid": 85753,
@@ -437835,7 +437787,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Zwarte piet",
+        "name": "Gele Piet",
         "description": "Wie zoet is krijgt lekkers, wie stout is de roe",
         "adurl": "",
         "offerid": 85754,
@@ -437864,7 +437816,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Zwarte piet",
+        "name": "Rode Piet",
         "description": "Wie zoet is krijgt lekkers, wie stout is de roe",
         "adurl": "",
         "offerid": 85755,
@@ -615419,7 +615371,7 @@
             "#zwartepietje01"
           ]
         },
-        "name": "Zwarte Piet",
+        "name": "Groene Piet",
         "description": "-1,",
         "adurl": "-1",
         "offerid": -1,
@@ -615450,7 +615402,7 @@
             "#zwartepietje02"
           ]
         },
-        "name": "Zwarte Piet",
+        "name": "Blauwe Piet",
         "description": "-1,",
         "adurl": "-1",
         "offerid": -1,
@@ -615481,7 +615433,7 @@
             "#zwartepietje03"
           ]
         },
-        "name": "Zwarte Piet",
+        "name": "Gele Piet",
         "description": "-1,",
         "adurl": "-1",
         "offerid": -1,
@@ -615512,7 +615464,7 @@
             "#zwartepietje04"
           ]
         },
-        "name": "Zwarte Piet",
+        "name": "Rode Piet",
         "description": "-1,",
         "adurl": "-1",
         "offerid": -1,
@@ -615543,7 +615495,7 @@
             "#zwartepietje05"
           ]
         },
-        "name": "Zwarte Piet",
+        "name": "Roze Piet",
         "description": "-1,",
         "adurl": "-1",
         "offerid": -1,
