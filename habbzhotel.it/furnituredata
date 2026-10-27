@@ -53422,6 +53422,28 @@
         "specialtype": 0
       },
       {
+        "id": 1780005711,
+        "classname": "wf_act_habbzaudio",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Effetto WIRED: Suona audio",
+        "customparams": "",
+        "specialtype": 0
+      },
+      {
+        "id": 1780005712,
+        "classname": "wf_trg_habbzaudio",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Innesco WIRED: Audio partito",
+        "customparams": "",
+        "specialtype": 0
+      },
+      {
         "id": 100001630,
         "classname": "peetblokje5",
         "defaultdir": 0,
