@@ -18929,7 +18929,8 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "interactiontype": "vendingmachine"
       },
       {
         "id": 1996690110,
@@ -21104,7 +21105,8 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "interactiontype": "vendingmachine"
       },
       {
         "id": 1996690016,
@@ -993292,7 +993294,8 @@
         "name": "Poker Chupa",
         "customparams": "",
         "category": "unknown",
-        "specialtype": 0
+        "specialtype": 0,
+        "interactiontype": "vendingmachine"
       },
       {
         "excludeddynamic": false,
@@ -1193499,7 +1193502,8 @@
         "furniline": "",
         "environment": "",
         "rare": false,
-        "offerid": 2000014711
+        "offerid": 2000014711,
+        "interactiontype": "vendingmachine"
       },
       {
         "id": 2000014712,
@@ -1193650,7 +1193654,8 @@
         "furniline": "",
         "environment": "",
         "rare": false,
-        "offerid": 2000014716
+        "offerid": 2000014716,
+        "interactiontype": "vendingmachine"
       },
       {
         "id": 2000014717,
