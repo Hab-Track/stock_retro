@@ -68127,6 +68127,28 @@
         "specialtype": 0
       },
       {
+        "id": 100000450,
+        "classname": "hygge_c25_window1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Finestra Luminosa",
+        "customparams": "",
+        "specialtype": 0
+      },
+      {
+        "id": 100000451,
+        "classname": "hygge_c25_window2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Finestra Allungata",
+        "customparams": "",
+        "specialtype": 0
+      },
+      {
         "id": 100000445,
         "classname": "hygge_c25_wall2",
         "defaultdir": 0,
@@ -68134,28 +68156,6 @@
           "color": []
         },
         "name": "Parete con Piastrelle effetto Metropolitana",
-        "customparams": "",
-        "specialtype": 0
-      },
-      {
-        "id": 100000446,
-        "classname": "hygge_c25_wallpaper1",
-        "defaultdir": 0,
-        "partcolors": {
-          "color": []
-        },
-        "name": "Carta da Parati effetto Pannelli di Legno",
-        "customparams": "",
-        "specialtype": 0
-      },
-      {
-        "id": 100000447,
-        "classname": "hygge_c25_wallpaper2",
-        "defaultdir": 0,
-        "partcolors": {
-          "color": []
-        },
-        "name": "Carta da Parati effetto Metropolitana",
         "customparams": "",
         "specialtype": 0
       },
@@ -1097083,23 +1097083,23 @@
         "specialtype": 0
       },
       {
+        "id": 100000446,
+        "classname": "hygge_c25_wallpaper1",
+        "name": "Carta da Parati effetto Pannelli di Legno",
+        "customparams": "",
+        "specialtype": 0
+      },
+      {
+        "id": 100000447,
+        "classname": "hygge_c25_wallpaper2",
+        "name": "Carta da Parati effetto Metropolitana",
+        "customparams": "",
+        "specialtype": 0
+      },
+      {
         "id": 100000334,
         "classname": "ducket_c25_autumnwindow",
         "name": "Finestra con Foglie",
-        "customparams": "",
-        "specialtype": 0
-      },
-      {
-        "id": 100000450,
-        "classname": "hygge_c25_window1",
-        "name": "Finestra Luminosa",
-        "customparams": "",
-        "specialtype": 0
-      },
-      {
-        "id": 100000451,
-        "classname": "hygge_c25_window2",
-        "name": "Finestra Allungata",
         "customparams": "",
         "specialtype": 0
       },
