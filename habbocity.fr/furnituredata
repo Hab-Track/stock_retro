@@ -1325274,7 +1325274,7 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Colonne1",
+        "name": "Colonne Capsule Corp",
         "description": "Ce mobilier n'a pas de description.",
         "adurl": "",
         "offerid": 1425661449,
@@ -1325288,7 +1325288,12 @@
         "enableCursor": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425658129,
@@ -1348717,6 +1348722,30 @@
         "description": "Ce mobilier n'a pas de description.",
         "adurl": "",
         "offerid": 1425662408,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "enableCursor": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1425659088,
+        "classname": "box_gingerbread_rip",
+        "revision": 500002,
+        "category": "",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "name": "Box Pain d'Épices",
+        "description": "Ce mobilier n'a pas de description.",
+        "adurl": "",
+        "offerid": 1425662409,
         "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
