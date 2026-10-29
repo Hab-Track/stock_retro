@@ -925086,7 +925086,7 @@
         "classname": "Haunte",
         "revision": 0,
         "category": "",
-        "name": "Throne Haunted",
+        "name": "Throne Haunter",
         "description": " ¡Atrapalos todos! - Edición Limitada",
         "adurl": "",
         "offerid": 8842,
@@ -978475,12 +978475,6 @@
         "classname": "chee_fountain*1",
         "revision": 0,
         "category": "",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
         "name": "Fontana Cheetos",
         "description": "",
         "adurl": "",
@@ -978492,12 +978486,18 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 10702,
