@@ -1556739,6 +1556739,64 @@
         "partcolors": {
           "color": []
         }
+      },
+      {
+        "id": 146407,
+        "classname": "hartico_uno_chair",
+        "revision": 0,
+        "category": "",
+        "name": "Silla UNO HT",
+        "description": "",
+        "adurl": "",
+        "offerid": 146407,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "canstandon": false,
+        "cansiton": true,
+        "canlayon": false,
+        "partcolors": {
+          "color": []
+        }
+      },
+      {
+        "id": 146408,
+        "classname": "hartico_uno_table",
+        "revision": 0,
+        "category": "",
+        "name": "Mesa UNO HT",
+        "description": "",
+        "adurl": "",
+        "offerid": 146408,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 3,
+        "ydim": 3,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "partcolors": {
+          "color": []
+        }
       }
     ]
   },
