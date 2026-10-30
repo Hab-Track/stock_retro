@@ -1,6 +1,50 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_tv26CastorPet",
+      "revision": 182237,
+      "parts": [
+        {
+          "id": 182237,
+          "type": "lc"
+        },
+        {
+          "id": 182237,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_shroomie",
+      "revision": 182234,
+      "parts": [
+        {
+          "id": 182234,
+          "type": "lc"
+        },
+        {
+          "id": 182234,
+          "type": "rc"
+        },
+        {
+          "id": 182235,
+          "type": "lc"
+        },
+        {
+          "id": 182235,
+          "type": "rc"
+        },
+        {
+          "id": 182236,
+          "type": "lc"
+        },
+        {
+          "id": 182236,
+          "type": "rc"
+        }
+      ]
+    },
+    {
       "id": "acc_waist_U_ColaEscorpion",
       "revision": 182232,
       "parts": [
