@@ -2,6 +2,93 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666341,
+        "classname": "ducket_c26_acorndecor",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "ducket_c26_acorndecor",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666341,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666340,
+        "classname": "house_c26_mokapot",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "house_c26_mokapot",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666340,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666339,
+        "classname": "house_c26_pastamaker",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "house_c26_pastamaker",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666339,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666337,
         "classname": "Habblet_cantofzdtij",
         "revision": 0,
@@ -99,7 +186,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_fenofznd",
+        "name": "Feno Seco",
         "description": "",
         "adurl": "",
         "offerid": 886666333,
@@ -157,7 +244,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_cestafznd",
+        "name": "Cesto de Feno",
         "description": "",
         "adurl": "",
         "offerid": 886666331,
@@ -186,7 +273,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_pisofzd",
+        "name": "Piso de Feno do Rancho",
         "description": "",
         "adurl": "",
         "offerid": 886666330,
@@ -197,7 +284,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -389,7 +476,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_ranch_05",
+        "name": "Vinhas da Fazenda",
         "description": "",
         "adurl": "",
         "offerid": 886666321,
@@ -418,7 +505,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_ranch_04",
+        "name": "Projetos Arquitetônicos",
         "description": "",
         "adurl": "",
         "offerid": 886666320,
@@ -447,7 +534,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_ranch_03",
+        "name": "Pá da Fazenda",
         "description": "",
         "adurl": "",
         "offerid": 886666319,
@@ -476,7 +563,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_ranch_02",
+        "name": "Regador da Fazenda",
         "description": "",
         "adurl": "",
         "offerid": 886666318,
@@ -505,7 +592,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_ranch_01",
+        "name": "Vasinhos da Fazenda",
         "description": "",
         "adurl": "",
         "offerid": 886666317,
@@ -24227,8 +24314,8 @@
         "partcolors": {
           "color": []
         },
-        "name": "Estátua do Fazendeiro",
-        "description": "",
+        "name": "Estátua do Fazendeiro LTD",
+        "description": "Edição Limitada - Outubro/2026",
         "adurl": "",
         "offerid": 886664379,
         "buyout": false,
@@ -25155,7 +25242,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_hammer",
+        "name": "Martelo de Aço",
         "description": "",
         "adurl": "",
         "offerid": 886664347,
@@ -25184,7 +25271,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_grass",
+        "name": "Grama do Rancho",
         "description": "",
         "adurl": "",
         "offerid": 886664346,
@@ -25195,7 +25282,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -25213,7 +25300,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_grapebarrel",
+        "name": "Barril de Suco de Uva",
         "description": "",
         "adurl": "",
         "offerid": 886664345,
@@ -25271,7 +25358,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_freshgrass",
+        "name": "Grama Recém-Cortada",
         "description": "",
         "adurl": "",
         "offerid": 886664343,
@@ -25282,7 +25369,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -25300,7 +25387,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_farmtoolsb",
+        "name": "Caixa de Jardinagem",
         "description": "",
         "adurl": "",
         "offerid": 886664342,
@@ -25329,7 +25416,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_earth",
+        "name": "Terra Seca",
         "description": "",
         "adurl": "",
         "offerid": 886664341,
@@ -25340,7 +25427,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -25358,7 +25445,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_dustpath",
+        "name": "Caminho de Terra",
         "description": "",
         "adurl": "",
         "offerid": 886664340,
@@ -25369,7 +25456,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -25387,7 +25474,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_darkgate",
+        "name": "Portão Rústico Escuro",
         "description": "",
         "adurl": "",
         "offerid": 886664339,
@@ -25416,7 +25503,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_darkfence",
+        "name": "Cerca Rústica Escuro",
         "description": "",
         "adurl": "",
         "offerid": 886664338,
@@ -25445,7 +25532,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_darkearth",
+        "name": "Terra Queimada",
         "description": "",
         "adurl": "",
         "offerid": 886664337,
@@ -25456,7 +25543,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -25474,7 +25561,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_cow",
+        "name": "Vaca Leiteira Leal",
         "description": "",
         "adurl": "",
         "offerid": 886664336,
@@ -25503,7 +25590,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_carrotsack",
+        "name": "Saco de Cenouras",
         "description": "",
         "adurl": "",
         "offerid": 886664335,
@@ -25532,7 +25619,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_big_tomato",
+        "name": "Tomateiro",
         "description": "",
         "adurl": "",
         "offerid": 886664334,
@@ -25561,7 +25648,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_big_pumpkin",
+        "name": "Videiras de Abóbora",
         "description": "",
         "adurl": "",
         "offerid": 886664333,
@@ -25590,7 +25677,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_big_grape",
+        "name": "Videiras",
         "description": "",
         "adurl": "",
         "offerid": 886664332,
@@ -25619,7 +25706,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_big_duckbergine",
+        "name": "Patoberinjelas",
         "description": "",
         "adurl": "",
         "offerid": 886664331,
@@ -25648,7 +25735,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_big_corn",
+        "name": "Talos de Milho",
         "description": "",
         "adurl": "",
         "offerid": 886664330,
@@ -25677,7 +25764,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_basket_tomatoes",
+        "name": "Cesto de Tomates",
         "description": "",
         "adurl": "",
         "offerid": 886664329,
@@ -25706,7 +25793,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_basket_pumpkins",
+        "name": "Cesto de Abóboras",
         "description": "",
         "adurl": "",
         "offerid": 886664328,
@@ -25735,7 +25822,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_basket_grapes",
+        "name": "Cesto de Uvas",
         "description": "",
         "adurl": "",
         "offerid": 886664327,
@@ -25764,7 +25851,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_basket_corn",
+        "name": "Cesto de Milho",
         "description": "",
         "adurl": "",
         "offerid": 886664326,
@@ -25793,7 +25880,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_basket",
+        "name": "Cesta de Vime",
         "description": "",
         "adurl": "",
         "offerid": 886664325,
@@ -25822,7 +25909,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_aspen",
+        "name": "Álamo de Outono",
         "description": "",
         "adurl": "",
         "offerid": 886664324,
