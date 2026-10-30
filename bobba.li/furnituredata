@@ -383338,8 +383338,8 @@
         "classname": "wf_game_upcounter1",
         "name": "WIRED Timer (Spielzähler)",
         "revision": 0,
-        "description": null,
-        "category": null,
+        "description": "",
+        "category": "",
         "offerid": 17004799,
         "xdim": 2,
         "ydim": 1,
@@ -664116,8 +664116,8 @@
         "classname": "wf_game_upcounter2",
         "name": "WIRED Timer (Spielzähler)",
         "revision": 0,
-        "description": null,
-        "category": null,
+        "description": "",
+        "category": "",
         "offerid": 83369701,
         "xdim": 2,
         "ydim": 1,
@@ -869640,7 +869640,7 @@
         "name": "Einstellbarer Wired Add-on",
         "revision": 0,
         "description": "wf_test_xtra desc",
-        "category": null,
+        "category": "",
         "offerid": 1996836512,
         "xdim": 1,
         "ydim": 1,
@@ -1016311,10 +1016311,10 @@
       {
         "id": 1996842202,
         "classname": "wf_xtra_or_eval",
-        "name": "WIRED Extra: Eine Bedingung reicht (ODER)",
+        "name": "WIRED Extra: Bedingungsoptionen",
         "revision": 0,
-        "description": "Ein zufällig ausgewählter Effekt aus diesem Stapel wird zu einer bestimmten Zeit ausgelöst.",
-        "category": null,
+        "description": "Bestimme welche Bedingungen erfüllt sein müssen damit dein WIRED Stapel auslöst.",
+        "category": "",
         "offerid": 1996842202,
         "xdim": 1,
         "ydim": 1,
@@ -1017361,6 +1017361,35 @@
         "category": null,
         "offerid": 1996842243,
         "xdim": 2,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "adurl": "unknown",
+        "type": 0,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "unknown",
+        "environment": "",
+        "rare": 0
+      },
+      {
+        "id": 1996842244,
+        "classname": "holo_boxer",
+        "name": "holo_boxer",
+        "revision": 0,
+        "description": "",
+        "category": null,
+        "offerid": 1996842244,
+        "xdim": 1,
         "ydim": 1,
         "partcolors": {
           "color": []
@@ -1032347,5 +1032376,5 @@
       }
     ]
   },
-  "cached": "29/10/2026 21:38:27"
+  "cached": "30/10/2026 18:50:14"
 }
