@@ -69844,7 +69844,7 @@
     },
     {
       "id": "misc_U_glowingfireflies",
-      "revision": 1787806709,
+      "revision": 1793396382,
       "parts": [
         {
           "id": 7543,
@@ -71505,6 +71505,114 @@
         {
           "id": 7383,
           "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_cyberlimbs",
+      "revision": 1793396498,
+      "parts": [
+        {
+          "id": 7673,
+          "type": "mcr"
+        },
+        {
+          "id": 7673,
+          "type": "mc"
+        },
+        {
+          "id": 7673,
+          "type": "mcl"
+        },
+        {
+          "id": 7674,
+          "type": "mcr"
+        },
+        {
+          "id": 7674,
+          "type": "mcl"
+        },
+        {
+          "id": 7673,
+          "type": "pt"
+        },
+        {
+          "id": 7673,
+          "type": "ptl"
+        },
+        {
+          "id": 7673,
+          "type": "ptr"
+        },
+        {
+          "id": 7674,
+          "type": "pt"
+        },
+        {
+          "id": 7674,
+          "type": "ptl"
+        },
+        {
+          "id": 7674,
+          "type": "ptr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_survivalhood",
+      "revision": 1793396553,
+      "parts": [
+        {
+          "id": 7645,
+          "type": "ha"
+        },
+        {
+          "id": 7646,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_survivaljumpsuit",
+      "revision": 1793396555,
+      "parts": [
+        {
+          "id": 7649,
+          "type": "ls"
+        },
+        {
+          "id": 7649,
+          "type": "rs"
+        },
+        {
+          "id": 7650,
+          "type": "ls"
+        },
+        {
+          "id": 7650,
+          "type": "rs"
+        },
+        {
+          "id": 7649,
+          "type": "ch"
+        },
+        {
+          "id": 7650,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_mksftsword",
+      "revision": 1793396613,
+      "parts": [
+        {
+          "id": 7621,
+          "type": "ca"
+        },
+        {
+          "id": 7622,
+          "type": "ca"
         }
       ]
     }
