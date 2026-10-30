@@ -2,6 +2,64 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666350,
+        "classname": "capybora_plush",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "capybora_plush",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666350,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666349,
+        "classname": "maquet_AChase_Ferrari",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 3,
+        "ydim": 3,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Miniatura da Costa de Mônaco",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666349,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666347,
         "classname": "Habblet_ranch_12",
         "revision": 0,
@@ -215,7 +273,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "house_c26_mokapot",
+        "name": "Cafeteira da Fazenda",
         "description": "",
         "adurl": "",
         "offerid": 886666340,
@@ -244,7 +302,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "house_c26_pastamaker",
+        "name": "Tábua de Massas",
         "description": "",
         "adurl": "",
         "offerid": 886666339,
@@ -476,7 +534,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_ranch_06",
+        "name": "Canto de Cerca Rústica Escura",
         "description": "",
         "adurl": "",
         "offerid": 886666329,
@@ -77999,7 +78057,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "lt_c26_roller",
+        "name": "Roller de Madeira",
         "description": "",
         "adurl": "",
         "offerid": 886659038,
@@ -78010,7 +78068,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -78608,7 +78666,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "lt_c26_arrows",
+        "name": "Seta de Madeira",
         "description": "",
         "adurl": "",
         "offerid": 886659017,
@@ -78619,7 +78677,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
