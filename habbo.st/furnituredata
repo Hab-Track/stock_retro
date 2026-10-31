@@ -1013338,6 +1013338,35 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false
+      },
+      {
+        "id": 1100009505,
+        "classname": "st_holo_spiderschwein_3110",
+        "revision": 0,
+        "category": "unknown",
+        "name": "Hologramm Spiderschwein",
+        "description": "",
+        "adurl": "",
+        "offerid": 1100009505,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
       }
     ]
   },
