@@ -84182,7 +84182,7 @@
     },
     {
       "id": "face_U_CaraGyaru",
-      "revision": 27272728,
+      "revision": 27272727,
       "parts": [
         {
           "id": "110000053",
@@ -100488,7 +100488,7 @@
     },
     {
       "id": "shirt_U_26TopBrinconcita",
-      "revision": 27272728,
+      "revision": 27272727,
       "parts": [
         {
           "id": "110000560",
@@ -100668,7 +100668,7 @@
     },
     {
       "id": "shirt_U_26VestidoVenus",
-      "revision": 27272728,
+      "revision": 27272727,
       "parts": [
         {
           "id": "110000553",
@@ -100682,7 +100682,7 @@
     },
     {
       "id": "jacket_U_26DestellosVestido",
-      "revision": 27272727,
+      "revision": 27272728,
       "parts": [
         {
           "id": "110000554",
@@ -100958,7 +100958,7 @@
     },
     {
       "id": "shirt_U_26VestidoZania",
-      "revision": 27272728,
+      "revision": 27272727,
       "parts": [
         {
           "id": "110000711",
@@ -103222,7 +103222,7 @@
     },
     {
       "id": "shoes_U_26InferiorUnicorn",
-      "revision": 27272728,
+      "revision": 27272727,
       "parts": [
         {
           "id": "110000682",
@@ -103920,7 +103920,7 @@
     },
     {
       "id": "shoes_U_26CentauroUnicornio",
-      "revision": 27272728,
+      "revision": 27272727,
       "parts": [
         {
           "id": "110000676",
@@ -104414,7 +104414,7 @@
     },
     {
       "id": "trousers_U_26PantsBalenciaga",
-      "revision": 27272728,
+      "revision": 27272727,
       "parts": [
         {
           "id": "110000727",
@@ -104457,22 +104457,22 @@
       ]
     },
     {
-      "id": "acc_head_U_tv26CicatrizObito",
-      "revision": 27272727,
+      "id": "hair_U_tv26CicatrizObito",
+      "revision": 27272728,
       "parts": [
         {
           "id": "220000000",
-          "type": "he"
+          "type": "hr"
         },
         {
           "id": "220000001",
-          "type": "he"
+          "type": "hr"
         }
       ]
     },
     {
       "id": "hair_U_tv26PeloObito",
-      "revision": 27272727,
+      "revision": 27272728,
       "parts": [
         {
           "id": "220000002",
@@ -104482,7 +104482,7 @@
     },
     {
       "id": "acc_face_U_tv26MascaraObito",
-      "revision": 27272727,
+      "revision": 27272728,
       "parts": [
         {
           "id": "220000003",
@@ -110023,6 +110023,296 @@
         {
           "id": "150000140",
           "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26VestidoKurenai",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "150000141",
+          "type": "ch"
+        },
+        {
+          "id": "150000142",
+          "type": "ls"
+        },
+        {
+          "id": "150000141",
+          "type": "rs"
+        },
+        {
+          "id": "150000142",
+          "type": "rs"
+        },
+        {
+          "id": "150000141",
+          "type": "ls"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_26EsclavasRadiantes",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000813",
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26ManillasRadiantes",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000814",
+          "type": "lc"
+        },
+        {
+          "id": "110000814",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26PerlaLeotardo",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000815",
+          "type": "ch"
+        },
+        {
+          "id": "110000819",
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26LinoDelgado",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000816",
+          "type": "cc"
+        },
+        {
+          "id": "110000817",
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_26MediaPerla",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000818",
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26EstrellasPerla",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000820",
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26Trajebrillante",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000825",
+          "type": "ch"
+        },
+        {
+          "id": "110000826",
+          "type": "ch"
+        },
+        {
+          "id": "110000827",
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26CapaBrillante",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000827",
+          "type": "cc"
+        },
+        {
+          "id": "110000828",
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26EstrellasPerladas",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000829",
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv26TokyoManji69",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "220000025",
+          "type": "ch"
+        },
+        {
+          "id": "220000026",
+          "type": "ch"
+        },
+        {
+          "id": "220000027",
+          "type": "ch"
+        },
+        {
+          "id": "220000025",
+          "type": "ls"
+        },
+        {
+          "id": "220000026",
+          "type": "ls"
+        },
+        {
+          "id": "220000027",
+          "type": "ls"
+        },
+        {
+          "id": "220000028",
+          "type": "ls"
+        },
+        {
+          "id": "220000029",
+          "type": "ls"
+        },
+        {
+          "id": "220000025",
+          "type": "rs"
+        },
+        {
+          "id": "220000026",
+          "type": "rs"
+        },
+        {
+          "id": "220000027",
+          "type": "rs"
+        },
+        {
+          "id": "220000028",
+          "type": "rs"
+        },
+        {
+          "id": "220000029",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_CoronaLoki",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "180000047",
+          "type": "he"
+        },
+        {
+          "id": "180000048",
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_eye_U_MascaraBG",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "180000049",
+          "type": "ea"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_PlumasBG",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "180000050",
+          "type": "cc"
+        },
+        {
+          "id": "180000050",
+          "type": "lc"
+        },
+        {
+          "id": "180000050",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_BotasBG",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "180000051",
+          "type": "sh"
+        },
+        {
+          "id": "180000052",
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_TobillerasBG",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "180000053",
+          "type": "cc"
+        },
+        {
+          "id": "180000053",
+          "type": "lc"
+        },
+        {
+          "id": "180000053",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv26infernoroyal",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "90000053",
+          "type": "cc"
+        },
+        {
+          "id": "90000053",
+          "type": "lc"
+        },
+        {
+          "id": "90000053",
+          "type": "rc"
         }
       ]
     }
