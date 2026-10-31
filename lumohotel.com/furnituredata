@@ -150459,10 +150459,29 @@
       {
         "id": 13560706,
         "classname": "uni_c23_colourfulunicorn",
-        "name": "uni_c23_colourfulunicorn_name",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "offerid": 13560706
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bright Unicorn",
+        "description": "",
+        "adurl": "",
+        "offerid": 13560706,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "rare": false,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
       },
       {
         "id": 13560707,
@@ -150548,10 +150567,29 @@
       {
         "id": 13560717,
         "classname": "uni_c23_gothunicorn",
-        "name": "uni_c23_gothunicorn_name",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "offerid": 13560717
+        "partcolors": {
+          "color": []
+        },
+        "name": "Macabre Unicorn",
+        "description": "",
+        "adurl": "",
+        "offerid": 13560717,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "rare": false,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
       },
       {
         "id": 13560718,
@@ -174433,10 +174471,29 @@
       {
         "id": 19663247,
         "classname": "hc22_1",
-        "name": "HC Throne",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "cansiton": true
+        "partcolors": {
+          "color": []
+        },
+        "name": "HC Throne",
+        "description": "",
+        "adurl": "",
+        "offerid": 2000458629,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "rare": false,
+        "canstandon": false,
+        "cansiton": true,
+        "canlayon": false
       },
       {
         "id": 2000458629,
@@ -174452,7 +174509,7 @@
         "name": "HC Throne",
         "description": "",
         "adurl": "",
-        "offerid": -1,
+        "offerid": 2000458629,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
