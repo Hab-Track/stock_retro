@@ -1404267,14 +1404267,8 @@
         "classname": "nft_h25_skeletondragon",
         "revision": 74022,
         "category": "other",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
         "name": "Dragón de Fuego Osamenta",
-        "description": "nft_h25_skeletondragon desc",
+        "description": "Sus huesos cuentan historias de terror.",
         "adurl": "",
         "offerid": 141096,
         "buyout": false,
@@ -1404284,12 +1404278,18 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
+        "furniline": "nft2025",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "nft2025",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 141097,
@@ -1404325,14 +1404325,8 @@
         "classname": "nft_h25_pumpkinpod",
         "revision": 74022,
         "category": "other",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
         "name": "Pod Calabaza",
-        "description": "nft_h25_pumpkinpod desc",
+        "description": "",
         "adurl": "",
         "offerid": 141098,
         "buyout": false,
@@ -1404342,12 +1404336,18 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
+        "furniline": "nft2025",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": true,
         "canlayon": false,
-        "furniline": "nft2025",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 141099,
@@ -1505908,7 +1505908,7 @@
         "classname": "hlive_r26_edaloe",
         "revision": 0,
         "category": "unknown",
-        "name": "Aloe Vera Escuridão Deslumbrante",
+        "name": "Aloe Vera Oscuridad Deslumbrante",
         "description": "",
         "adurl": "",
         "offerid": 144643,
