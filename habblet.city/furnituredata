@@ -2,6 +2,35 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666360,
+        "classname": "almofada_confortavel",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Almofada Confortável",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666360,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666359,
         "classname": "shadow_chock1wd",
         "revision": 0,
