@@ -1097070,6 +1097070,4860 @@
         "name": "Trofeo Maestro dei Dadi",
         "customparams": "",
         "specialtype": 1
+      },
+      {
+        "id": 1236802000,
+        "classname": "prizetrophy_anniversary*1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#ffffff",
+            "#ffffff",
+            "#FFDD3F"
+          ]
+        },
+        "name": "Trofeo 1° Anniversario d'oro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802001,
+        "classname": "prizetrophy_anniversary*3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#ffffff",
+            "#ffffff",
+            "#996600"
+          ]
+        },
+        "name": "Trofeo 1° Anniversario di bronzo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802002,
+        "classname": "prizetrophy_anniv2*1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#ffffff",
+            "#ffffff",
+            "#FFDD3F"
+          ]
+        },
+        "name": "Trofeo 2° Anniversario d'oro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802003,
+        "classname": "door_alhambra",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Teletrasporto Alhambra",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802004,
+        "classname": "dye_jar*4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#ffffff",
+            "#999900"
+          ]
+        },
+        "name": "Tintura verde Anniversario",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802005,
+        "classname": "dye_jar*9",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#ffffff",
+            "#800000"
+          ]
+        },
+        "name": "Tintura vinaccia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802006,
+        "classname": "dye_jar*1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#ffffff",
+            "#DEB887"
+          ]
+        },
+        "name": "Tintura sabbia Anniversario",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802007,
+        "classname": "dye_jar*2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#ffffff",
+            "#FFC000"
+          ]
+        },
+        "name": "Tintura gialla Anniversario",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802008,
+        "classname": "deepgrove_wooden_table",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo di legno Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802009,
+        "classname": "duck_devil",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Papera Diavolo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802010,
+        "classname": "bed_dpolyfon*1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#ffffff",
+            "#ffffff",
+            "#ABD0D2",
+            "#ABD0D2"
+          ]
+        },
+        "name": "Letto matrimoniale Anniversario Azzurro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802011,
+        "classname": "carpet_panda",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tappeto Panda Guerriero Drago",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802012,
+        "classname": "dyeable_door",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cabina telefonica ambra",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802013,
+        "classname": "earthen_deepgrove_corner",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Angolo Deepgrove Argilla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802014,
+        "classname": "pumpkin_jack",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Zucca di brace",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802015,
+        "classname": "plant_bonsai_m",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bonsai foglie di brace",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802016,
+        "classname": "verdigris_deepgrove_mushroom_blue",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fungo a ombrello smeraldo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802017,
+        "classname": "farm_empty_bushtile",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola per cespuglio vuota",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802018,
+        "classname": "farm_empty_bush_pot",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Vaso per cespuglio vuoto",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802019,
+        "classname": "farm_empty_tile",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola vuota",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802020,
+        "classname": "glukko_fountain",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fontana Eterna",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802021,
+        "classname": "tile_orange",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Piastrelle arancioni",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802022,
+        "classname": "carpet_football",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tappeto Campo da calcio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802023,
+        "classname": "sofachair_frostframe",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Poltrona Frostframe",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802024,
+        "classname": "bardesk_frostframe",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bancone Frostframe",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802025,
+        "classname": "bardeskcorner_frostframe",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Mobile ad angolo Frostframe",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802026,
+        "classname": "bed_frostframe",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Letto matrimoniale Frostframe",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802027,
+        "classname": "divider_frostframe3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Botola Frostframe (con chiave)",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802028,
+        "classname": "bed_frostframe_one",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Letto singolo Frostframe",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802029,
+        "classname": "sofa_frostframe",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Divano a due posti Frostframe",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802030,
+        "classname": "pumpkin_w",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lampada zucca spettrale",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802031,
+        "classname": "dark_deepgrove_mushroom_tree",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fungo gigante smeraldo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802032,
+        "classname": "verdigris_deepgrove_mushroom_tree",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fungo gigante orchidea",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802033,
+        "classname": "deepgrove_mushroom_tree",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fungo gigante rosso",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802034,
+        "classname": "earthen_deepgrove_mushroom_tree",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fungo gigante zaffiro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802035,
+        "classname": "obsidian_deepgrove_mushroom_tree",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fungo gigante giallo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802036,
+        "classname": "obsidian_deepgrove_bound_pillar",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pilastro legato Deepgrove Dorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802037,
+        "classname": "obsidian_deepgrove_carved_table",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo intagliato Deepgrove Dorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802038,
+        "classname": "obsidian_deepgrove_cyclops",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ciclope Deepgrove Dorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802039,
+        "classname": "obsidian_deepgrove_glukko_tablet",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavoletta Glukko Deepgrove Dorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802040,
+        "classname": "obsidian_deepgrove_rockpile",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Mucchio di rocce Deepgrove Dorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802041,
+        "classname": "obsidian_deepgrove_rubble",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Macerie Deepgrove Dorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802042,
+        "classname": "obsidian_deepgrove_divider",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Muro in rovina Deepgrove Dorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802043,
+        "classname": "obsidian_deepgrove_arch",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arco in rovina Deepgrove Dorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802044,
+        "classname": "obsidian_deepgrove_ruined_stool",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sgabello in rovina Deepgrove Dorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802045,
+        "classname": "obsidian_deepgrove_duck",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Papera di pietra Deepgrove Dorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802046,
+        "classname": "obsidian_deepgrove_handseat",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Mano di pietra Deepgrove Dorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802047,
+        "classname": "obsidian_deepgrove_stone_slab",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lastra di pietra Deepgrove Dorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802048,
+        "classname": "obsidian_deepgrove_stone_stool",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sgabello di pietra Deepgrove Dorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802049,
+        "classname": "obsidian_deepgrove_stone_table",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo di pietra Deepgrove Dorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802050,
+        "classname": "obsidian_deepgrove_gate",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cancello sommerso Deepgrove Dorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802051,
+        "classname": "obsidian_deepgrove_divider_half",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Frammento di muro Deepgrove Dorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802052,
+        "classname": "obsidian_deepgrove_bench",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Panca di legno Deepgrove Dorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802053,
+        "classname": "obsidian_deepgrove_chair",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sedia di legno Deepgrove Dorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802054,
+        "classname": "obsidian_deepgrove_stall",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bancarella di legno Deepgrove Dorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802055,
+        "classname": "obsidian_deepgrove_wooden_table",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo di legno Deepgrove Dorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802056,
+        "classname": "obsidian_deepgrove_mushroom_glow",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Funghi luminosi ambra",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802057,
+        "classname": "dark_deepgrove_mushroom_glow",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Funghi luminosi blu",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802058,
+        "classname": "verdigris_deepgrove_mushroom_glow",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Funghi luminosi ciano",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802059,
+        "classname": "earthen_deepgrove_mushroom_glow",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Funghi luminosi fucsia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802060,
+        "classname": "deepgrove_mushroom_glow",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Funghi luminosi lime",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802061,
+        "classname": "glukko_barstool",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sgabello da bar Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802062,
+        "classname": "glukko_bartable",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo da bar Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802063,
+        "classname": "glukko_table",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolone Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802064,
+        "classname": "glukko_barrel",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Botte di birra Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802065,
+        "classname": "glukko_bottles",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bottiglie Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802066,
+        "classname": "glukko_cans",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lattine Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802067,
+        "classname": "glukko_lamp",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lanterna Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802068,
+        "classname": "glukko_pump",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pompa Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802069,
+        "classname": "glukko_barreldrink",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Spillatore Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802070,
+        "classname": "glukko_crate",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cassa del birrificio Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802071,
+        "classname": "glukko_book2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Libro marrone Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802072,
+        "classname": "glukko_chair",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sedia Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802073,
+        "classname": "glukko_book1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tomo con fermaglio Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802074,
+        "classname": "glukko_corner",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Mensola ad angolo Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802075,
+        "classname": "glukko_cupboard",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Credenza Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802076,
+        "classname": "glukko_divider",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Divisorio Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802077,
+        "classname": "glukko_bowl2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Doppia ciotola d'acqua Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802078,
+        "classname": "glukko_drinkcrate",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cassa di bibite Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802079,
+        "classname": "glukko_jar",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Barattolo con papera Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802080,
+        "classname": "glukko_bookglk",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Libro con emblema Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802081,
+        "classname": "glukko_fishhole",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Buca di pesca Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802082,
+        "classname": "glukko_gate",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cancello Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802083,
+        "classname": "glukko_book3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Libro verde Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802085,
+        "classname": "glukko_organ",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Organo Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802086,
+        "classname": "glukko_parasol",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ombrellone Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802087,
+        "classname": "glukko_petmush",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fungo da compagnia Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802089,
+        "classname": "glukko_sardine",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sardina Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802090,
+        "classname": "glukko_duck",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Papera di Slime Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802091,
+        "classname": "glukko_stool",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sgabello Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802092,
+        "classname": "glukko_tele",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cabina teletrasporto Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802093,
+        "classname": "glukko_door",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Porta teletrasporto Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802094,
+        "classname": "glukko_tub",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Vasca Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802095,
+        "classname": "glukko_bowl1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ciotola d'acqua Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802096,
+        "classname": "prizetrophy_cobra*1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#ffffff",
+            "#ffffff",
+            "#FFDD3F"
+          ]
+        },
+        "name": "Trofeo Cobra d'oro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802097,
+        "classname": "prizetrophy_cobra*3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#ffffff",
+            "#ffffff",
+            "#996600"
+          ]
+        },
+        "name": "Trofeo Cobra di bronzo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802098,
+        "classname": "prizetrophy_music*1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#ffffff",
+            "#ffffff",
+            "#FFDD3F"
+          ]
+        },
+        "name": "Trofeo Musica d'oro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802099,
+        "classname": "prizetrophy_music*3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#ffffff",
+            "#ffffff",
+            "#996600"
+          ]
+        },
+        "name": "Trofeo Musica di bronzo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802100,
+        "classname": "footylamp_g",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lampada Pallone d'oro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802101,
+        "classname": "plant_bonsai_y",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bonsai foglie dorate",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802102,
+        "classname": "divider_silo12*7",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#ffffff",
+            "#7CB135"
+          ]
+        },
+        "name": "Mensola ad angolo Area Verde",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802103,
+        "classname": "divider_silo12*9",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#ffffff",
+            "#E14218"
+          ]
+        },
+        "name": "Tavolino Area Rosso",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802104,
+        "classname": "divider_silo32*7",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#FFFFFF",
+            "#FFFFFF",
+            "#FFFFFF",
+            "#7CB135"
+          ]
+        },
+        "name": "Cancello Area Verde",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802105,
+        "classname": "divider_silo32*9",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#FFFFFF",
+            "#FFFFFF",
+            "#FFFFFF",
+            "#E14218"
+          ]
+        },
+        "name": "Cancello Area Rosso",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802106,
+        "classname": "duck_pirate_grn",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Papera Pirata verde",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802107,
+        "classname": "pumpkin_stripe",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Zucca Zanna verde",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802108,
+        "classname": "md_limukaappi_gra",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Distributore Habbo Cola uva",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802109,
+        "classname": "md_limukaappi_liq",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Distributore Habbo Cola liquirizia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802110,
+        "classname": "md_limukaappi_ora",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Distributore Habbo Cola arancia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802111,
+        "classname": "hbbrgr_grill",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Griglia di Habburger",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802112,
+        "classname": "hween_trophy*1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#ffffff",
+            "#FFDD3F",
+            "#ffffff",
+            "#ffffff"
+          ]
+        },
+        "name": "Trofeo Veglia di Ognissanti d'oro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802113,
+        "classname": "hween_trophy*3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#ffffff",
+            "#996600",
+            "#ffffff",
+            "#ffffff"
+          ]
+        },
+        "name": "Trofeo Veglia di Ognissanti di bronzo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802114,
+        "classname": "hc26_safe",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cassaforte HC",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802115,
+        "classname": "pumpkin_r",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lampada zucca infernale",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802116,
+        "classname": "rare_vendro_heritage",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Vendro Storico",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802117,
+        "classname": "hotduck",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Papera Bollente",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802118,
+        "classname": "dark_deepgrove_bound_pillar",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pilastro legato Deepgrove Ferro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802119,
+        "classname": "dark_deepgrove_carved_table",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo intagliato Deepgrove Ferro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802120,
+        "classname": "dark_deepgrove_cyclops",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ciclope Deepgrove Ferro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802121,
+        "classname": "dark_deepgrove_glukko_tablet",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavoletta Glukko Deepgrove Ferro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802122,
+        "classname": "dark_deepgrove_rockpile",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Mucchio di rocce Deepgrove Ferro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802123,
+        "classname": "dark_deepgrove_rubble",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Macerie Deepgrove Ferro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802124,
+        "classname": "dark_deepgrove_divider",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Muro in rovina Deepgrove Ferro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802125,
+        "classname": "dark_deepgrove_arch",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arco in rovina Deepgrove Ferro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802126,
+        "classname": "dark_deepgrove_ruined_stool",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sgabello in rovina Deepgrove Ferro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802127,
+        "classname": "dark_deepgrove_duck",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Papera di pietra Deepgrove Ferro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802128,
+        "classname": "dark_deepgrove_handseat",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Mano di pietra Deepgrove Ferro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802129,
+        "classname": "dark_deepgrove_stone_slab",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lastra di pietra Deepgrove Ferro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802130,
+        "classname": "dark_deepgrove_stone_stool",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sgabello di pietra Deepgrove Ferro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802131,
+        "classname": "dark_deepgrove_stone_table",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo di pietra Deepgrove Ferro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802132,
+        "classname": "dark_deepgrove_gate",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cancello sommerso Deepgrove Ferro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802133,
+        "classname": "dark_deepgrove_divider_half",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Frammento di muro Deepgrove Ferro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802134,
+        "classname": "dark_deepgrove_bench",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Panca di legno Deepgrove Ferro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802135,
+        "classname": "dark_deepgrove_chair",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sedia di legno Deepgrove Ferro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802136,
+        "classname": "dark_deepgrove_stall",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bancarella di legno Deepgrove Ferro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802137,
+        "classname": "dark_deepgrove_wooden_table",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo di legno Deepgrove Ferro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802138,
+        "classname": "laduck*21",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#ffffff",
+            "#02BB70",
+            "#ffffff"
+          ]
+        },
+        "name": "Papera Giada",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802139,
+        "classname": "laduck*15",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#ffffff",
+            "#83AEFF",
+            "#ffffff"
+          ]
+        },
+        "name": "Papera Celeste brina",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802140,
+        "classname": "laduck*23",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#ffffff",
+            "#FF9000",
+            "#ffffff"
+          ]
+        },
+        "name": "Papera Mandarino",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802141,
+        "classname": "laduck*20",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#ffffff",
+            "#ffc75a",
+            "#ffffff"
+          ]
+        },
+        "name": "Papera Crema al burro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802142,
+        "classname": "present_ec_jade_s2_box",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Scatola regalo di giada II",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802143,
+        "classname": "anniv_present_gen1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Regalo del Giubileo 1",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802144,
+        "classname": "anniv_present_gen2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Regalo del Giubileo 2",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802145,
+        "classname": "anniv_present_gen3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Regalo del Giubileo 3",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802146,
+        "classname": "anniv_present_gen4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Regalo del Giubileo 4",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802147,
+        "classname": "dark_deepgrove_mushroom_small",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Funghetto cobalto",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802148,
+        "classname": "earthen_deepgrove_mushroom_small",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Funghetto lime",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802149,
+        "classname": "deepgrove_mushroom_small",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Funghetto arancione",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802150,
+        "classname": "obsidian_deepgrove_mushroom_small",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Funghetto rosa",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802151,
+        "classname": "verdigris_deepgrove_mushroom_small",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Funghetto violetto",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802152,
+        "classname": "dyeable_katana*2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#DEB887",
+            "#FFFFFF",
+            "#FFFFFF"
+          ]
+        },
+        "name": "Katana sabbia Anniversario",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802153,
+        "classname": "dyeable_katana*3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#FFC000",
+            "#FFFFFF",
+            "#FFFFFF"
+          ]
+        },
+        "name": "Katana gialla Anniversario",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802154,
+        "classname": "farm_potapple",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di mele",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802155,
+        "classname": "fall_apple1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Melo autunnale 1",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802156,
+        "classname": "fall_apple2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Melo autunnale 2",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802157,
+        "classname": "fall_apple3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Melo autunnale 3",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802158,
+        "classname": "farm_apple",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Melo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802159,
+        "classname": "sofachair_dpolyfon*1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#ffffff",
+            "#ffffff",
+            "#ABD0D2",
+            "#ABD0D2"
+          ]
+        },
+        "name": "Poltrona Anniversario Azzurra",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802160,
+        "classname": "duck_witch",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Papera Maga",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802161,
+        "classname": "plant_bonsai_o",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bonsai acero",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802162,
+        "classname": "plant_bonsai_c",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bonsai foglie di luna",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802163,
+        "classname": "mushroom_basket",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cesto di funghi",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802164,
+        "classname": "mushroom_cboard",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tagliere con funghi",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802165,
+        "classname": "mushroom_lamp",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lampada da tavolo fungo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802166,
+        "classname": "mushroom_drink",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Botte di bevanda ai funghi",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802167,
+        "classname": "mushroom_duck",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Papera fungo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802168,
+        "classname": "mushroom_stool",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sgabello fungo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802169,
+        "classname": "mushroom_table",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo fungo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802171,
+        "classname": "obsidian_deepgrove_corner",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Angolo Deepgrove Dorato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802172,
+        "classname": "fall_orange1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arancio autunnale 1",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802173,
+        "classname": "fall_orange2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arancio autunnale 2",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802174,
+        "classname": "fall_orange3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arancio autunnale 3",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802175,
+        "classname": "farm_orange",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arancio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802176,
+        "classname": "farm_potpeach",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di pesche",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802177,
+        "classname": "fall_peach1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pesco autunnale 1",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802178,
+        "classname": "fall_peach2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pesco autunnale 2",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802179,
+        "classname": "fall_peach3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pesco autunnale 3",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802180,
+        "classname": "farm_peach",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pesco",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802181,
+        "classname": "farm_potpear",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di pere",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802182,
+        "classname": "fall_pear1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pero autunnale 1",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802183,
+        "classname": "fall_pear2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pero autunnale 2",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802184,
+        "classname": "fall_pear3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pero autunnale 3",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802185,
+        "classname": "farm_pear",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pero",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802186,
+        "classname": "blossom_potapple3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di mele in piena fioritura",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802187,
+        "classname": "blossom_apple3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Melo in piena fioritura",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802188,
+        "classname": "blossom_bushblack3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cespuglio di more in piena fioritura",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802189,
+        "classname": "blossom_bushblue3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cespuglio di mirtilli in piena fioritura",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802190,
+        "classname": "blossom_potorange3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di agrumi in piena fioritura",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802191,
+        "classname": "blossom_orange3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arancio in piena fioritura",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802192,
+        "classname": "blossom_potpeach3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di pesche in piena fioritura",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802193,
+        "classname": "blossom_peach3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pesco in piena fioritura",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802194,
+        "classname": "blossom_potpear3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di pere in piena fioritura",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802195,
+        "classname": "blossom_pear3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pero in piena fioritura",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802196,
+        "classname": "blossom_bushrasp3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cespuglio di lamponi in piena fioritura",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802197,
+        "classname": "blossom_bushstraw3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cespuglio di fragole in piena fioritura",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802198,
+        "classname": "comp_petrif",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fontana di Slime pietrificato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802199,
+        "classname": "dark_deepgrove_mushroom_pot",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fungo cremisi in vaso",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802200,
+        "classname": "earthen_deepgrove_mushroom_pot",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fungo ciano in vaso",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802201,
+        "classname": "verdigris_deepgrove_mushroom_pot",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fungo dorato in vaso",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802202,
+        "classname": "obsidian_deepgrove_mushroom_pot",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fungo verde in vaso",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802203,
+        "classname": "deepgrove_mushroom_pot",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fungo viola in vaso",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802204,
+        "classname": "duck_pirate_purp",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Papera Pirata viola",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802205,
+        "classname": "present_ec_jade_s2_rare_box",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Scatola regalo di giada rara II",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802206,
+        "classname": "farm_bushrasp",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cespuglio di lamponi",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802207,
+        "classname": "farm_potrasp",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola di lamponi",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802208,
+        "classname": "duck_pirate_red",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Papera Pirata rossa",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802209,
+        "classname": "blossom_potapple2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di mele roseo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802210,
+        "classname": "blossom_apple2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Melo roseo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802211,
+        "classname": "blossom_bushblack2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cespuglio di more roseo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802212,
+        "classname": "blossom_bushblue2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cespuglio di mirtilli roseo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802213,
+        "classname": "blossom_potorange2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di agrumi roseo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802214,
+        "classname": "blossom_orange2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arancio roseo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802215,
+        "classname": "blossom_potpeach2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di pesche roseo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802216,
+        "classname": "blossom_peach2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pesco roseo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802217,
+        "classname": "blossom_potpear2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di pere roseo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802218,
+        "classname": "blossom_pear2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pero roseo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802219,
+        "classname": "blossom_bushrasp2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cespuglio di lamponi roseo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802220,
+        "classname": "blossom_bushstraw2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cespuglio di fragole roseo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802221,
+        "classname": "duck_globe",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Globo con paperella",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802222,
+        "classname": "sack_potapple",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di mele insaccato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802223,
+        "classname": "sack_apple",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Melo insaccato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802224,
+        "classname": "sack_apple1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Melo insaccato 1",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802225,
+        "classname": "sack_apple2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Melo insaccato 2",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802226,
+        "classname": "sack_apple3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Melo insaccato 3",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802227,
+        "classname": "sack_bushblack",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cespuglio di more insaccato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802228,
+        "classname": "sack_potblack",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola di more insaccata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802229,
+        "classname": "sack_blossom_apple4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Melo insaccato in fiore",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802230,
+        "classname": "sack_blossom_potapple4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di mele insaccato in fiore",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802231,
+        "classname": "sack_blossom_orange4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arancio insaccato in fiore",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802232,
+        "classname": "sack_blossom_potorange4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di agrumi insaccato in fiore",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802233,
+        "classname": "sack_blossom_peach4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pesco insaccato in fiore",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802234,
+        "classname": "sack_blossom_potpeach4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di pesche insaccato in fiore",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802235,
+        "classname": "sack_blossom_pear4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pero insaccato in fiore",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802236,
+        "classname": "sack_blossom_potpear4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di pere insaccato in fiore",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802237,
+        "classname": "sack_bushblue",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cespuglio di mirtilli insaccato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802238,
+        "classname": "sack_potblue",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola di mirtilli insaccata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802239,
+        "classname": "sack_potorange",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di agrumi insaccato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802240,
+        "classname": "sack_orange",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arancio insaccato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802241,
+        "classname": "sack_orange1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arancio insaccato 1",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802242,
+        "classname": "sack_orange2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arancio insaccato 2",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802243,
+        "classname": "sack_orange3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arancio insaccato 3",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802244,
+        "classname": "sack_potpeach",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di pesche insaccato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802245,
+        "classname": "sack_peach",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pesco insaccato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802246,
+        "classname": "sack_peach1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pesco insaccato 1",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802247,
+        "classname": "sack_peach2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pesco insaccato 2",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802248,
+        "classname": "sack_peach3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pesco insaccato 3",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802249,
+        "classname": "sack_potpear",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di pere insaccato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802250,
+        "classname": "sack_pear",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pero insaccato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802251,
+        "classname": "sack_pear1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pero insaccato 1",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802252,
+        "classname": "sack_pear2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pero insaccato 2",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802253,
+        "classname": "sack_pear3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pero insaccato 3",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802254,
+        "classname": "sack_bushrasp",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cespuglio di lamponi insaccato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802255,
+        "classname": "sack_potrasp",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola di lamponi insaccata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802256,
+        "classname": "farm_small_sack_apple",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Melo piccolo insaccato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802257,
+        "classname": "sack_bushstraw",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cespuglio di fragole insaccato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802258,
+        "classname": "sack_potstraw",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola di fragole insaccata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802259,
+        "classname": "fishing_hole_sand",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Buca di pesca sabbiosa",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802260,
+        "classname": "prizetrophy_bball0",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Trofeo Battleball Stagione 0",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802261,
+        "classname": "prizetrophy_bball1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Trofeo Battleball Stagione 1",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802262,
+        "classname": "bed_dpolyfon_one*1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff",
+            "#ABD0D2",
+            "#ABD0D2"
+          ]
+        },
+        "name": "Letto singolo Anniversario Azzurro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802263,
+        "classname": "farm_small_sack",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sacchetto vuoto",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802264,
+        "classname": "farm_small_pot",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Vasetto",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802265,
+        "classname": "duck_straw",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Papera di paglia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802266,
+        "classname": "farm_bushstraw",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cespuglio di fragole",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802267,
+        "classname": "farm_potstraw",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola di fragole",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802268,
+        "classname": "pumpkin_butter",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Zucca del sole",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802269,
+        "classname": "verdigris_deepgrove_corner",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Angolo Deepgrove Verderame",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802270,
+        "classname": "sofa_dpolyfon*1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff",
+            "#ffffff",
+            "#ABD0D2",
+            "#ABD0D2",
+            "#ABD0D2",
+            "#ABD0D2"
+          ]
+        },
+        "name": "Divano a due posti Anniversario Azzurro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802271,
+        "classname": "verdigris_deepgrove_bound_pillar",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pilastro legato Deepgrove Verderame",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802272,
+        "classname": "verdigris_deepgrove_carved_table",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo intagliato Deepgrove Verderame",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802273,
+        "classname": "verdigris_deepgrove_cyclops",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ciclope Deepgrove Verderame",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802274,
+        "classname": "verdigris_deepgrove_glukko_tablet",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavoletta Glukko Deepgrove Verderame",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802275,
+        "classname": "verdigris_deepgrove_rockpile",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Mucchio di rocce Deepgrove Verderame",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802276,
+        "classname": "verdigris_deepgrove_rubble",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Macerie Deepgrove Verderame",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802277,
+        "classname": "verdigris_deepgrove_divider",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Muro in rovina Deepgrove Verderame",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802278,
+        "classname": "verdigris_deepgrove_arch",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arco in rovina Deepgrove Verderame",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802279,
+        "classname": "verdigris_deepgrove_ruined_stool",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sgabello in rovina Deepgrove Verderame",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802280,
+        "classname": "verdigris_deepgrove_duck",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Papera di pietra Deepgrove Verderame",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802281,
+        "classname": "verdigris_deepgrove_handseat",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Mano di pietra Deepgrove Verderame",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802282,
+        "classname": "verdigris_deepgrove_stone_slab",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lastra di pietra Deepgrove Verderame",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802283,
+        "classname": "verdigris_deepgrove_stone_stool",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sgabello di pietra Deepgrove Verderame",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802284,
+        "classname": "verdigris_deepgrove_stone_table",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo di pietra Deepgrove Verderame",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802285,
+        "classname": "verdigris_deepgrove_gate",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cancello sommerso Deepgrove Verderame",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802286,
+        "classname": "verdigris_deepgrove_divider_half",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Frammento di muro Deepgrove Verderame",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802287,
+        "classname": "verdigris_deepgrove_bench",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Panca di legno Deepgrove Verderame",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802288,
+        "classname": "verdigris_deepgrove_chair",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sedia di legno Deepgrove Verderame",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802289,
+        "classname": "verdigris_deepgrove_stall",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bancarella di legno Deepgrove Verderame",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802290,
+        "classname": "verdigris_deepgrove_wooden_table",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo di legno Deepgrove Verderame",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802291,
+        "classname": "dark_deepgrove_mushroom_blue",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fungo a ombrello violetto",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802292,
+        "classname": "plant_bonsai_w",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bonsai loto bianco",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802293,
+        "classname": "bathroom_whitetiles",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Piastrelle bianche",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802294,
+        "classname": "wildflower_patch",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola di fiori di campo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802295,
+        "classname": "obsidian_deepgrove_mushroom_blue",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fungo a ombrello giallo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802296,
+        "classname": "bunny_zombie",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Coniglio Zombie",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802297,
+        "classname": "anniv_present_gen",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Regalo del Giubileo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802298,
+        "classname": "anniv_present_gen5",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Regalo del Giubileo 5",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802299,
+        "classname": "anniv_present_gen6",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Regalo del Giubileo 6",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802300,
+        "classname": "blossom_bushtile",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola in fiore per cespuglio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802301,
+        "classname": "blossom_potree",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Vaso in fiore per alberello",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802302,
+        "classname": "blossom_tile",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola in fiore",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802303,
+        "classname": "fall_tile",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola autunnale",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802304,
+        "classname": "farm_bushtile",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola per cespuglio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802305,
+        "classname": "farm_dead_bushtile",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola con cespuglio secco",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802306,
+        "classname": "farm_dead_tree",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Albero secco",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802307,
+        "classname": "farm_deadpot",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Vaso con alberello secco",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802308,
+        "classname": "farm_deadpotbush",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Vaso con cespuglio secco",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802309,
+        "classname": "farm_potbush",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Vaso per cespuglio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802310,
+        "classname": "farm_potree",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Vaso per alberello",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802311,
+        "classname": "farm_tile",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802312,
+        "classname": "farming_plant_1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Piantina 1",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802313,
+        "classname": "farming_plant_2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Piantina 2",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802314,
+        "classname": "farming_plant_3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Piantina 3",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802315,
+        "classname": "fishing_hole_deepgrove",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Buca di pesca Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802316,
+        "classname": "garland_autumn3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ghirlanda autunnale",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802317,
+        "classname": "greek_block_realm",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco dell'Olimpo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802318,
+        "classname": "greek_block_thebes",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco di Tebe",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802319,
+        "classname": "greek_block_underworld",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Blocco degli Inferi",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802320,
+        "classname": "greek_brokenpillar_realm",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Colonna spezzata dell'Olimpo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802321,
+        "classname": "greek_brokenpillar_thebes",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Colonna spezzata di Tebe",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802322,
+        "classname": "greek_brokenpillar_underworld",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Colonna spezzata degli Inferi",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802323,
+        "classname": "greek_corner_realm",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Angolo dell'Olimpo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802324,
+        "classname": "greek_corner_thebes",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Angolo di Tebe",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802325,
+        "classname": "greek_corner_underworld",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Angolo degli Inferi",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802326,
+        "classname": "greek_gate_realm",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cancello dell'Olimpo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802327,
+        "classname": "greek_gate_thebes",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cancello di Tebe",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802328,
+        "classname": "greek_gate_underworld",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cancello degli Inferi",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802329,
+        "classname": "greek_pillars_realm",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Colonnato dell'Olimpo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802330,
+        "classname": "greek_pillars_thebes",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Colonnato di Tebe",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802331,
+        "classname": "greek_pillars_underworld",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Colonnato degli Inferi",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802332,
+        "classname": "greek_seat_realm",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Seduta dell'Olimpo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802333,
+        "classname": "greek_seat_thebes",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Seduta di Tebe",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802334,
+        "classname": "greek_seat_underworld",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Seduta degli Inferi",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802335,
+        "classname": "greek_stool_realm",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sgabello dell'Olimpo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802336,
+        "classname": "greek_stool_thebes",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sgabello di Tebe",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802337,
+        "classname": "greek_stool_underworld",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sgabello degli Inferi",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802338,
+        "classname": "greek_table2_realm",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino dell'Olimpo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802339,
+        "classname": "greek_table2_thebes",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino di Tebe",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802340,
+        "classname": "greek_table2_underworld",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino degli Inferi",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802341,
+        "classname": "greek_table_realm",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo dell'Olimpo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802342,
+        "classname": "greek_table_thebes",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo di Tebe",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802343,
+        "classname": "greek_table_underworld",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo degli Inferi",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802344,
+        "classname": "greek_tile_realm",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Piastrella dell'Olimpo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802345,
+        "classname": "greek_tile_thebes",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Piastrella di Tebe",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802346,
+        "classname": "greek_tile_underworld",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Piastrella degli Inferi",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802347,
+        "classname": "mushroom_blue_duck",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Papera fungo blu",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802348,
+        "classname": "mushroom_yellow_duck",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Papera fungo gialla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802349,
+        "classname": "pumpkin_base",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Zucca (germoglio)",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802350,
+        "classname": "pumpkin_dead",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Zucca appassita",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802351,
+        "classname": "sandseat",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Seduta di sabbia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802352,
+        "classname": "shelves_silo_single",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Scaffale singolo Area",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802353,
+        "classname": "shelves_silo_single2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Scaffale singolo Area colorabile",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802354,
+        "classname": "duck_pirate_blk",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Papera Pirata nera",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802355,
+        "classname": "farm_bushblack",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cespuglio di more",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802356,
+        "classname": "farm_potblack",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola di more",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802357,
+        "classname": "duck_pirate_blu",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Papera Pirata blu",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802358,
+        "classname": "farm_bushblue",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cespuglio di mirtilli",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802359,
+        "classname": "farm_potblue",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola di mirtilli",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802360,
+        "classname": "blossom_potapple1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di mele rosato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802361,
+        "classname": "blossom_apple1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Melo rosato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802362,
+        "classname": "blossom_bushblack1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cespuglio di more rosato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802363,
+        "classname": "blossom_bushblue1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cespuglio di mirtilli rosato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802364,
+        "classname": "blossom_potorange1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di agrumi rosato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802365,
+        "classname": "blossom_orange1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arancio rosato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802366,
+        "classname": "blossom_potpeach1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di pesche rosato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802367,
+        "classname": "blossom_peach1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pesco rosato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802368,
+        "classname": "blossom_potpear1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di pere rosato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802369,
+        "classname": "blossom_pear1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pero rosato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802370,
+        "classname": "blossom_bushrasp1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cespuglio di lamponi rosato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802371,
+        "classname": "blossom_bushstraw1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cespuglio di fragole rosato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802372,
+        "classname": "toilet_bobba",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Gabinetto Bobba",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802373,
+        "classname": "bunny_pirate",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Capitan Codacotone",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802374,
+        "classname": "door_cabin",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Gabinetto del Capitano",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802375,
+        "classname": "plant_bonsai_b",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bonsai foglie carbone",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802376,
+        "classname": "plant_bonsai_p",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bonsai fiori di ciliegio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802377,
+        "classname": "earthen_deepgrove_mushroom_blue",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fungo a ombrello rosso ciliegia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802378,
+        "classname": "pumpkin_b",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lampada zucca di cenere",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802379,
+        "classname": "pumpkin_cind",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Zucca gigante Fauci di brace",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802380,
+        "classname": "farm_potorange",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Alberello di agrumi",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802381,
+        "classname": "earthen_deepgrove_bound_pillar",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pilastro legato Deepgrove Argilla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802382,
+        "classname": "earthen_deepgrove_carved_table",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo intagliato Deepgrove Argilla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802383,
+        "classname": "earthen_deepgrove_cyclops",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ciclope Deepgrove Argilla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802384,
+        "classname": "earthen_deepgrove_glukko_tablet",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavoletta Glukko Deepgrove Argilla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802385,
+        "classname": "earthen_deepgrove_rockpile",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Mucchio di rocce Deepgrove Argilla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802386,
+        "classname": "earthen_deepgrove_rubble",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Macerie Deepgrove Argilla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802387,
+        "classname": "earthen_deepgrove_divider",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Muro in rovina Deepgrove Argilla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802388,
+        "classname": "earthen_deepgrove_arch",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arco in rovina Deepgrove Argilla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802389,
+        "classname": "earthen_deepgrove_ruined_stool",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sgabello in rovina Deepgrove Argilla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802390,
+        "classname": "earthen_deepgrove_duck",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Papera di pietra Deepgrove Argilla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802391,
+        "classname": "earthen_deepgrove_handseat",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Mano di pietra Deepgrove Argilla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802392,
+        "classname": "earthen_deepgrove_stone_slab",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lastra di pietra Deepgrove Argilla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802393,
+        "classname": "earthen_deepgrove_stone_stool",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sgabello di pietra Deepgrove Argilla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802394,
+        "classname": "earthen_deepgrove_stone_table",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo di pietra Deepgrove Argilla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802395,
+        "classname": "earthen_deepgrove_gate",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cancello sommerso Deepgrove Argilla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802396,
+        "classname": "earthen_deepgrove_divider_half",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Frammento di muro Deepgrove Argilla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802397,
+        "classname": "earthen_deepgrove_bench",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Panca di legno Deepgrove Argilla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802398,
+        "classname": "earthen_deepgrove_chair",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sedia di legno Deepgrove Argilla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802399,
+        "classname": "earthen_deepgrove_stall",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bancarella di legno Deepgrove Argilla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802400,
+        "classname": "earthen_deepgrove_wooden_table",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo di legno Deepgrove Argilla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802401,
+        "classname": "rasta_pool",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Piscina estiva colorata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802402,
+        "classname": "plant_bonsai_r",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bonsai foglie cremisi",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802403,
+        "classname": "deepgrove_mushroom_blue",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fungo a ombrello ciano",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802404,
+        "classname": "dmg_pillow*5",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#494D29",
+            "#494D29",
+            "#ffffff",
+            "#ffffff"
+          ]
+        },
+        "name": "Cuscino rovinato di pelle nera",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802405,
+        "classname": "dmg_pillow*6",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#5DAAC9",
+            "#5DAAC9",
+            "#ffffff",
+            "#ffffff"
+          ]
+        },
+        "name": "Cuscino rovinato di cotone blu",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802406,
+        "classname": "dmg_pillow*8",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#214E68",
+            "#214E68",
+            "#ffffff",
+            "#ffffff"
+          ]
+        },
+        "name": "Cuscino rovinato di velluto blu notte",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802407,
+        "classname": "dmg_pillow*3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#63C9A0",
+            "#63C9A0",
+            "#ffffff",
+            "#ffffff"
+          ]
+        },
+        "name": "Cuscino rovinato di raso turchese",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802408,
+        "classname": "dark_deepgrove_corner",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Angolo Deepgrove Ferro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802409,
+        "classname": "deepgrove_bound_pillar",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pilastro legato Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802410,
+        "classname": "deepgrove_carved_table",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo intagliato Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802411,
+        "classname": "deepgrove_chest",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Forziere Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802412,
+        "classname": "deepgrove_corner",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Angolo Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802413,
+        "classname": "deepgrove_croc",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Coccodrillo Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802414,
+        "classname": "deepgrove_cyclops",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ciclope Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802415,
+        "classname": "deepgrove_glukko_tablet",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavoletta Glukko Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802416,
+        "classname": "deepgrove_patch",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Chiazza di funghi Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802417,
+        "classname": "deepgrove_rockpile",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Mucchio di rocce Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802418,
+        "classname": "deepgrove_rubble",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Macerie Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802419,
+        "classname": "deepgrove_divider",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Muro in rovina Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802420,
+        "classname": "deepgrove_arch",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Arco in rovina Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802421,
+        "classname": "deepgrove_ruined_stool",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sgabello in rovina Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802422,
+        "classname": "deepgrove_duck",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Papera di pietra Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802423,
+        "classname": "deepgrove_handseat",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Mano di pietra Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802424,
+        "classname": "deepgrove_stone_slab",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lastra di pietra Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802425,
+        "classname": "deepgrove_stone_stool",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sgabello di pietra Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802426,
+        "classname": "deepgrove_stone_table",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo di pietra Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802427,
+        "classname": "deepgrove_gate",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cancello sommerso Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802428,
+        "classname": "deepgrove_divider_half",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Frammento di muro Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802429,
+        "classname": "deepgrove_bench",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Panca di legno Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802430,
+        "classname": "deepgrove_chair",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sedia di legno Deepgrove",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802431,
+        "classname": "deepgrove_stall",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bancarella di legno Deepgrove",
+        "customparams": "",
+        "specialtype": 1
       }
     ]
   },
@@ -1112150,6 +1117004,39 @@
         "name": "Quadro personalizzato con targhetta dorata",
         "customparams": "",
         "specialtype": 0
+      },
+      {
+        "id": 1236802084,
+        "classname": "glukko_neon",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Insegna al neon Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802088,
+        "classname": "glukko_evilbottle",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bottiglia radioattiva Glukko",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802170,
+        "classname": "mushroom_wlamp",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lampada da parete fungo",
+        "customparams": "",
+        "specialtype": 1
       }
     ]
   }
