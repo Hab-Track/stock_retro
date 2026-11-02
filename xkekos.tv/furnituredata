@@ -188252,8 +188252,8 @@
         "adurl": "",
         "customparams": "",
         "specialtype": 0,
-        "offerid": -1,
-        "buyout": false,
+        "offerid": 4566,
+        "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
         "bcofferid": -1,
@@ -463902,8 +463902,8 @@
         }
       },
       {
-        "name": "Ventilo Démoniaque",
-        "description": "",
+        "name": "Ventolera Demoniaque",
+        "description": "Envuelta en llamas carmesí y alas negras, forjada con esencia demoniaca - Ikxr",
         "id": 23628,
         "classname": "him_demon_fan",
         "revision": 0,
@@ -781716,40 +781716,6 @@
         }
       },
       {
-        "name": "Goldener Kürbis",
-        "description": "",
-        "id": 33129,
-        "classname": "LH_pumpkin",
-        "revision": 0,
-        "category": "unknown",
-        "defaultdir": 0,
-        "furniline": "custom",
-        "environment": "",
-        "adurl": "",
-        "customparams": "",
-        "specialtype": 0,
-        "offerid": -1,
-        "buyout": false,
-        "rentofferid": -1,
-        "rentbuyout": false,
-        "bcofferid": -1,
-        "bc": false,
-        "excludeddynamic": false,
-        "rare": false,
-        "tradeable": true,
-        "recyclable": false,
-        "xdim": 1,
-        "ydim": 1,
-        "height": 0,
-        "canstandon": false,
-        "cansiton": false,
-        "canlayon": false,
-        "canputstuffon": false,
-        "partcolors": {
-          "color": []
-        }
-      },
-      {
         "name": "Ween-O-Matic Box",
         "description": "",
         "id": 33130,
@@ -795526,40 +795492,6 @@
         "description": "",
         "id": 33741,
         "classname": "cand_daffodil_rug",
-        "revision": 0,
-        "category": "unknown",
-        "defaultdir": 0,
-        "furniline": "custom",
-        "environment": "",
-        "adurl": "",
-        "customparams": "",
-        "specialtype": 0,
-        "offerid": -1,
-        "buyout": false,
-        "rentofferid": -1,
-        "rentbuyout": false,
-        "bcofferid": -1,
-        "bc": false,
-        "excludeddynamic": false,
-        "rare": false,
-        "tradeable": true,
-        "recyclable": false,
-        "xdim": 1,
-        "ydim": 1,
-        "height": 0,
-        "canstandon": false,
-        "cansiton": false,
-        "canlayon": false,
-        "canputstuffon": false,
-        "partcolors": {
-          "color": []
-        }
-      },
-      {
-        "name": "Dämonischer Kristallthron",
-        "description": "",
-        "id": 33742,
-        "classname": "Demonic_throne",
         "revision": 0,
         "category": "unknown",
         "defaultdir": 0,
@@ -898412,8 +898344,8 @@
         }
       },
       {
-        "name": "xKekos Hotel",
-        "description": "",
+        "name": "Egg Pato Classic",
+        "description": "¿Qué fué primero, el huevo o el pato?. - AAGCH1210",
         "id": 38641,
         "classname": "enten_ei",
         "revision": 0,
@@ -1006034,8 +1005966,8 @@
         }
       },
       {
-        "name": "xKekos Hotel",
-        "description": "",
+        "name": "Voodoo Calabaza Nocturna",
+        "description": "Una calabaza maldita llena de magia oscura. - Yalissa",
         "id": 40899,
         "classname": "hubba_Alina_CitrouilleVoodoo",
         "revision": 0,
@@ -1012426,8 +1012358,8 @@
         }
       },
       {
-        "name": "xKekos Hotel",
-        "description": "",
+        "name": "Chups Mjölnir",
+        "description": "Un martillo legendario con el poder del trueno. - Kevin",
         "id": 41087,
         "classname": "hm_alp_thorchupa",
         "revision": 0,
@@ -1593493,8 +1593425,8 @@
         }
       },
       {
-        "name": "Edo-Japanische Drachenlampe",
-        "description": "",
+        "name": "Dragón Cerezo",
+        "description": "Una criatura ancestral que solo despierta con el aroma de las flores de cerezo. - Louve",
         "id": 54147,
         "classname": "hubba_alina_edodrache",
         "revision": 0,
@@ -2056295,8 +2056227,8 @@
         }
       },
       {
-        "name": "Kratzbaum Eismaschine",
-        "description": "",
+        "name": "Heladera Michi",
+        "description": "Dicen que si dejas un bocado, la maldición gatuna te acompañará todo el día. - -Onira:3",
         "id": 59541,
         "classname": "hubba_aydin_katzeneisi",
         "revision": 0,
