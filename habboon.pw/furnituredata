@@ -496011,7 +496011,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_cm1_voodoo name",
+        "name": "Mini Voodoo",
         "description": "nft_cm1_voodoo desc",
         "adurl": "",
         "offerid": -1,
@@ -500586,7 +500586,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h25_skeletondragon name",
+        "name": "Skeleton Dragon Lamp",
         "description": "nft_h25_skeletondragon desc",
         "adurl": "",
         "offerid": -1,
@@ -560104,7 +560104,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_ltd26_curseddragonlamp name",
+        "name": "Cursed Dragon Lamp",
         "description": "hween_ltd26_curseddragonlamp desc",
         "adurl": "",
         "offerid": -1,
@@ -560133,7 +560133,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_r26_cursedcauldron name",
+        "name": "Cursed Cauldron",
         "description": "hween_r26_cursedcauldron desc",
         "adurl": "",
         "offerid": 63124,
@@ -563107,7 +563107,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_trippypatch name",
+        "name": "Trippy Patch",
         "description": "nft_h26_trippypatch desc",
         "adurl": "",
         "offerid": 63129,
@@ -564935,6 +564935,93 @@
           "color": []
         },
         "name": "Verdigris Deepgrove Glukko Tablet",
+        "description": "",
+        "adurl": "",
+        "offerid": -1,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 29975,
+        "classname": "origins_rare_dragonlamp*1033",
+        "revision": 1337,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Army Green Dragon Lamp",
+        "description": "",
+        "adurl": "",
+        "offerid": -1,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 29976,
+        "classname": "origins_birdbath*1010",
+        "revision": 1337,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bird Bath (Sand)",
+        "description": "",
+        "adurl": "",
+        "offerid": -1,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 29977,
+        "classname": "origins_antique_turntable",
+        "revision": 1337,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Antique Habbo Turntable",
         "description": "",
         "adurl": "",
         "offerid": -1,
