@@ -617788,19 +617788,7 @@
         "classname": "one_way_door*1",
         "revision": 0,
         "category": "",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": [
-            "#ABD0D2",
-            "#FFFFFF",
-            "#ABD0D2",
-            "#FFFFFF",
-            "#FFFFFF"
-          ]
-        },
-        "name": "Puerta Transpixelar",
+        "name": "Puerta Transpixelar Marino",
         "description": "¡No hay vuelta atrás!",
         "adurl": "",
         "offerid": 1006,
@@ -617811,12 +617799,24 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": [
+            "ABD0D2",
+            "FFFFFF",
+            "ABD0D2",
+            "FFFFFF",
+            "FFFFFF"
+          ]
+        }
       },
       {
         "id": 1007,
@@ -1255650,13 +1255650,7 @@
         "classname": "hween16_pillow",
         "revision": 0,
         "category": "",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
-        "name": "Cojín asesino",
+        "name": "Almohadón Asesino",
         "description": "",
         "adurl": "",
         "offerid": 134162,
@@ -1255667,12 +1255661,18 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": true,
         "canlayon": false,
-        "furniline": "",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 134163,
@@ -1257332,13 +1257332,7 @@
         "classname": "liveween19_thornrocket",
         "revision": 0,
         "category": "",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
-        "name": "Humareda espinosa tenebrosa",
+        "name": "Humareda Espinosa Tenebrosa",
         "description": "",
         "adurl": "",
         "offerid": 134130,
@@ -1257349,12 +1257343,18 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 134131,
