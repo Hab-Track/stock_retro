@@ -272961,10 +272961,29 @@
       {
         "id": 56703379,
         "classname": "Yvess5_Puissance4_Jeton1",
-        "name": "Yvess5_Puissance4_Jeton1_name",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "offerid": 56703379
+        "partcolors": {
+          "color": []
+        },
+        "name": "4 Op Een Rij",
+        "description": "",
+        "adurl": "",
+        "offerid": 56703379,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "rare": false,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
       },
       {
         "id": 56744769,
@@ -679500,18 +679519,56 @@
       {
         "id": 2000028107,
         "classname": "puffin_christmasgames",
-        "name": "Christmas Games",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "offerid": 2000028107
+        "partcolors": {
+          "color": []
+        },
+        "name": "4 Op Een Rij Kerst 2",
+        "description": "",
+        "adurl": "",
+        "offerid": 2000028107,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "rare": false,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
       },
       {
         "id": 2000028108,
         "classname": "puffin_christmasgames_1",
-        "name": "Christmas Games",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "offerid": 2000028108
+        "partcolors": {
+          "color": []
+        },
+        "name": "4 Op Een Rij Kerst",
+        "description": "",
+        "adurl": "",
+        "offerid": 2000028108,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "rare": false,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
       },
       {
         "id": 2000028109,
