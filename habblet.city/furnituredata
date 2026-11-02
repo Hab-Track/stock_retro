@@ -2,6 +2,35 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666361,
+        "classname": "Bletween_26_porto_intern",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 4,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Portões da Cripta",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666361,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666360,
         "classname": "almofada_confortavel",
         "revision": 0,
@@ -24694,7 +24723,7 @@
         "name": "Estátua do Fazendeiro LTD",
         "description": "Edição Limitada - Outubro/2026",
         "adurl": "",
-        "offerid": 886664379,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -56374,7 +56403,7 @@
       },
       {
         "id": 886661197,
-        "classname": "shadow_yellow1wd",
+        "classname": "Habblet_afrodisiaco1wd",
         "revision": 0,
         "category": "unknown",
         "defaultdir": 0,
