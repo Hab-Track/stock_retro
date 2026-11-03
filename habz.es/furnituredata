@@ -128119,8 +128119,7 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false,
-        "interactiontype": "bakery_decor"
+        "rare": false
       },
       {
         "id": 32308333,
@@ -128816,8 +128815,7 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false,
-        "interactiontype": "bakery_kneader"
+        "rare": false
       },
       {
         "id": 32308357,
@@ -151934,8 +151932,7 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false,
-        "interactiontype": "bakery_storage"
+        "rare": false
       },
       {
         "id": 84055164,
@@ -152199,8 +152196,7 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false,
-        "interactiontype": "bakery_storage"
+        "rare": false
       },
       {
         "id": 84055173,
@@ -152751,8 +152747,7 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false,
-        "interactiontype": "bakery_oven"
+        "rare": false
       },
       {
         "id": 84055192,
@@ -152897,8 +152892,7 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false,
-        "interactiontype": "bakery_mixer"
+        "rare": false
       },
       {
         "id": 84055197,
@@ -730624,8 +730618,7 @@
         "canlayon": false,
         "furniline": "phb",
         "environment": "",
-        "rare": false,
-        "interactiontype": "bakery_seat"
+        "rare": false
       },
       {
         "id": 1996692353,
@@ -873067,8 +873060,7 @@
         "revision": 0,
         "specialtype": 1,
         "xdim": 1,
-        "ydim": 1,
-        "interactiontype": "bakery_storage"
+        "ydim": 1
       },
       {
         "adurl": "",
@@ -1228303,6 +1228295,138 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false
+      },
+      {
+        "id": 2000016158,
+        "classname": "bop_baking_decor",
+        "revision": 1235856,
+        "category": "general",
+        "xdim": 1,
+        "ydim": 1,
+        "name": "bop baking decor",
+        "description": "Añadido con el importador de furnis",
+        "adurl": "",
+        "offerid": 2000016158,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "interactiontype": "bakery_decor"
+      },
+      {
+        "id": 2000016159,
+        "classname": "bop_baking_fridge",
+        "revision": 1235856,
+        "category": "general",
+        "xdim": 1,
+        "ydim": 1,
+        "name": "bop baking fridge",
+        "description": "Añadido con el importador de furnis",
+        "adurl": "",
+        "offerid": 2000016159,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "interactiontype": "bakery_storage"
+      },
+      {
+        "id": 2000016160,
+        "classname": "bop_baking_kneading",
+        "revision": 1235856,
+        "category": "general",
+        "xdim": 1,
+        "ydim": 1,
+        "name": "bop baking kneading",
+        "description": "Añadido con el importador de furnis",
+        "adurl": "",
+        "offerid": 2000016160,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "interactiontype": "bakery_kneader"
+      },
+      {
+        "id": 2000016161,
+        "classname": "bop_baking_mixer",
+        "revision": 1235856,
+        "category": "general",
+        "xdim": 1,
+        "ydim": 1,
+        "name": "bop baking mixer",
+        "description": "Añadido con el importador de furnis",
+        "adurl": "",
+        "offerid": 2000016161,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "interactiontype": "bakery_mixer"
+      },
+      {
+        "id": 2000016162,
+        "classname": "bop_baking_oven",
+        "revision": 1235856,
+        "category": "general",
+        "xdim": 1,
+        "ydim": 1,
+        "name": "bop baking oven",
+        "description": "Añadido con el importador de furnis",
+        "adurl": "",
+        "offerid": 2000016162,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "interactiontype": "bakery_oven"
+      },
+      {
+        "id": 2000016163,
+        "classname": "bop_baking_seat",
+        "revision": 1235856,
+        "category": "general",
+        "xdim": 1,
+        "ydim": 1,
+        "name": "bop baking seat",
+        "description": "Añadido con el importador de furnis",
+        "adurl": "",
+        "offerid": 2000016163,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "interactiontype": "bakery_seat"
       }
     ]
   },
