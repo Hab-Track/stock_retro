@@ -1557174,6 +1557174,93 @@
         "partcolors": {
           "color": []
         }
+      },
+      {
+        "id": 146422,
+        "classname": "hartico_fishing_hole_sand",
+        "revision": 0,
+        "category": "",
+        "name": "Hartico Fishing Sand Water",
+        "description": "",
+        "adurl": "",
+        "offerid": 146422,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "partcolors": {
+          "color": []
+        }
+      },
+      {
+        "id": 146423,
+        "classname": "hartico_fishing_hole_glukko",
+        "revision": 0,
+        "category": "",
+        "name": "Hartico Fishing Glukko Water",
+        "description": "",
+        "adurl": "",
+        "offerid": 146423,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "partcolors": {
+          "color": []
+        }
+      },
+      {
+        "id": 146424,
+        "classname": "hartico_fishing_hole_deepgrove",
+        "revision": 0,
+        "category": "",
+        "name": "Hartico Fishing DeepGrove Water",
+        "description": "",
+        "adurl": "",
+        "offerid": 146424,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "partcolors": {
+          "color": []
+        }
       }
     ]
   },
