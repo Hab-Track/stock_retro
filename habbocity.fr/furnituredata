@@ -1045964,8 +1045964,8 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Fontaine des Limbes",
-        "description": "Redd Habbocity",
+        "name": "Fontaine des Limbes (E)",
+        "description": "Brrrrr flippante !",
         "offerid": 1425649393,
         "buyout": true,
         "rentofferid": -1,
@@ -1045979,7 +1045979,12 @@
         "canlayon": true,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425646072,
@@ -1350034,6 +1350039,30 @@
         "description": "Ce mobilier n'a pas de description.",
         "adurl": "",
         "offerid": 1425662461,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "enableCursor": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1425659141,
+        "classname": "hcity_fontaine_noel2026",
+        "revision": 500002,
+        "category": "",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "name": "Fontaine de noël HabboCity",
+        "description": "Ce mobilier n'a pas de description.",
+        "adurl": "",
+        "offerid": 1425662462,
         "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
