@@ -113347,6 +113347,56 @@
           "type": "ca"
         }
       ]
+    },
+    {
+      "id": "jacket_U_tv26KunaiReverso",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "220000020",
+          "type": "lc"
+        },
+        {
+          "id": "220000021",
+          "type": "lc"
+        },
+        {
+          "id": "220000020",
+          "type": "rc"
+        },
+        {
+          "id": "220000021",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_tv26VendajeDanzo",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "220000047",
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "pet_U_tv26vaca",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "50000492",
+          "type": "pt"
+        },
+        {
+          "id": "50000492",
+          "type": "ptl"
+        },
+        {
+          "id": "50000492",
+          "type": "ptr"
+        }
+      ]
     }
   ]
 }
