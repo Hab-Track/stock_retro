@@ -453968,7 +453968,7 @@
         "defaultdir": 0,
         "xdim": 0,
         "ydim": 0,
-        "name": "Sorbetière Citrouille (E)",
+        "name": "Sorbetière Trouille Citrouille (E)",
         "description": "Ce mobilier n'a pas de description.",
         "offerid": 1425622939,
         "buyout": true,
@@ -453983,7 +453983,12 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425622940,
@@ -1343557,8 +1343562,8 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Box Scream",
-        "description": "Réalisé par rip",
+        "name": "[E4] CityBox Scream",
+        "description": "Cette box contient un lot aléatoire lié à l’économie. Elle permet de débloquer des récompenses parfois exclusives et très difficiles à obtenir.",
         "adurl": "",
         "offerid": 1425662198,
         "buyout": true,
@@ -1343571,7 +1343576,12 @@
         "enableCursor": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425658878,
@@ -1343581,8 +1343591,8 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Box Vaudou",
-        "description": "Réalisé par rip",
+        "name": "[S7] CityBox Horreur",
+        "description": "Cette box contient un lot aléatoire lié à l’économie. Elle permet de débloquer des récompenses parfois exclusives et très difficiles à obtenir.",
         "adurl": "",
         "offerid": 1425662199,
         "buyout": true,
@@ -1343595,7 +1343605,12 @@
         "enableCursor": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425658879,
