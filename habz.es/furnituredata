@@ -128119,7 +128119,8 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "interactiontype": "bakery_decor"
       },
       {
         "id": 32308333,
@@ -128815,7 +128816,8 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "interactiontype": "bakery_kneader"
       },
       {
         "id": 32308357,
@@ -151932,7 +151934,8 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "interactiontype": "bakery_storage"
       },
       {
         "id": 84055164,
@@ -152196,7 +152199,8 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "interactiontype": "bakery_storage"
       },
       {
         "id": 84055173,
@@ -152748,7 +152752,7 @@
         "furniline": "",
         "environment": "",
         "rare": false,
-        "interactiontype": "cooking_stove"
+        "interactiontype": "bakery_oven"
       },
       {
         "id": 84055192,
@@ -152893,7 +152897,8 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "interactiontype": "bakery_mixer"
       },
       {
         "id": 84055197,
@@ -730619,7 +730624,8 @@
         "canlayon": false,
         "furniline": "phb",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "interactiontype": "bakery_seat"
       },
       {
         "id": 1996692353,
@@ -873061,7 +873067,8 @@
         "revision": 0,
         "specialtype": 1,
         "xdim": 1,
-        "ydim": 1
+        "ydim": 1,
+        "interactiontype": "bakery_storage"
       },
       {
         "adurl": "",
