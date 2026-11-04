@@ -71615,6 +71615,36 @@
           "type": "ca"
         }
       ]
+    },
+    {
+      "id": "pet_U_polarbearcub",
+      "revision": 1793766566,
+      "parts": [
+        {
+          "id": 7772,
+          "type": "ptr"
+        },
+        {
+          "id": 7773,
+          "type": "ptr"
+        },
+        {
+          "id": 7772,
+          "type": "pt"
+        },
+        {
+          "id": 7773,
+          "type": "pt"
+        },
+        {
+          "id": 7772,
+          "type": "ptl"
+        },
+        {
+          "id": 7773,
+          "type": "ptl"
+        }
+      ]
     }
   ]
 }
