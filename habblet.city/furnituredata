@@ -2,6 +2,64 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666467,
+        "classname": "Jason_habbletTotem",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Jason_habbletTotem",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666467,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666466,
+        "classname": "Habblet_ninhost",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ninho de Palha",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666466,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666465,
         "classname": "sc26_xmaswalldisplay",
         "revision": 0,
@@ -29389,8 +29447,8 @@
         "partcolors": {
           "color": []
         },
-        "name": "Caminhão de Fazenda",
-        "description": "",
+        "name": "Caminhão da Fazenda LTD",
+        "description": "Edição Limitada - Novembro/2026",
         "adurl": "",
         "offerid": 886664322,
         "buyout": false,
