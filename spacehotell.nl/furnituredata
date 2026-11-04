@@ -2,6 +2,35 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 1541857717,
+        "classname": "survival_r26_prizemoney",
+        "revision": 75808,
+        "category": "unknown",
+        "defaultdir": 2,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "survival_r26_prizemoney name",
+        "description": "survival_r26_prizemoney desc",
+        "adurl": "",
+        "offerid": 1541857717,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": true,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "survival",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 1541858108,
         "classname": "sb_tile",
         "revision": 34541,
@@ -755333,7 +755362,7 @@
             "#0"
           ]
         },
-        "name": "survival_c26_cave name",
+        "name": "Grot Schuilplaats",
         "description": "",
         "adurl": "",
         "offerid": 1541857894,
@@ -755366,7 +755395,7 @@
             "#0"
           ]
         },
-        "name": "survival_c26_craftingtable name",
+        "name": "Survival Craft Tafel",
         "description": "",
         "adurl": "",
         "offerid": 1541857895,
@@ -755399,7 +755428,7 @@
             "#0"
           ]
         },
-        "name": "survival_c26_factionsymbols name",
+        "name": "Faction Symbolen",
         "description": "",
         "adurl": "",
         "offerid": 1541857896,
@@ -755432,7 +755461,7 @@
             "#0"
           ]
         },
-        "name": "survival_c26_firekit name",
+        "name": "Vuurmaakset",
         "description": "",
         "adurl": "",
         "offerid": 1541857897,
@@ -755465,7 +755494,7 @@
             "#0"
           ]
         },
-        "name": "survival_c26_flare name",
+        "name": "Signaalvuur",
         "description": "",
         "adurl": "",
         "offerid": 1541857898,
@@ -755498,7 +755527,7 @@
             "#0"
           ]
         },
-        "name": "survival_c26_foliage name",
+        "name": "Dicht Gebladerte",
         "description": "",
         "adurl": "",
         "offerid": 1541857899,
@@ -755531,7 +755560,7 @@
             "#0"
           ]
         },
-        "name": "survival_c26_foliagefloor name",
+        "name": "Dicht Gebladerde Vloer",
         "description": "",
         "adurl": "",
         "offerid": 1541857900,
@@ -755564,7 +755593,7 @@
             "#0"
           ]
         },
-        "name": "survival_c26_foodsupplies name",
+        "name": "Voorraad voedsel in blik",
         "description": "",
         "adurl": "",
         "offerid": 1541857901,
@@ -755597,7 +755626,7 @@
             "#0"
           ]
         },
-        "name": "survival_c26_hammock name",
+        "name": "Camouflagehangmat",
         "description": "",
         "adurl": "",
         "offerid": 1541857912,
@@ -755630,7 +755659,7 @@
             "#0"
           ]
         },
-        "name": "survival_c26_podium name",
+        "name": "Survivalspel Podium",
         "description": "",
         "adurl": "",
         "offerid": 1541857913,
@@ -755663,7 +755692,7 @@
             "#0"
           ]
         },
-        "name": "survival_c26_rope name",
+        "name": "Stevig touw",
         "description": "",
         "adurl": "",
         "offerid": 1541857914,
@@ -755696,7 +755725,7 @@
             "#0"
           ]
         },
-        "name": "survival_c26_sleepingbag name",
+        "name": "Survival Slaapzak",
         "description": "",
         "adurl": "",
         "offerid": 1541857915,
@@ -755729,7 +755758,7 @@
             "#0"
           ]
         },
-        "name": "survival_c26_stonesymbol name",
+        "name": "Geheim Steensymbool",
         "description": "",
         "adurl": "",
         "offerid": 1541857916,
@@ -755762,7 +755791,7 @@
             "#0"
           ]
         },
-        "name": "survival_c26_stream name",
+        "name": "Rotsachtige beek",
         "description": "",
         "adurl": "",
         "offerid": 1541857917,
@@ -755795,7 +755824,7 @@
             "#0"
           ]
         },
-        "name": "survival_c26_supplycrate name",
+        "name": "Tactische Uitrustingskist",
         "description": "",
         "adurl": "",
         "offerid": 1541857918,
@@ -755828,7 +755857,7 @@
             "#0"
           ]
         },
-        "name": "survival_c26_surveillancetree name",
+        "name": "Slagboom",
         "description": "",
         "adurl": "",
         "offerid": 1541857919,
@@ -755894,7 +755923,7 @@
             "#0"
           ]
         },
-        "name": "survival_c26_treebridge name",
+        "name": "Omgevallen Boombrug",
         "description": "",
         "adurl": "",
         "offerid": 1541857921,
