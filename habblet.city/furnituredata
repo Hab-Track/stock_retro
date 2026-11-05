@@ -2,6 +2,35 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666468,
+        "classname": "xmas_r26_ferriswheel",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 3,
+        "partcolors": {
+          "color": []
+        },
+        "name": "xmas_r26_ferriswheel",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666468,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666467,
         "classname": "Jason_habbletTotem",
         "revision": 0,
@@ -12540,7 +12569,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_wine_glasses",
+        "name": "Taças Pequenas",
         "description": "",
         "adurl": "",
         "offerid": 886665552,
@@ -12569,7 +12598,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_wine_glass",
+        "name": "Taça Pequena",
         "description": "",
         "adurl": "",
         "offerid": 886665551,
@@ -12598,7 +12627,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_wine_tumblers",
+        "name": "Copo de Vidro",
         "description": "",
         "adurl": "",
         "offerid": 886665550,
@@ -12627,7 +12656,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_lantern",
+        "name": "Lanterna Oriental II",
         "description": "",
         "adurl": "",
         "offerid": 886665549,
@@ -12656,7 +12685,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_bowl",
+        "name": "Tigela Colorida",
         "description": "",
         "adurl": "",
         "offerid": 886665548,
@@ -12685,7 +12714,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_shoyu",
+        "name": "Molho Shoyu",
         "description": "",
         "adurl": "",
         "offerid": 886665547,
@@ -12714,7 +12743,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_maki_platter",
+        "name": "Tábua de Sushi",
         "description": "",
         "adurl": "",
         "offerid": 886665546,
@@ -12743,7 +12772,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_bottle4",
+        "name": "Garrafa de Vidro II",
         "description": "",
         "adurl": "",
         "offerid": 886665545,
@@ -12772,7 +12801,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_lantern1",
+        "name": "Lanterna Oriental I",
         "description": "",
         "adurl": "",
         "offerid": 886665544,
@@ -12801,7 +12830,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_rack2",
+        "name": "Nicho de Madeira II",
         "description": "",
         "adurl": "",
         "offerid": 886665543,
@@ -12830,7 +12859,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_bottle3",
+        "name": "Garrafa de Vidro I",
         "description": "",
         "adurl": "",
         "offerid": 886665542,
@@ -12859,7 +12888,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_signboard",
+        "name": "Placa de Madeira Oriental",
         "description": "",
         "adurl": "",
         "offerid": 886665541,
@@ -12888,7 +12917,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_rack1",
+        "name": "Nicho de Madeira I",
         "description": "",
         "adurl": "",
         "offerid": 886665540,
@@ -12917,7 +12946,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_tea_cup",
+        "name": "Xícara de Chá Colorida",
         "description": "",
         "adurl": "",
         "offerid": 886665539,
@@ -12946,7 +12975,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_ginger_wasabi",
+        "name": "Temperos Orientais",
         "description": "",
         "adurl": "",
         "offerid": 886665538,
@@ -12975,7 +13004,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_sake_cup",
+        "name": "Copo Decorado II",
         "description": "",
         "adurl": "",
         "offerid": 886665537,
@@ -13004,7 +13033,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_posters2",
+        "name": "Cartaz Oriental",
         "description": "",
         "adurl": "",
         "offerid": 886665536,
@@ -13033,7 +13062,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_wine_tumbler",
+        "name": "Suco Oriental",
         "description": "",
         "adurl": "",
         "offerid": 886665535,
@@ -13062,7 +13091,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_plate_small",
+        "name": "Prato Colorido",
         "description": "",
         "adurl": "",
         "offerid": 886665534,
@@ -13091,7 +13120,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_sake_barrel",
+        "name": "Barril Oriental",
         "description": "",
         "adurl": "",
         "offerid": 886665533,
@@ -13120,7 +13149,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_plate_big",
+        "name": "Prato Oriental",
         "description": "",
         "adurl": "",
         "offerid": 886665532,
@@ -13149,7 +13178,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_sake_bottle",
+        "name": "Vaso Oriental",
         "description": "",
         "adurl": "",
         "offerid": 886665531,
@@ -13178,7 +13207,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_sashimi_platter",
+        "name": "Tábua de Comida Oriental",
         "description": "",
         "adurl": "",
         "offerid": 886665530,
@@ -13207,7 +13236,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_painting1",
+        "name": "Pintura Nipônica",
         "description": "",
         "adurl": "",
         "offerid": 886665529,
@@ -13236,7 +13265,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_table_lamp",
+        "name": "Lâmpada Japonesa",
         "description": "",
         "adurl": "",
         "offerid": 886665528,
@@ -13265,7 +13294,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_menu",
+        "name": "Menu Oriental",
         "description": "",
         "adurl": "",
         "offerid": 886665527,
@@ -13294,7 +13323,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_calligraphy",
+        "name": "Pôster Oriental",
         "description": "",
         "adurl": "",
         "offerid": 886665526,
@@ -13323,7 +13352,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_painting2",
+        "name": "Obra de Arte Oriental",
         "description": "",
         "adurl": "",
         "offerid": 886665525,
@@ -13352,7 +13381,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_plates_big",
+        "name": "Pratos Grandes",
         "description": "",
         "adurl": "",
         "offerid": 886665524,
@@ -13381,7 +13410,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_wooden_plate",
+        "name": "Tábua Oriental",
         "description": "",
         "adurl": "",
         "offerid": 886665523,
@@ -13410,7 +13439,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_plates_small",
+        "name": "Pratos Pequenos",
         "description": "",
         "adurl": "",
         "offerid": 886665522,
@@ -13439,7 +13468,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_tea_cups",
+        "name": "Xícara de Chá",
         "description": "",
         "adurl": "",
         "offerid": 886665521,
@@ -13468,7 +13497,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_hanging_lamp",
+        "name": "Lanterna Oriental",
         "description": "",
         "adurl": "",
         "offerid": 886665520,
@@ -13497,7 +13526,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_sake_cups",
+        "name": "Copos Decorados",
         "description": "",
         "adurl": "",
         "offerid": 886665519,
@@ -13526,7 +13555,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_bottle2",
+        "name": "Bebida Japonesa",
         "description": "",
         "adurl": "",
         "offerid": 886665518,
@@ -13555,7 +13584,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_posters1",
+        "name": "Pintura Antiga Oriental",
         "description": "",
         "adurl": "",
         "offerid": 886665517,
@@ -13584,7 +13613,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_sign",
+        "name": "Placa Oriental",
         "description": "",
         "adurl": "",
         "offerid": 886665516,
@@ -13613,7 +13642,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_bowls",
+        "name": "Tigelas de Porcelana",
         "description": "",
         "adurl": "",
         "offerid": 886665515,
@@ -13642,7 +13671,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_bottle1",
+        "name": "Bebida Oriental",
         "description": "",
         "adurl": "",
         "offerid": 886665514,
@@ -13671,7 +13700,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_small_paintings",
+        "name": "Pintura Oriental",
         "description": "",
         "adurl": "",
         "offerid": 886665513,
@@ -13700,7 +13729,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habbox_izakaya_chopsticks",
+        "name": "Hashis Orientais",
         "description": "",
         "adurl": "",
         "offerid": 886665512,
