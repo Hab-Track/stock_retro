@@ -1101924,6 +1101924,644 @@
         "name": "Bancarella di legno Deepgrove",
         "customparams": "",
         "specialtype": 1
+      },
+      {
+        "id": 194900080,
+        "classname": "nft_h26_whackapenguin",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Acchiappa il Pinguino",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900081,
+        "classname": "nft_h26_xmastree_silver",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Albero di Natale d'Argento",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900082,
+        "classname": "nft_h26_xmastree_gold",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Albero di Natale d'Oro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900083,
+        "classname": "nft_h26_xmastree_bronze",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Albero di Natale di Bronzo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900084,
+        "classname": "nft_h26_xmastree_trippy",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Albero di Natale Psichedelico",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900085,
+        "classname": "xmas_c26_candycanebumpercar",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Autoscontro di Zucchero",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900086,
+        "classname": "sc26_xmasshopstand",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bancarella Natalizia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900087,
+        "classname": "xmas_c26_ticketbooth",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Biglietteria del Parco",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900088,
+        "classname": "xmas_c26_parktoteb",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Borsa del Parco",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900089,
+        "classname": "xmas_r26_merryarcade",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cabinato Natalizio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900091,
+        "classname": "nft_h26_candycanecandle",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Candela Bastoncino di Zucchero",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900092,
+        "classname": "xmas_c26_bluewhitecandle",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Candela Blu e Bianca",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900093,
+        "classname": "nft_sc26_festivepopcorncart",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Carretto Festivo dei Popcorn",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900094,
+        "classname": "xmas_c26_giantgingerbreadhouse",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Casa Gigante di Pan di Zenzero",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900095,
+        "classname": "xmas_c26_decorhouse",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Casetta Decorativa",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900096,
+        "classname": "xmas_c26_parkcottage",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Casetta del Parco",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900097,
+        "classname": "xmas_c26_parktrashcan",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cestino del Parco",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900098,
+        "classname": "nft_h26_nutbowl",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ciotola di Noci",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900099,
+        "classname": "xmas_c26_holidaymocktail",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cocktail delle Feste",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900101,
+        "classname": "xmas_c26_candycanelanecurve",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Curva del Sentiero di Zucchero",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900102,
+        "classname": "xmas_c26_monorailcorner",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Curva della Monorotaia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900103,
+        "classname": "drago_cursed_1_package",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Drago Maledetto Blu",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900104,
+        "classname": "drago_cursed_2_package",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Drago Maledetto Viola",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900105,
+        "classname": "sc26_xmaswalldisplay",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Espositore Natalizio da Parete",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900106,
+        "classname": "nft_h26_nutcrackerfrank",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Frank Schiaccianoci",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900107,
+        "classname": "xmas_r26_minimerrygoround",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Giostrina Natalizia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900108,
+        "classname": "xmas_c26_parkentrance",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ingresso del Parco",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900109,
+        "classname": "nft_h26_candycanedragonlamp",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lampada Drago di Zucchero",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900110,
+        "classname": "xmas_c26_candycanelamppost",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lampione di Zucchero",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900111,
+        "classname": "xmas_c26_reindeerringtoss",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lancio degli Anelli sulla Renna",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900112,
+        "classname": "xmas_c26_xmastreeballtoss",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lancio delle Palline all'Albero",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900113,
+        "classname": "newbie_bronze_cave_dragon_package",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lungocorno Rumeno",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900114,
+        "classname": "xmas_c26_monorail",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Monorotaia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900115,
+        "classname": "xmas_c26_snowglobe",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Palla di Neve",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900116,
+        "classname": "xmas_c26_snowduck",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Papera di Neve",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900117,
+        "classname": "xmas_c26_giftduck",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Papera Regalo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900118,
+        "classname": "xmas_c26_santaplush",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Peluche di Babbo Natale",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900119,
+        "classname": "xmas_c26_reindeerplush",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Peluche di Renna",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900120,
+        "classname": "xmas_c26_gingerbreadplate",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Piatto di Biscotti di Pan di Zenzero",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900121,
+        "classname": "nft_emerald_penguin_5000",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pinguino Smeraldo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900122,
+        "classname": "xmas_c26_xmaspopcorn",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Popcorn Natalizi",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900123,
+        "classname": "xmas_c26_desksnowman",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pupazzo di Neve da Scrivania",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900124,
+        "classname": "nft_h26_iceskaterack",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Rastrelliera di Pattini",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900125,
+        "classname": "xmas_c26_ferriswheel",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ruota Panoramica Natalizia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900126,
+        "classname": "xmas_r26_ferriswheel",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Ruota Panoramica Natalizia Rara",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900127,
+        "classname": "xmas_c26_gingerbreadcutout",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sagoma di Pan di Zenzero",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900128,
+        "classname": "xmas_c26_gingerbreadcutoutthin",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sagoma Stretta di Pan di Zenzero",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900130,
+        "classname": "greenscreen_floor",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Schermo Verde da Pavimento",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900131,
+        "classname": "greenscreen_background",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Schermo Verde di Sfondo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900132,
+        "classname": "sc26_popcornbucket",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Secchiello di Popcorn",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900133,
+        "classname": "xmas_c26_candycanelane",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sentiero di Zucchero",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900135,
+        "classname": "xmas_c26_xmasmonorailsleigh",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Slitta della Monorotaia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900136,
+        "classname": "nft_h26_santa3000figure",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Statuina di Babbo Natale 3000",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900137,
+        "classname": "sc26_xmasmerch",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino di Gadget Natalizi",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900138,
+        "classname": "xmas_c26_teacup",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tazza Girevole",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900139,
+        "classname": "xmas_c26_cupsnowman",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tazza Pupazzo di Neve",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900140,
+        "classname": "nft_emerald_tome_5000",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tomo Smeraldo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900141,
+        "classname": "trophy_c26_duckbergine",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Trofeo Melanzanatroccolo",
+        "customparams": "",
+        "specialtype": 1
       }
     ]
   },
@@ -1117035,6 +1117673,50 @@
           "color": []
         },
         "name": "Lampada da parete fungo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900090,
+        "classname": "xmas_c26_stuffedstocking",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Calza Natalizia Piena",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900100,
+        "classname": "nft_h26_candycaneheart",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cuore di Bastoncini di Zucchero",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900129,
+        "classname": "greenscreen_wall",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Schermo Verde da Parete",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900134,
+        "classname": "xmas_c26_themeparkbackground",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sfondo del Parco Giochi",
         "customparams": "",
         "specialtype": 1
       }
