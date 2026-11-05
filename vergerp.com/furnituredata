@@ -1510112,6 +1510112,35 @@
         "partcolors": {
           "color": []
         }
+      },
+      {
+        "id": 1710021396,
+        "classname": "hosptl_bednew",
+        "revision": 45554,
+        "category": "unknown",
+        "name": "hosptl_bednew",
+        "description": "",
+        "adurl": "",
+        "offerid": 1710021396,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        }
       }
     ]
   },
