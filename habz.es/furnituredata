@@ -1193293,7 +1193293,8 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "interactiontype": "vendingmachine"
       },
       {
         "id": 2000014705,
@@ -1194036,7 +1194037,8 @@
         "revision": 45508,
         "specialtype": 1,
         "xdim": 1,
-        "ydim": 1
+        "ydim": 1,
+        "interactiontype": "vendingmachine"
       },
       {
         "id": 2000014730,
