@@ -133773,16 +133773,56 @@
       {
         "id": 6660104,
         "classname": "habbost_opaldragon_sand",
-        "name": "habbost_opaldragon_sand",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
         "xdim": 1,
-        "ydim": 1
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Opal Vuurdraak",
+        "description": "",
+        "adurl": "",
+        "offerid": 6660104,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "rare": false,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
       },
       {
         "id": 6660105,
         "classname": "habbost_opaldragon_earth",
-        "name": "habbost_opaldragon_earth",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
         "xdim": 1,
-        "ydim": 1
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Opal Vuurdraak",
+        "description": "",
+        "adurl": "",
+        "offerid": 6660105,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "rare": false,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
       },
       {
         "id": 6660106,
