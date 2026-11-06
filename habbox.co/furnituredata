@@ -1901672,35 +1901672,6 @@
         "rare": false
       },
       {
-        "id": 88197,
-        "classname": "house_sofa",
-        "revision": 0,
-        "category": "unknown",
-        "defaultdir": 0,
-        "xdim": 0,
-        "ydim": 0,
-        "partcolors": {
-          "color": []
-        },
-        "name": "house_sofa",
-        "description": "",
-        "adurl": "",
-        "offerid": 88197,
-        "buyout": false,
-        "rentofferid": -1,
-        "rentbuyout": false,
-        "bc": false,
-        "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
-        "canstandon": false,
-        "cansiton": false,
-        "canlayon": false,
-        "furniline": "",
-        "environment": "",
-        "rare": false
-      },
-      {
         "id": 88203,
         "classname": "hp_dumbledorephx",
         "revision": 0,
@@ -1959363,7 +1959334,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "survival_cloth_c26_bow",
+        "name": "Arc survivaliste",
         "description": "",
         "adurl": "",
         "offerid": 90441,
@@ -1959372,8 +1959343,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6603,6604,6605",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1959392,7 +1959363,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "survival_cloth_c26_braid",
+        "name": "Tresse du survivaliste",
         "description": "",
         "adurl": "",
         "offerid": 90442,
@@ -1959401,8 +1959372,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6570",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1959421,7 +1959392,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "survival_cloth_c26_cyberlimbs",
+        "name": "Membres cybernétiques",
         "description": "",
         "adurl": "",
         "offerid": 90443,
@@ -1959430,8 +1959401,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6600",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1959450,7 +1959421,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "survival_cloth_c26_drone",
+        "name": "Drone inspection personnel",
         "description": "",
         "adurl": "",
         "offerid": 90444,
@@ -1959459,8 +1959430,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6571",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1959479,7 +1959450,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "survival_cloth_c26_grenade",
+        "name": "Grenade",
         "description": "",
         "adurl": "",
         "offerid": 90445,
@@ -1959488,8 +1959459,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6584",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1959508,7 +1959479,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "survival_cloth_c26_survivaljumpsuit",
+        "name": "Combinaison du garde",
         "description": "",
         "adurl": "",
         "offerid": 90446,
@@ -1959517,8 +1959488,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6588,6589,6590",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1959537,7 +1959508,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "survival_cloth_c26_survivalmask",
+        "name": "Masque du garde",
         "description": "",
         "adurl": "",
         "offerid": 90447,
@@ -1959546,8 +1959517,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6585,6586,6587",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1959566,7 +1959537,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "survival_cloth_c26_sword",
+        "name": "Épée tactique",
         "description": "",
         "adurl": "",
         "offerid": 90448,
@@ -1959575,8 +1959546,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6606",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1959595,7 +1959566,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "survival_cloth_c26_tomahawk",
+        "name": "Tomahawk tactique",
         "description": "",
         "adurl": "",
         "offerid": 90449,
@@ -1959604,8 +1959575,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6579",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1959624,7 +1959595,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "survival_cloth_c26_weapon",
+        "name": "Arme improvisée",
         "description": "",
         "adurl": "",
         "offerid": 90450,
@@ -1959633,8 +1959604,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6578",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1959653,7 +1959624,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "survival_cloth_r26_bloodbath",
+        "name": "Bain de sang",
         "description": "",
         "adurl": "",
         "offerid": 90451,
@@ -1959662,8 +1959633,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6575,6576",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1959827,7 +1959798,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "clothing_nft26_bananahelmet",
+        "name": "Casque banane",
         "description": "",
         "adurl": "",
         "offerid": 90457,
@@ -1959836,8 +1959807,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6609",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1959856,7 +1959827,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "clothing_nft26_birdnest",
+        "name": "Chapeau nid d'oiseau",
         "description": "",
         "adurl": "",
         "offerid": 90458,
@@ -1959865,8 +1959836,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6608",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1959885,7 +1959856,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "clothing_nft26_cottoncandy",
+        "name": "Stick barbe à papa",
         "description": "",
         "adurl": "",
         "offerid": 90459,
@@ -1959894,8 +1959865,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6595",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1959914,7 +1959885,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "clothing_nft26_cutlery",
+        "name": "Couverts",
         "description": "",
         "adurl": "",
         "offerid": 90460,
@@ -1959923,8 +1959894,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6593",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1959943,7 +1959914,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "clothing_nft26_determinedface",
+        "name": "Visage déterminé",
         "description": "",
         "adurl": "",
         "offerid": 90461,
@@ -1959952,8 +1959923,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6591,6596",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1959972,7 +1959943,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "clothing_nft26_haircomb",
+        "name": "Peigne à cheveux",
         "description": "",
         "adurl": "",
         "offerid": 90462,
@@ -1959981,8 +1959952,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6624",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1960001,7 +1959972,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "clothing_nft26_hopefulface",
+        "name": "Visage d'espoir",
         "description": "",
         "adurl": "",
         "offerid": 90463,
@@ -1960010,8 +1959981,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6592,6597",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1960030,7 +1960001,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "clothing_nft26_trashcan",
+        "name": "Fashion poubelle",
         "description": "",
         "adurl": "",
         "offerid": 90464,
@@ -1960039,8 +1960010,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6621,6622",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1960059,7 +1960030,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "clothing_nft26_zigzagmustache",
+        "name": "Moustache zigzag",
         "description": "",
         "adurl": "",
         "offerid": 90465,
@@ -1960068,8 +1960039,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6623",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1960088,7 +1960059,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "clothing_nftballoonbuddy",
+        "name": "Ami ballon",
         "description": "",
         "adurl": "",
         "offerid": 90466,
@@ -1960097,8 +1960068,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6618",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1960117,7 +1960088,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "clothing_nftcollectiblesprint",
+        "name": "Imprimés collectible",
         "description": "",
         "adurl": "",
         "offerid": 90467,
@@ -1960126,8 +1960097,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6614",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1960146,7 +1960117,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "clothing_nftemeraldskin",
+        "name": "Peau Emeraude pure",
         "description": "",
         "adurl": "",
         "offerid": 90468,
@@ -1960155,8 +1960126,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6616,6617",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1961045,7 +1961016,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_cloth_painthat",
+        "name": "Chapeau larges bords éclaboussé de peinture",
         "description": "",
         "adurl": "",
         "offerid": 90499,
@@ -1961054,8 +1961025,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6598",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1961074,7 +1961045,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_cloth_paintoutfit",
+        "name": "Tenue éclaboussée de peinture",
         "description": "",
         "adurl": "",
         "offerid": 90500,
@@ -1961083,8 +1961054,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6611,6612,6613",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1961103,7 +1961074,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_paintbust",
+        "name": "Buste éclaboussé de peinture",
         "description": "",
         "adurl": "",
         "offerid": 90501,
@@ -1961132,7 +1961103,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_paintcans",
+        "name": "Boîtes de peinture colorées",
         "description": "",
         "adurl": "",
         "offerid": 90502,
@@ -1961161,7 +1961132,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_paintchair",
+        "name": "Chaise éclaboussée de peinture",
         "description": "",
         "adurl": "",
         "offerid": 90503,
@@ -1961190,7 +1961161,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_paintcolumn",
+        "name": "Colonne éclaboussée de peinture",
         "description": "",
         "adurl": "",
         "offerid": 90504,
@@ -1961219,7 +1961190,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_paintcouch",
+        "name": "Canapé éclaboussé de peinture",
         "description": "",
         "adurl": "",
         "offerid": 90505,
@@ -1961248,7 +1961219,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_paintcupboard",
+        "name": "Placard éclaboussé de peinture",
         "description": "",
         "adurl": "",
         "offerid": 90506,
@@ -1961277,7 +1961248,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_painteasel",
+        "name": "Chevalet éclaboussé de peinture",
         "description": "",
         "adurl": "",
         "offerid": 90507,
@@ -1961306,7 +1961277,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_paintlamp",
+        "name": "Lampe éclaboussée de peinture",
         "description": "",
         "adurl": "",
         "offerid": 90508,
@@ -1961335,7 +1961306,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_paintshelf",
+        "name": "Étagère éclaboussée de peinture",
         "description": "",
         "adurl": "",
         "offerid": 90509,
@@ -1961364,7 +1961335,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_paintsplatter",
+        "name": "Éclaboussures de peinture",
         "description": "",
         "adurl": "",
         "offerid": 90510,
@@ -1961393,7 +1961364,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_painttable",
+        "name": "Table éclaboussée de peinture",
         "description": "",
         "adurl": "",
         "offerid": 90511,
@@ -1961451,7 +1961422,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "seasidehabblet_20",
+        "name": "Scène en bois de bord de mer",
         "description": "",
         "adurl": "",
         "offerid": 90514,
@@ -1961480,7 +1961451,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "seasidehabblet_21",
+        "name": "Mousse de plage",
         "description": "",
         "adurl": "",
         "offerid": 90515,
@@ -1961509,7 +1961480,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "seasidehabblet_22",
+        "name": "Escalier de plage",
         "description": "",
         "adurl": "",
         "offerid": 90516,
@@ -1961538,7 +1961509,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "seasidehabblet_24",
+        "name": "Montée en pierre",
         "description": "",
         "adurl": "",
         "offerid": 90517,
@@ -1961567,7 +1961538,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "seasidehabblet_25",
+        "name": "Petit tabouret de plage",
         "description": "",
         "adurl": "",
         "offerid": 90518,
@@ -1961596,7 +1961567,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "seasidehabblet_26",
+        "name": "Marbre de plage",
         "description": "",
         "adurl": "",
         "offerid": 90519,
@@ -1961625,7 +1961596,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "seasidehabblet_27",
+        "name": "Coquillage ondulée",
         "description": "",
         "adurl": "",
         "offerid": 90520,
@@ -1961770,7 +1961741,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W01_Monte_de_caveira",
+        "name": "Crânes hantés",
         "description": "",
         "adurl": "",
         "offerid": 90525,
@@ -1961799,7 +1961770,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W02_barraca_de_ticket",
+        "name": "Kiosque à billets",
         "description": "",
         "adurl": "",
         "offerid": 90526,
@@ -1961828,7 +1961799,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W03_Frasco_de_criaturas",
+        "name": "Flacon mystérieux",
         "description": "",
         "adurl": "",
         "offerid": 90527,
@@ -1961857,7 +1961828,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W04_Espelho_Escova",
+        "name": "Miroir hanté",
         "description": "",
         "adurl": "",
         "offerid": 90528,
@@ -1961886,7 +1961857,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W05_Ingressos_do_horror",
+        "name": "Billets hantés",
         "description": "",
         "adurl": "",
         "offerid": 90529,
@@ -1961915,7 +1961886,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W06_Pipocas_de_circo",
+        "name": "Pop-corn hanté",
         "description": "",
         "adurl": "",
         "offerid": 90530,
@@ -1961944,7 +1961915,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W07_Disco_do_panico",
+        "name": "Disque hanté",
         "description": "",
         "adurl": "",
         "offerid": 90531,
@@ -1961973,7 +1961944,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W08_Boneco_de_danca",
+        "name": "Petit bonhomme hanté",
         "description": "",
         "adurl": "",
         "offerid": 90532,
@@ -1962002,7 +1961973,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W09_Cartola_Magica",
+        "name": "Chapeau magique hanté",
         "description": "",
         "adurl": "",
         "offerid": 90533,
@@ -1962031,7 +1962002,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W10_Pesos_de_Caveira",
+        "name": "Barre de poids hantée",
         "description": "",
         "adurl": "",
         "offerid": 90534,
@@ -1962060,7 +1962031,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W11_Sapo_Mutante",
+        "name": "Crapaud mutant",
         "description": "",
         "adurl": "",
         "offerid": 90535,
@@ -1962089,7 +1962060,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W12_Maquina_de_Musgo",
+        "name": "Machine hantée",
         "description": "",
         "adurl": "",
         "offerid": 90536,
@@ -1962118,7 +1962089,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W13_Caixa_Surpresa",
+        "name": "Boîte surprise hantée",
         "description": "",
         "adurl": "",
         "offerid": 90537,
@@ -1962147,7 +1962118,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W14_Cartaz_Fantasma",
+        "name": "Affiche fantôme",
         "description": "",
         "adurl": "",
         "offerid": 90538,
@@ -1962176,7 +1962147,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W15_Sapatos_de_PalhaCo",
+        "name": "Chaussures de clown",
         "description": "",
         "adurl": "",
         "offerid": 90539,
@@ -1962205,7 +1962176,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W16_Placa_Fantasma",
+        "name": "Plaque hantée",
         "description": "",
         "adurl": "",
         "offerid": 90540,
@@ -1962234,7 +1962205,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W17_Caixa_Misteriosa",
+        "name": "Boîte mystérieuse",
         "description": "",
         "adurl": "",
         "offerid": 90541,
@@ -1962263,7 +1962234,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W18_Elefante_do_circo",
+        "name": "Éléphant de cirque",
         "description": "",
         "adurl": "",
         "offerid": 90542,
@@ -1962292,7 +1962263,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W19_Quadro_de_dos_gemeos",
+        "name": "Tableau des jumeaux",
         "description": "",
         "adurl": "",
         "offerid": 90543,
@@ -1962321,7 +1962292,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W20_Quadro_corredor_da_Morte",
+        "name": "Tableau Couloir de la mort",
         "description": "",
         "adurl": "",
         "offerid": 90544,
@@ -1962350,7 +1962321,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W21_Quadro_Noite_de_terror",
+        "name": "Tableau Nuit de terreur",
         "description": "",
         "adurl": "",
         "offerid": 90545,
@@ -1962379,7 +1962350,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W22_Quadro_macabro",
+        "name": "Tableau Macabre",
         "description": "",
         "adurl": "",
         "offerid": 90546,
@@ -1962408,7 +1962379,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W23_Coelho_de_circo",
+        "name": "Lapin de cirque",
         "description": "",
         "adurl": "",
         "offerid": 90547,
@@ -1962437,7 +1962408,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W23_Quadro_da_dama_Fantasma",
+        "name": "Tableau Dame fantôme",
         "description": "",
         "adurl": "",
         "offerid": 90548,
@@ -1962466,7 +1962437,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "W24_Mesa_do_magico",
+        "name": "Table du Magicien",
         "description": "",
         "adurl": "",
         "offerid": 90549,
@@ -1969919,7 +1969890,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_act_send_message",
+        "name": "Effet WIRED: Envoyer un message par Lien",
         "description": "",
         "adurl": "",
         "offerid": 90810,
@@ -1969948,7 +1969919,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_act_set_highlight",
+        "name": "Effet WIRED: Définir la surbrillance",
         "description": "",
         "adurl": "",
         "offerid": 90811,
@@ -1969977,7 +1969948,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_act_set_visibility",
+        "name": "Effet WIRED: Définir la visibilité",
         "description": "",
         "adurl": "",
         "offerid": 90812,
@@ -1970363,8 +1970334,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6656",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1970392,8 +1970363,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6647",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1970412,7 +1970383,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "clothing_nft26_duckchestprint",
+        "name": "Imprimés Collectible Poitrine Canard",
         "description": "",
         "adurl": "",
         "offerid": 90827,
@@ -1970421,8 +1970392,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6642",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1970441,7 +1970412,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "clothing_nft26_duckheadband",
+        "name": "Collectibles Serre-tête Canard",
         "description": "",
         "adurl": "",
         "offerid": 90828,
@@ -1970450,8 +1970421,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6639",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1970470,7 +1970441,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "clothing_nft26_duckonesie",
+        "name": "Collectibles Grenouillère Canard",
         "description": "",
         "adurl": "",
         "offerid": 90829,
@@ -1970479,8 +1970450,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6643,6644",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1970499,7 +1970470,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "clothing_nft26_duckslippers",
+        "name": "Collectibles Chaussons Canard",
         "description": "",
         "adurl": "",
         "offerid": 90830,
@@ -1970508,8 +1970479,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6648",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1970537,8 +1970508,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6657,6658",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1970566,8 +1970537,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6640",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1970595,8 +1970566,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6637",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1970624,8 +1970595,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6641",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1970653,8 +1970624,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6653,6654,6655",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1970682,8 +1970653,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6649",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1970711,8 +1970682,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6652",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1970740,8 +1970711,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6651",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1970769,8 +1970740,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6650",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1971001,8 +1970972,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6635",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1971030,8 +1971001,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6646",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1971059,8 +1971030,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6636",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1971088,8 +1971059,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6625,6626,6627,6628",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1971117,8 +1971088,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6632",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1971146,8 +1971117,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6634",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1971175,8 +1971146,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6638",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1971204,8 +1971175,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6619",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1971233,8 +1971204,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6629,6630,6631",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1971262,8 +1971233,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6620",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1971291,8 +1971262,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6645",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1971320,8 +1971291,8 @@
         "rentbuyout": false,
         "bc": false,
         "excludeddynamic": false,
-        "customparams": "",
-        "specialtype": 0,
+        "customparams": "6633",
+        "specialtype": 23,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
@@ -1971369,7 +1971340,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_45",
+        "name": "Arche en pierre du château",
         "description": "",
         "adurl": "",
         "offerid": 90860,
@@ -1971398,7 +1971369,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_46",
+        "name": "Petit arche en pierre",
         "description": "",
         "adurl": "",
         "offerid": 90861,
@@ -1971427,7 +1971398,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_47",
+        "name": "Bloc d'angle du château",
         "description": "",
         "adurl": "",
         "offerid": 90862,
@@ -1971456,7 +1971427,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_48",
+        "name": "Butée du château",
         "description": "",
         "adurl": "",
         "offerid": 90863,
@@ -1971485,7 +1971456,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_49",
+        "name": "Bloc Arche",
         "description": "",
         "adurl": "",
         "offerid": 90864,
@@ -1971514,7 +1971485,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween_26_estufa_intern",
+        "name": "Serre interne",
         "description": "",
         "adurl": "",
         "offerid": 90865,
@@ -1971543,7 +1971514,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_bancofznd",
+        "name": "Tabouret de la ferme",
         "description": "",
         "adurl": "",
         "offerid": 90866,
@@ -1971572,7 +1971543,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_cantofzdtij",
+        "name": "Bloc de château",
         "description": "",
         "adurl": "",
         "offerid": 90867,
@@ -1971601,7 +1971572,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_cestafznd",
+        "name": "Panier à foin",
         "description": "",
         "adurl": "",
         "offerid": 90868,
@@ -1971630,7 +1971601,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_chaosujo26",
+        "name": "Sol sale",
         "description": "",
         "adurl": "",
         "offerid": 90869,
@@ -1971659,7 +1971630,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_fenofznd",
+        "name": "Foin sec",
         "description": "",
         "adurl": "",
         "offerid": 90870,
@@ -1971688,7 +1971659,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_janelfzd",
+        "name": "Fenêtre de la ferme",
         "description": "",
         "adurl": "",
         "offerid": 90871,
@@ -1971717,7 +1971688,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_leitefznd",
+        "name": "Flaque de lait frais",
         "description": "",
         "adurl": "",
         "offerid": 90872,
@@ -1971746,7 +1971717,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_pedrachs",
+        "name": "Sol en pierre",
         "description": "",
         "adurl": "",
         "offerid": 90873,
@@ -1971775,7 +1971746,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_pisofzd",
+        "name": "Sol en foin du ranch",
         "description": "",
         "adurl": "",
         "offerid": 90874,
@@ -1971804,7 +1971775,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_quadrofzd",
+        "name": "Cadre de la ferme",
         "description": "",
         "adurl": "",
         "offerid": 90875,
@@ -1971833,7 +1971804,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_ranch_01",
+        "name": "Petits pots de la ferme",
         "description": "",
         "adurl": "",
         "offerid": 90876,
@@ -1971862,7 +1971833,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_ranch_02",
+        "name": "Arrosoir de la ferme",
         "description": "",
         "adurl": "",
         "offerid": 90877,
@@ -1971891,7 +1971862,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_ranch_03",
+        "name": "Pelle de ferme",
         "description": "",
         "adurl": "",
         "offerid": 90878,
@@ -1971920,7 +1971891,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_ranch_04",
+        "name": "Projets architecturaux",
         "description": "",
         "adurl": "",
         "offerid": 90879,
@@ -1971949,7 +1971920,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_ranch_05",
+        "name": "Vignes de la propriété",
         "description": "",
         "adurl": "",
         "offerid": 90880,
@@ -1971978,7 +1971949,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_ranch_06",
+        "name": "Chant de la clôture rustique",
         "description": "",
         "adurl": "",
         "offerid": 90881,
@@ -1972007,7 +1971978,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_ranch_07",
+        "name": "Petits pots de la ferme",
         "description": "",
         "adurl": "",
         "offerid": 90882,
@@ -1972036,7 +1972007,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_ranch_08",
+        "name": "Panier de la ferme",
         "description": "",
         "adurl": "",
         "offerid": 90883,
@@ -1972065,7 +1972036,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_ranch_09",
+        "name": "Poteau de clôture de ferme",
         "description": "",
         "adurl": "",
         "offerid": 90884,
@@ -1972094,7 +1972065,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_ranch_10",
+        "name": "Plaque de l'écurie",
         "description": "",
         "adurl": "",
         "offerid": 90885,
@@ -1972123,7 +1972094,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_ranch_11",
+        "name": "Œufs de poule",
         "description": "",
         "adurl": "",
         "offerid": 90886,
@@ -1972152,7 +1972123,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_ranch_12",
+        "name": "Petit arbre de la ferme",
         "description": "",
         "adurl": "",
         "offerid": 90887,
@@ -1972181,7 +1972152,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h25_coolbox1",
+        "name": "Cool Box Été 2025",
         "description": "",
         "adurl": "",
         "offerid": 90888,
@@ -1972210,7 +1972181,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h25_coolbox2",
+        "name": "Cool Box Premium 2025",
         "description": "",
         "adurl": "",
         "offerid": 90889,
@@ -1972239,7 +1972210,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rancho_paredeinterna",
+        "name": "Mur de la ferme",
         "description": "",
         "adurl": "",
         "offerid": 90890,
