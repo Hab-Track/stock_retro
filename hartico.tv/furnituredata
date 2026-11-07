@@ -1002777,13 +1002777,7 @@
         "classname": "opti_rocket",
         "revision": 0,
         "category": "",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
-        "name": "opti_rocket_desc",
+        "name": "Humadera Himmel",
         "description": "",
         "adurl": "",
         "offerid": 11539,
@@ -1002794,12 +1002788,18 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 11540,
@@ -1018930,13 +1018930,7 @@
         "classname": "gum_c15_throne",
         "revision": 0,
         "category": "",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
-        "name": "That was our hotel's logos!",
+        "name": "Throne Chicle",
         "description": "",
         "adurl": "",
         "offerid": 12129,
@@ -1018947,12 +1018941,18 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": true,
         "canlayon": false,
-        "furniline": "",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 12130,
@@ -1028297,13 +1028297,7 @@
         "classname": "mull_icecream_campaign",
         "revision": 0,
         "category": "",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
-        "name": "Vuilnis Ijsmachine",
+        "name": "Heladera Basura",
         "description": "Ijs met mieren, vliegjes en vuilnis!",
         "adurl": "",
         "offerid": 12465,
@@ -1028314,12 +1028308,18 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 12466,
