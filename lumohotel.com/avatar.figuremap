@@ -108039,6 +108039,28 @@
           "type": "ha"
         }
       ]
+    },
+    {
+      "id": "jacket_F_Jacket",
+      "revision": 1794081510,
+      "parts": [
+        {
+          "id": 4764,
+          "type": "cc"
+        },
+        {
+          "id": 4764,
+          "type": "lc"
+        },
+        {
+          "id": 4764,
+          "type": "rc"
+        },
+        {
+          "id": 4765,
+          "type": "cc"
+        }
+      ]
     }
   ]
 }
