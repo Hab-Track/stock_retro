@@ -2,6 +2,35 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666536,
+        "classname": "yufex_barbiemafia_araba",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 4,
+        "partcolors": {
+          "color": []
+        },
+        "name": "yufex_barbiemafia_araba",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666536,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666485,
         "classname": "yufex_barbiemafia_zemin",
         "revision": 0,
