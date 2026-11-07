@@ -1229887,6 +1229887,197 @@
         "furniline": "",
         "environment": "",
         "rare": false
+      },
+      {
+        "id": 2000016216,
+        "classname": "belmondfolasade_glassdoor",
+        "name": "Porta di Vetro Belmond",
+        "customparams": "",
+        "specialtype": 1,
+        "offerid": 2000016216
+      },
+      {
+        "id": 2000016217,
+        "classname": "pietraSingolaBW",
+        "name": "Pilastro di Pietra",
+        "customparams": "",
+        "specialtype": 1,
+        "offerid": 2000016217
+      },
+      {
+        "id": 2000016218,
+        "classname": "pietraDoppiaBW",
+        "name": "Arco di Pietra",
+        "customparams": "",
+        "specialtype": 1,
+        "offerid": 2000016218
+      },
+      {
+        "id": 2000016219,
+        "classname": "dr_nest2BW",
+        "name": "Pietra Scura",
+        "customparams": "",
+        "specialtype": 1,
+        "offerid": 2000016219
+      },
+      {
+        "id": 2000016220,
+        "classname": "dr_nest1BW",
+        "name": "Pietra Scura Alta",
+        "customparams": "",
+        "specialtype": 1,
+        "offerid": 2000016220
+      },
+      {
+        "id": 2000016221,
+        "classname": "pietraTrol",
+        "name": "pietraTrol",
+        "customparams": "",
+        "specialtype": 1,
+        "offerid": 2000016221
+      },
+      {
+        "id": 2000016222,
+        "classname": "tv_hobba_26_shakiravinyl3",
+        "name": "SHAKIRA - Pies descalzos (Vinile)",
+        "customparams": "",
+        "specialtype": 1,
+        "offerid": 2000016222
+      },
+      {
+        "id": 2000016223,
+        "classname": "hm_alp_steinsamurai",
+        "name": "Samurai di Pietra",
+        "customparams": "",
+        "specialtype": 1,
+        "offerid": 2000016223
+      },
+      {
+        "id": 2000016224,
+        "classname": "onepiece_ryuohaki_sandigi_krm",
+        "name": "onepiece_ryuohaki_sandigi_krm",
+        "customparams": "",
+        "specialtype": 1,
+        "offerid": 2000016224
+      },
+      {
+        "id": 2000016225,
+        "classname": "bssitalia_piedistallorosso",
+        "name": "Piedistallo rosso",
+        "partcolors": {
+          "color": [
+            "#"
+          ]
+        },
+        "customparams": "99388197",
+        "specialtype": 0,
+        "offerid": 2000016225
+      },
+      {
+        "id": 2000016226,
+        "classname": "Cityween_20_Pieuve",
+        "name": "Polpo ciclope (VIP)",
+        "customparams": "false",
+        "specialtype": 0,
+        "offerid": 2000016226
+      },
+      {
+        "id": 2000016227,
+        "classname": "shadow_box_stonerare",
+        "name": "Scatola di Rari Pietrificati (DISATTIVATA)",
+        "customparams": "",
+        "specialtype": 0,
+        "offerid": 2000016227
+      },
+      {
+        "id": 2000016228,
+        "classname": "BLOCO_01_HALLOWEEN",
+        "name": "Blocco di Pietre",
+        "customparams": "",
+        "specialtype": 1,
+        "offerid": 2000016228
+      },
+      {
+        "id": 2000016229,
+        "classname": "PILAR_01_HALLOWEEN",
+        "name": "Pilastro di Pietre",
+        "customparams": "",
+        "specialtype": 1,
+        "offerid": 2000016229
+      },
+      {
+        "id": 2000016230,
+        "classname": "obsidian_deepgrove_handseat",
+        "name": "Mano di pietra Deepgrove Dorato",
+        "customparams": "",
+        "specialtype": 1,
+        "offerid": 2000016230
+      },
+      {
+        "id": 2000016231,
+        "classname": "classic6_stonecarpet_coners",
+        "name": "Pavimento Moquette in Pietra",
+        "customparams": "",
+        "specialtype": 0,
+        "offerid": 2000016231
+      },
+      {
+        "id": 2000016232,
+        "classname": "yufex_silo_tas1",
+        "name": "Pietra del Silo 1",
+        "customparams": "",
+        "specialtype": 0,
+        "offerid": 2000016232
+      },
+      {
+        "id": 2000016233,
+        "classname": "yufex_silo_tas2",
+        "name": "Pietra del Silo 2",
+        "customparams": "",
+        "specialtype": 0,
+        "offerid": 2000016233
+      },
+      {
+        "id": 2000016234,
+        "classname": "hosptl_grn",
+        "revision": 1235826,
+        "category": "general",
+        "xdim": 1,
+        "ydim": 3,
+        "name": "hosptl grn",
+        "description": "Añadido con el importador de furnis",
+        "adurl": "",
+        "offerid": 2000016234,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
+      },
+      {
+        "id": 2000016235,
+        "classname": "balloon_throne",
+        "revision": 1235826,
+        "category": "general",
+        "xdim": 1,
+        "ydim": 1,
+        "name": "balloon throne",
+        "description": "Añadido con el importador de furnis",
+        "adurl": "",
+        "offerid": 2000016235,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
       }
     ]
   },
