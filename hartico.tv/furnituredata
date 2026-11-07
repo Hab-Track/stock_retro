@@ -939731,13 +939731,7 @@
         "classname": "leg_bongobl",
         "revision": 0,
         "category": "",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
-        "name": "Legendore Illusion Bong",
+        "name": "Bong Dorado",
         "description": "Verpasst dir den goldenen Kick!",
         "adurl": "",
         "offerid": 9361,
@@ -939748,12 +939742,18 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 9362,
@@ -1029892,13 +1029892,7 @@
         "classname": "egypt_elephant",
         "revision": 0,
         "category": "",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
-        "name": "Farao Fantje",
+        "name": "Mamut Egipcio",
         "description": "Diep uit de tombes..",
         "adurl": "",
         "offerid": 12520,
@@ -1029909,12 +1029903,18 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 12521,
