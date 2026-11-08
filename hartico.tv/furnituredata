@@ -861305,14 +861305,8 @@
         "classname": "xmas_ltd19_icethrone",
         "revision": 0,
         "category": "",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
         "name": "Trono de Hielo",
-        "description": "xmas_ltd19_icethrone desc",
+        "description": "",
         "adurl": "",
         "offerid": 14762,
         "buyout": false,
@@ -861322,12 +861316,18 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": true,
         "canlayon": false,
-        "furniline": "",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 14763,
@@ -896352,14 +896352,8 @@
         "classname": "fantasy_r22_herostatue",
         "revision": 0,
         "category": "",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 3,
-        "partcolors": {
-          "color": []
-        },
         "name": "Estatua Héroe",
-        "description": "fantasy_r22_herostatue desc",
+        "description": "",
         "adurl": "",
         "offerid": 105047,
         "buyout": false,
@@ -896369,12 +896363,18 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 3,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 105048,
