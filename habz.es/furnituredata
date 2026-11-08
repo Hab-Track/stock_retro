@@ -1228615,7 +1228615,8 @@
         "specialtype": 1,
         "canstandon": false,
         "cansiton": false,
-        "canlayon": false
+        "canlayon": false,
+        "interactiontype": "bop_fishing_boat"
       },
       {
         "id": 2000016171,
@@ -1230078,6 +1230079,35 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false
+      },
+      {
+        "id": 2000016236,
+        "classname": "bop_fishing_boat1",
+        "revision": 0,
+        "category": "",
+        "name": "Bote de pesca",
+        "description": "Haz doble clic para subir al bote y remar por el agua de pesca. Doble clic otra vez para volver a tierra.",
+        "adurl": "",
+        "offerid": 2000016236,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 3,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "partcolors": {
+          "color": []
+        }
       }
     ]
   },
