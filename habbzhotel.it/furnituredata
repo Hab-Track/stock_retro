@@ -1102563,6 +1102563,776 @@
         "name": "Trofeo Melanzanatroccolo",
         "customparams": "",
         "specialtype": 1
+      },
+      {
+        "id": 194900142,
+        "classname": "bento_hog_chair",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sedia Gotica",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900143,
+        "classname": "bento_hog_chair_2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Trono Gotico Intagliato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900144,
+        "classname": "bento_hog_chair_3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sedia Gotica a Guglie",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900145,
+        "classname": "bento_hog_chair_4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sedia Gotica Traforata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900146,
+        "classname": "bento_hog_chair_5",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Scranno a Pannelli",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900147,
+        "classname": "bento_hog_chair_6",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Poltrona di Legno a Orecchioni",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900148,
+        "classname": "bento_hog_chair_7",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Scranno del Rosone",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900149,
+        "classname": "bento_hog_chair_9",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pouf Capitonné",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900150,
+        "classname": "bento_hog_chair_10",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sgabello Capitonné",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900151,
+        "classname": "bento_hog_chair_11",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sgabellino Capitonné",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900152,
+        "classname": "bento_hog_chair_12",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sgabello Capitonné Tornito",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900153,
+        "classname": "bento_hog_chair_13",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sedia Capitonné a Schienale Alto",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900154,
+        "classname": "bento_hog_chair_14",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Poltrona Imbottita Avvolgente",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900155,
+        "classname": "bento_hog_chair_15",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sedia Imbottita da Studio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900156,
+        "classname": "bento_hog_chair_16",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Poltrona Chesterfield a Orecchioni",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900157,
+        "classname": "bento_hog_chair_17",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sgabello Rotondo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900158,
+        "classname": "bento_hog_chair_18",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sgabello Quadrato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900159,
+        "classname": "bento_hog_chair_19",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sedia di Legno",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900160,
+        "classname": "bento_hog_chair_20",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sedia a Stecche",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900161,
+        "classname": "bento_hog_chair_21",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sedia con Coperta di Grifondoro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900162,
+        "classname": "bento_hog_chair_22",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sedia con Coperta di Serpeverde",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900163,
+        "classname": "bento_hog_chair_23",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sedia con Coperta di Corvonero",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900164,
+        "classname": "bento_hog_chair_24",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sedia con Coperta di Tassorosso",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900165,
+        "classname": "bento_hog_chair_25",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Trono con Drappo di Grifondoro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900166,
+        "classname": "bento_hog_chair_26",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Trono con Drappo di Serpeverde",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900167,
+        "classname": "bento_hog_chair_27",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Trono con Drappo di Corvonero",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900168,
+        "classname": "bento_hog_chair_28",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Trono con Drappo di Tassorosso",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900169,
+        "classname": "bento_hog_chair_29",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sedia con Sciarpa di Grifondoro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900170,
+        "classname": "bento_hog_chair_30",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sedia con Sciarpa di Serpeverde",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900171,
+        "classname": "bento_hog_chair_31",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sedia con Sciarpa di Corvonero",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900172,
+        "classname": "bento_hog_chair_32",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sedia con Sciarpa di Tassorosso",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900173,
+        "classname": "bento_hog_table_a_1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo Rotondo Intarsiato Bianco",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900174,
+        "classname": "bento_hog_table_a_2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo Rotondo Intarsiato Miele",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900175,
+        "classname": "bento_hog_table_a_3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo Rotondo Intarsiato Rovere",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900176,
+        "classname": "bento_hog_table_a_4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo Rotondo Intarsiato Ciliegio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900177,
+        "classname": "bento_hog_table_a_5",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo Rotondo Intarsiato Noce",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900178,
+        "classname": "bento_hog_table_a_6",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo Rotondo Intarsiato Mogano",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900179,
+        "classname": "bento_hog_table_a_7",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo Rotondo Intarsiato Salvia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900180,
+        "classname": "bento_hog_table_a_8",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo Rotondo Intarsiato Rosso",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900181,
+        "classname": "bento_hog_table_a_9",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo Rotondo Intarsiato Blu",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900182,
+        "classname": "bento_hog_table_a_10",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo Rotondo Intarsiato Oro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900183,
+        "classname": "bento_hog_table_a_11",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo Rotondo Intarsiato Viola",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900184,
+        "classname": "bento_hog_table_a_12",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo Rotondo Intarsiato Ebano",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900185,
+        "classname": "bento_hog_table_a_13",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo Rotondo Intarsiato Avorio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900186,
+        "classname": "bento_hog_table_b_1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino a Colonna Bianco",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900187,
+        "classname": "bento_hog_table_b_2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino a Colonna Miele",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900188,
+        "classname": "bento_hog_table_b_3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino a Colonna Rovere",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900189,
+        "classname": "bento_hog_table_b_4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino a Colonna Ciliegio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900190,
+        "classname": "bento_hog_table_b_5",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino a Colonna Noce",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900191,
+        "classname": "bento_hog_table_b_6",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino a Colonna Mogano",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900192,
+        "classname": "bento_hog_table_b_7",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino a Colonna Salvia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900193,
+        "classname": "bento_hog_table_b_8",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino a Colonna Rosso",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900194,
+        "classname": "bento_hog_table_b_9",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino a Colonna Blu",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900195,
+        "classname": "bento_hog_table_b_10",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino a Colonna Oro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900196,
+        "classname": "bento_hog_table_b_11",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino a Colonna Viola",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900197,
+        "classname": "bento_hog_table_b_12",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino a Colonna Ebano",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900198,
+        "classname": "bento_hog_table_b_13",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino a Colonna Avorio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900199,
+        "classname": "bento_hog_table_c_1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino con Cassetto Bianco",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900200,
+        "classname": "bento_hog_table_c_2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino con Cassetto Miele",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900201,
+        "classname": "bento_hog_table_c_3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino con Cassetto Rovere",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900202,
+        "classname": "bento_hog_table_c_4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino con Cassetto Ciliegio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900203,
+        "classname": "bento_hog_table_c_5",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino con Cassetto Noce",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900204,
+        "classname": "bento_hog_table_c_6",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino con Cassetto Mogano",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900205,
+        "classname": "bento_hog_table_c_7",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino con Cassetto Salvia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900206,
+        "classname": "bento_hog_table_c_8",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino con Cassetto Rosso",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900207,
+        "classname": "bento_hog_table_c_9",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino con Cassetto Blu",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900208,
+        "classname": "bento_hog_table_c_10",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino con Cassetto Oro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900209,
+        "classname": "bento_hog_table_c_11",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino con Cassetto Viola",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900210,
+        "classname": "bento_hog_table_c_12",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino con Cassetto Ebano",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900211,
+        "classname": "bento_hog_table_c_13",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolino con Cassetto Avorio",
+        "customparams": "",
+        "specialtype": 1
       }
     ]
   },
