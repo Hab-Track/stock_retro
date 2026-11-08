@@ -133626,7 +133626,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Accessorio di Testo WIRED: effetto mai visto!",
+        "name": "Accessorio WIRED: Effetto Invisibile",
         "description": "Nella pila a cui appartiene innesca un Effetto inutilizzato in precedenza.",
         "customparams": "2",
         "specialtype": 1
@@ -1117720,6 +1117720,14 @@
         "name": "Sfondo del Parco Giochi",
         "customparams": "",
         "specialtype": 1
+      },
+      {
+        "id": 9100000,
+        "classname": "external_image_wallitem_origins",
+        "name": "Foto",
+        "customparams": "",
+        "specialtype": 1,
+        "description": "Foto del tema Shockwave (grafica Origins), solo aspetto"
       }
     ]
   }
