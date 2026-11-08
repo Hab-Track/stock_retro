@@ -756930,6 +756930,39 @@
         "furniline": "",
         "environment": "",
         "rare": true
+      },
+      {
+        "id": 1541857961,
+        "classname": "xmas_r26_ferriswheel",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 3,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "xmas_r26_ferriswheel name",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541857961,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
       }
     ]
   },
