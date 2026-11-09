@@ -2,6 +2,35 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666589,
+        "classname": "hbt_silhu_arvore",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "hbt_silhu_arvore",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666589,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666555,
         "classname": "nft_h26_cardchair",
         "revision": 0,
@@ -284,7 +313,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
