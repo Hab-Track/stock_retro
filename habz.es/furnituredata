@@ -820437,7 +820437,8 @@
         "canlayon": false,
         "furniline": "phb",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "interactiontype": "crackable"
       },
       {
         "id": 1996696206,
@@ -1229136,7 +1229137,8 @@
         "specialtype": 1,
         "canstandon": false,
         "cansiton": false,
-        "canlayon": false
+        "canlayon": false,
+        "interactiontype": "vendingmachine"
       },
       {
         "id": 2000016302,
@@ -1230648,7 +1230650,8 @@
         "specialtype": 1,
         "canstandon": false,
         "cansiton": false,
-        "canlayon": false
+        "canlayon": false,
+        "interactiontype": "pressureplate"
       },
       {
         "id": 2000016374,
