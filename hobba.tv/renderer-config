@@ -27,7 +27,6 @@
   "themes.reception.asset.url": "${images.url}/themes/%theme%/%type%_%timeline%.png",
   "border.asset.url": "${images.url}/skins-3/%bordername%.gif",
   "group.badge.url": "${url.prefix}/habblet/guildsimage/%badgename%.png",
-  "custom.badge.asset.url": "${url.prefix}/habblet/guildsimage/test/%badgename%.png",
   "avatar.effects.icon.url": "${image.library.url}effects/%icon%.png",
   "bubbleicon.asset.url": "${image.library.url}bubbleicons/%bubble%.png",
   "furni.rotation.bounce.steps": 20,
