@@ -114655,6 +114655,48 @@
           "type": "rc"
         }
       ]
+    },
+    {
+      "id": "acc_head_U_FlorAriel",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "180000045",
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_PeloSirenita",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "180000044",
+          "type": "hr"
+        },
+        {
+          "id": "180000044",
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_Flounder",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "180000046",
+          "type": "cc"
+        },
+        {
+          "id": "180000046",
+          "type": "lc"
+        },
+        {
+          "id": "180000046",
+          "type": "rc"
+        }
+      ]
     }
   ]
 }
