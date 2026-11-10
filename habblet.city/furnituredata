@@ -2,6 +2,35 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666591,
+        "classname": "Bletween26_badge48_copy",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Diabrete dos Acordos Sombrios",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666591,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666589,
         "classname": "hbt_silhu_arvore",
         "revision": 0,
@@ -2535,7 +2564,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_badge46",
+        "name": "Vivíbora",
         "description": "",
         "adurl": "",
         "offerid": 886666410,
@@ -2854,7 +2883,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_badge35",
+        "name": "Tomando um Toco",
         "description": "",
         "adurl": "",
         "offerid": 886666399,
@@ -2912,7 +2941,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_badge33",
+        "name": "Poção Antissono",
         "description": "",
         "adurl": "",
         "offerid": 886666397,
@@ -3115,7 +3144,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_badge26",
+        "name": "Essência do Halloween",
         "description": "",
         "adurl": "",
         "offerid": 886666390,
@@ -3231,7 +3260,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_badge22",
+        "name": "Endy Abrado",
         "description": "",
         "adurl": "",
         "offerid": 886666386,
@@ -3260,7 +3289,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_badge21",
+        "name": "Bettlejuice",
         "description": "",
         "adurl": "",
         "offerid": 886666385,
@@ -3347,7 +3376,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Bletween26_badge18",
+        "name": "Prisma Estelar",
         "description": "",
         "adurl": "",
         "offerid": 886666382,
