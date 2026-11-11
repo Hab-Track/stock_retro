@@ -2,6 +2,64 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666627,
+        "classname": "Habblet_natal26_02",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Habblet_natal26_02",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666627,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666626,
+        "classname": "Habblet_natal26_01",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Habblet_natal26_01",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666626,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666625,
         "classname": "hlive_c26_glukkotub",
         "revision": 0,
@@ -26895,8 +26953,8 @@
         "partcolors": {
           "color": []
         },
-        "name": "hween_r26_gargoylefountain",
-        "description": "",
+        "name": "Fonte Gárgula LTD",
+        "description": "Edição Limitada - Novembro/2026",
         "adurl": "",
         "offerid": 886664824,
         "buyout": false,
@@ -26924,7 +26982,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ducket_c26_appletree",
+        "name": "Macieira de Outono",
         "description": "",
         "adurl": "",
         "offerid": 886664823,
@@ -26953,7 +27011,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ducket_c26_autumncandle",
+        "name": "Vela de Outono",
         "description": "",
         "adurl": "",
         "offerid": 886664822,
@@ -26982,7 +27040,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ducket_c26_leafpile",
+        "name": "Pilha de Folhas do Outono",
         "description": "",
         "adurl": "",
         "offerid": 886664821,
@@ -30665,7 +30723,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ranch_c26_giantpumpkin",
+        "name": "Abóbora Gigante",
         "description": "",
         "adurl": "",
         "offerid": 886664344,
@@ -31477,7 +31535,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ducket_c26_pumpkinspice",
+        "name": "Drink de Abóboras com Especiarias",
         "description": "",
         "adurl": "",
         "offerid": 886664316,
@@ -31506,7 +31564,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ducket_c26_picnicbasket",
+        "name": "Cesta de Piquenique de Outono",
         "description": "",
         "adurl": "",
         "offerid": 886664315,
@@ -31535,7 +31593,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ducket_c26_cosyblanket",
+        "name": "Manta de Piquenique Aconchegante",
         "description": "",
         "adurl": "",
         "offerid": 886664314,
@@ -31547,7 +31605,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -31564,7 +31622,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ducket_c26_charcuterie",
+        "name": "Tábua de Chacurtaria",
         "description": "",
         "adurl": "",
         "offerid": 886664313,
@@ -83694,7 +83752,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
