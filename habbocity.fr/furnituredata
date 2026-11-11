@@ -1344925,8 +1344925,8 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Effet WIRED: Nique les Z-indexs de l'appart",
-        "description": "Ce mobilier n'a pas de description.",
+        "name": "Effet WIRED: Déplace et tourne la caméra",
+        "description": "Cet effet déplace et tourne la caméra du jeu.",
         "adurl": "",
         "offerid": 1425662250,
         "buyout": true,
@@ -1345012,8 +1345012,8 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Effet WIRED: Modifie les points de l'entité",
-        "description": "Cet effet modifie la valeur des points de l'avatar vers la valeur de l'expression entrée. (Futur WIRED variables)",
+        "name": "Effet WIRED: Assigne ou modifie une variable",
+        "description": "Cet effet assigne ou modifie une variable vers la valeur de l'expression entrée.",
         "adurl": "",
         "offerid": 1425662253,
         "buyout": true,
@@ -1349196,7 +1349196,7 @@
         "xdim": 1,
         "ydim": 1,
         "name": "Effet WIRED: Interface",
-        "description": "Ce mobilier n'a pas de description.",
+        "description": "Cet effet fait apparaitre une interface wired customisable et interactive.",
         "adurl": "",
         "offerid": 1425662426,
         "buyout": true,
@@ -1349209,7 +1349209,12 @@
         "enableCursor": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425659106,
@@ -1349220,7 +1349225,7 @@
         "xdim": 1,
         "ydim": 1,
         "name": "Déclencheur WIRED: Interface",
-        "description": "Ce mobilier n'a pas de description.",
+        "description": "Ce déclencheur s'active lorsqu'un élément d'une interface wired émet un événement.",
         "adurl": "",
         "offerid": 1425662427,
         "buyout": true,
@@ -1349233,7 +1349238,12 @@
         "enableCursor": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425659107,
