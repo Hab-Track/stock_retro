@@ -1,6 +1,194 @@
 ﻿{
   "libraries": [
     {
+      "id": "acc_head_U_26OrejaCyber",
+      "parts": [
+        {
+          "id": 110000856,
+          "type": "he"
+        },
+        {
+          "id": 110000857,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_26PerlaCyber",
+      "parts": [
+        {
+          "id": 110000855,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_26PeloCyber",
+      "parts": [
+        {
+          "id": 110000848,
+          "type": "hr"
+        },
+        {
+          "id": 110000849,
+          "type": "hr"
+        },
+        {
+          "id": 110000850,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_26MakeupCyber",
+      "parts": [
+        {
+          "id": 110000851,
+          "type": "hr"
+        },
+        {
+          "id": 110000852,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_26HeadAccCyber",
+      "parts": [
+        {
+          "id": 110000853,
+          "type": "ha"
+        },
+        {
+          "id": 110000854,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_26CollarCyber",
+      "parts": [
+        {
+          "id": 110000837,
+          "type": "ca"
+        },
+        {
+          "id": 110000838,
+          "type": "ca"
+        },
+        {
+          "id": 110000839,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26GuantesCyber",
+      "parts": [
+        {
+          "id": 110000844,
+          "type": "lc"
+        },
+        {
+          "id": 110000845,
+          "type": "lc"
+        },
+        {
+          "id": 110000844,
+          "type": "rc"
+        },
+        {
+          "id": 110000845,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_26BrillosCyber",
+      "parts": [
+        {
+          "id": 110000842,
+          "type": "sh"
+        },
+        {
+          "id": 110000843,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_26ZapatosCyber",
+      "parts": [
+        {
+          "id": 110000840,
+          "type": "sh"
+        },
+        {
+          "id": 110000841,
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26TrajeCyber",
+      "parts": [
+        {
+          "id": 110000835,
+          "type": "ch"
+        },
+        {
+          "id": 110000836,
+          "type": "ch"
+        },
+        {
+          "id": 110000860,
+          "type": "ch"
+        },
+        {
+          "id": 110000835,
+          "type": "ls"
+        },
+        {
+          "id": 110000835,
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26CyberBrillosGuantes",
+      "parts": [
+        {
+          "id": 110000846,
+          "type": "lc"
+        },
+        {
+          "id": 110000847,
+          "type": "lc"
+        },
+        {
+          "id": 110000846,
+          "type": "rc"
+        },
+        {
+          "id": 110000847,
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "hair_M_stylefr",
+      "parts": [
+        {
+          "id": 77770,
+          "type": "hr"
+        },
+        {
+          "id": 77770,
+          "type": "hr"
+        }
+      ]
+    },
+    {
       "id": "hair_U_26CabelloV2Venus",
       "parts": [
         {
