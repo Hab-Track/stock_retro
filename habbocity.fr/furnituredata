@@ -1308207,7 +1308207,7 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Dragon Crystal Bleu (LR)",
+        "name": "Dragon Fulminis (LR)",
         "description": "Réalisé par Yufex.",
         "offerid": 1425660748,
         "buyout": true,
@@ -1308220,7 +1308220,12 @@
         "enableCursor": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425657427,
