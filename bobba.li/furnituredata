@@ -1017412,7 +1017412,7 @@
       },
       {
         "id": 1996842245,
-        "classname": "sk_plueschi_einhorn_v2",
+        "classname": "sk_plueschi_einhorn_v3",
         "name": "Einhorn Plüschi",
         "revision": 0,
         "description": "Event-Rare von HabboSK – Doppelklick zum Animieren!",
@@ -1017441,7 +1017441,7 @@
       },
       {
         "id": 1996842246,
-        "classname": "sk_plueschi_engel",
+        "classname": "sk_plueschi_engel_v2",
         "name": "Engel Plüschi",
         "revision": 0,
         "description": "Event-Rare von HabboSK – Doppelklick zum Animieren!",
@@ -1017470,7 +1017470,7 @@
       },
       {
         "id": 1996842247,
-        "classname": "sk_plueschi_galaxie_v2",
+        "classname": "sk_plueschi_galaxie_v3",
         "name": "Galaxie Plüschi",
         "revision": 0,
         "description": "Event-Rare von HabboSK – Doppelklick zum Animieren!",
@@ -1017499,7 +1017499,7 @@
       },
       {
         "id": 1996842248,
-        "classname": "sk_plueschi_grusel",
+        "classname": "sk_plueschi_grusel_v2",
         "name": "Grusel Plüschi",
         "revision": 0,
         "description": "Event-Rare von HabboSK – Doppelklick zum Animieren!",
@@ -1017673,7 +1017673,7 @@
       },
       {
         "id": 1996842254,
-        "classname": "sk_plueschi_teufel_v2",
+        "classname": "sk_plueschi_teufel_v3",
         "name": "Teufel Plüschi",
         "revision": 0,
         "description": "Event-Rare von HabboSK – Doppelklick zum Animieren!",
@@ -1017702,7 +1017702,7 @@
       },
       {
         "id": 1996842255,
-        "classname": "sk_plueschi_einhorn_mini",
+        "classname": "sk_plueschi_einhorn_mini_v2",
         "name": "Einhorn Plüschi (Fließband)",
         "revision": 0,
         "description": null,
@@ -1017731,7 +1017731,7 @@
       },
       {
         "id": 1996842256,
-        "classname": "sk_plueschi_engel_mini",
+        "classname": "sk_plueschi_engel_mini_v2",
         "name": "Engel Plüschi (Fließband)",
         "revision": 0,
         "description": null,
@@ -1017760,7 +1017760,7 @@
       },
       {
         "id": 1996842257,
-        "classname": "sk_plueschi_galaxie_mini",
+        "classname": "sk_plueschi_galaxie_mini_v2",
         "name": "Galaxie Plüschi (Fließband)",
         "revision": 0,
         "description": null,
@@ -1017789,7 +1017789,7 @@
       },
       {
         "id": 1996842258,
-        "classname": "sk_plueschi_grusel_mini",
+        "classname": "sk_plueschi_grusel_mini_v2",
         "name": "Grusel Plüschi (Fließband)",
         "revision": 0,
         "description": null,
@@ -1017963,7 +1017963,7 @@
       },
       {
         "id": 1996842264,
-        "classname": "sk_plueschi_teufel_mini",
+        "classname": "sk_plueschi_teufel_mini_v2",
         "name": "Teufel Plüschi (Fließband)",
         "revision": 0,
         "description": null,
@@ -1018042,6 +1018042,35 @@
         "customparams": "",
         "specialtype": 0,
         "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "unknown",
+        "environment": "",
+        "rare": 0
+      },
+      {
+        "id": 1996842267,
+        "classname": "staff_gate",
+        "name": "Staff-Tor",
+        "revision": 0,
+        "description": null,
+        "category": null,
+        "offerid": 1996842267,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "adurl": "unknown",
+        "type": 0,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "unknown",
