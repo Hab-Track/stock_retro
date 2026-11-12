@@ -91750,7 +91750,7 @@
             "0"
           ]
         },
-        "name": "pcnc_tiledirt name",
+        "name": "sol",
         "description": "pcnc_tiledirt desc",
         "offerid": 5259,
         "buyout": true,
@@ -97526,7 +97526,7 @@
             "0"
           ]
         },
-        "name": "pcnc_wood name",
+        "name": "Rangement bois",
         "description": "pcnc_wood desc",
         "offerid": 5243,
         "buyout": true,
@@ -97558,7 +97558,7 @@
             "0"
           ]
         },
-        "name": "pcnc_door name",
+        "name": "Porte",
         "description": "pcnc_door desc",
         "offerid": 5244,
         "buyout": true,
@@ -97590,7 +97590,7 @@
             "0"
           ]
         },
-        "name": "pcnc_fountain name",
+        "name": "Fontaine",
         "description": "pcnc_fountain desc",
         "offerid": 5245,
         "buyout": true,
@@ -97622,7 +97622,7 @@
             "0"
           ]
         },
-        "name": "pcnc_gazebohack name",
+        "name": "Gazon",
         "description": "pcnc_gazebohack desc",
         "offerid": 5246,
         "buyout": true,
@@ -97654,7 +97654,7 @@
             "0"
           ]
         },
-        "name": "pcnc_wtable name",
+        "name": "Table pique-nique",
         "description": "pcnc_wtable desc",
         "offerid": 5247,
         "buyout": true,
@@ -97686,7 +97686,7 @@
             "0"
           ]
         },
-        "name": "pcnc_tilestone name",
+        "name": "sol",
         "description": "pcnc_tilestone desc",
         "offerid": 5248,
         "buyout": true,
@@ -97718,7 +97718,7 @@
             "0"
           ]
         },
-        "name": "pcnc_carp name",
+        "name": "Trophée poisson",
         "description": "pcnc_carp desc",
         "offerid": 5249,
         "buyout": true,
@@ -97750,7 +97750,7 @@
             "0"
           ]
         },
-        "name": "pcnc_bbq name",
+        "name": "Barbecue",
         "description": "pcnc_bbq desc",
         "offerid": 5250,
         "buyout": true,
@@ -97782,7 +97782,7 @@
             "0"
           ]
         },
-        "name": "pcnc_gazebo name",
+        "name": "kiosque",
         "description": "pcnc_gazebo desc",
         "offerid": 5251,
         "buyout": true,
@@ -97846,7 +97846,7 @@
             "0"
           ]
         },
-        "name": "pcnc_wbench name",
+        "name": "banc",
         "description": "pcnc_wbench desc",
         "offerid": 5253,
         "buyout": true,
@@ -97878,7 +97878,7 @@
             "0"
           ]
         },
-        "name": "pcnc_tilegrass name",
+        "name": "gazon",
         "description": "pcnc_tilegrass desc",
         "offerid": 5254,
         "buyout": true,
@@ -97942,7 +97942,7 @@
             "0"
           ]
         },
-        "name": "pcnc_wall1 name",
+        "name": "mur",
         "description": "pcnc_wall1 desc",
         "offerid": 5256,
         "buyout": true,
@@ -97974,7 +97974,7 @@
             "0"
           ]
         },
-        "name": "pcnc_redbench name",
+        "name": "banc",
         "description": "pcnc_redbench desc",
         "offerid": 5257,
         "buyout": true,
@@ -98006,7 +98006,7 @@
             "0"
           ]
         },
-        "name": "pcnc_wall2 name",
+        "name": "mur",
         "description": "pcnc_wall2 desc",
         "offerid": 5258,
         "buyout": true,
@@ -98070,7 +98070,7 @@
             "0"
           ]
         },
-        "name": "pcnc_dvdrtile name",
+        "name": "muret",
         "description": "pcnc_dvdrtile desc",
         "offerid": 5260,
         "buyout": true,
@@ -98102,7 +98102,7 @@
             "0"
           ]
         },
-        "name": "pcnc_shrub name",
+        "name": "Buisson",
         "description": "pcnc_shrub desc",
         "offerid": 5261,
         "buyout": true,
@@ -98134,7 +98134,7 @@
             "0"
           ]
         },
-        "name": "pcnc_tree name",
+        "name": "arbre",
         "description": "pcnc_tree desc",
         "offerid": 5262,
         "buyout": true,
@@ -272720,7 +272720,7 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Habbo Hotel",
+        "name": "Table",
         "description": "Habbo Hotel",
         "offerid": 1425615448,
         "buyout": true,
@@ -272735,7 +272735,12 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425615446,
@@ -272745,7 +272750,7 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Habbo Hotel",
+        "name": "carotte",
         "description": "Habbo Hotel",
         "offerid": 1425615449,
         "buyout": true,
@@ -272760,7 +272765,12 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425615447,
@@ -272770,7 +272780,7 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Habbo Hotel",
+        "name": "Boisson",
         "description": "Habbo Hotel",
         "offerid": 1425615450,
         "buyout": true,
@@ -272785,7 +272795,12 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425615448,
@@ -272795,7 +272810,7 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Habbo Hotel",
+        "name": "table",
         "description": "Habbo Hotel",
         "offerid": 1425615451,
         "buyout": true,
@@ -272810,7 +272825,12 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425615449,
@@ -272820,7 +272840,7 @@
         "defaultdir": 0,
         "xdim": 2,
         "ydim": 1,
-        "name": "Habbo Hotel",
+        "name": "Banc",
         "description": "Habbo Hotel",
         "offerid": 1425615452,
         "buyout": true,
@@ -272835,7 +272855,12 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425615450,
@@ -272845,7 +272870,7 @@
         "defaultdir": 0,
         "xdim": 3,
         "ydim": 1,
-        "name": "Habbo Hotel",
+        "name": "Auvent",
         "description": "Habbo Hotel",
         "offerid": 1425615453,
         "buyout": true,
@@ -272860,7 +272885,12 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425615451,
@@ -272870,7 +272900,7 @@
         "defaultdir": 0,
         "xdim": 2,
         "ydim": 2,
-        "name": "Habbo Hotel",
+        "name": "Nappe pique-nique",
         "description": "Habbo Hotel",
         "offerid": 1425615454,
         "buyout": true,
@@ -272885,7 +272915,12 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425615452,
@@ -272895,7 +272930,7 @@
         "defaultdir": 0,
         "xdim": 4,
         "ydim": 1,
-        "name": "Habbo Hotel",
+        "name": "petit muret",
         "description": "Habbo Hotel",
         "offerid": 1425615455,
         "buyout": true,
@@ -272910,7 +272945,12 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425615453,
@@ -272920,7 +272960,7 @@
         "defaultdir": 0,
         "xdim": 2,
         "ydim": 1,
-        "name": "Habbo Hotel",
+        "name": "table",
         "description": "Habbo Hotel",
         "offerid": 1425615456,
         "buyout": true,
@@ -272935,7 +272975,12 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425615454,
@@ -272945,7 +272990,7 @@
         "defaultdir": 0,
         "xdim": 3,
         "ydim": 3,
-        "name": "Habbo Hotel",
+        "name": "Kiosque",
         "description": "Habbo Hotel",
         "offerid": 1425615457,
         "buyout": true,
@@ -272960,7 +273005,12 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425615455,
@@ -272970,7 +273020,7 @@
         "defaultdir": 0,
         "xdim": 2,
         "ydim": 2,
-        "name": "Habbo Hotel",
+        "name": "Barbecue",
         "description": "Habbo Hotel",
         "offerid": 1425615458,
         "buyout": true,
@@ -272985,7 +273035,12 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425615456,
@@ -272995,7 +273050,7 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Habbo Hotel",
+        "name": "Hot-dog",
         "description": "Habbo Hotel",
         "offerid": 1425615459,
         "buyout": true,
@@ -273010,7 +273065,12 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425615457,
@@ -273020,7 +273080,7 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 2,
-        "name": "Habbo Hotel",
+        "name": "Rangement du bois",
         "description": "Habbo Hotel",
         "offerid": 1425615460,
         "buyout": true,
@@ -273035,7 +273095,12 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425615458,
@@ -273070,7 +273135,7 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Habbo Hotel",
+        "name": "Petit muret",
         "description": "Habbo Hotel",
         "offerid": 1425615462,
         "buyout": true,
@@ -273085,7 +273150,12 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425615460,
@@ -493649,7 +493719,7 @@
         "defaultdir": 0,
         "xdim": 0,
         "ydim": 0,
-        "name": "Table gâteaux",
+        "name": "Table gâteau",
         "description": "Ce mobilier n'a pas de description.",
         "offerid": 1425624503,
         "buyout": true,
@@ -493704,7 +493774,7 @@
         "defaultdir": 0,
         "xdim": 0,
         "ydim": 0,
-        "name": "Pi ce mont e rose",
+        "name": "Pièce Montée Rose",
         "description": "",
         "offerid": 1425624505,
         "buyout": true,
@@ -493719,7 +493789,12 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425624506,
@@ -1360413,6 +1360488,318 @@
         "description": "Ce mobilier n'a pas de description.",
         "adurl": "",
         "offerid": 1425662894,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "enableCursor": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1425659574,
+        "classname": "rec26_artsupplies",
+        "revision": 500002,
+        "category": "",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "name": "Pinceaux",
+        "description": "Ce mobilier n'a pas de description.",
+        "adurl": "",
+        "offerid": 1425662895,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "enableCursor": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1425659575,
+        "classname": "rec26_paintbust",
+        "revision": 500002,
+        "category": "",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "name": "Buste",
+        "description": "Ce mobilier n'a pas de description.",
+        "adurl": "",
+        "offerid": 1425662896,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "enableCursor": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1425659576,
+        "classname": "rec26_paintcans",
+        "revision": 500002,
+        "category": "",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "name": "Pots de peinture",
+        "description": "Ce mobilier n'a pas de description.",
+        "adurl": "",
+        "offerid": 1425662897,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "enableCursor": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1425659577,
+        "classname": "rec26_paintchair",
+        "revision": 500002,
+        "category": "",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "name": "Chaise",
+        "description": "Ce mobilier n'a pas de description.",
+        "adurl": "",
+        "offerid": 1425662898,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "enableCursor": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1425659578,
+        "classname": "rec26_paintcolumn",
+        "revision": 500002,
+        "category": "",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "name": "Colone",
+        "description": "Ce mobilier n'a pas de description.",
+        "adurl": "",
+        "offerid": 1425662899,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "enableCursor": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1425659579,
+        "classname": "rec26_paintcouch",
+        "revision": 500002,
+        "category": "",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "name": "Canapé",
+        "description": "Ce mobilier n'a pas de description.",
+        "adurl": "",
+        "offerid": 1425662900,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "enableCursor": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1425659580,
+        "classname": "rec26_paintcupboard",
+        "revision": 500002,
+        "category": "",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "name": "Meuble",
+        "description": "Ce mobilier n'a pas de description.",
+        "adurl": "",
+        "offerid": 1425662901,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "enableCursor": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1425659581,
+        "classname": "rec26_painteasel",
+        "revision": 500002,
+        "category": "",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "name": "Chevalet",
+        "description": "Ce mobilier n'a pas de description.",
+        "adurl": "",
+        "offerid": 1425662902,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "enableCursor": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1425659582,
+        "classname": "rec26_paintlamp",
+        "revision": 500002,
+        "category": "",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "name": "Lustre",
+        "description": "Ce mobilier n'a pas de description.",
+        "adurl": "",
+        "offerid": 1425662903,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "enableCursor": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1425659583,
+        "classname": "rec26_paintshelf",
+        "revision": 500002,
+        "category": "",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "name": "Etagère ",
+        "description": "Ce mobilier n'a pas de description.",
+        "adurl": "",
+        "offerid": 1425662904,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "enableCursor": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1425659584,
+        "classname": "rec26_paintsplatter",
+        "revision": 500002,
+        "category": "",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "name": "Tache au sol",
+        "description": "Ce mobilier n'a pas de description.",
+        "adurl": "",
+        "offerid": 1425662905,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "enableCursor": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1425659585,
+        "classname": "rec26_painttable",
+        "revision": 500002,
+        "category": "",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "name": "Table",
+        "description": "Ce mobilier n'a pas de description.",
+        "adurl": "",
+        "offerid": 1425662906,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "enableCursor": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1425659586,
+        "classname": "rec26_paintwallart",
+        "revision": 500002,
+        "category": "",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "name": "Tache au mur",
+        "description": "Ce mobilier n'a pas de description.",
+        "adurl": "",
+        "offerid": 1425662907,
         "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
