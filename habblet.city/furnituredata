@@ -2,6 +2,35 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666643,
+        "classname": "container_lag_block",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 4,
+        "partcolors": {
+          "color": []
+        },
+        "name": "container_lag_block",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666643,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666642,
         "classname": "Habblet_natal26_17",
         "revision": 0,
