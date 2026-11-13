@@ -1560857,6 +1560857,35 @@
         "partcolors": {
           "color": []
         }
+      },
+      {
+        "id": 146556,
+        "classname": "wf_act_dice_control",
+        "revision": 0,
+        "category": "",
+        "name": "Wired Effect: Alterar Dados",
+        "description": "",
+        "adurl": "",
+        "offerid": 146556,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "partcolors": {
+          "color": []
+        }
       }
     ]
   },
