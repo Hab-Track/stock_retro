@@ -1560770,6 +1560770,93 @@
         "partcolors": {
           "color": []
         }
+      },
+      {
+        "id": 146553,
+        "classname": "hartico_casino_cashier",
+        "revision": 0,
+        "category": "",
+        "name": "Cajero de fichas",
+        "description": "Cambia esmeraldas por fichas de esta sala y fichas por esmeraldas.",
+        "adurl": "",
+        "offerid": 146553,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "partcolors": {
+          "color": []
+        }
+      },
+      {
+        "id": 146554,
+        "classname": "hartico_poker_chair",
+        "revision": 0,
+        "category": "",
+        "name": "Silla de póker",
+        "description": "Siéntate a la mesa y pide cartas",
+        "adurl": "",
+        "offerid": 146554,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "partcolors": {
+          "color": []
+        }
+      },
+      {
+        "id": 146555,
+        "classname": "hartico_poker_table",
+        "revision": 0,
+        "category": "",
+        "name": "Mesa de póker",
+        "description": "Texas Hold'em para cuatro. Se juega con fichas de la caja",
+        "adurl": "",
+        "offerid": 146555,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 4,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "partcolors": {
+          "color": []
+        }
       }
     ]
   },
