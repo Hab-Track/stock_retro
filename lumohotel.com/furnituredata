@@ -678721,11 +678721,29 @@
       {
         "id": 2000028006,
         "classname": "fantasy_c25_bubble",
-        "name": "Fantasy Bubble",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Fanatasy Bubble",
+        "description": "",
+        "adurl": "",
+        "offerid": 2000028006,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "rare": false,
+        "canstandon": false,
         "cansiton": true,
-        "offerid": 2000028006
+        "canlayon": false
       },
       {
         "id": 2000028007,
