@@ -1231557,6 +1231557,61 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false
+      },
+      {
+        "id": 2000016422,
+        "classname": "rare_fan*6",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 0,
+        "ydim": 0,
+        "partcolors": {
+          "color": [
+            "#FF8000",
+            "#FFFFFF",
+            "#FFFFFF",
+            "#FFFFFF"
+          ]
+        },
+        "name": "La Ventolera Ocre",
+        "description": "Disfruta de la fresca brisa",
+        "adurl": "",
+        "offerid": 2000016422,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 2000016423,
+        "classname": "volcan_erupcion",
+        "revision": 1235429,
+        "category": "general",
+        "xdim": 2,
+        "ydim": 2,
+        "name": "Volcan Erupcion",
+        "description": "Añadido con el importador de furnis",
+        "adurl": "",
+        "offerid": 2000016423,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
       }
     ]
   },
