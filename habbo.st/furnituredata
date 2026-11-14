@@ -1017485,6 +1017485,35 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false
+      },
+      {
+        "id": 1100009649,
+        "classname": "holo_px_29",
+        "revision": 0,
+        "category": "unknown",
+        "name": "Hologramm von Shiro & Souei",
+        "description": "Ein Hologramm aus dem Pixel Lab.",
+        "adurl": "",
+        "offerid": 1100009649,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
       }
     ]
   },
