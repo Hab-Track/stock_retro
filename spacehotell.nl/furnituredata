@@ -465633,7 +465633,7 @@
             "#FFFFFF"
           ]
         },
-        "name": "Pink marquee",
+        "name": "Roze Markies",
         "description": "A door and a sunshade in one furni!",
         "adurl": "",
         "offerid": -1,
@@ -465738,7 +465738,7 @@
             "#FFFFFF"
           ]
         },
-        "name": "White Marquee",
+        "name": "Witte Markies",
         "description": "A door and a sunshade in one furni!",
         "adurl": "",
         "offerid": -1,
@@ -465808,7 +465808,7 @@
             "#FFFFFF"
           ]
         },
-        "name": "Green Marquee",
+        "name": "Grasgroene Markies",
         "description": "A door and a sunshade in one furni!",
         "adurl": "",
         "offerid": -1,
@@ -465843,7 +465843,7 @@
             "#FFFFFF"
           ]
         },
-        "name": "Graphite Marquee",
+        "name": "Grijze Markies",
         "description": "A door and a sunshade in one furni!",
         "adurl": "",
         "offerid": -1,
@@ -465878,7 +465878,7 @@
             "#FFFFFF"
           ]
         },
-        "name": "Yellow Marquee",
+        "name": "Gele Markies",
         "description": "A door and a sunshade in one furni!",
         "adurl": "",
         "offerid": -1,
@@ -465913,7 +465913,7 @@
             "#FFFFFF"
           ]
         },
-        "name": "Blue Marquee",
+        "name": "Lichtblauwe Markies",
         "description": "A door and a sunshade in one furni!",
         "adurl": "",
         "offerid": -1,
@@ -465948,7 +465948,7 @@
             "#FFFFFF"
           ]
         },
-        "name": "Aqua Marquee",
+        "name": "Zeegroene Markies",
         "description": "A door and a sunshade in one furni!",
         "adurl": "",
         "offerid": -1,
@@ -755857,7 +755857,7 @@
             "#0"
           ]
         },
-        "name": "Slagboom",
+        "name": "Toezichtboom",
         "description": "",
         "adurl": "",
         "offerid": 1541857919,
@@ -756963,6 +756963,39 @@
         "furniline": "",
         "environment": "",
         "rare": false
+      },
+      {
+        "id": 1541857962,
+        "classname": "garden_r22_giantrose",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "Betoverende Bloeiende Rozen Troon",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541857962,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": true,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": true
       }
     ]
   },
