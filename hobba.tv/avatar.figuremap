@@ -110300,18 +110300,18 @@
     },
     {
       "id": "jacket_U_tv26infernoroyal",
-      "revision": 27272727,
+      "revision": 27272728,
       "parts": [
         {
-          "id": "90000053",
+          "id": "260000011",
           "type": "cc"
         },
         {
-          "id": "90000053",
+          "id": "260000011",
           "type": "lc"
         },
         {
-          "id": "90000053",
+          "id": "260000011",
           "type": "rc"
         }
       ]
@@ -111871,6 +111871,524 @@
         {
           "id": "180000029",
           "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "face_U_tv26celestialangel",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "260000003",
+          "type": "hd"
+        },
+        {
+          "id": "260000003",
+          "type": "fc"
+        },
+        {
+          "id": "260000003",
+          "type": "ey"
+        },
+        {
+          "id": "260000003",
+          "type": "rh"
+        },
+        {
+          "id": "260000003",
+          "type": "lh"
+        },
+        {
+          "id": "260000003",
+          "type": "bd"
+        }
+      ]
+    },
+    {
+      "id": "face_U_tv26frostwraith",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "260000004",
+          "type": "hd"
+        },
+        {
+          "id": "260000004",
+          "type": "fc"
+        },
+        {
+          "id": "260000004",
+          "type": "ey"
+        },
+        {
+          "id": "260000004",
+          "type": "rh"
+        },
+        {
+          "id": "260000004",
+          "type": "lh"
+        },
+        {
+          "id": "260000004",
+          "type": "bd"
+        }
+      ]
+    },
+    {
+      "id": "shoes_U_26MediasLovely",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000861",
+          "type": "sh"
+        },
+        {
+          "id": "110000862",
+          "type": "sh"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_26CorsetLovely",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "110000853",
+          "type": "lg"
+        },
+        {
+          "id": "110000854",
+          "type": "lg"
+        },
+        {
+          "id": "110000855",
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_tv26KakuzuCuerpo",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "220000055",
+          "type": "ch"
+        },
+        {
+          "id": "220000056",
+          "type": "ch"
+        },
+        {
+          "id": "220000055",
+          "type": "ls"
+        },
+        {
+          "id": "220000056",
+          "type": "ls"
+        },
+        {
+          "id": "220000055",
+          "type": "rs"
+        },
+        {
+          "id": "220000056",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "face_U_tv26lavagolem",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "260000000",
+          "type": "hd"
+        },
+        {
+          "id": "260000000",
+          "type": "fc"
+        },
+        {
+          "id": "260000000",
+          "type": "ey"
+        },
+        {
+          "id": "260000000",
+          "type": "rh"
+        },
+        {
+          "id": "260000000",
+          "type": "lh"
+        },
+        {
+          "id": "260000000",
+          "type": "bd"
+        }
+      ]
+    },
+    {
+      "id": "face_U_tv26aurorafox",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "260000001",
+          "type": "hd"
+        },
+        {
+          "id": "260000001",
+          "type": "fc"
+        },
+        {
+          "id": "260000001",
+          "type": "ey"
+        },
+        {
+          "id": "260000001",
+          "type": "rh"
+        },
+        {
+          "id": "260000001",
+          "type": "lh"
+        },
+        {
+          "id": "260000001",
+          "type": "bd"
+        }
+      ]
+    },
+    {
+      "id": "face_U_tv26demonlord",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "260000002",
+          "type": "hd"
+        },
+        {
+          "id": "260000002",
+          "type": "fc"
+        },
+        {
+          "id": "260000002",
+          "type": "ey"
+        },
+        {
+          "id": "260000002",
+          "type": "rh"
+        },
+        {
+          "id": "260000002",
+          "type": "lh"
+        },
+        {
+          "id": "260000002",
+          "type": "bd"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_tv26shortsffx",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "260000005",
+          "type": "lg"
+        },
+        {
+          "id": "260000006",
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_tv26animekrest",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "260000009",
+          "type": "hr"
+        },
+        {
+          "id": "260000010",
+          "type": "hr"
+        },
+        {
+          "id": "260000009",
+          "type": "hrb"
+        },
+        {
+          "id": "260000010",
+          "type": "hrb"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_tv26balenciagatoni",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "260000007",
+          "type": "cc"
+        },
+        {
+          "id": "260000008",
+          "type": "cc"
+        },
+        {
+          "id": "260000007",
+          "type": "lc"
+        },
+        {
+          "id": "260000008",
+          "type": "lc"
+        },
+        {
+          "id": "260000007",
+          "type": "rc"
+        },
+        {
+          "id": "260000008",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_tv26aurasigillo",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "260000014",
+          "type": "mco"
+        },
+        {
+          "id": "260000015",
+          "type": "mco"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv26galaxyhalo",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "260000019",
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv26stormcrown",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "260000020",
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_tv26coronaalloro",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "260000022",
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_AlasSkypiea",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "10000030",
+          "type": "cc"
+        },
+        {
+          "id": "10000030",
+          "type": "rc"
+        },
+        {
+          "id": "10000030",
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_ChaquetaKafka",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "10000033",
+          "type": "cc"
+        },
+        {
+          "id": "10000034",
+          "type": "cc"
+        },
+        {
+          "id": "10000035",
+          "type": "cc"
+        },
+        {
+          "id": "10000033",
+          "type": "lc"
+        },
+        {
+          "id": "10000034",
+          "type": "lc"
+        },
+        {
+          "id": "10000033",
+          "type": "rc"
+        },
+        {
+          "id": "10000034",
+          "type": "rc"
+        },
+        {
+          "id": "10000035",
+          "type": "rc"
+        },
+        {
+          "id": "10000035",
+          "type": "lc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_sombreromisterio",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "10000036",
+          "type": "ha"
+        },
+        {
+          "id": "10000037",
+          "type": "ha"
+        },
+        {
+          "id": "10000038",
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_tv26aurafulmine",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "260000012",
+          "type": "mco"
+        },
+        {
+          "id": "260000013",
+          "type": "mco"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_tv26aurastelle",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "260000016",
+          "type": "mco"
+        },
+        {
+          "id": "260000017",
+          "type": "mco"
+        }
+      ]
+    },
+    {
+      "id": "shirt_U_26CamisetaSasuke",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "150000154",
+          "type": "ch"
+        },
+        {
+          "id": "150000154",
+          "type": "ls"
+        },
+        {
+          "id": "150000154",
+          "type": "rs"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_26PantalonSasuke",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "150000152",
+          "type": "lg"
+        },
+        {
+          "id": "150000153",
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_26BandaCintura",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "150000150",
+          "type": "wa"
+        },
+        {
+          "id": "150000151",
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_26KatanaSasuke",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "150000148",
+          "type": "cc"
+        },
+        {
+          "id": "150000149",
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_26SelloMaldito",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "150000147",
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_26FlecoSasuke",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "150000146",
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_26CabelloSasuke",
+      "revision": 27272727,
+      "parts": [
+        {
+          "id": "150000145",
+          "type": "hr"
         }
       ]
     }
