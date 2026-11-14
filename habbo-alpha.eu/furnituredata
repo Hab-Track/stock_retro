@@ -512419,7 +512419,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Dalle Wired Blanche",
+        "name": "wf_tile2_name",
         "description": "Mobi : Dalle Wired Blanche.",
         "adurl": "",
         "offerid": 47141410,
@@ -512430,7 +512430,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 0,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "",
