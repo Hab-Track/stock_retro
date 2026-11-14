@@ -1028384,13 +1028384,7 @@
         "classname": "bling16_dragonlamp",
         "revision": 0,
         "category": "",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
-        "name": "Bling Draak",
+        "name": "Dragón Blink",
         "description": "Een draak met een fluwelen huid",
         "adurl": "",
         "offerid": 12468,
@@ -1028401,12 +1028395,18 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 12469,
