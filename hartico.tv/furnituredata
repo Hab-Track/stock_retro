@@ -1561118,6 +1561118,64 @@
         "partcolors": {
           "color": []
         }
+      },
+      {
+        "id": 146565,
+        "classname": "hartico_chess_chair",
+        "revision": 0,
+        "category": "",
+        "name": "Hartico Chess Chair",
+        "description": "",
+        "adurl": "",
+        "offerid": 146565,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "partcolors": {
+          "color": []
+        }
+      },
+      {
+        "id": 146566,
+        "classname": "hartico_chess_table",
+        "revision": 0,
+        "category": "",
+        "name": "Hartico Chess Table",
+        "description": "",
+        "adurl": "",
+        "offerid": 146566,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "partcolors": {
+          "color": []
+        }
       }
     ]
   },
