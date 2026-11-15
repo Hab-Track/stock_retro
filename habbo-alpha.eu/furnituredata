@@ -1169857,6 +1169857,35 @@
         "furniline": "",
         "environment": "",
         "rare": false
+      },
+      {
+        "id": 100000319,
+        "classname": "yufex_crystal_dragon_LTD",
+        "revision": 1,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Dragon Crystal",
+        "description": "",
+        "adurl": "",
+        "offerid": 100000319,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "furniline": "custom",
+        "environment": "",
+        "rare": false,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
       }
     ]
   },
