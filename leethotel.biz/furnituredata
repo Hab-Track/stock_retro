@@ -669151,6 +669151,35 @@
         "rare": false
       },
       {
+        "id": 886666645,
+        "classname": "hlive_c26_glukkoneonwall",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "hlive_c26_glukkoneonwall",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666645,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666592,
         "classname": "leetpopje_2026_nylea_Seltsam",
         "revision": 0,
@@ -776253,7 +776282,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "DÜZENEKLİ Metin Eklentisi: Değişken yakalayıcı",
+        "name": "DÜZENEKLİ Metin Eklentisi: Metin Bağlayıcısı",
         "description": "",
         "adurl": "",
         "offerid": 886655611,
