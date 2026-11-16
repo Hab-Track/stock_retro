@@ -1561176,6 +1561176,64 @@
         "partcolors": {
           "color": []
         }
+      },
+      {
+        "id": 146567,
+        "classname": "hartico_checkers_chair",
+        "revision": 0,
+        "category": "",
+        "name": "Hartico Damas Silla",
+        "description": "",
+        "adurl": "",
+        "offerid": 146567,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "partcolors": {
+          "color": []
+        }
+      },
+      {
+        "id": 146568,
+        "classname": "hartico_checkers_table",
+        "revision": 0,
+        "category": "",
+        "name": "Hartico Damas Mesa",
+        "description": "",
+        "adurl": "",
+        "offerid": 146568,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "partcolors": {
+          "color": []
+        }
       }
     ]
   },
