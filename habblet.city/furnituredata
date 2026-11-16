@@ -2,6 +2,151 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666703,
+        "classname": "Habblet_natal26_38",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Habblet_natal26_38",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666703,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666701,
+        "classname": "Bletween26_badge47",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Vitral Fúnebre",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666701,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666700,
+        "classname": "sombra_esferica_media",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sombra Esférica Média",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666700,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666699,
+        "classname": "sombra_esferica_grande",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sombra Esférica Grande",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666699,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886666698,
+        "classname": "sombra_esferica_pequena",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sombra Esférica Pequena",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666698,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666697,
         "classname": "Habblet_natal26_37",
         "revision": 0,
@@ -12,7 +157,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_natal26_37",
+        "name": "Borda do Parque",
         "description": "",
         "adurl": "",
         "offerid": 886666697,
@@ -41,7 +186,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_natal26_36",
+        "name": "Detalhes Dourados",
         "description": "",
         "adurl": "",
         "offerid": 886666696,
@@ -70,7 +215,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_natal26_35",
+        "name": "Torre Colorida",
         "description": "",
         "adurl": "",
         "offerid": 886666695,
@@ -99,7 +244,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_natal26_34",
+        "name": "Pilar Confeitado",
         "description": "",
         "adurl": "",
         "offerid": 886666694,
@@ -128,7 +273,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_natal26_33",
+        "name": "Cerquinha Dourada",
         "description": "",
         "adurl": "",
         "offerid": 886666693,
@@ -157,7 +302,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_natal26_32",
+        "name": "Ladrilho de Gengibre",
         "description": "",
         "adurl": "",
         "offerid": 886666692,
@@ -168,7 +313,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -186,7 +331,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_natal26_31",
+        "name": "Plataforma de Gengibre",
         "description": "",
         "adurl": "",
         "offerid": 886666691,
@@ -210,12 +355,12 @@
         "revision": 0,
         "category": "unknown",
         "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
+        "xdim": 2,
+        "ydim": 2,
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_natal26_30",
+        "name": "Piso de Gengibre Simples",
         "description": "",
         "adurl": "",
         "offerid": 886666690,
@@ -226,7 +371,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -244,7 +389,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_natal26_29",
+        "name": "Piso de Gengibre",
         "description": "",
         "adurl": "",
         "offerid": 886666689,
@@ -255,7 +400,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -273,7 +418,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_natal26_28",
+        "name": "Barraquinha do Parque",
         "description": "",
         "adurl": "",
         "offerid": 886666688,
@@ -302,7 +447,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_natal26_27",
+        "name": "Pipoca",
         "description": "",
         "adurl": "",
         "offerid": 886666655,
@@ -331,7 +476,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_natal26_26",
+        "name": "Borda Doce",
         "description": "",
         "adurl": "",
         "offerid": 886666654,
@@ -360,7 +505,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_natal26_25",
+        "name": "Bloco Torre de Gengibre",
         "description": "",
         "adurl": "",
         "offerid": 886666653,
@@ -389,7 +534,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_natal26_24",
+        "name": "Meia Parede de Gengibre",
         "description": "",
         "adurl": "",
         "offerid": 886666652,
@@ -418,7 +563,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_natal26_23",
+        "name": "Bloco de Gengibre",
         "description": "",
         "adurl": "",
         "offerid": 886666651,
