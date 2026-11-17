@@ -1567237,6 +1567237,93 @@
         "partcolors": {
           "color": []
         }
+      },
+      {
+        "id": 146776,
+        "classname": "hartico_magnate_table",
+        "revision": 0,
+        "category": "",
+        "name": "Hartico Monopoly Mesa",
+        "description": "",
+        "adurl": "",
+        "offerid": 146776,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 3,
+        "ydim": 3,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "partcolors": {
+          "color": []
+        }
+      },
+      {
+        "id": 146777,
+        "classname": "hartico_magnate_chair",
+        "revision": 0,
+        "category": "",
+        "name": "Hartico Monopoly Silla",
+        "description": "",
+        "adurl": "",
+        "offerid": 146777,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "canstandon": false,
+        "cansiton": true,
+        "canlayon": false,
+        "partcolors": {
+          "color": []
+        }
+      },
+      {
+        "id": 146778,
+        "classname": "hartico_poker_table_big",
+        "revision": 0,
+        "category": "",
+        "name": "Hartico Poker Mesa Grande",
+        "description": "",
+        "adurl": "",
+        "offerid": 146778,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 8,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "partcolors": {
+          "color": []
+        }
       }
     ]
   },
