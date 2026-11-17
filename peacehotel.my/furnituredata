@@ -626819,6 +626819,60 @@
         "cansiton": false,
         "canlayon": false,
         "furniline": ""
+      },
+      {
+        "id": 1356485429,
+        "classname": "is_yunss",
+        "revision": 1794934937,
+        "category": "peace_plus",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Infostand yunns",
+        "description": "Double click to redeem this profile infostand.",
+        "adurl": "",
+        "offerid": -1,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "infostand:/nitro-assets/images/banner/infostand/Infostand_yunns.gif",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": ""
+      },
+      {
+        "id": 1356485430,
+        "classname": "sticker_yunns",
+        "revision": 1794936378,
+        "category": "peace_plus",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sticker yunns",
+        "description": "Double click to redeem this profile sticker.",
+        "adurl": "",
+        "offerid": -1,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "sticker:162",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": ""
       }
     ]
   },
