@@ -146759,7 +146759,7 @@
         }
       },
       {
-        "name": "xKekos Hotel",
+        "name": "Fantasy Hotel",
         "description": "",
         "id": 1684,
         "classname": "near_tiles_memorygame",
@@ -146793,7 +146793,7 @@
         }
       },
       {
-        "name": "xKekos Hotel",
+        "name": "Fantasy Hotel",
         "description": "",
         "id": 1685,
         "classname": "sa_pyramid",
@@ -149929,7 +149929,7 @@
         "canputstuffon": false
       },
       {
-        "name": "xKekos Hotel",
+        "name": "Fantasy Hotel",
         "description": "",
         "id": 6149,
         "classname": "si_pyramid",
@@ -478663,7 +478663,7 @@
         "xdim": 1,
         "ydim": 1,
         "height": 0,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "canputstuffon": false
@@ -846310,8 +846310,8 @@
         "description": "¡Para tus mejores cockteles!",
         "id": 40711,
         "classname": "party_shelf",
-        "offerid": -1,
-        "buyout": false,
+        "offerid": 19764,
+        "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
         "bcofferid": -1,
