@@ -2,6 +2,35 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886666768,
+        "classname": "Habblet_natal26_39",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 3,
+        "ydim": 3,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Telhado Confeitado",
+        "description": "",
+        "adurl": "",
+        "offerid": 886666768,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886666767,
         "classname": "xmas_table_silo_small",
         "revision": 0,
