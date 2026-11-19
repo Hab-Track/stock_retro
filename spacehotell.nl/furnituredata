@@ -436564,7 +436564,7 @@
             "#"
           ]
         },
-        "name": "Amerigo",
+        "name": "Ozosnel",
         "description": "Het paard van Sinterklaas",
         "adurl": "",
         "offerid": 85713,
@@ -519912,24 +519912,28 @@
         "rare": false
       },
       {
-        "id": 3709,
+        "id": 1541858028,
         "classname": "duck_vip",
-        "revision": 34082,
+        "revision": 6969,
         "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
         "partcolors": {
-          "color": []
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
         },
         "name": "HC Eend",
         "description": "Very important Eendje voor Habbo's die HC uitproberen.",
         "adurl": "",
-        "offerid": -1,
-        "buyout": false,
+        "offerid": 1541858028,
+        "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
-        "bc": false,
+        "bc": true,
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
@@ -519941,24 +519945,28 @@
         "rare": false
       },
       {
-        "id": 3710,
+        "id": 1541858027,
         "classname": "duck_hc",
-        "revision": 34082,
+        "revision": 6969,
         "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
         "partcolors": {
-          "color": []
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
         },
         "name": "Club Eend",
         "description": "Coole kwaker voor Habbo's die Habbo Club uitproberen.",
         "adurl": "",
-        "offerid": -1,
-        "buyout": false,
+        "offerid": 1541858027,
+        "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
-        "bc": false,
+        "bc": true,
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
@@ -758897,6 +758905,39 @@
         "description": "",
         "adurl": "",
         "offerid": 1541858025,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1541858026,
+        "classname": "duck_vipwhite",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "HC Eend",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541858026,
         "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
