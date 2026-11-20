@@ -20,7 +20,7 @@
   "avatar.effectmap.url": "${gamedata.url}/EffectMap.json",
   "avatar.asset.url": "${asset.url}/figure/%libname%.nitro",
   "avatar.asset.effect.url": "${asset.url}/effect/%libname%.nitro",
-  "avatar.merch.url": "https://store.habbo.st/api/merch/figur/testhotel/%id%.json",
+  "avatar.merch.url": "https://store.habbo.st/api/merch/figur/%id%.json",
   "furni.asset.url": "${asset.url}/furniture/%libname%.nitro",
   "furni.asset.icon.url": "${hof.furni.url}%libname%%param%_icon.png",
   "pet.asset.url": "${asset.url}/pet/%libname%.nitro",
