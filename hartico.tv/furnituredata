@@ -1009882,13 +1009882,7 @@
         "classname": "tardis0_bigdrag13",
         "revision": 0,
         "category": "",
-        "defaultdir": 0,
-        "xdim": 2,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
-        "name": "",
+        "name": "Big Dragón Nube",
         "description": "-1,-1",
         "adurl": "",
         "offerid": 11790,
@@ -1009899,12 +1009893,18 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 11791,
@@ -1567214,7 +1567214,7 @@
         "classname": "bubbleguum_elefant",
         "revision": 66531,
         "category": "unknown",
-        "name": "Atlanta Raro Custom",
+        "name": "Mamut Chicle Oscuro",
         "description": "Custom",
         "adurl": "",
         "offerid": 146775,
