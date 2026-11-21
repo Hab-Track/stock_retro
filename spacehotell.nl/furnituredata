@@ -32,23 +32,27 @@
       },
       {
         "id": 1541858108,
-        "classname": "sb_tile",
-        "revision": 34541,
+        "classname": "habbo25_r25_turntable",
+        "revision": 6969,
         "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
-        "ydim": 2,
+        "ydim": 1,
         "partcolors": {
-          "color": []
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
         },
-        "name": "Skate Tegel (zonder effect)",
-        "description": "Dezelfde Skate Tegel, maar zonder skateboard.",
+        "name": "Moderne Draaitafel",
+        "description": "",
         "adurl": "",
         "offerid": 1541858108,
         "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
-        "bc": false,
+        "bc": true,
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
@@ -61,17 +65,21 @@
       },
       {
         "id": 1541858107,
-        "classname": "ftf_wall",
+        "classname": "habbo25_r25_blackthrone",
         "revision": 6969,
         "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
         "partcolors": {
-          "color": []
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
         },
-        "name": "FtF Muur",
-        "description": "Muur van de faciliteit, 2 hoog. Muren naast elkaar sluiten naadloos aan.",
+        "name": "Zwarte Troon",
+        "description": "",
         "adurl": "",
         "offerid": 1541858107,
         "buyout": true,
@@ -82,25 +90,29 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
-        "furniline": "Flee the Facility",
+        "furniline": "",
         "environment": "",
         "rare": false
       },
       {
         "id": 1541858106,
-        "classname": "f26_pink_dice_01",
+        "classname": "habbo25_r25_bdaycake",
         "revision": 6969,
         "category": "unknown",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
         "partcolors": {
-          "color": []
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
         },
-        "name": "Cute Dobbelsteen",
-        "description": "Rol je geluksgetal op de schattigste manier!",
+        "name": "Habbo 25 jaar Verjaardagstaart",
+        "description": "",
         "adurl": "",
         "offerid": 1541858106,
         "buyout": true,
@@ -115,7 +127,7 @@
         "canlayon": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": true
       },
       {
         "id": 1541858100,
@@ -21778,7 +21790,7 @@
             "#0"
           ]
         },
-        "name": "Elfen Boogschutter",
+        "name": "Grote Elfen Boogschutter",
         "description": "Een dappere boogschutter uit het elfenrijk.",
         "adurl": "",
         "offerid": 1541854710,
@@ -49409,7 +49421,7 @@
             "#0"
           ]
         },
-        "name": "Bevroren Rendier",
+        "name": "Goddelijk Rendier",
         "description": "",
         "adurl": "",
         "offerid": 1541853801,
@@ -759908,6 +759920,534 @@
         "furniline": "",
         "environment": "",
         "rare": false
+      },
+      {
+        "id": 1541858109,
+        "classname": "rare_r25_duckmaster",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "Eendjesspel",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541858109,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1541858110,
+        "classname": "rare_r25_pygmyhippo",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "Pygmee Nijlpaard",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541858110,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": true
+      },
+      {
+        "id": 1541858111,
+        "classname": "iridescent_ltd24_dragonlamp",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "Glinsterende Vuurdraak",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541858111,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": true
+      },
+      {
+        "id": 1541858112,
+        "classname": "iridescent_nt_dragonlamp",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "Glinsterende Vuurdraak",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541858112,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1541858113,
+        "classname": "iridescent_ltd24_dragonlamp_sorry",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "Verontschuldigende Vuurdraak LTD",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541858113,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": true
+      },
+      {
+        "id": 1541858114,
+        "classname": "game_c26_handheldvendingmchn",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "Habbo Gamer Verkoopautomaat",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541858114,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1541858115,
+        "classname": "lt_r26_totem1",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "Jungle Totem Onderkant",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541858115,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": true
+      },
+      {
+        "id": 1541858116,
+        "classname": "lt_r26_totem2",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "Jungle Totem Middenstuk",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541858116,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": true
+      },
+      {
+        "id": 1541858117,
+        "classname": "lt_r26_totem3",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "Jungle Totem Hoofd",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541858117,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": true
+      },
+      {
+        "id": 1541858118,
+        "classname": "pj_r26_engagementring",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "Verlovingsring",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541858118,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": true
+      },
+      {
+        "id": 1541858119,
+        "classname": "pj_r26_rosesamovar",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "Met de Hand Geschilderde Samovar",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541858119,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": true
+      },
+      {
+        "id": 1541858120,
+        "classname": "frbirthday_c24_potatosack",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "Zak Aardappelen",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541858120,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1541858121,
+        "classname": "frbirthday_c24_saucisson",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "Droge Worst",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541858121,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1541858122,
+        "classname": "easter_c24_springsticks",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "Mand met Paastakken",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541858122,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1541858123,
+        "classname": "ads_drsports_fballvend",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "DR Sports Automaat",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541858123,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1541858124,
+        "classname": "rare_colourable_icecream*7",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "Zeldzame Grijze Droomijsmachine",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541858124,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": true
       }
     ]
   },
