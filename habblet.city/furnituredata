@@ -2,6 +2,35 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886667206,
+        "classname": "motoCMD_AChase_CMD",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Moto Comando",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667206,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886667203,
         "classname": "op_chopper_egg_rip",
         "revision": 0,
