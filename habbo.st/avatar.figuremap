@@ -125308,6 +125308,54 @@
           "type": "ha"
         }
       ]
+    },
+    {
+      "id": "acc_head_U_nftstarfriend",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 96000000,
+          "type": "he"
+        },
+        {
+          "id": 96000001,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftturkeyhat",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 96000001,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "acc_face_U_santamask",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 96000002,
+          "type": "fa"
+        },
+        {
+          "id": 96000003,
+          "type": "fa"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftstarcrown",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 96000003,
+          "type": "ha"
+        }
+      ]
     }
   ]
 }
