@@ -2,6 +2,64 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886667299,
+        "classname": "Habblet_natal26_44",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Biscoito de Gengibre",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667299,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667298,
+        "classname": "Habblet_natal26_42",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Parede Pequena Doce",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667298,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886667294,
         "classname": "op_pirate_gumball_rip",
         "revision": 0,
@@ -737,7 +795,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "sheji_divider",
+        "name": "Canto de Estante Sheji",
         "description": "",
         "adurl": "",
         "offerid": 886667265,
@@ -766,7 +824,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "sheji_cnsofa",
+        "name": "Sofá Sheji",
         "description": "",
         "adurl": "",
         "offerid": 886667264,
@@ -778,7 +836,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -795,7 +853,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "sheji_cnlamp",
+        "name": "Luminária Pato Sheji",
         "description": "",
         "adurl": "",
         "offerid": 886667263,
@@ -824,7 +882,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "sheji_cnchair",
+        "name": "Cadeira Clássica Sheji",
         "description": "",
         "adurl": "",
         "offerid": 886667262,
@@ -853,7 +911,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "sheji_chair",
+        "name": "Cadeira Confortável Sheji",
         "description": "",
         "adurl": "",
         "offerid": 886667261,
@@ -865,7 +923,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -882,7 +940,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "sheji_barchair",
+        "name": "Banqueta Sheji",
         "description": "",
         "adurl": "",
         "offerid": 886667260,
@@ -894,7 +952,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -911,7 +969,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "sheji_singledivider",
+        "name": "Divisória Simples Sheji",
         "description": "",
         "adurl": "",
         "offerid": 886667259,
@@ -940,7 +998,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "sheji_shelves",
+        "name": "Estante Sheji",
         "description": "",
         "adurl": "",
         "offerid": 886667258,
@@ -1117655,6 +1117713,25 @@
   },
   "wallitemtypes": {
     "furnitype": [
+      {
+        "id": 886667300,
+        "classname": "wccn_bauble_71",
+        "revision": 0,
+        "category": "unknown",
+        "name": "wccn_bauble_71",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667300,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "specialtype": 1,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
       {
         "id": 886659016,
         "classname": "diamond_painting117",
