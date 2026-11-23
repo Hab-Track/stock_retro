@@ -531319,7 +531319,7 @@
         "rare": false
       },
       {
-        "id": 30000142,
+        "id": 300004142,
         "classname": "Batthr",
         "revision": 25824,
         "category": "unknown",
@@ -760778,6 +760778,105 @@
         "furniline": "",
         "environment": "",
         "rare": true
+      },
+      {
+        "id": 93410,
+        "classname": "ads_durex_vend",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 2,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "ads_durex_vend name",
+        "description": "",
+        "adurl": "",
+        "offerid": 93410,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1541857824,
+        "classname": "f26_pink_dice_01",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "Cute Dobbelsteen",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541857824,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1541857825,
+        "classname": "ftf_wall",
+        "revision": 6969,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": [
+            "#0",
+            "#0",
+            "#0"
+          ]
+        },
+        "name": "FtF Muur",
+        "description": "",
+        "adurl": "",
+        "offerid": 1541857825,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
       }
     ]
   },
