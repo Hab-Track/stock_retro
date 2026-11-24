@@ -1102006,7 +1102006,7 @@
       {
         "id": 194900087,
         "classname": "xmas_c26_ticketbooth",
-        "defaultdir": 0,
+        "defaultdir": 4,
         "partcolors": {
           "color": []
         },
@@ -1102105,7 +1102105,7 @@
       {
         "id": 194900097,
         "classname": "xmas_c26_parktrashcan",
-        "defaultdir": 0,
+        "defaultdir": 4,
         "partcolors": {
           "color": []
         },
@@ -1102164,8 +1102164,8 @@
         "partcolors": {
           "color": []
         },
-        "name": "Drago Maledetto Blu",
-        "customparams": "",
+        "name": "Drago maledetto blu",
+        "customparams": "37 newbie_nest",
         "specialtype": 1
       },
       {
@@ -1102175,8 +1102175,8 @@
         "partcolors": {
           "color": []
         },
-        "name": "Drago Maledetto Viola",
-        "customparams": "",
+        "name": "Drago maledetto viola",
+        "customparams": "37 newbie_nest",
         "specialtype": 1
       },
       {
@@ -1102226,7 +1102226,7 @@
       {
         "id": 194900109,
         "classname": "nft_h26_candycanedragonlamp",
-        "defaultdir": 0,
+        "defaultdir": 4,
         "partcolors": {
           "color": []
         },
@@ -1102275,7 +1102275,7 @@
           "color": []
         },
         "name": "Lungocorno Rumeno",
-        "customparams": "",
+        "customparams": "12 nest_dragon",
         "specialtype": 1
       },
       {
@@ -1102424,7 +1102424,7 @@
       {
         "id": 194900127,
         "classname": "xmas_c26_gingerbreadcutout",
-        "defaultdir": 0,
+        "defaultdir": 2,
         "partcolors": {
           "color": []
         },
@@ -1102435,7 +1102435,7 @@
       {
         "id": 194900128,
         "classname": "xmas_c26_gingerbreadcutoutthin",
-        "defaultdir": 0,
+        "defaultdir": 2,
         "partcolors": {
           "color": []
         },
@@ -1102528,7 +1102528,7 @@
           "color": []
         },
         "name": "Tazza Girevole",
-        "customparams": "",
+        "customparams": "248",
         "specialtype": 1
       },
       {
@@ -1102545,7 +1102545,7 @@
       {
         "id": 194900140,
         "classname": "nft_emerald_tome_5000",
-        "defaultdir": 0,
+        "defaultdir": 2,
         "partcolors": {
           "color": []
         },
@@ -1102562,7 +1102562,7 @@
         },
         "name": "Trofeo Melanzanatroccolo",
         "customparams": "",
-        "specialtype": 1
+        "specialtype": 11
       },
       {
         "id": 194900142,
@@ -1103331,6 +1103331,28 @@
           "color": []
         },
         "name": "Tavolino con Cassetto Avorio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900212,
+        "classname": "nft_sc26_wanddisplay",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Vetrina Bacchette Magiche",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900213,
+        "classname": "nft_sc26_transmogrification",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Esercitazione di Trasfigurazione",
         "customparams": "",
         "specialtype": 1
       }
