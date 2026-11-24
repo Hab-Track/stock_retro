@@ -2,6 +2,122 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886667504,
+        "classname": "tv_hobba_26_PelucheDragoncito",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "tv_hobba_26_PelucheDragoncito",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667504,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667503,
+        "classname": "tv_hobba_26_PelucheScream",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "tv_hobba_26_PelucheScream",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667503,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667502,
+        "classname": "tv_hobba_26_AvoPeluche",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "tv_hobba_26_AvoPeluche",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667502,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667501,
+        "classname": "tv_hobba_25_Conejo_real",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "tv_hobba_25_Conejo_real",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667501,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886667498,
         "classname": "hlive_r26_plushietwilight",
         "revision": 0,
@@ -18340,7 +18456,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "pilar_grego_bege_1",
+        "name": "Pilar Nobre",
         "description": "",
         "adurl": "",
         "offerid": 886666162,
@@ -18369,7 +18485,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_abajur",
+        "name": "Abajur Carmesim",
         "description": "",
         "adurl": "",
         "offerid": 886666161,
@@ -18398,7 +18514,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_banco",
+        "name": "Sofá Nobre",
         "description": "",
         "adurl": "",
         "offerid": 886666160,
@@ -18410,7 +18526,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -18427,7 +18543,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_biga",
+        "name": "Biga Antiga",
         "description": "",
         "adurl": "",
         "offerid": 886666159,
@@ -18438,7 +18554,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -18456,7 +18572,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_bloco",
+        "name": "Bloco Carmesim",
         "description": "",
         "adurl": "",
         "offerid": 886666158,
@@ -18485,7 +18601,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_divisoria",
+        "name": "Divisória Carmesim",
         "description": "",
         "adurl": "",
         "offerid": 886666157,
@@ -18514,7 +18630,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_divisoria_vidro",
+        "name": "Divisória de Vidro",
         "description": "",
         "adurl": "",
         "offerid": 886666156,
@@ -18543,7 +18659,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_elevador",
+        "name": "Elevador",
         "description": "",
         "adurl": "",
         "offerid": 886666155,
@@ -18572,7 +18688,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_gaveteiro",
+        "name": "Gaveteiro Carmesim",
         "description": "",
         "adurl": "",
         "offerid": 886666154,
@@ -18601,7 +18717,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_janela_1",
+        "name": "Janela Transparente",
         "description": "",
         "adurl": "",
         "offerid": 886666153,
@@ -18630,7 +18746,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_janela_2",
+        "name": "Janela Transparente Alta",
         "description": "",
         "adurl": "",
         "offerid": 886666152,
@@ -18659,7 +18775,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_janela_3",
+        "name": "Janela Pequena",
         "description": "",
         "adurl": "",
         "offerid": 886666151,
@@ -18688,7 +18804,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_janela_4",
+        "name": "Janelinha Nobre",
         "description": "",
         "adurl": "",
         "offerid": 886666150,
@@ -18717,7 +18833,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_janela_5",
+        "name": "Janela Rústica Carmesim",
         "description": "",
         "adurl": "",
         "offerid": 886666149,
@@ -18746,7 +18862,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_luminaria",
+        "name": "Luminária Carmesim",
         "description": "",
         "adurl": "",
         "offerid": 886666148,
@@ -18775,7 +18891,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_mesa",
+        "name": "Mesa Carmesim",
         "description": "",
         "adurl": "",
         "offerid": 886666147,
@@ -18804,7 +18920,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_penteadeira",
+        "name": "Penteadeira Carmesim",
         "description": "",
         "adurl": "",
         "offerid": 886666146,
@@ -18833,7 +18949,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_piano",
+        "name": "Piano Carmesim",
         "description": "",
         "adurl": "",
         "offerid": 886666145,
@@ -18862,7 +18978,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_pilar",
+        "name": "Pilar Carmesim",
         "description": "",
         "adurl": "",
         "offerid": 886666144,
@@ -18891,7 +19007,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_piso_1",
+        "name": "Palco de Metal",
         "description": "",
         "adurl": "",
         "offerid": 886666143,
@@ -18902,7 +19018,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -18920,7 +19036,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_piso_2",
+        "name": "Piso Carmesim",
         "description": "",
         "adurl": "",
         "offerid": 886666142,
@@ -18931,7 +19047,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -18949,7 +19065,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_porta",
+        "name": "Porta Moderna",
         "description": "",
         "adurl": "",
         "offerid": 886666141,
@@ -18978,7 +19094,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_porta_2",
+        "name": "Porta de Vidro",
         "description": "",
         "adurl": "",
         "offerid": 886666140,
@@ -19007,7 +19123,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_vidro",
+        "name": "Janela de Vidro",
         "description": "",
         "adurl": "",
         "offerid": 886666139,
@@ -19031,12 +19147,12 @@
         "revision": 0,
         "category": "unknown",
         "defaultdir": 0,
-        "xdim": 1,
+        "xdim": 4,
         "ydim": 1,
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_bancohog",
+        "name": "Banco Carmesim",
         "description": "",
         "adurl": "",
         "offerid": 886666138,
@@ -19060,12 +19176,12 @@
         "revision": 0,
         "category": "unknown",
         "defaultdir": 0,
-        "xdim": 1,
+        "xdim": 4,
         "ydim": 1,
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_mesahog",
+        "name": "Mesa Carmesim",
         "description": "",
         "adurl": "",
         "offerid": 886666137,
@@ -19094,7 +19210,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ithalo_sofa_2",
+        "name": "Sofá Carmesim",
         "description": "",
         "adurl": "",
         "offerid": 886666136,
@@ -19106,7 +19222,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
