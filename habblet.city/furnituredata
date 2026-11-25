@@ -2,6 +2,238 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886667514,
+        "classname": "nft_h25_icarusfigure",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "nft_h25_icarusfigure",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667514,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667513,
+        "classname": "diamond_paint41",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "diamond_paint41",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667513,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667512,
+        "classname": "diamond_paint40",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "diamond_paint40",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667512,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667511,
+        "classname": "diamond_paint39",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "diamond_paint39",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667511,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667510,
+        "classname": "shadow_vip_goldenkey",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 3,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "shadow_vip_goldenkey",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667510,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667509,
+        "classname": "shadow_vip_silverkey",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 3,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "shadow_vip_silverkey",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667509,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667508,
+        "classname": "shadow_vip_bronzekey",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 3,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "shadow_vip_bronzekey",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667508,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667507,
+        "classname": "shadow_vip_smallkey",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "shadow_vip_smallkey",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667507,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886667504,
         "classname": "tv_hobba_26_PelucheDragoncito",
         "revision": 0,
@@ -99,7 +331,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "tv_hobba_25_Conejo_real",
+        "name": "Pelúcia Coelhinho Real",
         "description": "",
         "adurl": "",
         "offerid": 886667501,
@@ -360,7 +592,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "falling_furni_arcade",
+        "name": "Fliperama Dourado",
         "description": "",
         "adurl": "",
         "offerid": 886667490,
@@ -3173,7 +3405,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_c25_mochamaster",
+        "name": "Cafeteira Dourada",
         "description": "",
         "adurl": "",
         "offerid": 886667319,
@@ -3492,7 +3724,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_hcorigins2",
+        "name": "Telescópio Dourado",
         "description": "",
         "adurl": "",
         "offerid": 886667308,
@@ -3521,7 +3753,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_hcorigins1",
+        "name": "Cofre Dourado",
         "description": "",
         "adurl": "",
         "offerid": 886667307,
@@ -26373,7 +26605,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_cactussofa",
+        "name": "Sofá Cacto",
         "description": "",
         "adurl": "",
         "offerid": 886665352,
@@ -26385,7 +26617,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -26431,7 +26663,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_recyccooncarpet",
+        "name": "Tapete Reccycon",
         "description": "",
         "adurl": "",
         "offerid": 886665350,
@@ -26442,8 +26674,8 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
-        "cansiton": false,
+        "canstandon": true,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -26460,7 +26692,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_royalfootrest",
+        "name": "Descanso de Pés Real",
         "description": "",
         "adurl": "",
         "offerid": 886665349,
@@ -26471,7 +26703,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -26489,7 +26721,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_springchair",
+        "name": "Cadeira Saltitante",
         "description": "",
         "adurl": "",
         "offerid": 886665348,
@@ -26501,7 +26733,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -35221,7 +35453,7 @@
         "name": "Serpente Amaldiçoada LTD",
         "description": "Edição Limitada - Novembro/2026",
         "adurl": "",
-        "offerid": 886664826,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -35250,7 +35482,7 @@
         "name": "Caldeirão Amaldiçoado LTD",
         "description": "Edição Limitada - Novembro/2026",
         "adurl": "",
-        "offerid": 886664825,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -36668,7 +36900,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nest_bunny_evil",
+        "name": "Covíl do Coelho do mal LTD",
         "description": "",
         "adurl": "",
         "offerid": 886664714,
@@ -36784,7 +37016,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "val_r17_organltd",
+        "name": "Órgão Banhado a Ouro LTD",
         "description": "",
         "adurl": "",
         "offerid": 886664710,
@@ -39655,7 +39887,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_retrofuturetv",
+        "name": "TV Retrô Futurista",
         "description": "",
         "adurl": "",
         "offerid": 886664323,
@@ -41221,7 +41453,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_rareclass_01",
+        "name": "Pianinho Clássico",
         "description": "",
         "adurl": "",
         "offerid": 886663990,
@@ -93862,7 +94094,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_figu3",
+        "name": "Boneco Robô",
         "description": "",
         "adurl": "",
         "offerid": 886658901,
@@ -93891,7 +94123,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_figu2",
+        "name": "Habblet de Preto",
         "description": "",
         "adurl": "",
         "offerid": 886658900,
@@ -93920,7 +94152,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_figu1",
+        "name": "Boneco Super Frank",
         "description": "",
         "adurl": "",
         "offerid": 886658899,
@@ -111842,7 +112074,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_joystick",
+        "name": "JoyStick",
         "description": "",
         "adurl": "",
         "offerid": 886655288,
@@ -116878,7 +117110,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rare_r26_silverdragonduck",
+        "name": "Lâmpada do Patinho Prateada",
         "description": "",
         "adurl": "",
         "offerid": 886654800,
@@ -123983,7 +124215,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "xmas_c25_minirobotdino",
+        "name": "Mini Dino Robô",
         "description": "",
         "adurl": "",
         "offerid": 886654489,
@@ -136045,7 +136277,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hlive_nft24_historyhand",
+        "name": "Mão Gigante",
         "description": "",
         "adurl": "",
         "offerid": 886654014,
@@ -153824,7 +154056,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habblet_hotelstatue_25",
+        "name": "Estátua Mister Habblet",
         "description": "",
         "adurl": "",
         "offerid": 886651972,
@@ -154027,7 +154259,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habblet_classicplant_25",
+        "name": "Trevo da Sorte",
         "description": "",
         "adurl": "",
         "offerid": 886651965,
