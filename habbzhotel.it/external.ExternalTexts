@@ -29426,7 +29426,7 @@
   "score_value_text": "Punteggio",
   "selected_badges": "Currently wearing:",
   "sell.in.marketplace.price.per.item": "Price per item",
-  "sell.in.marketplace.revenue.label": "Revenue expectation per item",
+  "sell.in.marketplace.revenue.label": "Previsione di guadagno per item",
   "sellable.room.bundles.about.room.bundles.description": "Making a bundle will create a copy of this room with its current furniture. That copy can then be found and viewed in the Navigator and other players can buy themselves a copy of it in the room info. See the price breakdown on the right to see how much you would earn by selling your designs.",
   "sellable.room.bundles.about.room.bundles.title": "About room bundles",
   "sellable.room.bundles.bc.required": "To create a room bundle and put it for sale, you need Builders' Club membership.",
@@ -29449,7 +29449,8 @@
   "sellable.room.bundles.title": "Create a room bundle",
   "sellable.room.bundles.total.furni.price.discounted": "total furni price after discount:",
   "sellable.room.bundles.total.furni.price": "total original furni price:",
-  "sellinmarketplace.amount": "Amount (max %max_amount%)",
+  "sellinmarketplace.amount": "Quantità (max %max_amount%)",
+  "sellinmarketplace.days": "Giorni (max %max_days%)",
   "sellinmarketplace.friends.title": "Choose a friend to offer to:",
   "sellinmarketplace.offer_type": "Offer Type:",
   "sellinmarketplace.price": "Price per item",
@@ -32589,5 +32590,10 @@
   "pet.breed.38.39": "Elfo Pallido in Rosso",
   "pet.breed.38.40": "Elfo Pallido in Bordeaux",
   "pet.breed.38.41": "Elfo Pallido in Senape",
-  "pet.breed.38.42": "Elfo Pallido in Verde"
+  "pet.breed.38.42": "Elfo Pallido in Verde",
+  "inventory.marketplace.make_offer.duration": "Durata dell'offerta:",
+  "inventory.marketplace.make_offer.duration.day": "1 giorno",
+  "inventory.marketplace.make_offer.duration.days": "%days% giorni",
+  "inventory.marketplace.make_offer.duration.hours": "%hours% ore",
+  "inventory.marketplace.make_offer.expiration_info_days": "La tua offerta sarà visibile agli altri utenti per %days% giorni"
 }
