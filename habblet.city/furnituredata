@@ -2,6 +2,93 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886667518,
+        "classname": "hlive_c23_poltronedimarie",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "hlive_c23_poltronedimarie",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667518,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667517,
+        "classname": "hlive_r25_birthdayfrankplushie",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "hlive_r25_birthdayfrankplushie",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667517,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667516,
+        "classname": "hubba_jvmkc_magicfountain",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 2,
+        "partcolors": {
+          "color": []
+        },
+        "name": "hubba_jvmkc_magicfountain",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667516,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886667515,
         "classname": "Habblet_natal26_45",
         "revision": 0,
@@ -41540,7 +41627,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_haf_junglesantini",
+        "name": "Bonequinho Santini Selvagem",
         "description": "",
         "adurl": "",
         "offerid": 886663987,
@@ -137265,7 +137352,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "botasam_hubbe_hvbot",
+        "name": "Botas Molhadas",
         "description": "",
         "adurl": "",
         "offerid": 886653908,
