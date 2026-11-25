@@ -227938,7 +227938,8 @@
         "revision": 45512,
         "specialtype": 1,
         "xdim": 1,
-        "ydim": 1
+        "ydim": 1,
+        "interactiontype": "vendingmachine"
       },
       {
         "adurl": "",
@@ -1074026,7 +1074027,8 @@
         "name": "Spooky Icecream Maker",
         "customparams": "",
         "category": "unknown",
-        "specialtype": 1
+        "specialtype": 1,
+        "interactiontype": "vendingmachine"
       },
       {
         "excludeddynamic": false,
@@ -1074059,7 +1074061,8 @@
         "name": "Spooky Lollys",
         "customparams": "",
         "category": "unknown",
-        "specialtype": 1
+        "specialtype": 1,
+        "interactiontype": "vendingmachine"
       },
       {
         "excludeddynamic": false,
@@ -1074158,7 +1074161,8 @@
         "name": "Spooky Cola",
         "customparams": "",
         "category": "unknown",
-        "specialtype": 1
+        "specialtype": 1,
+        "interactiontype": "vendingmachine"
       },
       {
         "excludeddynamic": false,
@@ -1078566,7 +1078570,8 @@
         "name": "Spooktober Cola Machine",
         "customparams": "",
         "category": "unknown",
-        "specialtype": 0
+        "specialtype": 0,
+        "interactiontype": "vendingmachine"
       },
       {
         "excludeddynamic": false,
