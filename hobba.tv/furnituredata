@@ -970595,6 +970595,35 @@
         "furniline": "Recan",
         "environment": "",
         "rare": false
+      },
+      {
+        "id": 116041,
+        "classname": "wf_trg_football_foul",
+        "revision": 49500,
+        "category": "unknown",
+        "defaultdir": 2,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Causante WIRED: Detector de Faltas",
+        "description": "",
+        "adurl": "",
+        "offerid": 81225,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "megaupload",
+        "environment": "",
+        "rare": false
       }
     ]
   },
