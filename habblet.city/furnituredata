@@ -2,6 +2,35 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886667515,
+        "classname": "Habblet_natal26_45",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Janela Doce",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667515,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886667514,
         "classname": "nft_h25_icarusfigure",
         "revision": 0,
@@ -3869,7 +3898,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "shadow_rare_moneytubv2",
+        "name": "Banheira de Dinheiro",
         "description": "",
         "adurl": "",
         "offerid": 886667303,
@@ -3881,7 +3910,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
