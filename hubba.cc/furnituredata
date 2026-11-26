@@ -154211,7 +154211,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_trg_at_time_long name",
+        "name": "WIRED Auslöser: Zum programmierten Zeitpunkt (lang)",
         "description": "wf_trg_at_time_long desc",
         "adurl": "",
         "offerid": 5916,
@@ -419154,7 +419154,7 @@
         "name": "WIRED Effekt: Handitem geben",
         "description": "Dieser Effekt gibt einem User ein Handitem.",
         "adurl": "",
-        "offerid": 1002443,
+        "offerid": -1,
         "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -419180,7 +419180,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "WIRED Effekt: Freeze",
+        "name": "WIRED Effekt: HuBBa einfrieren (Zeit)",
         "description": "Dieser Effekt friert den auslösenden Hubba ein. Du musst eine Zeit einstellen, nachdem automatisch aufgetaut wird.",
         "adurl": "",
         "offerid": 1002444,
@@ -483220,7 +483220,7 @@
         "name": "Wired Effekt: Möbelstück erhöhen",
         "description": "Dieser Effekt erhöht die Position des ausgewählten Möbelstücks um die angegebene Höhe.",
         "adurl": "",
-        "offerid": 1000003670,
+        "offerid": -1,
         "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -483249,7 +483249,7 @@
         "name": "Wired Effekt: Möbelstück senken",
         "description": "Dieser Effekt senkt die Position des ausgewählten Möbelstücks um die angegebene Höhe.",
         "adurl": "",
-        "offerid": 1000003671,
+        "offerid": -1,
         "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -541844,7 +541844,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_glasball name",
+        "name": "WIRED Glaskugel",
         "description": "wf_glasball desc",
         "adurl": "",
         "offerid": 1000011030,
@@ -752658,7 +752658,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wired Variable: Quest",
+        "name": "Wired Variable: Quest-Kette",
         "description": "wf_var_quest_chain desc",
         "adurl": "",
         "offerid": 1000018420,
@@ -783673,7 +783673,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_act_neg_log name",
+        "name": "WIRED Negativer Effekt: Protokollieren",
         "description": "wf_act_neg_log desc",
         "adurl": "",
         "offerid": 1000019538,
@@ -783702,7 +783702,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_act_log name",
+        "name": "WIRED Effekt: Protokollieren",
         "description": "wf_act_log desc",
         "adurl": "",
         "offerid": 1000019539,
@@ -787765,7 +787765,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_ltdproto_act_toggle_state name",
+        "name": "Alter WIRED Effekt: Möbelzustände umschalten",
         "description": "wf_ltdproto_act_toggle_state desc",
         "adurl": "",
         "offerid": 1000019686,
@@ -787794,7 +787794,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_proto_pyramid name",
+        "name": "Alte WIRED Pyramide",
         "description": "wf_proto_pyramid desc",
         "adurl": "",
         "offerid": 1000019687,
@@ -787823,7 +787823,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_proto_trg_at_given_time name",
+        "name": "Alter WIRED Auslöser: Zum programmierten Zeitpunkt",
         "description": "wf_proto_trg_at_given_time desc",
         "adurl": "",
         "offerid": 1000019688,
@@ -787852,7 +787852,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_proto_cnd_trggrer_on_frn name",
+        "name": "Alte WIRED Bedingung: Auslösender HuBBa steht auf Möbelstück",
         "description": "wf_proto_cnd_trggrer_on_frn desc",
         "adurl": "",
         "offerid": 1000019689,
@@ -792125,7 +792125,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_token3 name",
+        "name": "Grüne Spielfigur",
         "description": "wf_token3 desc",
         "adurl": "",
         "offerid": 1000019839,
@@ -792154,7 +792154,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_button_arrow name",
+        "name": "Pfeil-Button",
         "description": "wf_button_arrow desc",
         "adurl": "",
         "offerid": 1000019840,
@@ -792183,7 +792183,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_button_yellow name",
+        "name": "Gelber Button",
         "description": "wf_button_yellow desc",
         "adurl": "",
         "offerid": 1000019841,
@@ -792212,7 +792212,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_teammeter2 name",
+        "name": "Blauer Teamzähler",
         "description": "wf_teammeter2 desc",
         "adurl": "",
         "offerid": 1000019842,
@@ -792241,7 +792241,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_arrowplate_8dir name",
+        "name": "Pfeilplatte",
         "description": "wf_arrowplate_8dir desc",
         "adurl": "",
         "offerid": 1000019843,
@@ -792270,7 +792270,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_teammeter4 name",
+        "name": "Grüner Teamzähler",
         "description": "wf_teammeter4 desc",
         "adurl": "",
         "offerid": 1000019844,
@@ -792299,7 +792299,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_token5 name",
+        "name": "Dunkler Holz-Spielstein",
         "description": "wf_token5 desc",
         "adurl": "",
         "offerid": 1000019845,
@@ -792328,7 +792328,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_teamcolorquarter name",
+        "name": "Team-Viertelfarbfliese",
         "description": "wf_teamcolorquarter desc",
         "adurl": "",
         "offerid": 1000019846,
@@ -792357,7 +792357,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_teammeter1 name",
+        "name": "Gelber Teamzähler",
         "description": "wf_teammeter1 desc",
         "adurl": "",
         "offerid": 1000019847,
@@ -792386,7 +792386,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_token7 name",
+        "name": "Heller Holz-Spielstein",
         "description": "wf_token7 desc",
         "adurl": "",
         "offerid": 1000019848,
@@ -792415,7 +792415,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_token6 name",
+        "name": "Mittelheller Holz-Spielstein",
         "description": "wf_token6 desc",
         "adurl": "",
         "offerid": 1000019849,
@@ -792444,7 +792444,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_button name",
+        "name": "Button",
         "description": "wf_button desc",
         "adurl": "",
         "offerid": 1000019850,
@@ -792473,7 +792473,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_teamcolortile name",
+        "name": "Team-Farbfliese",
         "description": "wf_teamcolortile desc",
         "adurl": "",
         "offerid": 1000019851,
@@ -792502,7 +792502,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_token10 name",
+        "name": "Grüner Spielstein",
         "description": "wf_token10 desc",
         "adurl": "",
         "offerid": 1000019852,
@@ -792531,7 +792531,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_numberscreen name",
+        "name": "Zahlen-Anzeigetafel",
         "description": "wf_numberscreen desc",
         "adurl": "",
         "offerid": 1000019853,
@@ -792560,7 +792560,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_toggle name",
+        "name": "Kippschalter",
         "description": "wf_toggle desc",
         "adurl": "",
         "offerid": 1000019854,
@@ -792589,7 +792589,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_button_red name",
+        "name": "Roter Button",
         "description": "wf_button_red desc",
         "adurl": "",
         "offerid": 1000019855,
@@ -792618,7 +792618,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_token11 name",
+        "name": "Blauer Spielstein",
         "description": "wf_token11 desc",
         "adurl": "",
         "offerid": 1000019856,
@@ -792647,7 +792647,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_vu name",
+        "name": "Analoger Zähler",
         "description": "wf_vu desc",
         "adurl": "",
         "offerid": 1000019857,
@@ -792676,7 +792676,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_button_blue name",
+        "name": "Blauer Button",
         "description": "wf_button_blue desc",
         "adurl": "",
         "offerid": 1000019858,
@@ -792705,7 +792705,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_token2 name",
+        "name": "Gelbe Spielfigur",
         "description": "wf_token2 desc",
         "adurl": "",
         "offerid": 1000019859,
@@ -792734,7 +792734,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_button_x name",
+        "name": "Kreuz-Button",
         "description": "wf_button_x desc",
         "adurl": "",
         "offerid": 1000019860,
@@ -792763,7 +792763,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_token9 name",
+        "name": "Gelber Spielstein",
         "description": "wf_token9 desc",
         "adurl": "",
         "offerid": 1000019861,
@@ -792792,7 +792792,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_token8 name",
+        "name": "Roter Spielstein",
         "description": "wf_token8 desc",
         "adurl": "",
         "offerid": 1000019862,
@@ -792821,7 +792821,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_button_green name",
+        "name": "Grüner Button",
         "description": "wf_button_green desc",
         "adurl": "",
         "offerid": 1000019863,
@@ -792850,7 +792850,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_knob name",
+        "name": "Drehregler",
         "description": "wf_knob desc",
         "adurl": "",
         "offerid": 1000019864,
@@ -792879,7 +792879,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_token4 name",
+        "name": "Blaue Spielfigur",
         "description": "wf_token4 desc",
         "adurl": "",
         "offerid": 1000019865,
@@ -792908,7 +792908,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_teammeter3 name",
+        "name": "Roter Teamzähler",
         "description": "wf_teammeter3 desc",
         "adurl": "",
         "offerid": 1000019866,
@@ -792937,7 +792937,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_token1 name",
+        "name": "Rote Spielfigur",
         "description": "wf_token1 desc",
         "adurl": "",
         "offerid": 1000019867,
@@ -792966,7 +792966,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_slider name",
+        "name": "Schieberegler",
         "description": "wf_slider desc",
         "adurl": "",
         "offerid": 1000019868,
@@ -795220,7 +795220,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_d_glassdoor_white name",
+        "name": "WIRED Glastür (weiß)",
         "description": "wf_d_glassdoor_white desc",
         "adurl": "",
         "offerid": 1000019945,
@@ -795336,7 +795336,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_d_glassdoor_black name",
+        "name": "WIRED Glastür (schwarz)",
         "description": "wf_d_glassdoor_black desc",
         "adurl": "",
         "offerid": 1000019949,
@@ -798526,7 +798526,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_screenseparator name",
+        "name": "Bildschirmtrenner",
         "description": "wf_screenseparator desc",
         "adurl": "",
         "offerid": 1000020060,
@@ -822135,7 +822135,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_act_cancel_transaction name",
+        "name": "WIRED-Effekt: Zahlung stornieren",
         "description": "wf_act_cancel_transaction desc",
         "adurl": "",
         "offerid": 1000020879,
@@ -822164,7 +822164,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_act_give_currency name",
+        "name": "WIRED Effekt: Gibt Währung aus der Truhe",
         "description": "wf_act_give_currency desc",
         "adurl": "",
         "offerid": 1000020880,
@@ -822193,7 +822193,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_act_give_furni name",
+        "name": "WIRED Effekt: Gibt Möbel aus der Truhe",
         "description": "wf_act_give_furni desc",
         "adurl": "",
         "offerid": 1000020881,
@@ -822222,7 +822222,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_act_init_transaction name",
+        "name": "WIRED-Effekt: Zahlung einleiten",
         "description": "wf_act_init_transaction desc",
         "adurl": "",
         "offerid": 1000020882,
@@ -822251,7 +822251,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_cnd_chest_has_item_type name",
+        "name": "WIRED Bedingung: Truhe enthält Möbeltyp",
         "description": "wf_cnd_chest_has_item_type desc",
         "adurl": "",
         "offerid": 1000020883,
@@ -822280,7 +822280,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_cnd_chest_has_items name",
+        "name": "WIRED Bedingung: Truhe hat X Items",
         "description": "wf_cnd_chest_has_items desc",
         "adurl": "",
         "offerid": 1000020884,
@@ -822309,7 +822309,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_contract_payment name",
+        "name": "WIRED-Vertrag: Zahlungsvertrag",
         "description": "wf_contract_payment desc",
         "adurl": "",
         "offerid": 1000020885,
@@ -822338,7 +822338,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_contract_reward name",
+        "name": "WIRED-Vertrag: Belohnungsvertrag",
         "description": "wf_contract_reward desc",
         "adurl": "",
         "offerid": 1000020886,
@@ -822367,7 +822367,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_contract_trade name",
+        "name": "WIRED-Vertrag: Tauschvertrag",
         "description": "wf_contract_trade desc",
         "adurl": "",
         "offerid": 1000020887,
@@ -822396,7 +822396,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_storage_coins1 name",
+        "name": "Talertruhe",
         "description": "wf_storage_coins1 desc",
         "adurl": "",
         "offerid": 1000020888,
@@ -822425,7 +822425,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_storage_coins2 name",
+        "name": "Talertruhe",
         "description": "wf_storage_coins2 desc",
         "adurl": "",
         "offerid": 1000020889,
@@ -822454,7 +822454,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_storage_furni1 name",
+        "name": "Möbeltruhe",
         "description": "wf_storage_furni1 desc",
         "adurl": "",
         "offerid": 1000020890,
@@ -822483,7 +822483,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_storage_furni2 name",
+        "name": "Möbeltruhe",
         "description": "wf_storage_furni2 desc",
         "adurl": "",
         "offerid": 1000020891,
@@ -822512,7 +822512,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_storage_furni_starter name",
+        "name": "Starter-Möbeltruhe",
         "description": "wf_storage_furni_starter desc",
         "adurl": "",
         "offerid": 1000020892,
@@ -822541,7 +822541,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_trg_transaction_complete name",
+        "name": "WIRED-Auslöser: Transaktion abgeschlossen",
         "description": "wf_trg_transaction_complete desc",
         "adurl": "",
         "offerid": 1000020893,
@@ -822570,7 +822570,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_trg_transaction_fail name",
+        "name": "WIRED-Auslöser: Transaktion fehlgeschlagen",
         "description": "wf_trg_transaction_fail desc",
         "adurl": "",
         "offerid": 1000020894,
@@ -822599,7 +822599,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_xtra_custom_contract name",
+        "name": "WIRED Add-on: Flexibler Vertrag",
         "description": "wf_xtra_custom_contract desc",
         "adurl": "",
         "offerid": 1000020895,
@@ -822628,7 +822628,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_xtra_scan_chest_furni_by_type name",
+        "name": "WIRED Scanner Add-on: Truhen-Möbel vom Typ",
         "description": "wf_xtra_scan_chest_furni_by_type desc",
         "adurl": "",
         "offerid": 1000020896,
@@ -822657,7 +822657,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_xtra_text_output_furni_name name",
+        "name": "WIRED Text Add-on: Möbelname Placeholder",
         "description": "wf_xtra_text_output_furni_name desc",
         "adurl": "",
         "offerid": 1000020897,
@@ -829066,7 +829066,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_act_click_conf name",
+        "name": "WIRED-Effekt: Klickeinstellungen festlegen",
         "description": "wf_act_click_conf desc",
         "adurl": "",
         "offerid": 1000021115,
@@ -829095,7 +829095,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_xtra_mov_curve name",
+        "name": "WIRED Extra: Bewegungskurve",
         "description": "wf_xtra_mov_curve desc",
         "adurl": "",
         "offerid": 1000021116,
@@ -834431,7 +834431,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_act_move_furni_as_group name",
+        "name": "WIRED-Effekt: Möbel als Gruppe bewegen",
         "description": "wf_act_move_furni_as_group desc",
         "adurl": "",
         "offerid": 1000021300,
@@ -834460,7 +834460,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_act_place_furni name",
+        "name": "Wired-Effekt: Temporäres Möbel platzieren",
         "description": "wf_act_place_furni desc",
         "adurl": "",
         "offerid": 1000021301,
@@ -834489,7 +834489,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_act_remove_furni name",
+        "name": "Wired-Effekt: Temporäres Möbel entfernen",
         "description": "wf_act_remove_furni desc",
         "adurl": "",
         "offerid": 1000021302,
@@ -850903,7 +850903,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_xtra_var_web_api name",
+        "name": "Variable Global Add-on: Web API",
         "description": "wf_xtra_var_web_api desc",
         "adurl": "",
         "offerid": 1000021815,
@@ -851135,7 +851135,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_fx_firegate name",
+        "name": "Fire Gate",
         "description": "wf_fx_firegate desc",
         "adurl": "",
         "offerid": 1000021823,
@@ -851164,7 +851164,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_xtra_varfx_boss name",
+        "name": "Variable FX: Boss Gesundheitsleiste",
         "description": "wf_xtra_varfx_boss desc",
         "adurl": "",
         "offerid": 1000021824,
@@ -851193,7 +851193,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_xtra_varfx_hp name",
+        "name": "Variable FX: Gesundheitspunkte",
         "description": "wf_xtra_varfx_hp desc",
         "adurl": "",
         "offerid": 1000021825,
@@ -851222,7 +851222,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_xtra_varfx_levelling name",
+        "name": "Variable FX: Levelling-Fortschritt",
         "description": "wf_xtra_varfx_levelling desc",
         "adurl": "",
         "offerid": 1000021826,
@@ -851251,7 +851251,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_xtra_varfx_number name",
+        "name": "Variable FX: Nummern-Anzeige",
         "description": "wf_xtra_varfx_number desc",
         "adurl": "",
         "offerid": 1000021827,
@@ -851280,7 +851280,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_xtra_varfx_prog name",
+        "name": "Variable FX: Fortschrittsbalken",
         "description": "wf_xtra_varfx_prog desc",
         "adurl": "",
         "offerid": 1000021828,
@@ -851309,7 +851309,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "wf_xtra_varfx_status name",
+        "name": "Variable FX: Status-Balken",
         "description": "wf_xtra_varfx_status desc",
         "adurl": "",
         "offerid": 1000021829,
@@ -860299,7 +860299,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wf Act Progress Ach",
+        "name": "WIRED Effekt: Erfolgsfortschritt",
         "description": "",
         "adurl": "",
         "offerid": 1000022151,
@@ -860321,15 +860321,15 @@
         "id": 1000020804,
         "classname": "wf_act_send_dataframe",
         "revision": 0,
-        "category": "",
+        "category": "wired",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
         "partcolors": {
           "color": []
         },
-        "name": "Wf Act Send Dataframe",
-        "description": "",
+        "name": "WIRED Effekt: Link-Datenframe senden",
+        "description": "Sendet Schlüssel-Wert-Daten über die ausgewählten WIRED Links.",
         "adurl": "",
         "offerid": 1000022152,
         "buyout": true,
@@ -860342,7 +860342,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "",
+        "furniline": "wired",
         "environment": "",
         "rare": false
       },
@@ -860350,15 +860350,15 @@
         "id": 1000020805,
         "classname": "wf_act_send_message",
         "revision": 0,
-        "category": "",
+        "category": "wired",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
         "partcolors": {
           "color": []
         },
-        "name": "Wf Act Send Message",
-        "description": "",
+        "name": "WIRED Effekt: Link-Nachricht senden",
+        "description": "Sendet eine Nachricht über die ausgewählten WIRED Links.",
         "adurl": "",
         "offerid": 1000022153,
         "buyout": true,
@@ -860371,7 +860371,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "",
+        "furniline": "wired",
         "environment": "",
         "rare": false
       },
@@ -860386,7 +860386,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wf Act Set Highlight",
+        "name": "WIRED-Effekt: Möbelhervorhebung festlegen",
         "description": "",
         "adurl": "",
         "offerid": 1000022154,
@@ -860415,7 +860415,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wf Act Set Visibility",
+        "name": "WIRED-Effekt: Möbeltransparenz festlegen",
         "description": "",
         "adurl": "",
         "offerid": 1000022155,
@@ -860444,7 +860444,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wf Label",
+        "name": "WIRED-Beschriftung",
         "description": "",
         "adurl": "",
         "offerid": 1000022156,
@@ -860466,15 +860466,15 @@
         "id": 1000020809,
         "classname": "wf_link",
         "revision": 0,
-        "category": "",
+        "category": "wired",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
         "partcolors": {
           "color": []
         },
-        "name": "Wf Link",
-        "description": "",
+        "name": "WIRED Link",
+        "description": "Verbindet Wired-Stapel über Räume hinweg: Netzwerk wählen per Doppelklick.",
         "adurl": "",
         "offerid": 1000022157,
         "buyout": true,
@@ -860487,7 +860487,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "",
+        "furniline": "wired",
         "environment": "",
         "rare": false
       },
@@ -860495,15 +860495,15 @@
         "id": 1000020810,
         "classname": "wf_trg_receive_dataframe",
         "revision": 0,
-        "category": "",
+        "category": "wired",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
         "partcolors": {
           "color": []
         },
-        "name": "Wf Trg Receive Dataframe",
-        "description": "",
+        "name": "WIRED Auslöser: Link-Datenframe empfangen",
+        "description": "Wird ausgelöst, wenn ein ausgewählter WIRED Link einen Datenframe empfängt.",
         "adurl": "",
         "offerid": 1000022158,
         "buyout": true,
@@ -860516,7 +860516,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "",
+        "furniline": "wired",
         "environment": "",
         "rare": false
       },
@@ -860524,15 +860524,15 @@
         "id": 1000020811,
         "classname": "wf_trg_receive_message",
         "revision": 0,
-        "category": "",
+        "category": "wired",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
         "partcolors": {
           "color": []
         },
-        "name": "Wf Trg Receive Message",
-        "description": "",
+        "name": "WIRED Auslöser: Link-Nachricht empfangen",
+        "description": "Wird ausgelöst, wenn ein ausgewählter WIRED Link eine Nachricht empfängt.",
         "adurl": "",
         "offerid": 1000022159,
         "buyout": true,
@@ -860545,7 +860545,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "",
+        "furniline": "wired",
         "environment": "",
         "rare": false
       },
@@ -860553,15 +860553,15 @@
         "id": 1000020812,
         "classname": "wf_trg_room_initializes",
         "revision": 0,
-        "category": "",
+        "category": "wired",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
         "partcolors": {
           "color": []
         },
-        "name": "Wf Trg Room Initializes",
-        "description": "",
+        "name": "WIRED Auslöser: Raum initialisiert",
+        "description": "Wird einmal ausgelöst, wenn der Raum geladen wird – vor allen anderen Auslösern.",
         "adurl": "",
         "offerid": 1000022160,
         "buyout": true,
@@ -860574,7 +860574,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "",
+        "furniline": "wired",
         "environment": "",
         "rare": false
       },
@@ -860589,7 +860589,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wf Var Dailytask",
+        "name": "WIRED Variable: Tagesaufgabe",
         "description": "",
         "adurl": "",
         "offerid": 1000022161,
@@ -860647,7 +860647,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wf Xtra Achievement Enabler",
+        "name": "WIRED Extra: Erfolgs-Aktivator",
         "description": "",
         "adurl": "",
         "offerid": 1000022163,
@@ -860669,15 +860669,15 @@
         "id": 1000020816,
         "classname": "wf_xtra_link_speaker",
         "revision": 0,
-        "category": "",
+        "category": "wired",
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
         "partcolors": {
           "color": []
         },
-        "name": "Wf Xtra Link Speaker",
-        "description": "",
+        "name": "WIRED Add-on: Link-Lautsprecher",
+        "description": "Zeigt empfangene Link-Nachrichten und -Datenframes im Raum an.",
         "adurl": "",
         "offerid": 1000022164,
         "buyout": true,
@@ -860690,7 +860690,7 @@
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "",
+        "furniline": "wired",
         "environment": "",
         "rare": false
       },
@@ -860705,7 +860705,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wf Xtra Var Import",
+        "name": "Variablen Extra: Importieren",
         "description": "",
         "adurl": "",
         "offerid": 1000022165,
@@ -860734,7 +860734,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wf Xtra Var Leaderboard",
+        "name": "Variablen Extra: Rangliste",
         "description": "",
         "adurl": "",
         "offerid": 1000022166,
@@ -860763,7 +860763,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Wf Xtra Var Share",
+        "name": "Variablen Extra: Teilen",
         "description": "",
         "adurl": "",
         "offerid": 1000022167,
