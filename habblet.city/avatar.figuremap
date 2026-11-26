@@ -1,6 +1,154 @@
 ﻿{
   "libraries": [
     {
+      "id": "jacket_U_habfolasadegagasl2",
+      "revision": 12722,
+      "parts": [
+        {
+          "id": 78684964,
+          "type": "cc"
+        },
+        {
+          "id": 78684964,
+          "type": "lc"
+        },
+        {
+          "id": 78684964,
+          "type": "rc"
+        },
+        {
+          "id": 78684965,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_habfolasadegagasl1",
+      "revision": 12721,
+      "parts": [
+        {
+          "id": 4856977,
+          "type": "cc"
+        },
+        {
+          "id": 4856977,
+          "type": "lc"
+        },
+        {
+          "id": 4856977,
+          "type": "rc"
+        },
+        {
+          "id": 4856978,
+          "type": "lc"
+        },
+        {
+          "id": 4856978,
+          "type": "rc"
+        },
+        {
+          "id": 4857977,
+          "type": "cc"
+        },
+        {
+          "id": 4857999,
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_habfolasadehelmet",
+      "revision": 12720,
+      "parts": [
+        {
+          "id": 485869697,
+          "type": "ha"
+        },
+        {
+          "id": 485869698,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_habfolasadegagaveil",
+      "revision": 12719,
+      "parts": [
+        {
+          "id": 238848696,
+          "type": "ha"
+        },
+        {
+          "id": 238848697,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hair_U_seawoodmayhemhair",
+      "revision": 12718,
+      "parts": [
+        {
+          "id": 875966878,
+          "type": "hr"
+        },
+        {
+          "id": 875966879,
+          "type": "hr"
+        }
+      ]
+    },
+    {
+      "id": "acc_waist_U_habvictxrrbeltskirt1",
+      "revision": 12717,
+      "parts": [
+        {
+          "id": 959868674,
+          "type": "wa"
+        },
+        {
+          "id": 959868675,
+          "type": "wa"
+        }
+      ]
+    },
+    {
+      "id": "acc_head_U_habfolasadeearmic",
+      "revision": 12716,
+      "parts": [
+        {
+          "id": 88387485,
+          "type": "he"
+        },
+        {
+          "id": 88387486,
+          "type": "he"
+        },
+        {
+          "id": 88387487,
+          "type": "he"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_habfolasadegagasash",
+      "revision": 12715,
+      "parts": [
+        {
+          "id": 45868689,
+          "type": "ca"
+        },
+        {
+          "id": 45868699,
+          "type": "ca"
+        },
+        {
+          "id": 45868799,
+          "type": "ca"
+        }
+      ]
+    },
+    {
       "id": "shirt_U_mafiatattoo",
       "revision": 12714,
       "parts": [
