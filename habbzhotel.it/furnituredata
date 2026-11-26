@@ -1106094,6 +1106094,488 @@
         "name": "Vinile Mayhem",
         "customparams": "",
         "specialtype": 1
+      },
+      {
+        "id": 194900253,
+        "classname": "CF_250_butterfly",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Farfalla da 250 Crediti",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900254,
+        "classname": "CF_350_bottlecooler",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Secchiello da 350 Crediti",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900228,
+        "classname": "ducket_c26_birdfeeder",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Mangiatoia per Uccellini",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900233,
+        "classname": "ducket_c26_plantpot",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Vaso Innevato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900229,
+        "classname": "ducket_c27_gardenstake",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Paletto da Giardino",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900227,
+        "classname": "ducket_c27_gardenswing",
+        "defaultdir": 2,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Dondolo da Giardino",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900230,
+        "classname": "ducket_c27_glasssucculent",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Piante Grasse in Vetro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900234,
+        "classname": "ducket_c27_glasstray",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Vassoio di Vetro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900231,
+        "classname": "ducket_c27_snowgreenhouse",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Serra Innevata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900232,
+        "classname": "ducket_c27_tinygreenhouse",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Serretta",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900226,
+        "classname": "ducket_c27_wateringcan",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Annaffiatoio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900217,
+        "classname": "hc27_1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Letto HC 2027",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900223,
+        "classname": "hc27_10",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Riviste HC 2027",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900220,
+        "classname": "hc27_11",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pilastro di Mattoni HC 2027",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900221,
+        "classname": "hc27_12",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pavimento HC 2027",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900215,
+        "classname": "hc27_2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Divano HC 2027",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900219,
+        "classname": "hc27_3",
+        "defaultdir": 2,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Moto HC 2027",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900224,
+        "classname": "hc27_4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Scaffale HC 2027",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900216,
+        "classname": "hc27_5",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Mensole HC 2027",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900222,
+        "classname": "hc27_6",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pouf Copertone HC 2027",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900214,
+        "classname": "hc27_7",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Basso Elettrico HC 2027",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900218,
+        "classname": "hc27_8",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lampadario Industriale HC 2027",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900225,
+        "classname": "hc27_9",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Poster HC 2027",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900235,
+        "classname": "rare_prize26_xmas",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tigrotto Artico",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900244,
+        "classname": "rare_prize27*0",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#D9835E",
+            "#FFFFFF"
+          ]
+        },
+        "name": "Statua della Volpe Abbronzata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900246,
+        "classname": "rare_prize27*1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#E72A2A",
+            "#FFFFFF"
+          ]
+        },
+        "name": "Statua della Volpe Rubino",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900238,
+        "classname": "rare_prize27*10",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#1459AA",
+            "#FFFFFF"
+          ]
+        },
+        "name": "Statua della Volpe Zaffiro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900249,
+        "classname": "rare_prize27*11",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#AAF244",
+            "#FFFFFF"
+          ]
+        },
+        "name": "Statua della Volpe Giada",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900237,
+        "classname": "rare_prize27*12",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#BAD4E4",
+            "#FFFFFF"
+          ]
+        },
+        "name": "Statua della Volpe Perla",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900247,
+        "classname": "rare_prize27*13",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#00E0C0",
+            "#FFFFFF"
+          ]
+        },
+        "name": "Statua della Volpe Turchese",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900242,
+        "classname": "rare_prize27*2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#494D58",
+            "#FFFFFF"
+          ]
+        },
+        "name": "Statua della Volpe Ossidiana",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900240,
+        "classname": "rare_prize27*3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#FFA602",
+            "#FFFFFF"
+          ]
+        },
+        "name": "Statua della Volpe Giallo Citrino",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900250,
+        "classname": "rare_prize27*4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#A11CCC",
+            "#FFFFFF"
+          ]
+        },
+        "name": "Statua della Volpe Ametista",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900236,
+        "classname": "rare_prize27*5",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#FF6038",
+            "#FFFFFF"
+          ]
+        },
+        "name": "Statua della Volpe Diaspro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900248,
+        "classname": "rare_prize27*6",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#38BD6E",
+            "#FFFFFF"
+          ]
+        },
+        "name": "Statua della Volpe Smeraldo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900239,
+        "classname": "rare_prize27*7",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#39377E",
+            "#FFFFFF"
+          ]
+        },
+        "name": "Statua della Volpe Tanzanite",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900243,
+        "classname": "rare_prize27*8",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#138097",
+            "#FFFFFF"
+          ]
+        },
+        "name": "Statua della Volpe Acquamarina",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900245,
+        "classname": "rare_prize27*9",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": [
+            "#F93D6D",
+            "#FFFFFF"
+          ]
+        },
+        "name": "Statua della Volpe Rodocrosite",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900241,
+        "classname": "rare_prize27_xmas",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Statua della Volpe Artica",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900251,
+        "classname": "nft_h26_candycane",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Bastoncino di Zucchero",
+        "customparams": "",
+        "specialtype": 1
       }
     ]
   },
@@ -1121268,6 +1121750,13 @@
           "color": []
         },
         "name": "Pallina Nera dell'Albero",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 194900252,
+        "classname": "year2027",
+        "name": "Countdown Anno Nuovo 2027",
         "customparams": "",
         "specialtype": 1
       }
