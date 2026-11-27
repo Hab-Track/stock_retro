@@ -115527,6 +115527,176 @@
           "type": "hr"
         }
       ]
+    },
+    {
+      "id": "trousers_U_maxiskirt",
+      "revision": 76182,
+      "parts": [
+        {
+          "id": "7802",
+          "type": "lg"
+        },
+        {
+          "id": "7803",
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "shirt_F_stripeshirt",
+      "revision": 76201,
+      "parts": [
+        {
+          "id": "7806",
+          "type": "ch"
+        },
+        {
+          "id": "7806",
+          "type": "ls"
+        },
+        {
+          "id": "7806",
+          "type": "rs"
+        },
+        {
+          "id": "7807",
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "shirt_M_stripeshirt",
+      "revision": 76201,
+      "parts": [
+        {
+          "id": "7804",
+          "type": "ch"
+        },
+        {
+          "id": "7804",
+          "type": "ls"
+        },
+        {
+          "id": "7804",
+          "type": "rs"
+        },
+        {
+          "id": "7805",
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "misc_U_bouquet",
+      "revision": 76209,
+      "parts": [
+        {
+          "id": "7812",
+          "type": "mc"
+        },
+        {
+          "id": "7812",
+          "type": "mcl"
+        },
+        {
+          "id": "7812",
+          "type": "mcr"
+        },
+        {
+          "id": "7812",
+          "type": "mco"
+        },
+        {
+          "id": "7812",
+          "type": "mcu"
+        },
+        {
+          "id": "7813",
+          "type": "mc"
+        },
+        {
+          "id": "7814",
+          "type": "mc"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_popbottlegold",
+      "revision": 76229,
+      "parts": [
+        {
+          "id": "7830",
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_popbottle",
+      "revision": 76229,
+      "parts": [
+        {
+          "id": "7828",
+          "type": "ca"
+        },
+        {
+          "id": "7829",
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_nftmxmas26",
+      "revision": 76230,
+      "parts": [
+        {
+          "id": "7826",
+          "type": "cc"
+        },
+        {
+          "id": "7826",
+          "type": "lc"
+        },
+        {
+          "id": "7826",
+          "type": "rc"
+        },
+        {
+          "id": "7827",
+          "type": "cc"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nft2027",
+      "revision": 76233,
+      "parts": [
+        {
+          "id": "7831",
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "jacket_F_nftmxmas26",
+      "revision": 76230,
+      "parts": [
+        {
+          "id": "7824",
+          "type": "cc"
+        },
+        {
+          "id": "7824",
+          "type": "lc"
+        },
+        {
+          "id": "7824",
+          "type": "rc"
+        },
+        {
+          "id": "7825",
+          "type": "cc"
+        }
+      ]
     }
   ]
 }
