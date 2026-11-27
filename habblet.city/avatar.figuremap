@@ -1,6 +1,56 @@
 ﻿{
   "libraries": [
     {
+      "id": "shirt_U_habfolasadegagajkt",
+      "revision": 12725,
+      "parts": [
+        {
+          "id": 1337888,
+          "type": "ch"
+        },
+        {
+          "id": 1337888,
+          "type": "ls"
+        },
+        {
+          "id": 1337888,
+          "type": "rs"
+        },
+        {
+          "id": 1337889,
+          "type": "ch"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_bananahelmet",
+      "revision": 12724,
+      "parts": [
+        {
+          "id": 7696,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_habvictxrrbeltskirt2",
+      "revision": 12723,
+      "parts": [
+        {
+          "id": 747586867,
+          "type": "lg"
+        },
+        {
+          "id": 747586868,
+          "type": "lg"
+        },
+        {
+          "id": 747586869,
+          "type": "lg"
+        }
+      ]
+    },
+    {
       "id": "jacket_U_habfolasadegagasl2",
       "revision": 12722,
       "parts": [
@@ -23,7 +73,7 @@
       ]
     },
     {
-      "id": "jacket_U_habfolasadegagasl1",
+      "id": "jacket_U_habfolasadegagasl1x",
       "revision": 12721,
       "parts": [
         {
