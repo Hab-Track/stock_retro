@@ -2,6 +2,760 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886667546,
+        "classname": "greek_pod",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_pod",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667546,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667545,
+        "classname": "greek_dragonlamp",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_dragonlamp",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667545,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667544,
+        "classname": "greek_vase_marble",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_vase_marble",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667544,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667543,
+        "classname": "greek_vase_thebes",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_vase_thebes",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667543,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667542,
+        "classname": "greek_vase_realm",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_vase_realm",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667542,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667541,
+        "classname": "greek_tile_realm",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 2,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_tile_realm",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667541,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667540,
+        "classname": "greek_table2_realm",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 3,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_table2_realm",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667540,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667539,
+        "classname": "greek_table_realm",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 2,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_table_realm",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667539,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667538,
+        "classname": "greek_stool_realm",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_stool_realm",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667538,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667537,
+        "classname": "greek_seat_realm",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_seat_realm",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667537,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667536,
+        "classname": "greek_pillars_realm",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_pillars_realm",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667536,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667535,
+        "classname": "greek_gate_realm",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_gate_realm",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667535,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667534,
+        "classname": "greek_corner_realm",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_corner_realm",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667534,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667533,
+        "classname": "greek_brokenpillar_realm",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_brokenpillar_realm",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667533,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667532,
+        "classname": "greek_block_realm",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_block_realm",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667532,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667531,
+        "classname": "greek_block_underworld",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_block_underworld",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667531,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667530,
+        "classname": "greek_corner_underworld",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_corner_underworld",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667530,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667529,
+        "classname": "greek_gate_underworld",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_gate_underworld",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667529,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667528,
+        "classname": "greek_pillars_underworld",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_pillars_underworld",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667528,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667527,
+        "classname": "greek_seat_underworld",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_seat_underworld",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667527,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667526,
+        "classname": "greek_stool_underworld",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_stool_underworld",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667526,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667525,
+        "classname": "greek_table_underworld",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 2,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_table_underworld",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667525,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667524,
+        "classname": "greek_table2_underworld",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 3,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_table2_underworld",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667524,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667523,
+        "classname": "greek_tile_underworld",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 2,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_tile_underworld",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667523,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667522,
+        "classname": "greek_vase_underworld",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_vase_underworld",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667522,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667521,
+        "classname": "greek_brokenpillar_underworld",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "greek_brokenpillar_underworld",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667521,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886667518,
         "classname": "hlive_c23_poltronedimarie",
         "revision": 0,
@@ -41,7 +795,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hlive_r25_birthdayfrankplushie",
+        "name": "Pelúcia Frank",
         "description": "",
         "adurl": "",
         "offerid": 886667517,
@@ -70,7 +824,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hubba_jvmkc_magicfountain",
+        "name": "Fonte Lua Nevada",
         "description": "",
         "adurl": "",
         "offerid": 886667516,
@@ -157,7 +911,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "diamond_paint41",
+        "name": "Cavalete Arquitetura Clássica",
         "description": "",
         "adurl": "",
         "offerid": 886667513,
@@ -215,7 +969,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "diamond_paint39",
+        "name": "Escultura O Pensador",
         "description": "",
         "adurl": "",
         "offerid": 886667511,
@@ -3608,7 +4362,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "dw_weeping_angel",
+        "name": "Anjo Lamentador",
         "description": "",
         "adurl": "",
         "offerid": 886667316,
@@ -3695,7 +4449,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "dw_cyberman",
+        "name": "Cyberman",
         "description": "",
         "adurl": "",
         "offerid": 886667313,
@@ -4275,7 +5029,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "dbz_habberge_rose_egg_rip",
+        "name": "Ovo Habbergé Rosé",
         "description": "",
         "adurl": "",
         "offerid": 886667289,
@@ -4623,7 +5377,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "sheji_walllamp",
+        "name": "Lâmpada Sheji",
         "description": "",
         "adurl": "",
         "offerid": 886667273,
@@ -4652,7 +5406,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "sheji_table_small",
+        "name": "Mesa Lateral Sheji",
         "description": "",
         "adurl": "",
         "offerid": 886667272,
@@ -4681,7 +5435,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "sheji_table_med",
+        "name": "Mesa Sheji",
         "description": "",
         "adurl": "",
         "offerid": 886667271,
@@ -4710,7 +5464,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "sheji_stall",
+        "name": "Barraca de Mercado Sheji",
         "description": "",
         "adurl": "",
         "offerid": 886667270,
@@ -4739,7 +5493,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "sheji_sofachair",
+        "name": "Poltrona Sheji",
         "description": "",
         "adurl": "",
         "offerid": 886667269,
@@ -4768,7 +5522,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "sheji_sofa",
+        "name": "Sofá Sheji",
         "description": "",
         "adurl": "",
         "offerid": 886667268,
@@ -4797,7 +5551,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "sheji_divider3",
+        "name": "Portão Sheji",
         "description": "",
         "adurl": "",
         "offerid": 886667267,
@@ -4826,7 +5580,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "sheji_divider2",
+        "name": "Biombo Baixo Sheji",
         "description": "",
         "adurl": "",
         "offerid": 886667266,
@@ -5087,7 +5841,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_c24_pirate_table",
+        "name": "Mesa de Jantar do Pirata",
         "description": "",
         "adurl": "",
         "offerid": 886667257,
@@ -5116,7 +5870,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_c24_pirate_stool",
+        "name": "Banco do Pirata",
         "description": "",
         "adurl": "",
         "offerid": 886667256,
@@ -5145,7 +5899,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_c24_pirate_shelve",
+        "name": "Estante do Tesouro",
         "description": "",
         "adurl": "",
         "offerid": 886667255,
@@ -5174,7 +5928,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_c24_pirate_lamp",
+        "name": "Lâmpada do Pirata",
         "description": "",
         "adurl": "",
         "offerid": 886667254,
@@ -5203,7 +5957,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_c24_pirate_gate",
+        "name": "Portão Velho",
         "description": "",
         "adurl": "",
         "offerid": 886667253,
@@ -5232,7 +5986,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_c25_cabin_keg",
+        "name": "Keg Pirata",
         "description": "",
         "adurl": "",
         "offerid": 886667252,
@@ -5261,7 +6015,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_c25_cabin_cabinet",
+        "name": "Bar Pub Irlandês",
         "description": "",
         "adurl": "",
         "offerid": 886667251,
@@ -5290,7 +6044,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_c25_cabin_barreltable",
+        "name": "Mesa Pub Irlandês",
         "description": "",
         "adurl": "",
         "offerid": 886667250,
@@ -5319,7 +6073,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_c25_cabin_barrel",
+        "name": "Barril Pub Irlandês",
         "description": "",
         "adurl": "",
         "offerid": 886667249,
@@ -5348,7 +6102,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_c24_pirate_table_small",
+        "name": "Mesa do Pirata",
         "description": "",
         "adurl": "",
         "offerid": 886667248,
@@ -5377,7 +6131,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_c24_pirate_div",
+        "name": "Divisória do Corsário",
         "description": "",
         "adurl": "",
         "offerid": 886667247,
@@ -5406,7 +6160,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_c24_pirate_chair",
+        "name": "Banco do Pirata",
         "description": "",
         "adurl": "",
         "offerid": 886667246,
@@ -5418,7 +6172,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -5435,7 +6189,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_c24_pirate_candle",
+        "name": "Vela do Pirata",
         "description": "",
         "adurl": "",
         "offerid": 886667245,
@@ -5464,7 +6218,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_c24_pirate_bunny",
+        "name": "Pelúcia do Pirata",
         "description": "",
         "adurl": "",
         "offerid": 886667244,
@@ -5493,7 +6247,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_c24_pirate_bench",
+        "name": "Banco do Pirata",
         "description": "",
         "adurl": "",
         "offerid": 886667243,
@@ -5522,7 +6276,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_c24_pirate_bed_two",
+        "name": "Beliche do Pirata",
         "description": "",
         "adurl": "",
         "offerid": 886667242,
@@ -5535,7 +6289,7 @@
         "specialtype": 1,
         "canstandon": false,
         "cansiton": false,
-        "canlayon": false,
+        "canlayon": true,
         "furniline": "null",
         "environment": "",
         "rare": false
@@ -5551,7 +6305,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_c24_pirate_bed_one",
+        "name": "Cama do Senhor Pirata",
         "description": "",
         "adurl": "",
         "offerid": 886667241,
@@ -5564,7 +6318,7 @@
         "specialtype": 1,
         "canstandon": false,
         "cansiton": false,
-        "canlayon": false,
+        "canlayon": true,
         "furniline": "null",
         "environment": "",
         "rare": false
@@ -5580,7 +6334,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_c24_pirate_bartable",
+        "name": "Balcão de Pirata",
         "description": "",
         "adurl": "",
         "offerid": 886667240,
@@ -5609,7 +6363,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_c24_pirate_bar",
+        "name": "MiniBar de Barril",
         "description": "",
         "adurl": "",
         "offerid": 886667239,
@@ -5638,7 +6392,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_c24_pirate_div_crn",
+        "name": "Pilar de Canto",
         "description": "",
         "adurl": "",
         "offerid": 886667238,
@@ -10597,8 +11351,8 @@
         "partcolors": {
           "color": []
         },
-        "name": "Jason_habbletTotem",
-        "description": "",
+        "name": "Jason Voorhees",
+        "description": "Exclusivo da atividade Cripsween part. Romanov - Outubro/2026",
         "adurl": "",
         "offerid": 886666467,
         "buyout": false,
@@ -16339,7 +17093,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_aprilshrimp",
+        "name": "Camarão",
         "description": "",
         "adurl": "",
         "offerid": 886666254,
@@ -26605,7 +27359,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "survival_r26_scifispeakercorner",
+        "name": "Púlpito Futurista",
         "description": "",
         "adurl": "",
         "offerid": 886665356,
@@ -26692,7 +27446,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_antiquewidescreen",
+        "name": "TV Antiga",
         "description": "",
         "adurl": "",
         "offerid": 886665353,
@@ -26750,7 +27504,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_overgrownplant",
+        "name": "Planta Exótica",
         "description": "",
         "adurl": "",
         "offerid": 886665351,
@@ -26924,7 +27678,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_paintwallart",
+        "name": "Respingo de Tinta",
         "description": "",
         "adurl": "",
         "offerid": 886665343,
@@ -26953,7 +27707,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_painttable",
+        "name": "Mesa Respingada de Tinta",
         "description": "",
         "adurl": "",
         "offerid": 886665342,
@@ -26982,7 +27736,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_paintsplatter",
+        "name": "Respingo de Tinta",
         "description": "",
         "adurl": "",
         "offerid": 886665341,
@@ -27011,7 +27765,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_paintshelf",
+        "name": "Prateleira Respingada de Tinta",
         "description": "",
         "adurl": "",
         "offerid": 886665340,
@@ -27040,7 +27794,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_paintlamp",
+        "name": "Lâmpada  Respingada de Tinta",
         "description": "",
         "adurl": "",
         "offerid": 886665339,
@@ -27069,7 +27823,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_painteasel",
+        "name": "Cavalete Respingada de Tinta",
         "description": "",
         "adurl": "",
         "offerid": 886665338,
@@ -27098,7 +27852,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_paintcupboard",
+        "name": "Armário Respingada de Tinta",
         "description": "",
         "adurl": "",
         "offerid": 886665337,
@@ -27127,7 +27881,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_paintcouch",
+        "name": "Sofá Respingada de Tinta",
         "description": "",
         "adurl": "",
         "offerid": 886665336,
@@ -27139,7 +27893,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -27156,7 +27910,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_paintcolumn",
+        "name": "Coluna  Respingada de Tinta",
         "description": "",
         "adurl": "",
         "offerid": 886665335,
@@ -27185,7 +27939,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_paintchair",
+        "name": "Cadeira Respingada de Tinta",
         "description": "",
         "adurl": "",
         "offerid": 886665334,
@@ -27197,7 +27951,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -27214,7 +27968,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_paintbust",
+        "name": "Busto Respingado de Tinta",
         "description": "",
         "adurl": "",
         "offerid": 886665333,
@@ -27243,7 +27997,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_paintcans",
+        "name": "Latas de Tinta Coloridas",
         "description": "",
         "adurl": "",
         "offerid": 886665332,
@@ -27272,7 +28026,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "rec26_artsupplies",
+        "name": "Materiais de Arte",
         "description": "",
         "adurl": "",
         "offerid": 886665331,
@@ -33365,7 +34119,7 @@
         "name": "Habblet_conquistap26_03",
         "description": "",
         "adurl": "",
-        "offerid": 886665020,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -33394,7 +34148,7 @@
         "name": "Habblet_conquistap26_02",
         "description": "",
         "adurl": "",
-        "offerid": 886665019,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -33423,7 +34177,7 @@
         "name": "Habblet_conquistap26_01",
         "description": "",
         "adurl": "",
-        "offerid": 886665018,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -94036,7 +94790,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_silverdvd",
+        "name": "DVD de Prata",
         "description": "",
         "adurl": "",
         "offerid": 886658907,
@@ -94065,7 +94819,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_bronzedvd",
+        "name": "DVD de Bronze",
         "description": "",
         "adurl": "",
         "offerid": 886658906,
@@ -94094,7 +94848,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_golddvd",
+        "name": "DVD de Ouro",
         "description": "",
         "adurl": "",
         "offerid": 886658905,
@@ -94123,7 +94877,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_receptionistposter",
+        "name": "Pôster O Recepcionista",
         "description": "",
         "adurl": "",
         "offerid": 886658904,
@@ -94152,7 +94906,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_poolfactionposter",
+        "name": "Pôster Homens de Preto",
         "description": "",
         "adurl": "",
         "offerid": 886658903,
@@ -94181,7 +94935,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_lotfposter",
+        "name": "Pôster O Senhor dos Mobis",
         "description": "",
         "adurl": "",
         "offerid": 886658902,
@@ -94297,7 +95051,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_bigtv",
+        "name": "TV Portátil",
         "description": "",
         "adurl": "",
         "offerid": 886658898,
@@ -94326,7 +95080,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_movienightchair",
+        "name": "Poltrona de Cinema",
         "description": "",
         "adurl": "",
         "offerid": 886658897,
@@ -94338,7 +95092,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -94355,7 +95109,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h26_hafbox",
+        "name": "Caixa Meu Habblet",
         "description": "",
         "adurl": "",
         "offerid": 886658896,
@@ -111610,7 +112364,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ducket_c26_smallcottageshelf",
+        "name": "Prateleira Pequena",
         "description": "",
         "adurl": "",
         "offerid": 886655527,
@@ -111639,7 +112393,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ducket_c26_cottageplant",
+        "name": "Planta Outonal",
         "description": "",
         "adurl": "",
         "offerid": 886655526,
@@ -111668,7 +112422,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ducket_c26_cottagebed",
+        "name": "Cama de Casal",
         "description": "",
         "adurl": "",
         "offerid": 886655525,
@@ -117719,7 +118473,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ducket_c26_largecottageshelf",
+        "name": "Estante Grande de Chalé",
         "description": "",
         "adurl": "",
         "offerid": 886654783,
@@ -117748,7 +118502,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ducket_c26_cottagewreath",
+        "name": "Guirlanda de Chalé",
         "description": "",
         "adurl": "",
         "offerid": 886654782,
@@ -117777,7 +118531,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ducket_c26_cottagecandle",
+        "name": "Vela de Chalé",
         "description": "",
         "adurl": "",
         "offerid": 886654781,
@@ -122185,7 +122939,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "shadow_xmas22_chest_pink",
+        "name": "Baú Antigo Rosa",
         "description": "",
         "adurl": "",
         "offerid": 886654573,
@@ -122214,7 +122968,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "shadow_xmas22_chest_green",
+        "name": "Baú Antigo Verde",
         "description": "",
         "adurl": "",
         "offerid": 886654572,
@@ -122243,7 +122997,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "shadow_xmas22_chest_white",
+        "name": "Baú Antigo Branco",
         "description": "",
         "adurl": "",
         "offerid": 886654571,
@@ -122272,7 +123026,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "shadow_xmas22_chest_black",
+        "name": "Baú Antigo Preto",
         "description": "",
         "adurl": "",
         "offerid": 886654570,
@@ -122301,7 +123055,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "shadow_xmas22_chest_blue",
+        "name": "Baú Antigo Azul",
         "description": "",
         "adurl": "",
         "offerid": 886654569,
@@ -122330,7 +123084,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "shadow_xmas22_chest_red",
+        "name": "Baú Antigo Vermelho",
         "description": "",
         "adurl": "",
         "offerid": 886654568,
@@ -154346,7 +155100,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "habblet_classicpool_25",
+        "name": "Memorial Piscina Clássica",
         "description": "",
         "adurl": "",
         "offerid": 886651966,
