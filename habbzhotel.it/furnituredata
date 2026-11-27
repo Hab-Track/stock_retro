@@ -1106576,6 +1106576,732 @@
         "name": "Bastoncino di Zucchero",
         "customparams": "",
         "specialtype": 1
+      },
+      {
+        "id": 1236802500,
+        "classname": "book_rare",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Libro raro",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802508,
+        "classname": "custom_book",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Libro rosso",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802514,
+        "classname": "frostmere_fruittree",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Albero da frutto innevato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802515,
+        "classname": "frostmere_hammock",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Amaca di ghiaccio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802516,
+        "classname": "frostmere_sleigh",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Slitta verde",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802517,
+        "classname": "frostmere_snowblock",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Palla di neve",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802518,
+        "classname": "frostmere_xmastree",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Abete di Natale",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802519,
+        "classname": "gamenight_counter",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Contatore Stop",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802520,
+        "classname": "gamenight_dice",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Dado",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802521,
+        "classname": "gamenight_dropzone",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Botola",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802522,
+        "classname": "gamenight_fridge",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Frigo snack",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802523,
+        "classname": "gamenight_lava",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Casella lava",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802524,
+        "classname": "gamenight_pad_green",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pedana verde",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802525,
+        "classname": "gamenight_pad_red",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pedana rossa",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802526,
+        "classname": "gamenight_pad_start",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pedana di partenza",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802527,
+        "classname": "gamenight_pyramid",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Piramide blu",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802528,
+        "classname": "gamenight_pyramid_lodge",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Piramide marrone",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802529,
+        "classname": "gamenight_pyramid_mode",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Piramide grigia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802530,
+        "classname": "gamenight_simon",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pulsante Simon",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802531,
+        "classname": "gamenight_simon_pad",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pedana Simon",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802532,
+        "classname": "gamenight_strip",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Striscia",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802533,
+        "classname": "goldfish_frozen",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pesce rosso congelato",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802534,
+        "classname": "greek_brokenpillar",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Colonna spezzata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802535,
+        "classname": "greek_divan",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Divano greco",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802536,
+        "classname": "greek_dragonlamp",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lampada drago di marmo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802537,
+        "classname": "greek_dragonlamp_realm",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lampada drago (Regno)",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802538,
+        "classname": "greek_dragonlamp_thebes",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lampada drago (Tebe)",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802539,
+        "classname": "greek_dragonlamp_underworld",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Lampada drago (Oltretomba)",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802540,
+        "classname": "greek_pod",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Giaciglio di marmo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802541,
+        "classname": "greek_pod_realm",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Giaciglio (Regno)",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802542,
+        "classname": "greek_pod_thebes",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Giaciglio (Tebe)",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802543,
+        "classname": "greek_pod_underworld",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Giaciglio (Oltretomba)",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802544,
+        "classname": "greek_stool",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sgabello di marmo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802545,
+        "classname": "greek_table",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tavolo di marmo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802546,
+        "classname": "greek_table2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Panca di marmo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802547,
+        "classname": "greek_tile",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pavimento di pietra",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802548,
+        "classname": "greek_vase",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Anfora di terracotta",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802549,
+        "classname": "greek_vase_marble",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Anfora di marmo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802550,
+        "classname": "greek_vase_realm",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Anfora (Regno)",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802551,
+        "classname": "greek_vase_thebes",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Anfora (Tebe)",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802552,
+        "classname": "greek_vase_underworld",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Anfora (Oltretomba)",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802553,
+        "classname": "greektrophy",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Trofeo greco",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802554,
+        "classname": "habbo_statue",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Statua Habbo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802555,
+        "classname": "hc26_globe",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Mappamondo HC",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802556,
+        "classname": "hc26_telescope",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Telescopio HC",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802559,
+        "classname": "hyacinth3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Giacinto bianco",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802560,
+        "classname": "hyacinth4",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Giacinto crema",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802561,
+        "classname": "joulutahti2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Stella di Natale rosa",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802562,
+        "classname": "joulutahti3",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Stella di Natale arancione",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802563,
+        "classname": "lion_rug",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pelle di leone",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802564,
+        "classname": "storage_terminal",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Computer retrò",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802567,
+        "classname": "xmas26_chair",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Sedia di ghiaccio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802568,
+        "classname": "xmas26_cube",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Cubo di ghiaccio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802569,
+        "classname": "xmas26_piano",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Pianoforte",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802570,
+        "classname": "xmas26_snowgnome",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Gnomo di neve",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802571,
+        "classname": "xmas26_stage",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Palco di ghiaccio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802572,
+        "classname": "xmas26_stairs",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Scale di ghiaccio",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802573,
+        "classname": "xmas26_stairscrnr",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Scale di ghiaccio ad angolo",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802574,
+        "classname": "xmas_bushblack1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola di more innevata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802575,
+        "classname": "xmas_bushblack2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola di more innevata 2",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802576,
+        "classname": "xmas_bushblue1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola di mirtilli innevata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802577,
+        "classname": "xmas_bushblue2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola di mirtilli innevata 2",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802578,
+        "classname": "xmas_bushrasp1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola di lamponi innevata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802579,
+        "classname": "xmas_bushrasp2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola di lamponi innevata 2",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802580,
+        "classname": "xmas_bushstraw1",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola di fragole innevata",
+        "customparams": "",
+        "specialtype": 1
+      },
+      {
+        "id": 1236802581,
+        "classname": "xmas_bushstraw2",
+        "defaultdir": 0,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Aiuola di fragole innevata 2",
+        "customparams": "",
+        "specialtype": 1
       }
     ]
   },
