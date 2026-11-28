@@ -1286158,7 +1286158,7 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Wired",
+        "name": "Déclencheur WIRED: Réseau",
         "description": "Ce mobilier n'a pas de description.",
         "offerid": 1425659817,
         "buyout": true,
@@ -1286171,7 +1286171,12 @@
         "enableCursor": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425656496,
@@ -1286204,7 +1286209,7 @@
         "defaultdir": 0,
         "xdim": 1,
         "ydim": 1,
-        "name": "Wired",
+        "name": "Effet WIRED: Réseau",
         "description": "Ce mobilier n'a pas de description.",
         "offerid": 1425659819,
         "buyout": true,
@@ -1286217,7 +1286222,12 @@
         "enableCursor": false,
         "furniline": "",
         "environment": "",
-        "rare": false
+        "rare": false,
+        "partcolors": {
+          "color": [
+            ""
+          ]
+        }
       },
       {
         "id": 1425656498,
@@ -1366489,6 +1366499,54 @@
         "description": "Réalisé par rip",
         "adurl": "",
         "offerid": 1425663147,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "enableCursor": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1425659827,
+        "classname": "rooftop_bar",
+        "revision": 500002,
+        "category": "",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "name": "Comptoir rooftop",
+        "description": "Ce mobilier n'a pas de description.",
+        "adurl": "",
+        "offerid": 1425663148,
+        "buyout": true,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": true,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "enableCursor": false,
+        "furniline": "",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 1425659828,
+        "classname": "rooftop_sofa",
+        "revision": 500002,
+        "category": "",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "name": "Siège de café",
+        "description": "Ce mobilier n'a pas de description.",
+        "adurl": "",
+        "offerid": 1425663149,
         "buyout": true,
         "rentofferid": -1,
         "rentbuyout": false,
