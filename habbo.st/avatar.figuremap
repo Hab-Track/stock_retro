@@ -125378,6 +125378,72 @@
           "type": "hrb"
         }
       ]
+    },
+    {
+      "id": "acc_chest_U_popbottle",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 96000006,
+          "type": "ca"
+        },
+        {
+          "id": 96000007,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_chest_U_popbottlegold",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 96000008,
+          "type": "ca"
+        }
+      ]
+    },
+    {
+      "id": "acc_print_U_nft2027",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 96000007,
+          "type": "cp"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_xmastophat",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 96000009,
+          "type": "ha"
+        },
+        {
+          "id": 96000010,
+          "type": "ha"
+        },
+        {
+          "id": 96000011,
+          "type": "ha"
+        }
+      ]
+    },
+    {
+      "id": "hat_U_nftpenguinheadband",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 96000012,
+          "type": "ha"
+        },
+        {
+          "id": 96000013,
+          "type": "ha"
+        }
+      ]
     }
   ]
 }
