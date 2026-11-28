@@ -113401,6 +113401,82 @@
           "type": "ch"
         }
       ]
+    },
+    {
+      "id": "jacket_U_segundapele",
+      "revision": 88333,
+      "parts": [
+        {
+          "id": "7734",
+          "type": "lc"
+        },
+        {
+          "id": "7734",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "trousers_U_ShortFlamefix",
+      "revision": 11936,
+      "parts": [
+        {
+          "id": "10979",
+          "type": "lg"
+        },
+        {
+          "id": "10980",
+          "type": "lg"
+        }
+      ]
+    },
+    {
+      "id": "jacket_U_ofhxbracelet",
+      "revision": 525252,
+      "parts": [
+        {
+          "id": "7635",
+          "type": "cc"
+        },
+        {
+          "id": "7635",
+          "type": "lc"
+        },
+        {
+          "id": "7635",
+          "type": "rc"
+        },
+        {
+          "id": "7636",
+          "type": "lc"
+        },
+        {
+          "id": "7636",
+          "type": "rc"
+        }
+      ]
+    },
+    {
+      "id": "jacket_M_longsleevefbhvd",
+      "revision": 65678,
+      "parts": [
+        {
+          "id": "70620",
+          "type": "lc"
+        },
+        {
+          "id": "70620",
+          "type": "rc"
+        },
+        {
+          "id": "70630",
+          "type": "lc"
+        },
+        {
+          "id": "70630",
+          "type": "rc"
+        }
+      ]
     }
   ]
 }
