@@ -2,6 +2,122 @@
   "roomitemtypes": {
     "furnitype": [
       {
+        "id": 886667553,
+        "classname": "seawood_sparks",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "seawood_sparks",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667553,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667550,
+        "classname": "TokyoDriftBlue_AChase_Habblet",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 4,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tokyo Drift Azul",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667550,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667549,
+        "classname": "TokyoDriftGreen_AChase_Habblet",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 4,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tokyo Drift Verde",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667549,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
+        "id": 886667548,
+        "classname": "TokyoDriftPurp_AChase_Habblet",
+        "revision": 0,
+        "category": "unknown",
+        "defaultdir": 0,
+        "xdim": 2,
+        "ydim": 4,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Tokyo Drift Roxo",
+        "description": "",
+        "adurl": "",
+        "offerid": 886667548,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 1,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false,
+        "furniline": "null",
+        "environment": "",
+        "rare": false
+      },
+      {
         "id": 886667546,
         "classname": "greek_pod",
         "revision": 0,
@@ -70,7 +186,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_vase_marble",
+        "name": "Vaso Grego de Mármore",
         "description": "",
         "adurl": "",
         "offerid": 886667544,
@@ -99,7 +215,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_vase_thebes",
+        "name": "Vaso Grego de Barro",
         "description": "",
         "adurl": "",
         "offerid": 886667543,
@@ -128,7 +244,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_vase_realm",
+        "name": "Vaso Grego Decorado",
         "description": "",
         "adurl": "",
         "offerid": 886667542,
@@ -157,7 +273,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_tile_realm",
+        "name": "Piso Grego de Mármore",
         "description": "",
         "adurl": "",
         "offerid": 886667541,
@@ -168,7 +284,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -186,7 +302,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_table2_realm",
+        "name": "Mesa Grega de Mármore",
         "description": "",
         "adurl": "",
         "offerid": 886667540,
@@ -215,7 +331,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_table_realm",
+        "name": "Mesinha Grega de Mármore",
         "description": "",
         "adurl": "",
         "offerid": 886667539,
@@ -244,7 +360,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_stool_realm",
+        "name": "Base de Pilar Grego",
         "description": "",
         "adurl": "",
         "offerid": 886667538,
@@ -273,7 +389,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_seat_realm",
+        "name": "Mármore Grego ",
         "description": "",
         "adurl": "",
         "offerid": 886667537,
@@ -284,7 +400,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -302,7 +418,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_pillars_realm",
+        "name": "Parede de Pilar Grego",
         "description": "",
         "adurl": "",
         "offerid": 886667536,
@@ -331,7 +447,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_gate_realm",
+        "name": "Portão Grego de Mármore",
         "description": "",
         "adurl": "",
         "offerid": 886667535,
@@ -360,7 +476,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_corner_realm",
+        "name": "Pilar Grego de Mármore",
         "description": "",
         "adurl": "",
         "offerid": 886667534,
@@ -389,7 +505,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_brokenpillar_realm",
+        "name": "Pilar Quebrado de Mármore",
         "description": "",
         "adurl": "",
         "offerid": 886667533,
@@ -418,7 +534,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_block_realm",
+        "name": "Batente Grego de Mármore",
         "description": "",
         "adurl": "",
         "offerid": 886667532,
@@ -447,7 +563,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_block_underworld",
+        "name": "Batente Grego do Submundo",
         "description": "",
         "adurl": "",
         "offerid": 886667531,
@@ -476,7 +592,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_corner_underworld",
+        "name": "Pilar Grego do Submundo",
         "description": "",
         "adurl": "",
         "offerid": 886667530,
@@ -505,7 +621,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_gate_underworld",
+        "name": "Portão Grego do Submundo",
         "description": "",
         "adurl": "",
         "offerid": 886667529,
@@ -534,7 +650,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_pillars_underworld",
+        "name": "Parede de Pilar do Submundo",
         "description": "",
         "adurl": "",
         "offerid": 886667528,
@@ -563,7 +679,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_seat_underworld",
+        "name": "Mármore Grego do Submundo",
         "description": "",
         "adurl": "",
         "offerid": 886667527,
@@ -574,7 +690,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -592,7 +708,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_stool_underworld",
+        "name": "Base de Pilar do Submundo",
         "description": "",
         "adurl": "",
         "offerid": 886667526,
@@ -621,7 +737,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_table_underworld",
+        "name": "Mesa Grande do Submundo",
         "description": "",
         "adurl": "",
         "offerid": 886667525,
@@ -650,7 +766,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_table2_underworld",
+        "name": "Mesa Grega do Submundo",
         "description": "",
         "adurl": "",
         "offerid": 886667524,
@@ -679,7 +795,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_tile_underworld",
+        "name": "Piso Grego do Submundo",
         "description": "",
         "adurl": "",
         "offerid": 886667523,
@@ -690,7 +806,7 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 1,
-        "canstandon": false,
+        "canstandon": true,
         "cansiton": false,
         "canlayon": false,
         "furniline": "null",
@@ -708,7 +824,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_vase_underworld",
+        "name": "Vaso Grego do Sudmundo",
         "description": "",
         "adurl": "",
         "offerid": 886667522,
@@ -737,7 +853,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "greek_brokenpillar_underworld",
+        "name": "Pilar Quebrado do Submundo",
         "description": "",
         "adurl": "",
         "offerid": 886667521,
@@ -766,7 +882,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "hlive_c23_poltronedimarie",
+        "name": "Poltrona Panetone",
         "description": "",
         "adurl": "",
         "offerid": 886667518,
@@ -778,7 +894,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -798,7 +914,7 @@
         "name": "Pelúcia Frank",
         "description": "",
         "adurl": "",
-        "offerid": 886667517,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -824,10 +940,10 @@
         "partcolors": {
           "color": []
         },
-        "name": "Fonte Lua Nevada",
+        "name": "Fonte Lua Nevada LTD",
         "description": "",
         "adurl": "",
-        "offerid": 886667516,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -882,10 +998,10 @@
         "partcolors": {
           "color": []
         },
-        "name": "nft_h25_icarusfigure",
+        "name": "Troféu Astral Radiante",
         "description": "",
         "adurl": "",
-        "offerid": 886667514,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -914,7 +1030,7 @@
         "name": "Cavalete Arquitetura Clássica",
         "description": "",
         "adurl": "",
-        "offerid": 886667513,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -940,10 +1056,10 @@
         "partcolors": {
           "color": []
         },
-        "name": "diamond_paint40",
+        "name": "Escultura Zafiro",
         "description": "",
         "adurl": "",
-        "offerid": 886667512,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -972,7 +1088,7 @@
         "name": "Escultura O Pensador",
         "description": "",
         "adurl": "",
-        "offerid": 886667511,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -1114,7 +1230,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "tv_hobba_26_PelucheDragoncito",
+        "name": "Pelúcia Dragãozinho",
         "description": "",
         "adurl": "",
         "offerid": 886667504,
@@ -1143,7 +1259,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "tv_hobba_26_PelucheScream",
+        "name": "Pelúcia Scream",
         "description": "",
         "adurl": "",
         "offerid": 886667503,
@@ -1172,7 +1288,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "tv_hobba_26_AvoPeluche",
+        "name": "Pelúcia Abacatudo",
         "description": "",
         "adurl": "",
         "offerid": 886667502,
@@ -1204,7 +1320,7 @@
         "name": "Pelúcia Coelhinho Real",
         "description": "",
         "adurl": "",
-        "offerid": 886667501,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -4278,7 +4394,7 @@
         "name": "Cafeteira Dourada",
         "description": "",
         "adurl": "",
-        "offerid": 886667319,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -4304,10 +4420,10 @@
         "partcolors": {
           "color": []
         },
-        "name": "lipe_rare_purple_holostar",
+        "name": "Holo Estrela Cintilante",
         "description": "",
         "adurl": "",
-        "offerid": 886667318,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -4507,7 +4623,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_funky_cola_purple",
+        "name": "Máquina Bubble Juice de Uva",
         "description": "",
         "adurl": "",
         "offerid": 886667311,
@@ -4536,7 +4652,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_funky_cola_orange",
+        "name": "Máquina Bubble Juice de Laranja",
         "description": "",
         "adurl": "",
         "offerid": 886667310,
@@ -4565,7 +4681,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "origins_funky_cola_grey",
+        "name": "Máquina Bubble Juice Cola",
         "description": "",
         "adurl": "",
         "offerid": 886667309,
@@ -4597,7 +4713,7 @@
         "name": "Telescópio Dourado",
         "description": "",
         "adurl": "",
-        "offerid": 886667308,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -4626,7 +4742,7 @@
         "name": "Cofre Dourado",
         "description": "",
         "adurl": "",
-        "offerid": 886667307,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -4710,7 +4826,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "irinc_s_g",
+        "name": "Globo Executivo",
         "description": "",
         "adurl": "",
         "offerid": 886667304,
@@ -4797,7 +4913,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "lipe_sunset_dualipa_demimoon",
+        "name": "Balanço Lunar",
         "description": "",
         "adurl": "",
         "offerid": 886667301,
@@ -4809,7 +4925,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -5029,10 +5145,10 @@
         "partcolors": {
           "color": []
         },
-        "name": "Ovo Habbergé Rosé",
+        "name": "Ovo Habbergé Belle Rose LTD",
         "description": "",
         "adurl": "",
-        "offerid": 886667289,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -17096,7 +17212,7 @@
         "name": "Camarão",
         "description": "",
         "adurl": "",
-        "offerid": 886666254,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -27359,10 +27475,10 @@
         "partcolors": {
           "color": []
         },
-        "name": "Púlpito Futurista",
+        "name": "Púlpito Futurista LTD",
         "description": "",
         "adurl": "",
-        "offerid": 886665356,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -27478,7 +27594,7 @@
         "name": "Sofá Cacto",
         "description": "",
         "adurl": "",
-        "offerid": 886665352,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -27536,7 +27652,7 @@
         "name": "Tapete Reccycon",
         "description": "",
         "adurl": "",
-        "offerid": 886665350,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -27565,7 +27681,7 @@
         "name": "Descanso de Pés Real",
         "description": "",
         "adurl": "",
-        "offerid": 886665349,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -27594,7 +27710,7 @@
         "name": "Cadeira Saltitante",
         "description": "",
         "adurl": "",
-        "offerid": 886665348,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -34116,7 +34232,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_conquistap26_03",
+        "name": "Conquista Prismática - 1500 Pontos de Conquistas",
         "description": "",
         "adurl": "",
         "offerid": -1,
@@ -34145,7 +34261,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_conquistap26_02",
+        "name": "Conquista Prismática - 500 Pontos de Conquistas",
         "description": "",
         "adurl": "",
         "offerid": -1,
@@ -34174,7 +34290,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "Habblet_conquistap26_01",
+        "name": "Conquista Prismática - 250 Pontos de Conquistas",
         "description": "",
         "adurl": "",
         "offerid": -1,
@@ -37773,7 +37889,7 @@
         "name": "Covíl do Coelho do mal LTD",
         "description": "",
         "adurl": "",
-        "offerid": 886664714,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -37889,7 +38005,7 @@
         "name": "Órgão Banhado a Ouro LTD",
         "description": "",
         "adurl": "",
-        "offerid": 886664710,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -38904,7 +39020,7 @@
         "name": "Geladeira Abacaxi",
         "description": "",
         "adurl": "",
-        "offerid": 886664670,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -40760,7 +40876,7 @@
         "name": "TV Retrô Futurista",
         "description": "",
         "adurl": "",
-        "offerid": 886664323,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -42326,7 +42442,7 @@
         "name": "Pianinho Clássico",
         "description": "",
         "adurl": "",
-        "offerid": 886663990,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -94967,7 +95083,7 @@
         "name": "Boneco Robô",
         "description": "",
         "adurl": "",
-        "offerid": 886658901,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -94996,7 +95112,7 @@
         "name": "Habblet de Preto",
         "description": "",
         "adurl": "",
-        "offerid": 886658900,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -95025,7 +95141,7 @@
         "name": "Boneco Super Frank",
         "description": "",
         "adurl": "",
-        "offerid": 886658899,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -95112,7 +95228,7 @@
         "name": "Caixa Meu Habblet",
         "description": "",
         "adurl": "",
-        "offerid": 886658896,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -112947,7 +113063,7 @@
         "name": "JoyStick",
         "description": "",
         "adurl": "",
-        "offerid": 886655288,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -117983,7 +118099,7 @@
         "name": "Lâmpada do Patinho Prateada",
         "description": "",
         "adurl": "",
-        "offerid": 886654800,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -128594,7 +128710,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ads_carebears_grumpybearplushie",
+        "name": "Ursinho de Pelúcia Amado",
         "description": "",
         "adurl": "",
         "offerid": 886654362,
@@ -128623,7 +128739,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ads_carebears_sharebearplushie",
+        "name": "Ursinha de Pelúcia Generosa",
         "description": "",
         "adurl": "",
         "offerid": 886654361,
@@ -128652,7 +128768,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ads_carebears_goodluckbearplushie",
+        "name": "Ursinho de Pelúcia Boa Sorte",
         "description": "",
         "adurl": "",
         "offerid": 886654360,
@@ -128681,7 +128797,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ads_carebears_funshinebearplushie",
+        "name": "Ursinho de Pelúcia Divertido",
         "description": "",
         "adurl": "",
         "offerid": 886654359,
@@ -128710,7 +128826,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ads_carebears_cheerbearplushie",
+        "name": "Ursinho de Pelúcia Animado",
         "description": "",
         "adurl": "",
         "offerid": 886654358,
@@ -137150,7 +137266,7 @@
         "name": "Mão Gigante",
         "description": "",
         "adurl": "",
-        "offerid": 886654014,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -154462,7 +154578,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ads_carebears_cloud",
+        "name": "Nuvem dos Ursinhos Carinhosos",
         "description": "",
         "adurl": "",
         "offerid": 886652155,
@@ -154491,7 +154607,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ads_carebears_cloudmobile2",
+        "name": "Meio do Nuvemóvel",
         "description": "",
         "adurl": "",
         "offerid": 886652154,
@@ -154503,7 +154619,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -154520,7 +154636,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ads_carebears_cloudmobile1",
+        "name": "Frente do Nuvemóvel",
         "description": "",
         "adurl": "",
         "offerid": 886652153,
@@ -154532,7 +154648,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -154549,7 +154665,7 @@
         "partcolors": {
           "color": []
         },
-        "name": "ads_carebears_cloudmobile3",
+        "name": "Traseira de Nuvemóvel",
         "description": "",
         "adurl": "",
         "offerid": 886652152,
@@ -154561,7 +154677,7 @@
         "customparams": "",
         "specialtype": 1,
         "canstandon": false,
-        "cansiton": false,
+        "cansiton": true,
         "canlayon": false,
         "furniline": "null",
         "environment": "",
@@ -154929,7 +155045,7 @@
         "name": "Estátua Mister Habblet",
         "description": "",
         "adurl": "",
-        "offerid": 886651972,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
@@ -155103,7 +155219,7 @@
         "name": "Memorial Piscina Clássica",
         "description": "",
         "adurl": "",
-        "offerid": 886651966,
+        "offerid": -1,
         "buyout": false,
         "rentofferid": -1,
         "rentbuyout": false,
