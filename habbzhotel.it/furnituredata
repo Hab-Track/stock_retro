@@ -1107302,6 +1107302,32 @@
         "name": "Aiuola di fragole innevata 2",
         "customparams": "",
         "specialtype": 1
+      },
+      {
+        "id": 1780005680,
+        "classname": "xmas_c24_snowywindows_floor",
+        "revision": 0,
+        "category": "",
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
+        "partcolors": {
+          "color": []
+        },
+        "name": "Finestra Innevata (pavimento)",
+        "description": "",
+        "adurl": "",
+        "offerid": -1,
+        "buyout": false,
+        "rentofferid": -1,
+        "rentbuyout": false,
+        "bc": false,
+        "excludeddynamic": false,
+        "customparams": "",
+        "specialtype": 0,
+        "canstandon": false,
+        "cansiton": false,
+        "canlayon": false
       }
     ]
   },
