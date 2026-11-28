@@ -963192,13 +963192,7 @@
         "classname": "iced_vdoll",
         "revision": 0,
         "category": "",
-        "defaultdir": 0,
-        "xdim": 1,
-        "ydim": 1,
-        "partcolors": {
-          "color": []
-        },
-        "name": "Frostige Voodoopuppe",
+        "name": "Voodoo Helado",
         "description": "Geheimnisvolle Magie aus dem Eisland!",
         "adurl": "",
         "offerid": 10174,
@@ -963209,12 +963203,18 @@
         "excludeddynamic": false,
         "customparams": "",
         "specialtype": 0,
+        "furniline": "",
+        "environment": "",
+        "rare": false,
+        "defaultdir": 0,
+        "xdim": 1,
+        "ydim": 1,
         "canstandon": false,
         "cansiton": false,
         "canlayon": false,
-        "furniline": "",
-        "environment": "",
-        "rare": false
+        "partcolors": {
+          "color": []
+        }
       },
       {
         "id": 10175,
@@ -1520785,7 +1520785,7 @@
         "classname": "shadow_rare_icetotembox",
         "revision": 0,
         "category": "unknown",
-        "name": "Totem Congelado LTD",
+        "name": "Totem Congelado",
         "description": "Edição Limitada Loja Invernal - Janeiro/2025",
         "adurl": "",
         "offerid": 145161,
