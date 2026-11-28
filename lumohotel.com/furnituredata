@@ -202837,7 +202837,7 @@
       {
         "id": 27943963,
         "classname": "wf_cnd_user_in_range",
-        "name": "WIRED Condition: User is in Range",
+        "name": "WIRED Condition: User IS in Area",
         "xdim": 1,
         "ydim": 1,
         "offerid": 27943963
@@ -202845,7 +202845,7 @@
       {
         "id": 27943964,
         "classname": "wf_cnd_user_not_in_range",
-        "name": "WIRED Condition: User is NOT in Range",
+        "name": "WIRED Condition: User is NOT in Area",
         "xdim": 1,
         "ydim": 1,
         "offerid": 27943964
@@ -217164,7 +217164,7 @@
       {
         "id": 34706144,
         "classname": "wf_cnd_user_folow_ne",
-        "name": "WIRED Condition: Furni is NOT in Range",
+        "name": "WIRED Condition: Furni is NOT in Area",
         "xdim": 1,
         "ydim": 1,
         "offerid": 34706144
@@ -217172,7 +217172,7 @@
       {
         "id": 34706145,
         "classname": "wf_cnd_user_folow_po",
-        "name": "WIRED Condition: Furni IS in Range",
+        "name": "WIRED Condition: Furni IS in Area",
         "xdim": 1,
         "ydim": 1,
         "offerid": 34706145
